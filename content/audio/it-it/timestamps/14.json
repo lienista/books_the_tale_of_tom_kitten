@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.2,
+    "word": "Si",
+    "probability": 0.99
+  },
+  {
+    "start": 0.2,
+    "end": 0.901,
+    "word": "fermarono",
+    "probability": 0.99
+  },
+  {
+    "start": 0.901,
+    "end": 0.981,
+    "word": "e",
+    "probability": 0.9634941045197131
+  },
+  {
+    "start": 0.981,
+    "end": 1.181,
+    "word": "si",
+    "probability": 0.9606596579161835
+  },
+  {
+    "start": 1.181,
+    "end": 1.542,
+    "word": "misero",
+    "probability": 0.99
+  },
+  {
+    "start": 1.542,
+    "end": 1.642,
+    "word": "in",
+    "probability": 0.988996050161828
+  },
+  {
+    "start": 1.642,
+    "end": 2.042,
+    "word": "fila",
+    "probability": 0.99
+  },
+  {
+    "start": 2.042,
+    "end": 2.723,
+    "word": "fissando",
+    "probability": 0.99
+  },
+  {
+    "start": 2.723,
+    "end": 2.803,
+    "word": "i",
+    "probability": 0.9394573023995205
+  },
+  {
+    "start": 2.803,
+    "end": 3.264,
+    "word": "gattini",
+    "probability": 0.9801408320083331
+  },
+  {
+    "start": 3.264,
+    "end": 3.484,
+    "word": "con",
+    "probability": 0.9885433491500233
+  },
+  {
+    "start": 3.484,
+    "end": 3.764,
+    "word": "occhi",
+    "probability": 0.9876032681250047
+  },
+  {
+    "start": 3.764,
+    "end": 4.265,
+    "word": "grandi",
+    "probability": 0.9881079580800696
+  },
+  {
+    "start": 4.265,
+    "end": 4.325,
+    "word": "e",
+    "probability": 0.9895587239912899
+  },
+  {
+    "start": 4.325,
+    "end": 5.066,
+    "word": "sorpresi",
+    "probability": 0.9766107585461203
+  }
+]

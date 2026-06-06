@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.661,
+    "word": "Mittens",
+    "probability": 0.7847643995947597
+  },
+  {
+    "start": 0.661,
+    "end": 1.221,
+    "word": "rise",
+    "probability": 0.8671207583370105
+  },
+  {
+    "start": 1.221,
+    "end": 1.502,
+    "word": "così",
+    "probability": 0.8747537890924668
+  },
+  {
+    "start": 1.502,
+    "end": 2.002,
+    "word": "tanto",
+    "probability": 0.9819492383696364
+  },
+  {
+    "start": 2.002,
+    "end": 2.202,
+    "word": "che",
+    "probability": 0.9710543699984608
+  },
+  {
+    "start": 2.202,
+    "end": 2.683,
+    "word": "cadde",
+    "probability": 0.99
+  },
+  {
+    "start": 2.683,
+    "end": 2.923,
+    "word": "dal",
+    "probability": 0.9882795515267232
+  },
+  {
+    "start": 2.923,
+    "end": 3.364,
+    "word": "muro",
+    "probability": 0.9832163929147544
+  },
+  {
+    "start": 3.364,
+    "end": 4.385,
+    "word": "Moppet",
+    "probability": 0.9845553207839356
+  },
+  {
+    "start": 4.385,
+    "end": 4.445,
+    "word": "e",
+    "probability": 0.8728325347683397
+  },
+  {
+    "start": 4.445,
+    "end": 4.885,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 4.885,
+    "end": 5.426,
+    "word": "scesero",
+    "probability": 0.9729693116558314
+  },
+  {
+    "start": 5.426,
+    "end": 5.766,
+    "word": "dopo",
+    "probability": 0.9849099369412719
+  },
+  {
+    "start": 5.766,
+    "end": 5.946,
+    "word": "di",
+    "probability": 0.9366010848789215
+  },
+  {
+    "start": 5.946,
+    "end": 6.327,
+    "word": "lei",
+    "probability": 0.9889319892783747
+  },
+  {
+    "start": 6.327,
+    "end": 6.887,
+    "word": "i",
+    "probability": 0.982686728769085
+  },
+  {
+    "start": 6.887,
+    "end": 7.528,
+    "word": "vestiti",
+    "probability": 0.9817312540959136
+  },
+  {
+    "start": 7.528,
+    "end": 7.588,
+    "word": "e",
+    "probability": 0.9820937417546757
+  },
+  {
+    "start": 7.588,
+    "end": 7.688,
+    "word": "il",
+    "probability": 0.9856244489536099
+  },
+  {
+    "start": 7.688,
+    "end": 8.069,
+    "word": "resto",
+    "probability": 0.99
+  },
+  {
+    "start": 8.069,
+    "end": 8.289,
+    "word": "dei",
+    "probability": 0.9759431357624436
+  },
+  {
+    "start": 8.289,
+    "end": 8.829,
+    "word": "vestiti",
+    "probability": 0.99
+  },
+  {
+    "start": 8.829,
+    "end": 8.99,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 8.99,
+    "end": 9.39,
+    "word": "Tom",
+    "probability": 0.9863756028765384
+  },
+  {
+    "start": 9.39,
+    "end": 10.071,
+    "word": "caddero",
+    "probability": 0.99
+  },
+  {
+    "start": 10.071,
+    "end": 10.511,
+    "word": "mentre",
+    "probability": 0.99
+  },
+  {
+    "start": 10.511,
+    "end": 11.352,
+    "word": "scendevano",
+    "probability": 0.9864571073448839
+  },
+  {
+    "start": 11.352,
+    "end": 12.433,
+    "word": "Signor",
+    "probability": 0.99
+  },
+  {
+    "start": 12.433,
+    "end": 13.154,
+    "word": "Drake",
+    "probability": 0.8970348935577754
+  },
+  {
+    "start": 13.154,
+    "end": 14.315,
+    "word": "PuddleDuck",
+    "probability": 0.8797184432989894
+  },
+  {
+    "start": 14.315,
+    "end": 15.036,
+    "word": "chiamò",
+    "probability": 0.9620478704466129
+  },
+  {
+    "start": 15.036,
+    "end": 15.717,
+    "word": "Moppet",
+    "probability": 0.981646954087041
+  },
+  {
+    "start": 15.717,
+    "end": 16.317,
+    "word": "Vieni",
+    "probability": 0.9830206976256618
+  },
+  {
+    "start": 16.317,
+    "end": 16.457,
+    "word": "ad",
+    "probability": 0.9756169789341413
+  },
+  {
+    "start": 16.457,
+    "end": 16.998,
+    "word": "aiutarci",
+    "probability": 0.9824150527391282
+  },
+  {
+    "start": 16.998,
+    "end": 17.078,
+    "word": "a",
+    "probability": 0.8604459817132446
+  },
+  {
+    "start": 17.078,
+    "end": 17.759,
+    "word": "vestirlo",
+    "probability": 0.9859772809209505
+  },
+  {
+    "start": 17.759,
+    "end": 18.379,
+    "word": "Vieni",
+    "probability": 0.9838919070294915
+  },
+  {
+    "start": 18.379,
+    "end": 18.44,
+    "word": "a",
+    "probability": 0.9504971512154728
+  },
+  {
+    "start": 18.44,
+    "end": 19.22,
+    "word": "abbottonare",
+    "probability": 0.949743336324564
+  },
+  {
+    "start": 19.22,
+    "end": 19.461,
+    "word": "Tom",
+    "probability": 0.99
+  }
+]

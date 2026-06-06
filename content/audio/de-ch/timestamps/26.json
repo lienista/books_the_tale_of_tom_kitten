@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "Und",
+    "probability": 0.49867773883148514
+  },
+  {
+    "start": 0.16,
+    "end": 0.562,
+    "word": "Mr",
+    "probability": 0.8482808222514027
+  },
+  {
+    "start": 0.562,
+    "end": 1.063,
+    "word": "Drake",
+    "probability": 0.7954416191854948
+  },
+  {
+    "start": 1.063,
+    "end": 1.926,
+    "word": "PuddleDuck",
+    "probability": 0.760488288918491
+  },
+  {
+    "start": 1.926,
+    "end": 2.828,
+    "word": "Jemima",
+    "probability": 0.8945666609275921
+  },
+  {
+    "start": 2.828,
+    "end": 3.029,
+    "word": "und",
+    "probability": 0.8256634222314758
+  },
+  {
+    "start": 3.029,
+    "end": 3.691,
+    "word": "Rebeccah",
+    "probability": 0.871044521613233
+  },
+  {
+    "start": 3.691,
+    "end": 4.372,
+    "word": "suchen",
+    "probability": 0.9613685934996082
+  },
+  {
+    "start": 4.372,
+    "end": 5.014,
+    "word": "seitdem",
+    "probability": 0.9842054526008568
+  },
+  {
+    "start": 5.014,
+    "end": 5.235,
+    "word": "nach",
+    "probability": 0.99
+  },
+  {
+    "start": 5.235,
+    "end": 5.516,
+    "word": "ihnen",
+    "probability": 0.9524078321151197
+  }
+]

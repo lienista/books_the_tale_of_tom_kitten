@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.34,
+    "end": 0.4,
+    "word": "Mrs",
+    "probability": 0.3301855017131126
+  },
+  {
+    "start": 0.4,
+    "end": 0.981,
+    "word": "Tabitha",
+    "probability": 0.6573714582605016
+  },
+  {
+    "start": 0.981,
+    "end": 1.641,
+    "word": "dressed",
+    "probability": 0.6139196774254013
+  },
+  {
+    "start": 1.641,
+    "end": 2.181,
+    "word": "Moppet",
+    "probability": 0.6842030472178133
+  },
+  {
+    "start": 2.181,
+    "end": 2.382,
+    "word": "and",
+    "probability": 0.4786761976250566
+  },
+  {
+    "start": 2.382,
+    "end": 2.902,
+    "word": "Mittens",
+    "probability": 0.5931815497503578
+  },
+  {
+    "start": 2.902,
+    "end": 3.022,
+    "word": "in",
+    "probability": 0.6659885034941145
+  },
+  {
+    "start": 3.022,
+    "end": 3.562,
+    "word": "clean",
+    "probability": 0.7111251257703401
+  },
+  {
+    "start": 3.562,
+    "end": 3.943,
+    "word": "little",
+    "probability": 0.44735992586139556
+  },
+  {
+    "start": 3.943,
+    "end": 4.483,
+    "word": "dresses",
+    "probability": 0.4948124866637414
+  },
+  {
+    "start": 4.483,
+    "end": 4.963,
+    "word": "and",
+    "probability": 0.7949343500872935
+  },
+  {
+    "start": 4.963,
+    "end": 5.344,
+    "word": "lace",
+    "probability": 0.7282080277840618
+  },
+  {
+    "start": 5.344,
+    "end": 5.884,
+    "word": "collars",
+    "probability": 0.6944440136082949
+  },
+  {
+    "start": 5.884,
+    "end": 6.885,
+    "word": "Then",
+    "probability": 0.9129259303720981
+  },
+  {
+    "start": 6.885,
+    "end": 7.145,
+    "word": "she",
+    "probability": 0.6166293104698445
+  },
+  {
+    "start": 7.145,
+    "end": 7.505,
+    "word": "pulled",
+    "probability": 0.45213517042336526
+  },
+  {
+    "start": 7.505,
+    "end": 7.765,
+    "word": "some",
+    "probability": 0.6106159727523938
+  },
+  {
+    "start": 7.765,
+    "end": 8.205,
+    "word": "stiff",
+    "probability": 0.6723362243338149
+  },
+  {
+    "start": 8.205,
+    "end": 9.006,
+    "word": "fancy",
+    "probability": 0.7823005470540533
+  },
+  {
+    "start": 9.006,
+    "end": 9.526,
+    "word": "clothes",
+    "probability": 0.5209136551146479
+  },
+  {
+    "start": 9.526,
+    "end": 9.887,
+    "word": "out",
+    "probability": 0.7188638160186663
+  },
+  {
+    "start": 9.887,
+    "end": 10.027,
+    "word": "of",
+    "probability": 0.6391996106862027
+  },
+  {
+    "start": 10.027,
+    "end": 10.147,
+    "word": "an",
+    "probability": 0.7995242864884251
+  },
+  {
+    "start": 10.147,
+    "end": 10.387,
+    "word": "old",
+    "probability": 0.6265013159384956
+  },
+  {
+    "start": 10.387,
+    "end": 10.887,
+    "word": "dresser",
+    "probability": 0.572127681139778
+  },
+  {
+    "start": 10.887,
+    "end": 11.067,
+    "word": "for",
+    "probability": 0.5528463521866315
+  },
+  {
+    "start": 11.067,
+    "end": 11.408,
+    "word": "Tom",
+    "probability": 0.8765837804269372
+  }
+]

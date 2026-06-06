@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.271,
+    "end": 0.489,
+    "word": "Tom",
+    "probability": 0.6030737031480373
+  },
+  {
+    "start": 0.489,
+    "end": 1.14,
+    "word": "Kitten",
+    "probability": 0.7050392980467942
+  },
+  {
+    "start": 1.14,
+    "end": 1.465,
+    "word": "was",
+    "probability": 0.740349383632703
+  },
+  {
+    "start": 1.465,
+    "end": 2.063,
+    "word": "quite",
+    "probability": 0.6627013110750549
+  },
+  {
+    "start": 2.063,
+    "end": 2.795,
+    "word": "chubby",
+    "probability": 0.6919470429347072
+  },
+  {
+    "start": 2.795,
+    "end": 2.905,
+    "word": "and",
+    "probability": 0.01
+  },
+  {
+    "start": 2.905,
+    "end": 3.501,
+    "word": "had",
+    "probability": 0.7502765633926337
+  },
+  {
+    "start": 3.501,
+    "end": 3.8,
+    "word": "grown",
+    "probability": 0.4254245206989527
+  },
+  {
+    "start": 3.8,
+    "end": 4.479,
+    "word": "several",
+    "probability": 0.599790795403554
+  },
+  {
+    "start": 4.479,
+    "end": 5.944,
+    "word": "buttons",
+    "probability": 0.8467232559903776
+  },
+  {
+    "start": 5.944,
+    "end": 6.46,
+    "word": "snapped",
+    "probability": 0.4638548080750206
+  },
+  {
+    "start": 6.46,
+    "end": 6.814,
+    "word": "off",
+    "probability": 0.5283916675223425
+  },
+  {
+    "start": 6.814,
+    "end": 7.817,
+    "word": "immediately",
+    "probability": 0.5632600154406849
+  },
+  {
+    "start": 7.817,
+    "end": 8.09,
+    "word": "His",
+    "probability": 0.5598656238350416
+  },
+  {
+    "start": 8.09,
+    "end": 8.66,
+    "word": "mother",
+    "probability": 0.6479383316077293
+  },
+  {
+    "start": 8.66,
+    "end": 9.202,
+    "word": "sighed",
+    "probability": 0.46228811301188444
+  },
+  {
+    "start": 9.202,
+    "end": 9.311,
+    "word": "and",
+    "probability": 0.01
+  },
+  {
+    "start": 9.311,
+    "end": 10.695,
+    "word": "sewed",
+    "probability": 0.8935342125215723
+  },
+  {
+    "start": 10.695,
+    "end": 11.075,
+    "word": "them",
+    "probability": 0.6688679503237662
+  },
+  {
+    "start": 11.075,
+    "end": 11.293,
+    "word": "back",
+    "probability": 0.3383220181852638
+  },
+  {
+    "start": 11.293,
+    "end": 11.374,
+    "word": "on",
+    "probability": 0.20539951625924205
+  }
+]

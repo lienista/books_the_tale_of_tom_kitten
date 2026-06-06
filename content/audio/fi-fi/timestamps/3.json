@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.604,
+    "end": 0.825,
+    "word": "Ensin",
+    "probability": 0.4786960128198387
+  },
+  {
+    "start": 0.825,
+    "end": 1.007,
+    "word": "hän",
+    "probability": 0.7342437035606086
+  },
+  {
+    "start": 1.007,
+    "end": 1.208,
+    "word": "pesi",
+    "probability": 0.3050316967378334
+  },
+  {
+    "start": 1.208,
+    "end": 1.429,
+    "word": "heidän",
+    "probability": 0.4479768851931778
+  },
+  {
+    "start": 1.429,
+    "end": 1.852,
+    "word": "kasvonsa",
+    "probability": 0.57131623987552
+  },
+  {
+    "start": 1.852,
+    "end": 2.335,
+    "word": "tämä",
+    "probability": 0.8260624649932291
+  },
+  {
+    "start": 2.335,
+    "end": 2.436,
+    "word": "on",
+    "probability": 0.5885623861449774
+  },
+  {
+    "start": 2.436,
+    "end": 2.919,
+    "word": "Moppet",
+    "probability": 0.7524867440282413
+  }
+]

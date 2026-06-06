@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.7,
+    "word": "Depois",
+    "probability": 0.99
+  },
+  {
+    "start": 0.7,
+    "end": 1.441,
+    "word": "ele",
+    "probability": 0.9836311212381056
+  },
+  {
+    "start": 1.441,
+    "end": 1.781,
+    "word": "a",
+    "probability": 0.9715392327859526
+  },
+  {
+    "start": 1.781,
+    "end": 2.501,
+    "word": "Jemima",
+    "probability": 0.9236366385716485
+  },
+  {
+    "start": 2.501,
+    "end": 2.821,
+    "word": "e",
+    "probability": 0.9533525297676237
+  },
+  {
+    "start": 2.821,
+    "end": 2.941,
+    "word": "a",
+    "probability": 0.864189627870251
+  },
+  {
+    "start": 2.941,
+    "end": 3.561,
+    "word": "Rebeccah",
+    "probability": 0.9146393849498663
+  },
+  {
+    "start": 3.561,
+    "end": 4.542,
+    "word": "PuddleDuck",
+    "probability": 0.8063485682079823
+  },
+  {
+    "start": 4.542,
+    "end": 5.722,
+    "word": "partiram",
+    "probability": 0.9600436357766152
+  },
+  {
+    "start": 5.722,
+    "end": 5.982,
+    "word": "pela",
+    "probability": 0.9591307452676362
+  },
+  {
+    "start": 5.982,
+    "end": 6.563,
+    "word": "estrada",
+    "probability": 0.9787202336306629
+  },
+  {
+    "start": 6.563,
+    "end": 7.503,
+    "word": "mantendo",
+    "probability": 0.99
+  },
+  {
+    "start": 7.503,
+    "end": 7.623,
+    "word": "o",
+    "probability": 0.9711309494757292
+  },
+  {
+    "start": 7.623,
+    "end": 9.744,
+    "word": "passopitpat",
+    "probability": 0.9524718875121687
+  },
+  {
+    "start": 9.744,
+    "end": 10.924,
+    "word": "paddlepat",
+    "probability": 0.9044572326636032
+  },
+  {
+    "start": 10.924,
+    "end": 12.185,
+    "word": "pitpat",
+    "probability": 0.9579304618565504
+  },
+  {
+    "start": 12.185,
+    "end": 13.225,
+    "word": "waddlepat",
+    "probability": 0.8469767487509835
+  }
+]

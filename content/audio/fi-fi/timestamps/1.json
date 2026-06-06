@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.335,
+    "end": 1.592,
+    "word": "Olipa",
+    "probability": 0.5555554803627867
+  },
+  {
+    "start": 1.592,
+    "end": 1.99,
+    "word": "kerran",
+    "probability": 0.5714050733706293
+  },
+  {
+    "start": 1.99,
+    "end": 2.359,
+    "word": "kolme",
+    "probability": 0.518718227456142
+  },
+  {
+    "start": 2.359,
+    "end": 2.785,
+    "word": "pientä",
+    "probability": 0.5318106024498604
+  },
+  {
+    "start": 2.785,
+    "end": 3.495,
+    "word": "kissanpentua",
+    "probability": 0.5035583589556474
+  },
+  {
+    "start": 3.495,
+    "end": 4.092,
+    "word": "nimeltä",
+    "probability": 0.6047860372906783
+  },
+  {
+    "start": 4.092,
+    "end": 5.457,
+    "word": "Mittens",
+    "probability": 0.8208843312270652
+  },
+  {
+    "start": 5.457,
+    "end": 5.713,
+    "word": "Tom",
+    "probability": 0.6249984725529215
+  },
+  {
+    "start": 5.713,
+    "end": 5.968,
+    "word": "Kitten",
+    "probability": 0.22220705060014848
+  },
+  {
+    "start": 5.968,
+    "end": 6.053,
+    "word": "ja",
+    "probability": 0.01
+  },
+  {
+    "start": 6.053,
+    "end": 6.877,
+    "word": "Moppet",
+    "probability": 0.7483484807860571
+  },
+  {
+    "start": 6.877,
+    "end": 7.333,
+    "word": "Heillä",
+    "probability": 0.6133588769365361
+  },
+  {
+    "start": 7.333,
+    "end": 7.844,
+    "word": "oli",
+    "probability": 0.7775103774704282
+  },
+  {
+    "start": 7.844,
+    "end": 8.725,
+    "word": "kauniit",
+    "probability": 0.7741407365823118
+  },
+  {
+    "start": 8.725,
+    "end": 9.407,
+    "word": "turkit",
+    "probability": 0.7093206691445127
+  },
+  {
+    "start": 9.407,
+    "end": 9.606,
+    "word": "ja",
+    "probability": 0.5714285561155713
+  },
+  {
+    "start": 9.606,
+    "end": 9.719,
+    "word": "he",
+    "probability": 0.4999885567439122
+  },
+  {
+    "start": 9.719,
+    "end": 10.885,
+    "word": "viettivät",
+    "probability": 0.7560295417088118
+  },
+  {
+    "start": 10.885,
+    "end": 11.141,
+    "word": "päivänsä",
+    "probability": 0.0870246217511094
+  },
+  {
+    "start": 11.141,
+    "end": 11.794,
+    "word": "pyörien",
+    "probability": 0.5649887404304796
+  },
+  {
+    "start": 11.794,
+    "end": 12.476,
+    "word": "kuistilla",
+    "probability": 0.5978463021612513
+  },
+  {
+    "start": 12.476,
+    "end": 12.563,
+    "word": "ja",
+    "probability": 0.01
+  },
+  {
+    "start": 12.563,
+    "end": 13.216,
+    "word": "leikkien",
+    "probability": 0.6521736178411893
+  },
+  {
+    "start": 13.216,
+    "end": 13.557,
+    "word": "mullassa",
+    "probability": 0.35355180547100823
+  }
+]

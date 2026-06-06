@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.48,
+    "word": "Moppet",
+    "probability": 0.9385598585585102
+  },
+  {
+    "start": 0.48,
+    "end": 0.98,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 0.98,
+    "end": 1.741,
+    "word": "Mittens",
+    "probability": 0.9470379780404974
+  },
+  {
+    "start": 1.741,
+    "end": 2.381,
+    "word": "bahçe",
+    "probability": 0.9780661638820494
+  },
+  {
+    "start": 2.381,
+    "end": 2.861,
+    "word": "yolunda",
+    "probability": 0.9146279500287534
+  },
+  {
+    "start": 2.861,
+    "end": 3.761,
+    "word": "sallanarak",
+    "probability": 0.9806403846509176
+  },
+  {
+    "start": 3.761,
+    "end": 4.882,
+    "word": "ilerlediler",
+    "probability": 0.9662346629376043
+  },
+  {
+    "start": 4.882,
+    "end": 5.702,
+    "word": "Yakında",
+    "probability": 0.99
+  },
+  {
+    "start": 5.702,
+    "end": 6.823,
+    "word": "elbiselerine",
+    "probability": 0.9833713923465387
+  },
+  {
+    "start": 6.823,
+    "end": 7.363,
+    "word": "takılıp",
+    "probability": 0.9754514604224065
+  },
+  {
+    "start": 7.363,
+    "end": 8.123,
+    "word": "yüzüstü",
+    "probability": 0.99
+  },
+  {
+    "start": 8.123,
+    "end": 8.823,
+    "word": "düştüler",
+    "probability": 0.9840804785767036
+  },
+  {
+    "start": 8.823,
+    "end": 9.424,
+    "word": "Ayağa",
+    "probability": 0.9853204885915469
+  },
+  {
+    "start": 9.424,
+    "end": 10.464,
+    "word": "kalktıklarında",
+    "probability": 0.9612850769953385
+  },
+  {
+    "start": 10.464,
+    "end": 11.184,
+    "word": "çimen",
+    "probability": 0.99
+  },
+  {
+    "start": 11.184,
+    "end": 11.985,
+    "word": "lekeleriyle",
+    "probability": 0.9770179773695444
+  },
+  {
+    "start": 11.985,
+    "end": 13.205,
+    "word": "kaplanmışlardı",
+    "probability": 0.9853282612591531
+  },
+  {
+    "start": 13.205,
+    "end": 13.765,
+    "word": "Hadi",
+    "probability": 0.9819698566887789
+  },
+  {
+    "start": 13.765,
+    "end": 14.366,
+    "word": "kayalara",
+    "probability": 0.9464656626419699
+  },
+  {
+    "start": 14.366,
+    "end": 15.146,
+    "word": "tırmanalım",
+    "probability": 0.99
+  },
+  {
+    "start": 15.146,
+    "end": 15.646,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 15.646,
+    "end": 16.266,
+    "word": "bahçe",
+    "probability": 0.99
+  },
+  {
+    "start": 16.266,
+    "end": 16.887,
+    "word": "duvarında",
+    "probability": 0.9836913642056208
+  },
+  {
+    "start": 16.887,
+    "end": 17.507,
+    "word": "oturalım",
+    "probability": 0.9727771836628771
+  },
+  {
+    "start": 17.507,
+    "end": 18.187,
+    "word": "diye",
+    "probability": 0.99
+  },
+  {
+    "start": 18.187,
+    "end": 19.047,
+    "word": "önerdi",
+    "probability": 0.9777892641247362
+  },
+  {
+    "start": 19.047,
+    "end": 19.768,
+    "word": "Moppet",
+    "probability": 0.9391013575019528
+  }
+]

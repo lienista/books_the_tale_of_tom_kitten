@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.241,
+    "word": "Quant",
+    "probability": 0.5520139441469313
+  },
+  {
+    "start": 0.241,
+    "end": 0.421,
+    "word": "aux",
+    "probability": 0.5939913097118487
+  },
+  {
+    "start": 0.421,
+    "end": 1.784,
+    "word": "PuddleDucksils",
+    "probability": 0.8062795438077184
+  },
+  {
+    "start": 1.784,
+    "end": 2.205,
+    "word": "allèrent",
+    "probability": 0.9886769966870878
+  },
+  {
+    "start": 2.205,
+    "end": 2.385,
+    "word": "dans",
+    "probability": 0.9809319143857819
+  },
+  {
+    "start": 2.385,
+    "end": 2.526,
+    "word": "un",
+    "probability": 0.928371179075511
+  },
+  {
+    "start": 2.526,
+    "end": 2.967,
+    "word": "étang",
+    "probability": 0.9672111149334913
+  },
+  {
+    "start": 2.967,
+    "end": 3.408,
+    "word": "Les",
+    "probability": 0.9506888358126147
+  },
+  {
+    "start": 3.408,
+    "end": 3.949,
+    "word": "vêtements",
+    "probability": 0.9847272383563553
+  },
+  {
+    "start": 3.949,
+    "end": 4.631,
+    "word": "tombèrent",
+    "probability": 0.9847460094727457
+  },
+  {
+    "start": 4.631,
+    "end": 4.991,
+    "word": "car",
+    "probability": 0.9891518256218986
+  },
+  {
+    "start": 4.991,
+    "end": 5.152,
+    "word": "il",
+    "probability": 0.9863331262147015
+  },
+  {
+    "start": 5.152,
+    "end": 5.272,
+    "word": "ny",
+    "probability": 0.702750631321647
+  },
+  {
+    "start": 5.272,
+    "end": 5.533,
+    "word": "avait",
+    "probability": 0.9613843158928636
+  },
+  {
+    "start": 5.533,
+    "end": 5.753,
+    "word": "plus",
+    "probability": 0.99
+  },
+  {
+    "start": 5.753,
+    "end": 5.873,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 5.873,
+    "end": 6.355,
+    "word": "boutons",
+    "probability": 0.9894291335907676
+  },
+  {
+    "start": 6.355,
+    "end": 6.575,
+    "word": "pour",
+    "probability": 0.9288024447470806
+  },
+  {
+    "start": 6.575,
+    "end": 6.756,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 6.756,
+    "end": 7.197,
+    "word": "maintenir",
+    "probability": 0.9892498578380149
+  },
+  {
+    "start": 7.197,
+    "end": 7.898,
+    "word": "ensemble",
+    "probability": 0.99
+  }
+]

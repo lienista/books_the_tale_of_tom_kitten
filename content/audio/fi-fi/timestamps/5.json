@@ -1,0 +1,98 @@
+[
+  {
+    "start": 1.679,
+    "end": 1.91,
+    "word": "Sitten",
+    "probability": 0.3692952084949057
+  },
+  {
+    "start": 1.91,
+    "end": 2.113,
+    "word": "hän",
+    "probability": 0.42856121156238497
+  },
+  {
+    "start": 2.113,
+    "end": 2.46,
+    "word": "kampasi",
+    "probability": 0.41639333245589544
+  },
+  {
+    "start": 2.46,
+    "end": 2.982,
+    "word": "heidän",
+    "probability": 0.6110355513235166
+  },
+  {
+    "start": 2.982,
+    "end": 3.445,
+    "word": "häntänsä",
+    "probability": 0.49999988082465185
+  },
+  {
+    "start": 3.445,
+    "end": 3.589,
+    "word": "ja",
+    "probability": 0.599883914068938
+  },
+  {
+    "start": 3.589,
+    "end": 4.11,
+    "word": "viiksensä",
+    "probability": 0.42147074376373234
+  },
+  {
+    "start": 4.11,
+    "end": 4.401,
+    "word": "tämä",
+    "probability": 0.4952598655483502
+  },
+  {
+    "start": 4.401,
+    "end": 4.921,
+    "word": "on",
+    "probability": 0.8888888425895146
+  },
+  {
+    "start": 4.921,
+    "end": 5.124,
+    "word": "Tom",
+    "probability": 0.4276767811793717
+  },
+  {
+    "start": 5.124,
+    "end": 5.326,
+    "word": "Kitten",
+    "probability": 0.14260415315972483
+  },
+  {
+    "start": 5.326,
+    "end": 5.471,
+    "word": "Tom",
+    "probability": 0.38963957844628466
+  },
+  {
+    "start": 5.471,
+    "end": 5.731,
+    "word": "yritti",
+    "probability": 0.22344737632809542
+  },
+  {
+    "start": 5.731,
+    "end": 6.572,
+    "word": "jatkuvasti",
+    "probability": 0.6520074843145709
+  },
+  {
+    "start": 6.572,
+    "end": 7.875,
+    "word": "raapia",
+    "probability": 0.8664007772751791
+  },
+  {
+    "start": 7.875,
+    "end": 8.077,
+    "word": "kampaa",
+    "probability": 0.28118260206027007
+  }
+]

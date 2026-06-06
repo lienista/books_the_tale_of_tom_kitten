@@ -1,0 +1,230 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.44,
+    "word": "Mittens",
+    "probability": 0.8424790050765768
+  },
+  {
+    "start": 0.44,
+    "end": 1.001,
+    "word": "ketawa",
+    "probability": 0.8902230258730002
+  },
+  {
+    "start": 1.001,
+    "end": 2.402,
+    "word": "terbahakbahak",
+    "probability": 0.9604113733818564
+  },
+  {
+    "start": 2.402,
+    "end": 3.163,
+    "word": "sehingga",
+    "probability": 0.9754972734751707
+  },
+  {
+    "start": 3.163,
+    "end": 3.784,
+    "word": "dia",
+    "probability": 0.9745519970428611
+  },
+  {
+    "start": 3.784,
+    "end": 4.385,
+    "word": "terjatuh",
+    "probability": 0.9856757750106342
+  },
+  {
+    "start": 4.385,
+    "end": 4.645,
+    "word": "dari",
+    "probability": 0.9405279013526557
+  },
+  {
+    "start": 4.645,
+    "end": 5.085,
+    "word": "tembok",
+    "probability": 0.9794960615391034
+  },
+  {
+    "start": 5.085,
+    "end": 6.527,
+    "word": "Moppet",
+    "probability": 0.9687591242783975
+  },
+  {
+    "start": 6.527,
+    "end": 6.767,
+    "word": "dan",
+    "probability": 0.9728125300003727
+  },
+  {
+    "start": 6.767,
+    "end": 7.087,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 7.087,
+    "end": 7.568,
+    "word": "turun",
+    "probability": 0.99
+  },
+  {
+    "start": 7.568,
+    "end": 8.409,
+    "word": "mengekorinya",
+    "probability": 0.9857869648967975
+  },
+  {
+    "start": 8.409,
+    "end": 10.11,
+    "word": "gaungaun",
+    "probability": 0.9784238252681248
+  },
+  {
+    "start": 10.11,
+    "end": 10.311,
+    "word": "dan",
+    "probability": 0.9374223376147853
+  },
+  {
+    "start": 10.311,
+    "end": 10.811,
+    "word": "pakaian",
+    "probability": 0.9760023601548653
+  },
+  {
+    "start": 10.811,
+    "end": 11.131,
+    "word": "Tom",
+    "probability": 0.9708737233798681
+  },
+  {
+    "start": 11.131,
+    "end": 11.352,
+    "word": "yang",
+    "probability": 0.9662513228931915
+  },
+  {
+    "start": 11.352,
+    "end": 12.092,
+    "word": "selebihnya",
+    "probability": 0.9869554465147572
+  },
+  {
+    "start": 12.092,
+    "end": 12.653,
+    "word": "terjatuh",
+    "probability": 0.99
+  },
+  {
+    "start": 12.653,
+    "end": 13.113,
+    "word": "semasa",
+    "probability": 0.99
+  },
+  {
+    "start": 13.113,
+    "end": 13.534,
+    "word": "mereka",
+    "probability": 0.9864854157704501
+  },
+  {
+    "start": 13.534,
+    "end": 13.954,
+    "word": "turun",
+    "probability": 0.9887835391903723
+  },
+  {
+    "start": 13.954,
+    "end": 15.236,
+    "word": "Mr",
+    "probability": 0.9364156033547597
+  },
+  {
+    "start": 15.236,
+    "end": 15.556,
+    "word": "Drake",
+    "probability": 0.8762485972065235
+  },
+  {
+    "start": 15.556,
+    "end": 16.157,
+    "word": "PuddleDuck",
+    "probability": 0.765111389908151
+  },
+  {
+    "start": 16.157,
+    "end": 17.138,
+    "word": "panggil",
+    "probability": 0.99
+  },
+  {
+    "start": 17.138,
+    "end": 17.658,
+    "word": "Moppet",
+    "probability": 0.9050588586813679
+  },
+  {
+    "start": 17.658,
+    "end": 18.759,
+    "word": "Mari",
+    "probability": 0.99
+  },
+  {
+    "start": 18.759,
+    "end": 19.1,
+    "word": "bantu",
+    "probability": 0.9719585770291694
+  },
+  {
+    "start": 19.1,
+    "end": 19.44,
+    "word": "kami",
+    "probability": 0.99
+  },
+  {
+    "start": 19.44,
+    "end": 19.961,
+    "word": "pakaikan",
+    "probability": 0.9753443880623051
+  },
+  {
+    "start": 19.961,
+    "end": 20.301,
+    "word": "baju",
+    "probability": 0.9658785862940472
+  },
+  {
+    "start": 20.301,
+    "end": 20.902,
+    "word": "kepadanya",
+    "probability": 0.974998135003753
+  },
+  {
+    "start": 20.902,
+    "end": 22.083,
+    "word": "Mari",
+    "probability": 0.99
+  },
+  {
+    "start": 22.083,
+    "end": 22.663,
+    "word": "butangkan",
+    "probability": 0.971396324610077
+  },
+  {
+    "start": 22.663,
+    "end": 22.984,
+    "word": "baju",
+    "probability": 0.99
+  },
+  {
+    "start": 22.984,
+    "end": 23.164,
+    "word": "Tom",
+    "probability": 0.9674248365925718
+  }
+]

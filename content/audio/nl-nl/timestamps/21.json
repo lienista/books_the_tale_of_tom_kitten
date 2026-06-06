@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.141,
+    "word": "Ze",
+    "probability": 0.7048219910575204
+  },
+  {
+    "start": 0.141,
+    "end": 0.482,
+    "word": "trok",
+    "probability": 0.8201689174882929
+  },
+  {
+    "start": 0.482,
+    "end": 0.622,
+    "word": "ze",
+    "probability": 0.8659847861667435
+  },
+  {
+    "start": 0.622,
+    "end": 0.823,
+    "word": "van",
+    "probability": 0.9570054495203999
+  },
+  {
+    "start": 0.823,
+    "end": 0.943,
+    "word": "de",
+    "probability": 0.9081458638318307
+  },
+  {
+    "start": 0.943,
+    "end": 1.265,
+    "word": "muur",
+    "probability": 0.8925405712591635
+  },
+  {
+    "start": 1.265,
+    "end": 2.248,
+    "word": "haastte",
+    "probability": 0.9741126651231133
+  },
+  {
+    "start": 2.248,
+    "end": 2.409,
+    "word": "ze",
+    "probability": 0.9641688102507215
+  },
+  {
+    "start": 2.409,
+    "end": 2.67,
+    "word": "mee",
+    "probability": 0.9820669269620957
+  },
+  {
+    "start": 2.67,
+    "end": 3.272,
+    "word": "en",
+    "probability": 0.9500012910545668
+  },
+  {
+    "start": 3.272,
+    "end": 3.513,
+    "word": "nam",
+    "probability": 0.9795186232820671
+  },
+  {
+    "start": 3.513,
+    "end": 3.693,
+    "word": "ze",
+    "probability": 0.9288509260386062
+  },
+  {
+    "start": 3.693,
+    "end": 3.894,
+    "word": "mee",
+    "probability": 0.9427100851208122
+  },
+  {
+    "start": 3.894,
+    "end": 4.215,
+    "word": "terug",
+    "probability": 0.9119577287056396
+  },
+  {
+    "start": 4.215,
+    "end": 4.456,
+    "word": "naar",
+    "probability": 0.9464622384268452
+  },
+  {
+    "start": 4.456,
+    "end": 4.597,
+    "word": "het",
+    "probability": 0.8834696071736443
+  },
+  {
+    "start": 4.597,
+    "end": 4.818,
+    "word": "huis",
+    "probability": 0.9714398254025784
+  }
+]

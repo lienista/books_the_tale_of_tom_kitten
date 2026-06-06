@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.081,
+    "end": 0.322,
+    "word": "Apoi",
+    "probability": 0.962104794866604
+  },
+  {
+    "start": 0.322,
+    "end": 0.463,
+    "word": "lea",
+    "probability": 0.9516155147444324
+  },
+  {
+    "start": 0.463,
+    "end": 0.886,
+    "word": "periat",
+    "probability": 0.8655514492980582
+  },
+  {
+    "start": 0.886,
+    "end": 1.57,
+    "word": "blănițele",
+    "probability": 0.958742548549985
+  },
+  {
+    "start": 1.57,
+    "end": 2.215,
+    "word": "aceasta",
+    "probability": 0.9739138438588565
+  },
+  {
+    "start": 2.215,
+    "end": 2.456,
+    "word": "este",
+    "probability": 0.956444002726171
+  },
+  {
+    "start": 2.456,
+    "end": 2.899,
+    "word": "Mittens",
+    "probability": 0.9044749001333976
+  }
+]

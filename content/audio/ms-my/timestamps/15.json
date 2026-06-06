@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.621,
+    "word": "Kemudian",
+    "probability": 0.9869980167046507
+  },
+  {
+    "start": 0.621,
+    "end": 0.941,
+    "word": "dua",
+    "probability": 0.9747643633130804
+  },
+  {
+    "start": 0.941,
+    "end": 1.521,
+    "word": "ekor",
+    "probability": 0.99
+  },
+  {
+    "start": 1.521,
+    "end": 1.982,
+    "word": "itik",
+    "probability": 0.9584851913159724
+  },
+  {
+    "start": 1.982,
+    "end": 2.562,
+    "word": "betina",
+    "probability": 0.9680687558481025
+  },
+  {
+    "start": 2.562,
+    "end": 4.024,
+    "word": "Rebeccah",
+    "probability": 0.9716899349309105
+  },
+  {
+    "start": 4.024,
+    "end": 4.304,
+    "word": "dan",
+    "probability": 0.9264789382580215
+  },
+  {
+    "start": 4.304,
+    "end": 4.885,
+    "word": "Jemima",
+    "probability": 0.9895867015997954
+  },
+  {
+    "start": 4.885,
+    "end": 5.785,
+    "word": "PuddleDuck",
+    "probability": 0.8501865960311825
+  },
+  {
+    "start": 5.785,
+    "end": 7.207,
+    "word": "mengambil",
+    "probability": 0.99
+  },
+  {
+    "start": 7.207,
+    "end": 7.867,
+    "word": "topi",
+    "probability": 0.99
+  },
+  {
+    "start": 7.867,
+    "end": 8.128,
+    "word": "dan",
+    "probability": 0.9701914312295731
+  },
+  {
+    "start": 8.128,
+    "end": 8.648,
+    "word": "kolar",
+    "probability": 0.9728944958068502
+  },
+  {
+    "start": 8.648,
+    "end": 9.068,
+    "word": "renda",
+    "probability": 0.9354685187382668
+  },
+  {
+    "start": 9.068,
+    "end": 9.549,
+    "word": "itu",
+    "probability": 0.9643999812793042
+  },
+  {
+    "start": 9.549,
+    "end": 9.989,
+    "word": "lalu",
+    "probability": 0.9869330838619845
+  },
+  {
+    "start": 9.989,
+    "end": 10.81,
+    "word": "memakainya",
+    "probability": 0.9886205709484999
+  }
+]

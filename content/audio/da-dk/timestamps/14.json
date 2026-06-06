@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.16,
+    "word": "De",
+    "probability": 0.5989782764863094
+  },
+  {
+    "start": 0.16,
+    "end": 0.701,
+    "word": "stoppede",
+    "probability": 0.9679203734217187
+  },
+  {
+    "start": 0.701,
+    "end": 0.921,
+    "word": "og",
+    "probability": 0.9569749426457563
+  },
+  {
+    "start": 0.921,
+    "end": 1.181,
+    "word": "stod",
+    "probability": 0.9738594653174363
+  },
+  {
+    "start": 1.181,
+    "end": 1.341,
+    "word": "på",
+    "probability": 0.9631889770044573
+  },
+  {
+    "start": 1.341,
+    "end": 1.762,
+    "word": "række",
+    "probability": 0.9471136455805903
+  },
+  {
+    "start": 1.762,
+    "end": 2.923,
+    "word": "stirrende",
+    "probability": 0.9174514148450466
+  },
+  {
+    "start": 2.923,
+    "end": 3.163,
+    "word": "op",
+    "probability": 0.9655111998002677
+  },
+  {
+    "start": 3.163,
+    "end": 3.383,
+    "word": "på",
+    "probability": 0.9705426268398673
+  },
+  {
+    "start": 3.383,
+    "end": 4.024,
+    "word": "killingerne",
+    "probability": 0.9576175095553654
+  },
+  {
+    "start": 4.024,
+    "end": 4.264,
+    "word": "med",
+    "probability": 0.9626645431227501
+  },
+  {
+    "start": 4.264,
+    "end": 4.725,
+    "word": "store",
+    "probability": 0.9690221872610201
+  },
+  {
+    "start": 4.725,
+    "end": 5.886,
+    "word": "overraskede",
+    "probability": 0.9789640714449256
+  },
+  {
+    "start": 5.886,
+    "end": 6.306,
+    "word": "øjne",
+    "probability": 0.9765546947084793
+  }
+]

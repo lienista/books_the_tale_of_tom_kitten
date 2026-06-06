@@ -1,0 +1,74 @@
+[
+  {
+    "start": 4.879,
+    "end": 5.02,
+    "word": "Povukla",
+    "probability": 0.2500295199465194
+  },
+  {
+    "start": 5.02,
+    "end": 5.12,
+    "word": "ih",
+    "probability": 0.2500416367248102
+  },
+  {
+    "start": 5.12,
+    "end": 5.22,
+    "word": "je",
+    "probability": 0.4999916245223459
+  },
+  {
+    "start": 5.22,
+    "end": 5.421,
+    "word": "sa",
+    "probability": 0.6999839940272105
+  },
+  {
+    "start": 5.421,
+    "end": 5.562,
+    "word": "zida",
+    "probability": 0.28571490747978173
+  },
+  {
+    "start": 5.562,
+    "end": 5.742,
+    "word": "požurila",
+    "probability": 0.01
+  },
+  {
+    "start": 5.742,
+    "end": 5.803,
+    "word": "ih",
+    "probability": 0.01
+  },
+  {
+    "start": 5.803,
+    "end": 5.843,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 5.843,
+    "end": 5.983,
+    "word": "odvela",
+    "probability": 0.01
+  },
+  {
+    "start": 5.983,
+    "end": 6.023,
+    "word": "natrag",
+    "probability": 0.01
+  },
+  {
+    "start": 6.023,
+    "end": 6.044,
+    "word": "u",
+    "probability": 0.01
+  },
+  {
+    "start": 6.023,
+    "end": 6.044,
+    "word": "kuću",
+    "probability": 0.01
+  }
+]

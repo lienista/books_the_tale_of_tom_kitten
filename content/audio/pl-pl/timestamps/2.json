@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.421,
+    "word": "Pewnego",
+    "probability": 0.9707261531177874
+  },
+  {
+    "start": 0.421,
+    "end": 0.741,
+    "word": "dnia",
+    "probability": 0.9687820686683584
+  },
+  {
+    "start": 0.741,
+    "end": 1.222,
+    "word": "ich",
+    "probability": 0.99
+  },
+  {
+    "start": 1.222,
+    "end": 1.683,
+    "word": "mama",
+    "probability": 0.9887789956899028
+  },
+  {
+    "start": 1.683,
+    "end": 2.465,
+    "word": "pani",
+    "probability": 0.99
+  },
+  {
+    "start": 2.465,
+    "end": 3.226,
+    "word": "Tabitha",
+    "probability": 0.9640778577452902
+  },
+  {
+    "start": 3.226,
+    "end": 3.787,
+    "word": "Twitchit",
+    "probability": 0.8817389089957156
+  },
+  {
+    "start": 3.787,
+    "end": 4.829,
+    "word": "spodziewała",
+    "probability": 0.9791647066850927
+  },
+  {
+    "start": 4.829,
+    "end": 4.989,
+    "word": "się",
+    "probability": 0.9871643453788563
+  },
+  {
+    "start": 4.989,
+    "end": 5.39,
+    "word": "gości",
+    "probability": 0.99
+  },
+  {
+    "start": 5.39,
+    "end": 5.55,
+    "word": "na",
+    "probability": 0.9660573683614838
+  },
+  {
+    "start": 5.55,
+    "end": 6.171,
+    "word": "herbatę",
+    "probability": 0.99
+  },
+  {
+    "start": 6.171,
+    "end": 7.354,
+    "word": "Wprowadziła",
+    "probability": 0.99
+  },
+  {
+    "start": 7.354,
+    "end": 7.794,
+    "word": "kotki",
+    "probability": 0.9811902479257731
+  },
+  {
+    "start": 7.794,
+    "end": 7.935,
+    "word": "do",
+    "probability": 0.9767501365031471
+  },
+  {
+    "start": 7.935,
+    "end": 8.436,
+    "word": "środka",
+    "probability": 0.9843333220945379
+  },
+  {
+    "start": 8.436,
+    "end": 8.776,
+    "word": "aby",
+    "probability": 0.9663347504838133
+  },
+  {
+    "start": 8.776,
+    "end": 8.937,
+    "word": "je",
+    "probability": 0.9652717888294248
+  },
+  {
+    "start": 8.937,
+    "end": 9.538,
+    "word": "umyć",
+    "probability": 0.99
+  },
+  {
+    "start": 9.538,
+    "end": 9.798,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 9.798,
+    "end": 10.399,
+    "word": "ubrać",
+    "probability": 0.9842510762364834
+  },
+  {
+    "start": 10.399,
+    "end": 11.221,
+    "word": "zanim",
+    "probability": 0.9359351570680464
+  },
+  {
+    "start": 11.221,
+    "end": 11.742,
+    "word": "przyjdą",
+    "probability": 0.99
+  },
+  {
+    "start": 11.742,
+    "end": 11.922,
+    "word": "jej",
+    "probability": 0.99
+  },
+  {
+    "start": 11.922,
+    "end": 12.363,
+    "word": "goście",
+    "probability": 0.9766472851175735
+  }
+]

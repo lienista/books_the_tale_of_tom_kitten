@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.38,
+    "word": "Eines",
+    "probability": 0.9243112766650093
+  },
+  {
+    "start": 0.38,
+    "end": 0.861,
+    "word": "Tages",
+    "probability": 0.9550377374102338
+  },
+  {
+    "start": 0.861,
+    "end": 1.662,
+    "word": "erwartete",
+    "probability": 0.9609776280801519
+  },
+  {
+    "start": 1.662,
+    "end": 2.002,
+    "word": "ihre",
+    "probability": 0.948023165589114
+  },
+  {
+    "start": 2.002,
+    "end": 3.143,
+    "word": "MutterMrs",
+    "probability": 0.9505123988996452
+  },
+  {
+    "start": 3.143,
+    "end": 3.904,
+    "word": "Tabitha",
+    "probability": 0.925628277980374
+  },
+  {
+    "start": 3.904,
+    "end": 5.666,
+    "word": "TwitchitFreunde",
+    "probability": 0.9217438723471858
+  },
+  {
+    "start": 5.666,
+    "end": 5.946,
+    "word": "zum",
+    "probability": 0.971593822121383
+  },
+  {
+    "start": 5.946,
+    "end": 6.247,
+    "word": "Tee",
+    "probability": 0.9613239487118878
+  },
+  {
+    "start": 6.247,
+    "end": 7.768,
+    "word": "Sie",
+    "probability": 0.99
+  },
+  {
+    "start": 7.768,
+    "end": 8.269,
+    "word": "brachte",
+    "probability": 0.9749002501851439
+  },
+  {
+    "start": 8.269,
+    "end": 8.469,
+    "word": "die",
+    "probability": 0.9334344742865055
+  },
+  {
+    "start": 8.469,
+    "end": 9.09,
+    "word": "Kätzchen",
+    "probability": 0.9732626782606422
+  },
+  {
+    "start": 9.09,
+    "end": 9.33,
+    "word": "ins",
+    "probability": 0.9651327207727703
+  },
+  {
+    "start": 9.33,
+    "end": 9.791,
+    "word": "Haus",
+    "probability": 0.9777795839274354
+  },
+  {
+    "start": 9.791,
+    "end": 10.171,
+    "word": "um",
+    "probability": 0.99
+  },
+  {
+    "start": 10.171,
+    "end": 10.351,
+    "word": "sie",
+    "probability": 0.9417577553061997
+  },
+  {
+    "start": 10.351,
+    "end": 10.531,
+    "word": "zu",
+    "probability": 0.9721320569404277
+  },
+  {
+    "start": 10.531,
+    "end": 11.092,
+    "word": "waschen",
+    "probability": 0.95796810395463
+  },
+  {
+    "start": 11.092,
+    "end": 11.452,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 11.452,
+    "end": 12.233,
+    "word": "anzuziehen",
+    "probability": 0.99
+  },
+  {
+    "start": 12.233,
+    "end": 12.774,
+    "word": "bevor",
+    "probability": 0.99
+  },
+  {
+    "start": 12.774,
+    "end": 13.034,
+    "word": "ihre",
+    "probability": 0.9689018728663596
+  },
+  {
+    "start": 13.034,
+    "end": 13.515,
+    "word": "Gäste",
+    "probability": 0.982335761254781
+  },
+  {
+    "start": 13.515,
+    "end": 14.115,
+    "word": "ankamen",
+    "probability": 0.9548817104956696
+  }
+]

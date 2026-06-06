@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.14,
+    "word": "De",
+    "probability": 0.99
+  },
+  {
+    "start": 0.14,
+    "end": 0.762,
+    "word": "stannade",
+    "probability": 0.9857004772419737
+  },
+  {
+    "start": 0.762,
+    "end": 0.922,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 0.922,
+    "end": 1.363,
+    "word": "stod",
+    "probability": 0.9832205708837349
+  },
+  {
+    "start": 1.363,
+    "end": 1.443,
+    "word": "i",
+    "probability": 0.9145810706171535
+  },
+  {
+    "start": 1.443,
+    "end": 1.784,
+    "word": "rad",
+    "probability": 0.970063717380387
+  },
+  {
+    "start": 1.784,
+    "end": 3.047,
+    "word": "stirrade",
+    "probability": 0.9890000672988933
+  },
+  {
+    "start": 3.047,
+    "end": 3.247,
+    "word": "upp",
+    "probability": 0.9642866248307612
+  },
+  {
+    "start": 3.247,
+    "end": 3.387,
+    "word": "på",
+    "probability": 0.9356080674687479
+  },
+  {
+    "start": 3.387,
+    "end": 4.109,
+    "word": "kattungarna",
+    "probability": 0.9761173415472322
+  },
+  {
+    "start": 4.109,
+    "end": 4.309,
+    "word": "med",
+    "probability": 0.99
+  },
+  {
+    "start": 4.309,
+    "end": 4.911,
+    "word": "stora",
+    "probability": 0.99
+  },
+  {
+    "start": 4.911,
+    "end": 5.693,
+    "word": "förvånade",
+    "probability": 0.9857057030935544
+  },
+  {
+    "start": 5.693,
+    "end": 6.053,
+    "word": "ögon",
+    "probability": 0.99
+  }
+]

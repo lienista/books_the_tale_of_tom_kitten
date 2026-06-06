@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.34,
+    "word": "Pán",
+    "probability": 0.9114691880804683
+  },
+  {
+    "start": 0.34,
+    "end": 0.961,
+    "word": "Drake",
+    "probability": 0.9011011715031613
+  },
+  {
+    "start": 0.961,
+    "end": 1.822,
+    "word": "PuddleDuck",
+    "probability": 0.8592187849899776
+  },
+  {
+    "start": 1.822,
+    "end": 2.043,
+    "word": "sa",
+    "probability": 0.7000871056935714
+  },
+  {
+    "start": 2.043,
+    "end": 2.964,
+    "word": "pomaly",
+    "probability": 0.99
+  },
+  {
+    "start": 2.964,
+    "end": 3.925,
+    "word": "bokom",
+    "probability": 0.9897165627038363
+  },
+  {
+    "start": 3.925,
+    "end": 4.806,
+    "word": "kolísavo",
+    "probability": 0.8492061382649149
+  },
+  {
+    "start": 4.806,
+    "end": 5.767,
+    "word": "priblížil",
+    "probability": 0.99
+  },
+  {
+    "start": 5.767,
+    "end": 6.228,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 6.228,
+    "end": 7.209,
+    "word": "pozbieral",
+    "probability": 0.8916154998360496
+  },
+  {
+    "start": 7.209,
+    "end": 7.85,
+    "word": "rôzne",
+    "probability": 0.9496426278298464
+  },
+  {
+    "start": 7.85,
+    "end": 8.13,
+    "word": "veci",
+    "probability": 0.9634637025500291
+  }
+]

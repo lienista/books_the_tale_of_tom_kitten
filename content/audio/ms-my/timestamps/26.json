@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.28,
+    "word": "Dan",
+    "probability": 0.9759033289486568
+  },
+  {
+    "start": 0.28,
+    "end": 1.202,
+    "word": "Mr",
+    "probability": 0.9106607940373748
+  },
+  {
+    "start": 1.202,
+    "end": 1.782,
+    "word": "Drake",
+    "probability": 0.9316813486116307
+  },
+  {
+    "start": 1.782,
+    "end": 2.764,
+    "word": "PuddleDuck",
+    "probability": 0.8461761104937121
+  },
+  {
+    "start": 2.764,
+    "end": 3.825,
+    "word": "Jemima",
+    "probability": 0.9710861468729347
+  },
+  {
+    "start": 3.825,
+    "end": 4.686,
+    "word": "dan",
+    "probability": 0.9880972591110424
+  },
+  {
+    "start": 4.686,
+    "end": 5.528,
+    "word": "Rebeccah",
+    "probability": 0.9368601594399669
+  },
+  {
+    "start": 5.528,
+    "end": 6.188,
+    "word": "telah",
+    "probability": 0.9569532791675582
+  },
+  {
+    "start": 6.188,
+    "end": 6.789,
+    "word": "mencari",
+    "probability": 0.9805155446752946
+  },
+  {
+    "start": 6.789,
+    "end": 7.45,
+    "word": "pakaian",
+    "probability": 0.9825867780898248
+  },
+  {
+    "start": 7.45,
+    "end": 7.871,
+    "word": "itu",
+    "probability": 0.99
+  },
+  {
+    "start": 7.871,
+    "end": 8.492,
+    "word": "sejak",
+    "probability": 0.99
+  },
+  {
+    "start": 8.492,
+    "end": 8.932,
+    "word": "itu",
+    "probability": 0.99
+  }
+]

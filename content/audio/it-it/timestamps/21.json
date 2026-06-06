@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.121,
+    "end": 0.181,
+    "word": "Li",
+    "probability": 0.6882653227617282
+  },
+  {
+    "start": 0.181,
+    "end": 0.463,
+    "word": "tirò",
+    "probability": 0.9069532714425208
+  },
+  {
+    "start": 0.463,
+    "end": 0.644,
+    "word": "giù",
+    "probability": 0.9437781863325436
+  },
+  {
+    "start": 0.644,
+    "end": 0.845,
+    "word": "dal",
+    "probability": 0.9184647644183086
+  },
+  {
+    "start": 0.845,
+    "end": 1.207,
+    "word": "muro",
+    "probability": 0.9812857614429541
+  },
+  {
+    "start": 1.207,
+    "end": 1.368,
+    "word": "li",
+    "probability": 0.9681615285044755
+  },
+  {
+    "start": 1.368,
+    "end": 1.891,
+    "word": "affrettò",
+    "probability": 0.9841855993947308
+  },
+  {
+    "start": 1.891,
+    "end": 2.012,
+    "word": "e",
+    "probability": 0.9231831102726558
+  },
+  {
+    "start": 2.012,
+    "end": 2.173,
+    "word": "li",
+    "probability": 0.9594319224196102
+  },
+  {
+    "start": 2.173,
+    "end": 2.655,
+    "word": "riportò",
+    "probability": 0.9879450935233091
+  },
+  {
+    "start": 2.655,
+    "end": 2.756,
+    "word": "a",
+    "probability": 0.9850056923360893
+  },
+  {
+    "start": 2.756,
+    "end": 3.198,
+    "word": "casa",
+    "probability": 0.99
+  }
+]

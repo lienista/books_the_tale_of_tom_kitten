@@ -1,0 +1,188 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.44,
+    "word": "Zamiast",
+    "probability": 0.9891316200017053
+  },
+  {
+    "start": 0.44,
+    "end": 0.961,
+    "word": "tego",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.441,
+    "word": "z",
+    "probability": 0.99
+  },
+  {
+    "start": 1.441,
+    "end": 1.741,
+    "word": "góry",
+    "probability": 0.9433778896444969
+  },
+  {
+    "start": 1.741,
+    "end": 2.362,
+    "word": "dochodziły",
+    "probability": 0.9816446049815029
+  },
+  {
+    "start": 2.362,
+    "end": 2.782,
+    "word": "bardzo",
+    "probability": 0.9800247887462712
+  },
+  {
+    "start": 2.782,
+    "end": 3.242,
+    "word": "dziwne",
+    "probability": 0.99
+  },
+  {
+    "start": 3.242,
+    "end": 4.023,
+    "word": "dźwięki",
+    "probability": 0.99
+  },
+  {
+    "start": 4.023,
+    "end": 4.844,
+    "word": "które",
+    "probability": 0.99
+  },
+  {
+    "start": 4.844,
+    "end": 5.644,
+    "word": "zepsuły",
+    "probability": 0.99
+  },
+  {
+    "start": 5.644,
+    "end": 6.265,
+    "word": "spokojny",
+    "probability": 0.99
+  },
+  {
+    "start": 6.265,
+    "end": 6.905,
+    "word": "nastrój",
+    "probability": 0.9845526243734642
+  },
+  {
+    "start": 6.905,
+    "end": 7.666,
+    "word": "przyjęcia",
+    "probability": 0.9871839681975159
+  },
+  {
+    "start": 7.666,
+    "end": 8.726,
+    "word": "herbacianego",
+    "probability": 0.9839733482725552
+  },
+  {
+    "start": 8.726,
+    "end": 9.187,
+    "word": "I",
+    "probability": 0.99
+  },
+  {
+    "start": 9.187,
+    "end": 9.767,
+    "word": "myślę",
+    "probability": 0.99
+  },
+  {
+    "start": 9.767,
+    "end": 10.227,
+    "word": "że",
+    "probability": 0.9846564927636009
+  },
+  {
+    "start": 10.227,
+    "end": 10.648,
+    "word": "pewnego",
+    "probability": 0.99
+  },
+  {
+    "start": 10.648,
+    "end": 10.948,
+    "word": "dnia",
+    "probability": 0.9440607043552764
+  },
+  {
+    "start": 10.948,
+    "end": 11.448,
+    "word": "będę",
+    "probability": 0.99
+  },
+  {
+    "start": 11.448,
+    "end": 11.829,
+    "word": "musiał",
+    "probability": 0.9778182192073507
+  },
+  {
+    "start": 11.829,
+    "end": 12.289,
+    "word": "napisać",
+    "probability": 0.99
+  },
+  {
+    "start": 12.289,
+    "end": 12.849,
+    "word": "dłuższą",
+    "probability": 0.99
+  },
+  {
+    "start": 12.849,
+    "end": 13.71,
+    "word": "książkę",
+    "probability": 0.99
+  },
+  {
+    "start": 13.71,
+    "end": 14.43,
+    "word": "aby",
+    "probability": 0.99
+  },
+  {
+    "start": 14.43,
+    "end": 15.031,
+    "word": "opowiedzieć",
+    "probability": 0.9738094754757518
+  },
+  {
+    "start": 15.031,
+    "end": 15.271,
+    "word": "wam",
+    "probability": 0.9739246835890064
+  },
+  {
+    "start": 15.271,
+    "end": 15.852,
+    "word": "więcej",
+    "probability": 0.99
+  },
+  {
+    "start": 15.852,
+    "end": 16.092,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 16.092,
+    "end": 16.652,
+    "word": "Tomie",
+    "probability": 0.9766776979277696
+  },
+  {
+    "start": 16.652,
+    "end": 17.293,
+    "word": "Kittenie",
+    "probability": 0.9388515860267644
+  }
+]

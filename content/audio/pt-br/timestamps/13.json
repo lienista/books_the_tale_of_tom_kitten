@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.501,
+    "word": "Enquanto",
+    "probability": 0.9297832884254036
+  },
+  {
+    "start": 0.501,
+    "end": 1.202,
+    "word": "lutavam",
+    "probability": 0.9655851321407211
+  },
+  {
+    "start": 1.202,
+    "end": 2.083,
+    "word": "ouviram",
+    "probability": 0.99
+  },
+  {
+    "start": 2.083,
+    "end": 2.363,
+    "word": "um",
+    "probability": 0.982948395793254
+  },
+  {
+    "start": 2.363,
+    "end": 4.106,
+    "word": "pitpatpaddlepat",
+    "probability": 0.9008938795923365
+  },
+  {
+    "start": 4.106,
+    "end": 5.127,
+    "word": "Os",
+    "probability": 0.99
+  },
+  {
+    "start": 5.127,
+    "end": 5.488,
+    "word": "três",
+    "probability": 0.9686794994188899
+  },
+  {
+    "start": 5.488,
+    "end": 6.369,
+    "word": "PuddleDucks",
+    "probability": 0.8319984111600177
+  },
+  {
+    "start": 6.369,
+    "end": 6.99,
+    "word": "vinham",
+    "probability": 0.9692815687010469
+  },
+  {
+    "start": 6.99,
+    "end": 7.09,
+    "word": "a",
+    "probability": 0.9557329987225618
+  },
+  {
+    "start": 7.09,
+    "end": 7.691,
+    "word": "marchar",
+    "probability": 0.9707378859971448
+  },
+  {
+    "start": 7.691,
+    "end": 8.011,
+    "word": "pela",
+    "probability": 0.9540883809684263
+  },
+  {
+    "start": 8.011,
+    "end": 8.612,
+    "word": "estrada",
+    "probability": 0.9872903804837825
+  },
+  {
+    "start": 8.612,
+    "end": 8.872,
+    "word": "em",
+    "probability": 0.9624743968084473
+  },
+  {
+    "start": 8.872,
+    "end": 9.353,
+    "word": "fila",
+    "probability": 0.9740476755918858
+  },
+  {
+    "start": 9.353,
+    "end": 9.834,
+    "word": "única",
+    "probability": 0.9882006183249019
+  },
+  {
+    "start": 9.834,
+    "end": 10.935,
+    "word": "fazendo",
+    "probability": 0.99
+  },
+  {
+    "start": 10.935,
+    "end": 11.055,
+    "word": "o",
+    "probability": 0.8838452569157315
+  },
+  {
+    "start": 11.055,
+    "end": 11.316,
+    "word": "seu",
+    "probability": 0.9422325017836937
+  },
+  {
+    "start": 11.316,
+    "end": 11.696,
+    "word": "andar",
+    "probability": 0.986882060852659
+  },
+  {
+    "start": 11.696,
+    "end": 14.42,
+    "word": "rítmicopitpatpaddlepat",
+    "probability": 0.8968334610203499
+  },
+  {
+    "start": 14.42,
+    "end": 16.403,
+    "word": "pitpatwaddlepat",
+    "probability": 0.8959602560008305
+  }
+]

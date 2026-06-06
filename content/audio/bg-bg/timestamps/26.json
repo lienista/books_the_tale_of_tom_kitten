@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.1,
+    "word": "И",
+    "probability": 0.99
+  },
+  {
+    "start": 0.1,
+    "end": 0.642,
+    "word": "господин",
+    "probability": 0.9498414971797478
+  },
+  {
+    "start": 0.642,
+    "end": 1.003,
+    "word": "Drake",
+    "probability": 0.7638911916451415
+  },
+  {
+    "start": 1.003,
+    "end": 1.785,
+    "word": "PuddleDuck",
+    "probability": 0.7357460219388534
+  },
+  {
+    "start": 1.785,
+    "end": 2.767,
+    "word": "Jemima",
+    "probability": 0.8191949734232002
+  },
+  {
+    "start": 2.767,
+    "end": 3.229,
+    "word": "и",
+    "probability": 0.9058572560338333
+  },
+  {
+    "start": 3.229,
+    "end": 4.071,
+    "word": "Rebeccah",
+    "probability": 0.8479128564615911
+  },
+  {
+    "start": 4.071,
+    "end": 4.191,
+    "word": "ги",
+    "probability": 0.5989155483042297
+  },
+  {
+    "start": 4.191,
+    "end": 4.793,
+    "word": "търсят",
+    "probability": 0.96356256164334
+  },
+  {
+    "start": 4.793,
+    "end": 5.555,
+    "word": "оттогава",
+    "probability": 0.9743400204294812
+  }
+]

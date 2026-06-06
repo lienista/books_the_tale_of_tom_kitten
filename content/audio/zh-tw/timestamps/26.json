@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.221,
+    "end": 0.641,
+    "word": "從那以後",
+    "probability": 0.8398299731245219
+  },
+  {
+    "start": 0.641,
+    "end": 1.924,
+    "word": "Drake",
+    "probability": 0.8689343273366644
+  },
+  {
+    "start": 1.924,
+    "end": 2.466,
+    "word": "Pudd",
+    "probability": 0.8003311579104795
+  },
+  {
+    "start": 2.466,
+    "end": 2.706,
+    "word": "leD",
+    "probability": 0.7162817182709739
+  },
+  {
+    "start": 2.706,
+    "end": 2.947,
+    "word": "uck",
+    "probability": 0.7277325829139091
+  },
+  {
+    "start": 2.947,
+    "end": 3.348,
+    "word": "先生",
+    "probability": 0.856603837267237
+  },
+  {
+    "start": 3.348,
+    "end": 4.47,
+    "word": "潔米瑪和",
+    "probability": 0.9071599467459283
+  },
+  {
+    "start": 4.47,
+    "end": 4.951,
+    "word": "Rebe",
+    "probability": 0.7648605870708807
+  },
+  {
+    "start": 4.951,
+    "end": 5.312,
+    "word": "ccah",
+    "probability": 0.7606281360254782
+  },
+  {
+    "start": 5.312,
+    "end": 6.335,
+    "word": "就一直在",
+    "probability": 0.9152410075671557
+  },
+  {
+    "start": 6.335,
+    "end": 7.237,
+    "word": "尋找那些",
+    "probability": 0.9054306589162081
+  },
+  {
+    "start": 7.237,
+    "end": 7.417,
+    "word": "衣服",
+    "probability": 0.8546771358922566
+  }
+]

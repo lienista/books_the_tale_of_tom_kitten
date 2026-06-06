@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.844,
+    "word": "Sebaliknya",
+    "probability": 0.9833549418757297
+  },
+  {
+    "start": 0.844,
+    "end": 2.23,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 2.23,
+    "end": 2.632,
+    "word": "tidak",
+    "probability": 0.99
+  },
+  {
+    "start": 2.632,
+    "end": 3.094,
+    "word": "berada",
+    "probability": 0.99
+  },
+  {
+    "start": 3.094,
+    "end": 3.275,
+    "word": "di",
+    "probability": 0.961321420328016
+  },
+  {
+    "start": 3.275,
+    "end": 3.717,
+    "word": "katil",
+    "probability": 0.9844990542508886
+  },
+  {
+    "start": 3.717,
+    "end": 4.34,
+    "word": "langsung",
+    "probability": 0.99
+  }
+]

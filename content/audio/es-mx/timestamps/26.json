@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.1,
+    "word": "Y",
+    "probability": 0.99
+  },
+  {
+    "start": 0.1,
+    "end": 0.241,
+    "word": "el",
+    "probability": 0.9290522209780885
+  },
+  {
+    "start": 0.241,
+    "end": 0.581,
+    "word": "señor",
+    "probability": 0.8990077247598798
+  },
+  {
+    "start": 0.581,
+    "end": 1.002,
+    "word": "Drake",
+    "probability": 0.9757539562868406
+  },
+  {
+    "start": 1.002,
+    "end": 1.784,
+    "word": "PuddleDuck",
+    "probability": 0.9275810227284632
+  },
+  {
+    "start": 1.784,
+    "end": 2.566,
+    "word": "Jemima",
+    "probability": 0.9647161810207207
+  },
+  {
+    "start": 2.566,
+    "end": 2.666,
+    "word": "y",
+    "probability": 0.9775452684779344
+  },
+  {
+    "start": 2.666,
+    "end": 3.308,
+    "word": "Rebeccah",
+    "probability": 0.986602878939045
+  },
+  {
+    "start": 3.308,
+    "end": 3.749,
+    "word": "han",
+    "probability": 0.9535296616764438
+  },
+  {
+    "start": 3.749,
+    "end": 4.17,
+    "word": "estado",
+    "probability": 0.9779903991634621
+  },
+  {
+    "start": 4.17,
+    "end": 4.932,
+    "word": "buscándolos",
+    "probability": 0.9826552358680158
+  },
+  {
+    "start": 4.932,
+    "end": 5.212,
+    "word": "desde",
+    "probability": 0.9656296137344563
+  },
+  {
+    "start": 5.212,
+    "end": 5.854,
+    "word": "entonces",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.16,
+    "word": "Üç",
+    "probability": 0.9885648107595848
+  },
+  {
+    "start": 0.16,
+    "end": 0.501,
+    "word": "kedi",
+    "probability": 0.8659195109174236
+  },
+  {
+    "start": 0.501,
+    "end": 1.021,
+    "word": "yavrusu",
+    "probability": 0.8757348948252607
+  },
+  {
+    "start": 1.021,
+    "end": 1.401,
+    "word": "hazır",
+    "probability": 0.9741186461251882
+  },
+  {
+    "start": 1.401,
+    "end": 1.982,
+    "word": "olduğunda",
+    "probability": 0.9466831080591954
+  },
+  {
+    "start": 1.982,
+    "end": 2.803,
+    "word": "Bayan",
+    "probability": 0.9860519119219919
+  },
+  {
+    "start": 2.803,
+    "end": 3.283,
+    "word": "Tabitha",
+    "probability": 0.9075702174977268
+  },
+  {
+    "start": 3.283,
+    "end": 3.924,
+    "word": "bir",
+    "probability": 0.983102544366566
+  },
+  {
+    "start": 3.924,
+    "end": 4.324,
+    "word": "hata",
+    "probability": 0.970558114964285
+  },
+  {
+    "start": 4.324,
+    "end": 4.905,
+    "word": "yaptı",
+    "probability": 0.9752712541326489
+  },
+  {
+    "start": 4.905,
+    "end": 5.526,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 5.526,
+    "end": 6.286,
+    "word": "onları",
+    "probability": 0.99
+  },
+  {
+    "start": 6.286,
+    "end": 6.787,
+    "word": "sıcak",
+    "probability": 0.9867380605836286
+  },
+  {
+    "start": 6.787,
+    "end": 7.568,
+    "word": "tereyağlı",
+    "probability": 0.9375949378775069
+  },
+  {
+    "start": 7.568,
+    "end": 7.968,
+    "word": "tost",
+    "probability": 0.9803327971181759
+  },
+  {
+    "start": 7.968,
+    "end": 8.669,
+    "word": "yaparken",
+    "probability": 0.9742781750346504
+  },
+  {
+    "start": 8.669,
+    "end": 9.51,
+    "word": "bahçeye",
+    "probability": 0.9667993372718783
+  },
+  {
+    "start": 9.51,
+    "end": 10.251,
+    "word": "gönderdi",
+    "probability": 0.9851568493535744
+  },
+  {
+    "start": 10.251,
+    "end": 11.011,
+    "word": "Şimdi",
+    "probability": 0.9849550500119114
+  },
+  {
+    "start": 11.011,
+    "end": 12.052,
+    "word": "kıyafetlerinizi",
+    "probability": 0.9866741369791523
+  },
+  {
+    "start": 12.052,
+    "end": 12.513,
+    "word": "temiz",
+    "probability": 0.9687844204833445
+  },
+  {
+    "start": 12.513,
+    "end": 12.893,
+    "word": "tutun",
+    "probability": 0.9732892708605829
+  },
+  {
+    "start": 12.893,
+    "end": 13.574,
+    "word": "çocuklar",
+    "probability": 0.9772247353113722
+  },
+  {
+    "start": 13.574,
+    "end": 14.115,
+    "word": "Arka",
+    "probability": 0.99
+  },
+  {
+    "start": 14.115,
+    "end": 15.035,
+    "word": "bacaklarınızla",
+    "probability": 0.9516043073478919
+  },
+  {
+    "start": 15.035,
+    "end": 15.556,
+    "word": "yürüyün",
+    "probability": 0.980037861120106
+  },
+  {
+    "start": 15.556,
+    "end": 16.317,
+    "word": "Çamurlu",
+    "probability": 0.99
+  },
+  {
+    "start": 16.317,
+    "end": 16.617,
+    "word": "kül",
+    "probability": 0.9544061168781631
+  },
+  {
+    "start": 16.617,
+    "end": 17.398,
+    "word": "çukurundan",
+    "probability": 0.9455899192283465
+  },
+  {
+    "start": 17.398,
+    "end": 17.958,
+    "word": "Sally",
+    "probability": 0.9240023341986393
+  },
+  {
+    "start": 17.958,
+    "end": 18.939,
+    "word": "HennyPennyden",
+    "probability": 0.7640689201291156
+  },
+  {
+    "start": 18.939,
+    "end": 19.58,
+    "word": "domuz",
+    "probability": 0.99
+  },
+  {
+    "start": 19.58,
+    "end": 20.301,
+    "word": "ahırından",
+    "probability": 0.9682235755155991
+  },
+  {
+    "start": 20.301,
+    "end": 20.721,
+    "word": "ve",
+    "probability": 0.9801082867373413
+  },
+  {
+    "start": 20.721,
+    "end": 21.062,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 21.062,
+    "end": 22.523,
+    "word": "PuddleDuckslardan",
+    "probability": 0.8900583468620903
+  },
+  {
+    "start": 22.523,
+    "end": 22.904,
+    "word": "uzak",
+    "probability": 0.9754960101006522
+  },
+  {
+    "start": 22.904,
+    "end": 23.264,
+    "word": "durun",
+    "probability": 0.967466414832161
+  }
+]

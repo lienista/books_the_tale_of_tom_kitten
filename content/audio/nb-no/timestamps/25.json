@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.1,
+    "word": "Når",
+    "probability": 0.9133207790917592
+  },
+  {
+    "start": 0.1,
+    "end": 0.24,
+    "word": "det",
+    "probability": 0.9721668997667866
+  },
+  {
+    "start": 0.24,
+    "end": 0.521,
+    "word": "gjelder",
+    "probability": 0.933512802654307
+  },
+  {
+    "start": 0.521,
+    "end": 1.342,
+    "word": "PuddleDucksde",
+    "probability": 0.789647272171423
+  },
+  {
+    "start": 1.342,
+    "end": 1.602,
+    "word": "gikk",
+    "probability": 0.7992520082180145
+  },
+  {
+    "start": 1.602,
+    "end": 2.083,
+    "word": "inn",
+    "probability": 0.8676090755541574
+  },
+  {
+    "start": 2.083,
+    "end": 2.323,
+    "word": "i",
+    "probability": 0.9793920515769083
+  },
+  {
+    "start": 2.323,
+    "end": 2.483,
+    "word": "en",
+    "probability": 0.8591138613651106
+  },
+  {
+    "start": 2.483,
+    "end": 2.924,
+    "word": "dam",
+    "probability": 0.884663748795208
+  },
+  {
+    "start": 2.924,
+    "end": 3.645,
+    "word": "Klærne",
+    "probability": 0.9146199133030092
+  },
+  {
+    "start": 3.645,
+    "end": 4.025,
+    "word": "falt",
+    "probability": 0.9195023057658103
+  },
+  {
+    "start": 4.025,
+    "end": 4.426,
+    "word": "rett",
+    "probability": 0.9652564769791043
+  },
+  {
+    "start": 4.426,
+    "end": 4.606,
+    "word": "av",
+    "probability": 0.7983297293723253
+  },
+  {
+    "start": 4.606,
+    "end": 4.967,
+    "word": "fordi",
+    "probability": 0.7860086878567422
+  },
+  {
+    "start": 4.967,
+    "end": 5.147,
+    "word": "det",
+    "probability": 0.99
+  },
+  {
+    "start": 5.147,
+    "end": 5.387,
+    "word": "ikke",
+    "probability": 0.99
+  },
+  {
+    "start": 5.387,
+    "end": 5.567,
+    "word": "var",
+    "probability": 0.9594935537684885
+  },
+  {
+    "start": 5.567,
+    "end": 5.968,
+    "word": "noen",
+    "probability": 0.9861877639528487
+  },
+  {
+    "start": 5.968,
+    "end": 6.469,
+    "word": "knapper",
+    "probability": 0.7946766383211235
+  },
+  {
+    "start": 6.469,
+    "end": 6.929,
+    "word": "igjen",
+    "probability": 0.8203491275192425
+  },
+  {
+    "start": 6.929,
+    "end": 7.129,
+    "word": "til",
+    "probability": 0.9709514231787721
+  },
+  {
+    "start": 7.129,
+    "end": 7.27,
+    "word": "å",
+    "probability": 0.99
+  },
+  {
+    "start": 7.27,
+    "end": 7.65,
+    "word": "holde",
+    "probability": 0.9644319759995227
+  },
+  {
+    "start": 7.65,
+    "end": 7.911,
+    "word": "dem",
+    "probability": 0.99
+  },
+  {
+    "start": 7.911,
+    "end": 8.311,
+    "word": "sammen",
+    "probability": 0.9764497243548463
+  }
+]

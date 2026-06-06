@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.74,
+    "word": "Otočili",
+    "probability": 0.9676226876699324
+  },
+  {
+    "start": 0.74,
+    "end": 1.001,
+    "word": "si",
+    "probability": 0.9744564350012936
+  },
+  {
+    "start": 1.001,
+    "end": 1.521,
+    "word": "šaty",
+    "probability": 0.9657970377441856
+  },
+  {
+    "start": 1.521,
+    "end": 2.261,
+    "word": "dozadu",
+    "probability": 0.9257898577432039
+  },
+  {
+    "start": 2.261,
+    "end": 3.222,
+    "word": "aby",
+    "probability": 0.9805383763080453
+  },
+  {
+    "start": 3.222,
+    "end": 3.442,
+    "word": "sa",
+    "probability": 0.9808292285285467
+  },
+  {
+    "start": 3.442,
+    "end": 3.902,
+    "word": "mohli",
+    "probability": 0.9578151534291482
+  },
+  {
+    "start": 3.902,
+    "end": 4.442,
+    "word": "lepšie",
+    "probability": 0.99
+  },
+  {
+    "start": 4.442,
+    "end": 5.343,
+    "word": "pohybovať",
+    "probability": 0.9899235486637391
+  },
+  {
+    "start": 5.343,
+    "end": 5.723,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 5.723,
+    "end": 6.603,
+    "word": "vyskočili",
+    "probability": 0.8644008682252803
+  },
+  {
+    "start": 6.603,
+    "end": 7.004,
+    "word": "hore",
+    "probability": 0.9724306952139219
+  },
+  {
+    "start": 7.004,
+    "end": 8.985,
+    "word": "Moppetin",
+    "probability": 0.9602628074055074
+  },
+  {
+    "start": 8.985,
+    "end": 9.525,
+    "word": "biely",
+    "probability": 0.9898338285970509
+  },
+  {
+    "start": 9.525,
+    "end": 10.385,
+    "word": "čipkovaný",
+    "probability": 0.9502114237155034
+  },
+  {
+    "start": 10.385,
+    "end": 11.046,
+    "word": "golier",
+    "probability": 0.9849434768527343
+  },
+  {
+    "start": 11.046,
+    "end": 12.286,
+    "word": "spadol",
+    "probability": 0.99
+  },
+  {
+    "start": 12.286,
+    "end": 12.486,
+    "word": "na",
+    "probability": 0.9187161048192765
+  },
+  {
+    "start": 12.486,
+    "end": 13.047,
+    "word": "cestu",
+    "probability": 0.99
+  }
+]

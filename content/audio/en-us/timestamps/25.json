@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.18,
+    "word": "As",
+    "probability": 0.3462827629387723
+  },
+  {
+    "start": 0.18,
+    "end": 0.401,
+    "word": "for",
+    "probability": 0.7253033427540766
+  },
+  {
+    "start": 0.401,
+    "end": 0.561,
+    "word": "the",
+    "probability": 0.49950414909893126
+  },
+  {
+    "start": 0.561,
+    "end": 2.184,
+    "word": "PuddleDucksthey",
+    "probability": 0.7104782467633207
+  },
+  {
+    "start": 2.184,
+    "end": 2.484,
+    "word": "went",
+    "probability": 0.5747835938436718
+  },
+  {
+    "start": 2.484,
+    "end": 2.765,
+    "word": "into",
+    "probability": 0.6045572202317224
+  },
+  {
+    "start": 2.765,
+    "end": 2.925,
+    "word": "a",
+    "probability": 0.8150617033326314
+  },
+  {
+    "start": 2.925,
+    "end": 3.406,
+    "word": "pond",
+    "probability": 0.7643601551489289
+  },
+  {
+    "start": 3.406,
+    "end": 4.287,
+    "word": "The",
+    "probability": 0.8907693515184529
+  },
+  {
+    "start": 4.287,
+    "end": 4.688,
+    "word": "clothes",
+    "probability": 0.5097783365161582
+  },
+  {
+    "start": 4.688,
+    "end": 5.008,
+    "word": "fell",
+    "probability": 0.6724784465535789
+  },
+  {
+    "start": 5.008,
+    "end": 5.389,
+    "word": "right",
+    "probability": 0.6762931297825127
+  },
+  {
+    "start": 5.389,
+    "end": 5.689,
+    "word": "off",
+    "probability": 0.7962752812384456
+  },
+  {
+    "start": 5.689,
+    "end": 6.11,
+    "word": "because",
+    "probability": 0.5662628153836633
+  },
+  {
+    "start": 6.11,
+    "end": 6.31,
+    "word": "there",
+    "probability": 0.23753829742033009
+  },
+  {
+    "start": 6.31,
+    "end": 6.491,
+    "word": "were",
+    "probability": 0.40165681790370816
+  },
+  {
+    "start": 6.491,
+    "end": 6.711,
+    "word": "no",
+    "probability": 0.7170097675259733
+  },
+  {
+    "start": 6.711,
+    "end": 7.152,
+    "word": "buttons",
+    "probability": 0.6300723476979395
+  },
+  {
+    "start": 7.152,
+    "end": 7.572,
+    "word": "left",
+    "probability": 0.6546426236005869
+  },
+  {
+    "start": 7.572,
+    "end": 7.733,
+    "word": "to",
+    "probability": 0.6742897930748819
+  },
+  {
+    "start": 7.733,
+    "end": 8.013,
+    "word": "hold",
+    "probability": 0.5360522853949752
+  },
+  {
+    "start": 8.013,
+    "end": 8.173,
+    "word": "them",
+    "probability": 0.4495271226257279
+  },
+  {
+    "start": 8.173,
+    "end": 8.634,
+    "word": "together",
+    "probability": 0.6105990179237507
+  }
+]

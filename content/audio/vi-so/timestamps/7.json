@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "Tom",
+    "probability": 0.7980339849495839
+  },
+  {
+    "start": 0.18,
+    "end": 0.561,
+    "word": "Kitten",
+    "probability": 0.7697866964860063
+  },
+  {
+    "start": 0.561,
+    "end": 0.882,
+    "word": "khá",
+    "probability": 0.8950314772794534
+  },
+  {
+    "start": 0.882,
+    "end": 1.063,
+    "word": "mũm",
+    "probability": 0.8868161827057457
+  },
+  {
+    "start": 1.063,
+    "end": 1.303,
+    "word": "mĩm",
+    "probability": 0.7398526731578546
+  },
+  {
+    "start": 1.303,
+    "end": 1.504,
+    "word": "và",
+    "probability": 0.9559707530530502
+  },
+  {
+    "start": 1.504,
+    "end": 1.624,
+    "word": "đã",
+    "probability": 0.972251152067782
+  },
+  {
+    "start": 1.624,
+    "end": 1.825,
+    "word": "lớn",
+    "probability": 0.9585432469279261
+  },
+  {
+    "start": 1.825,
+    "end": 2.105,
+    "word": "thêm",
+    "probability": 0.988578409635715
+  },
+  {
+    "start": 2.105,
+    "end": 2.887,
+    "word": "vài",
+    "probability": 0.99
+  },
+  {
+    "start": 2.887,
+    "end": 3.088,
+    "word": "chiếc",
+    "probability": 0.8293288718595779
+  },
+  {
+    "start": 3.088,
+    "end": 3.228,
+    "word": "cúc",
+    "probability": 0.9168211385222189
+  },
+  {
+    "start": 3.228,
+    "end": 3.469,
+    "word": "áo",
+    "probability": 0.9446929499211366
+  },
+  {
+    "start": 3.469,
+    "end": 3.629,
+    "word": "bị",
+    "probability": 0.9191505484236853
+  },
+  {
+    "start": 3.629,
+    "end": 3.769,
+    "word": "đứt",
+    "probability": 0.9894403985413059
+  },
+  {
+    "start": 3.769,
+    "end": 3.97,
+    "word": "ra",
+    "probability": 0.9409478686727388
+  },
+  {
+    "start": 3.97,
+    "end": 4.15,
+    "word": "ngay",
+    "probability": 0.9546550836510358
+  },
+  {
+    "start": 4.15,
+    "end": 4.271,
+    "word": "lập",
+    "probability": 0.9308216387199797
+  },
+  {
+    "start": 4.271,
+    "end": 4.471,
+    "word": "tức",
+    "probability": 0.9714665482146653
+  },
+  {
+    "start": 4.471,
+    "end": 5.414,
+    "word": "Má",
+    "probability": 0.99
+  },
+  {
+    "start": 5.414,
+    "end": 5.574,
+    "word": "chú",
+    "probability": 0.8550414402826406
+  },
+  {
+    "start": 5.574,
+    "end": 5.794,
+    "word": "thở",
+    "probability": 0.8929628106588408
+  },
+  {
+    "start": 5.794,
+    "end": 6.135,
+    "word": "dài",
+    "probability": 0.9127059052828823
+  },
+  {
+    "start": 6.135,
+    "end": 6.376,
+    "word": "và",
+    "probability": 0.9814031631504471
+  },
+  {
+    "start": 6.376,
+    "end": 6.576,
+    "word": "khâu",
+    "probability": 0.8045635279191675
+  },
+  {
+    "start": 6.576,
+    "end": 6.777,
+    "word": "chúng",
+    "probability": 0.8703561358262517
+  },
+  {
+    "start": 6.777,
+    "end": 6.997,
+    "word": "lại",
+    "probability": 0.9665486722348242
+  }
+]

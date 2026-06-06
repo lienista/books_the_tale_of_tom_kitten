@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.181,
+    "word": "Hun",
+    "probability": 0.9045923083423141
+  },
+  {
+    "start": 0.181,
+    "end": 0.682,
+    "word": "dro",
+    "probability": 0.99
+  },
+  {
+    "start": 0.682,
+    "end": 1.003,
+    "word": "dem",
+    "probability": 0.9392175207646807
+  },
+  {
+    "start": 1.003,
+    "end": 1.304,
+    "word": "av",
+    "probability": 0.986523020638953
+  },
+  {
+    "start": 1.304,
+    "end": 1.745,
+    "word": "muren",
+    "probability": 0.9088183765611173
+  },
+  {
+    "start": 1.745,
+    "end": 2.688,
+    "word": "skyndte",
+    "probability": 0.935527431284439
+  },
+  {
+    "start": 2.688,
+    "end": 2.908,
+    "word": "dem",
+    "probability": 0.9804702167925005
+  },
+  {
+    "start": 2.908,
+    "end": 3.089,
+    "word": "av",
+    "probability": 0.99
+  },
+  {
+    "start": 3.089,
+    "end": 3.51,
+    "word": "gårde",
+    "probability": 0.97522872870398
+  },
+  {
+    "start": 3.51,
+    "end": 3.951,
+    "word": "og",
+    "probability": 0.9425585795095799
+  },
+  {
+    "start": 3.951,
+    "end": 4.312,
+    "word": "tok",
+    "probability": 0.99
+  },
+  {
+    "start": 4.312,
+    "end": 4.533,
+    "word": "dem",
+    "probability": 0.99
+  },
+  {
+    "start": 4.533,
+    "end": 5.115,
+    "word": "tilbake",
+    "probability": 0.8769716101292534
+  },
+  {
+    "start": 5.115,
+    "end": 5.355,
+    "word": "til",
+    "probability": 0.8902854079882209
+  },
+  {
+    "start": 5.355,
+    "end": 5.756,
+    "word": "huset",
+    "probability": 0.9429693447690267
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.541,
+    "word": "Kedysi",
+    "probability": 0.9097998111118681
+  },
+  {
+    "start": 0.541,
+    "end": 1.141,
+    "word": "dávno",
+    "probability": 0.9473128270289652
+  },
+  {
+    "start": 1.141,
+    "end": 1.462,
+    "word": "boli",
+    "probability": 0.962306168489808
+  },
+  {
+    "start": 1.462,
+    "end": 1.802,
+    "word": "tri",
+    "probability": 0.9414739949442681
+  },
+  {
+    "start": 1.802,
+    "end": 2.203,
+    "word": "malé",
+    "probability": 0.9051454015154758
+  },
+  {
+    "start": 2.203,
+    "end": 3.064,
+    "word": "mačiatka",
+    "probability": 0.99
+  },
+  {
+    "start": 3.064,
+    "end": 3.484,
+    "word": "menom",
+    "probability": 0.9409326370991495
+  },
+  {
+    "start": 3.484,
+    "end": 4.205,
+    "word": "Mittens",
+    "probability": 0.9706420979168272
+  },
+  {
+    "start": 4.205,
+    "end": 5.026,
+    "word": "Tom",
+    "probability": 0.9835021780354268
+  },
+  {
+    "start": 5.026,
+    "end": 5.667,
+    "word": "Kitten",
+    "probability": 0.9141969333635568
+  },
+  {
+    "start": 5.667,
+    "end": 6.348,
+    "word": "a",
+    "probability": 0.9728998348557873
+  },
+  {
+    "start": 6.348,
+    "end": 7.009,
+    "word": "Moppet",
+    "probability": 0.9297961908374769
+  },
+  {
+    "start": 7.009,
+    "end": 7.95,
+    "word": "Mali",
+    "probability": 0.99
+  },
+  {
+    "start": 7.95,
+    "end": 8.591,
+    "word": "krásne",
+    "probability": 0.980252583228367
+  },
+  {
+    "start": 8.591,
+    "end": 9.312,
+    "word": "kožuchy",
+    "probability": 0.972395799267293
+  },
+  {
+    "start": 9.312,
+    "end": 10.093,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 10.093,
+    "end": 10.753,
+    "word": "trávili",
+    "probability": 0.9744134557198149
+  },
+  {
+    "start": 10.753,
+    "end": 11.134,
+    "word": "dni",
+    "probability": 0.9451109472983463
+  },
+  {
+    "start": 11.134,
+    "end": 12.295,
+    "word": "kotúľaním",
+    "probability": 0.9456296840400986
+  },
+  {
+    "start": 12.295,
+    "end": 12.596,
+    "word": "sa",
+    "probability": 0.9692345128841967
+  },
+  {
+    "start": 12.596,
+    "end": 13.337,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 13.337,
+    "end": 14.018,
+    "word": "verande",
+    "probability": 0.9717227917180304
+  },
+  {
+    "start": 14.018,
+    "end": 14.278,
+    "word": "a",
+    "probability": 0.9750782918570795
+  },
+  {
+    "start": 14.278,
+    "end": 14.899,
+    "word": "hraním",
+    "probability": 0.9876744421751927
+  },
+  {
+    "start": 14.899,
+    "end": 15.159,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 15.159,
+    "end": 15.239,
+    "word": "v",
+    "probability": 0.9443323061957822
+  },
+  {
+    "start": 15.239,
+    "end": 15.72,
+    "word": "špine",
+    "probability": 0.99
+  }
+]

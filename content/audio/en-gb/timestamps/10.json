@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.922,
+    "end": 1.142,
+    "word": "They",
+    "probability": 0.6234325458943869
+  },
+  {
+    "start": 1.142,
+    "end": 1.503,
+    "word": "turned",
+    "probability": 0.5545485194534487
+  },
+  {
+    "start": 1.503,
+    "end": 1.764,
+    "word": "their",
+    "probability": 0.45288953525712106
+  },
+  {
+    "start": 1.764,
+    "end": 2.164,
+    "word": "dresses",
+    "probability": 0.46930995700814365
+  },
+  {
+    "start": 2.164,
+    "end": 2.405,
+    "word": "backward",
+    "probability": 0.15746452942365854
+  },
+  {
+    "start": 2.405,
+    "end": 2.465,
+    "word": "so",
+    "probability": 0.331911731902347
+  },
+  {
+    "start": 2.465,
+    "end": 2.746,
+    "word": "they",
+    "probability": 0.5722347857003888
+  },
+  {
+    "start": 2.746,
+    "end": 3.126,
+    "word": "could",
+    "probability": 0.6310113347087378
+  },
+  {
+    "start": 3.126,
+    "end": 3.387,
+    "word": "move",
+    "probability": 0.5212757278979272
+  },
+  {
+    "start": 3.387,
+    "end": 3.808,
+    "word": "better",
+    "probability": 0.6543735845260584
+  },
+  {
+    "start": 3.808,
+    "end": 4.008,
+    "word": "and",
+    "probability": 0.622853993254955
+  },
+  {
+    "start": 4.008,
+    "end": 5.03,
+    "word": "jumped",
+    "probability": 0.8622864241195035
+  },
+  {
+    "start": 5.03,
+    "end": 5.091,
+    "word": "up",
+    "probability": 0.01
+  },
+  {
+    "start": 5.091,
+    "end": 5.311,
+    "word": "Moppets",
+    "probability": 0.2689820495636529
+  },
+  {
+    "start": 5.311,
+    "end": 5.692,
+    "word": "white",
+    "probability": 0.6374621163894901
+  },
+  {
+    "start": 5.692,
+    "end": 6.032,
+    "word": "lace",
+    "probability": 0.6261870663301691
+  },
+  {
+    "start": 6.032,
+    "end": 6.453,
+    "word": "collar",
+    "probability": 0.6794280810336895
+  },
+  {
+    "start": 6.453,
+    "end": 6.874,
+    "word": "fell",
+    "probability": 0.7107479630459858
+  },
+  {
+    "start": 6.874,
+    "end": 7.235,
+    "word": "down",
+    "probability": 0.6255292028284818
+  },
+  {
+    "start": 7.235,
+    "end": 7.576,
+    "word": "into",
+    "probability": 0.753981149482605
+  },
+  {
+    "start": 7.576,
+    "end": 7.736,
+    "word": "the",
+    "probability": 0.5814937655846628
+  },
+  {
+    "start": 7.736,
+    "end": 8.037,
+    "word": "road",
+    "probability": 0.6549962059129094
+  }
+]

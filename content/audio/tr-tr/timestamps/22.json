@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.501,
+    "word": "Onları",
+    "probability": 0.99
+  },
+  {
+    "start": 0.501,
+    "end": 1.001,
+    "word": "yukarı",
+    "probability": 0.9897597939738325
+  },
+  {
+    "start": 1.001,
+    "end": 1.842,
+    "word": "gönderdi",
+    "probability": 0.9798209522053221
+  },
+  {
+    "start": 1.842,
+    "end": 2.282,
+    "word": "ve",
+    "probability": 0.9847413729680906
+  },
+  {
+    "start": 2.282,
+    "end": 3.223,
+    "word": "üzülerek",
+    "probability": 0.9881164713038375
+  },
+  {
+    "start": 3.223,
+    "end": 4.164,
+    "word": "söylemeliyim",
+    "probability": 0.9835617899563803
+  },
+  {
+    "start": 4.164,
+    "end": 4.424,
+    "word": "ki",
+    "probability": 0.9615160248033363
+  },
+  {
+    "start": 4.424,
+    "end": 5.506,
+    "word": "arkadaşlarına",
+    "probability": 0.9840596648985499
+  },
+  {
+    "start": 5.506,
+    "end": 6.146,
+    "word": "yatakta",
+    "probability": 0.9814309353238688
+  },
+  {
+    "start": 6.146,
+    "end": 6.907,
+    "word": "soğuk",
+    "probability": 0.99
+  },
+  {
+    "start": 6.907,
+    "end": 7.688,
+    "word": "algınlığı",
+    "probability": 0.99
+  },
+  {
+    "start": 7.688,
+    "end": 8.709,
+    "word": "geçirdiklerini",
+    "probability": 0.99
+  },
+  {
+    "start": 8.709,
+    "end": 9.349,
+    "word": "söyledi",
+    "probability": 0.9682613265831197
+  },
+  {
+    "start": 9.349,
+    "end": 9.85,
+    "word": "bu",
+    "probability": 0.9787724709367643
+  },
+  {
+    "start": 9.85,
+    "end": 10.33,
+    "word": "doğru",
+    "probability": 0.9850895126526967
+  },
+  {
+    "start": 10.33,
+    "end": 10.851,
+    "word": "değildi",
+    "probability": 0.9854821099849382
+  }
+]

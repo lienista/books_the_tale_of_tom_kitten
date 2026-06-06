@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.541,
+    "word": "Otočily",
+    "probability": 0.99
+  },
+  {
+    "start": 0.541,
+    "end": 0.721,
+    "word": "si",
+    "probability": 0.9491615531931828
+  },
+  {
+    "start": 0.721,
+    "end": 1.121,
+    "word": "šaty",
+    "probability": 0.99
+  },
+  {
+    "start": 1.121,
+    "end": 1.602,
+    "word": "dozadu",
+    "probability": 0.9549139444805045
+  },
+  {
+    "start": 1.602,
+    "end": 2.102,
+    "word": "aby",
+    "probability": 0.99
+  },
+  {
+    "start": 2.102,
+    "end": 2.303,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 2.303,
+    "end": 2.663,
+    "word": "mohly",
+    "probability": 0.9790673651911805
+  },
+  {
+    "start": 2.663,
+    "end": 3.064,
+    "word": "lépe",
+    "probability": 0.9719961539178472
+  },
+  {
+    "start": 3.064,
+    "end": 3.865,
+    "word": "pohybovat",
+    "probability": 0.9840961946896709
+  },
+  {
+    "start": 3.865,
+    "end": 4.165,
+    "word": "a",
+    "probability": 0.9861831512477631
+  },
+  {
+    "start": 4.165,
+    "end": 4.846,
+    "word": "vyskočily",
+    "probability": 0.9824920924040905
+  },
+  {
+    "start": 4.846,
+    "end": 5.306,
+    "word": "nahoru",
+    "probability": 0.9086591359414452
+  },
+  {
+    "start": 5.306,
+    "end": 6.528,
+    "word": "Moppetin",
+    "probability": 0.9700797310851622
+  },
+  {
+    "start": 6.528,
+    "end": 6.928,
+    "word": "bílý",
+    "probability": 0.9836366084443353
+  },
+  {
+    "start": 6.928,
+    "end": 7.609,
+    "word": "krajkový",
+    "probability": 0.99
+  },
+  {
+    "start": 7.609,
+    "end": 8.27,
+    "word": "límeček",
+    "probability": 0.9837248627074688
+  },
+  {
+    "start": 8.27,
+    "end": 8.69,
+    "word": "spadl",
+    "probability": 0.9707507919220671
+  },
+  {
+    "start": 8.69,
+    "end": 8.871,
+    "word": "na",
+    "probability": 0.9204952495986256
+  },
+  {
+    "start": 8.871,
+    "end": 9.311,
+    "word": "cestu",
+    "probability": 0.99
+  }
+]

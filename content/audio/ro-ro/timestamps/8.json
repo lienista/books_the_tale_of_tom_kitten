@@ -1,0 +1,314 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.22,
+    "word": "Când",
+    "probability": 0.978109841947898
+  },
+  {
+    "start": 0.22,
+    "end": 0.44,
+    "word": "cele",
+    "probability": 0.8629973739397147
+  },
+  {
+    "start": 0.44,
+    "end": 0.68,
+    "word": "trei",
+    "probability": 0.9353408177529084
+  },
+  {
+    "start": 0.68,
+    "end": 1.321,
+    "word": "pisicuțe",
+    "probability": 0.9632055396074342
+  },
+  {
+    "start": 1.321,
+    "end": 1.601,
+    "word": "erau",
+    "probability": 0.9332907238797387
+  },
+  {
+    "start": 1.601,
+    "end": 1.961,
+    "word": "gata",
+    "probability": 0.891631762811515
+  },
+  {
+    "start": 1.961,
+    "end": 2.382,
+    "word": "doamna",
+    "probability": 0.9570444773869992
+  },
+  {
+    "start": 2.382,
+    "end": 2.922,
+    "word": "Tabitha",
+    "probability": 0.9080700351127355
+  },
+  {
+    "start": 2.922,
+    "end": 3.022,
+    "word": "a",
+    "probability": 0.8989981091444299
+  },
+  {
+    "start": 3.022,
+    "end": 3.362,
+    "word": "făcut",
+    "probability": 0.9609748363180609
+  },
+  {
+    "start": 3.362,
+    "end": 3.462,
+    "word": "o",
+    "probability": 0.9296048859987419
+  },
+  {
+    "start": 3.462,
+    "end": 4.003,
+    "word": "greșeală",
+    "probability": 0.9615279243433749
+  },
+  {
+    "start": 4.003,
+    "end": 4.703,
+    "word": "și",
+    "probability": 0.9830439719704027
+  },
+  {
+    "start": 4.703,
+    "end": 4.863,
+    "word": "lea",
+    "probability": 0.8879816501847311
+  },
+  {
+    "start": 4.863,
+    "end": 5.303,
+    "word": "trimis",
+    "probability": 0.8692378169788456
+  },
+  {
+    "start": 5.303,
+    "end": 5.424,
+    "word": "în",
+    "probability": 0.9136948557994442
+  },
+  {
+    "start": 5.424,
+    "end": 5.964,
+    "word": "grădină",
+    "probability": 0.9732816889818839
+  },
+  {
+    "start": 5.964,
+    "end": 6.304,
+    "word": "în",
+    "probability": 0.9884524530635723
+  },
+  {
+    "start": 6.304,
+    "end": 6.564,
+    "word": "timp",
+    "probability": 0.9084324792303821
+  },
+  {
+    "start": 6.564,
+    "end": 6.704,
+    "word": "ce",
+    "probability": 0.9569970824978634
+  },
+  {
+    "start": 6.704,
+    "end": 6.845,
+    "word": "ea",
+    "probability": 0.8276206843295206
+  },
+  {
+    "start": 6.845,
+    "end": 7.385,
+    "word": "pregătea",
+    "probability": 0.9116979621695948
+  },
+  {
+    "start": 7.385,
+    "end": 7.765,
+    "word": "pâine",
+    "probability": 0.9364948222847022
+  },
+  {
+    "start": 7.765,
+    "end": 8.285,
+    "word": "prăjită",
+    "probability": 0.9832468289189096
+  },
+  {
+    "start": 8.285,
+    "end": 8.486,
+    "word": "cu",
+    "probability": 0.9566535524739392
+  },
+  {
+    "start": 8.486,
+    "end": 8.846,
+    "word": "unt",
+    "probability": 0.9702393391721685
+  },
+  {
+    "start": 8.846,
+    "end": 9.706,
+    "word": "Acum",
+    "probability": 0.9806866468917829
+  },
+  {
+    "start": 9.706,
+    "end": 10.447,
+    "word": "păstrațivă",
+    "probability": 0.9388192568850886
+  },
+  {
+    "start": 10.447,
+    "end": 10.947,
+    "word": "hainele",
+    "probability": 0.9251730144183442
+  },
+  {
+    "start": 10.947,
+    "end": 11.448,
+    "word": "curate",
+    "probability": 0.9839364334399973
+  },
+  {
+    "start": 11.448,
+    "end": 11.888,
+    "word": "copii",
+    "probability": 0.9687401300001482
+  },
+  {
+    "start": 11.888,
+    "end": 13.069,
+    "word": "Mergeți",
+    "probability": 0.9722648956795306
+  },
+  {
+    "start": 13.069,
+    "end": 13.189,
+    "word": "pe",
+    "probability": 0.9534180345084712
+  },
+  {
+    "start": 13.189,
+    "end": 13.689,
+    "word": "picioarele",
+    "probability": 0.9470476161667272
+  },
+  {
+    "start": 13.689,
+    "end": 13.889,
+    "word": "din",
+    "probability": 0.99
+  },
+  {
+    "start": 13.889,
+    "end": 14.43,
+    "word": "spate",
+    "probability": 0.9796692817360034
+  },
+  {
+    "start": 14.43,
+    "end": 15.25,
+    "word": "Stați",
+    "probability": 0.980550472082602
+  },
+  {
+    "start": 15.25,
+    "end": 15.75,
+    "word": "departe",
+    "probability": 0.9181604681028039
+  },
+  {
+    "start": 15.75,
+    "end": 15.89,
+    "word": "de",
+    "probability": 0.9783434119150448
+  },
+  {
+    "start": 15.89,
+    "end": 16.331,
+    "word": "groapa",
+    "probability": 0.9782131029245908
+  },
+  {
+    "start": 16.331,
+    "end": 16.511,
+    "word": "cu",
+    "probability": 0.9543426140088772
+  },
+  {
+    "start": 16.511,
+    "end": 17.031,
+    "word": "cenușă",
+    "probability": 0.9583137294133545
+  },
+  {
+    "start": 17.031,
+    "end": 17.772,
+    "word": "noroioasă",
+    "probability": 0.948665405276547
+  },
+  {
+    "start": 17.772,
+    "end": 18.672,
+    "word": "Sally",
+    "probability": 0.9218352483929828
+  },
+  {
+    "start": 18.672,
+    "end": 19.713,
+    "word": "HennyPenny",
+    "probability": 0.8129453093252216
+  },
+  {
+    "start": 19.713,
+    "end": 20.594,
+    "word": "cotețul",
+    "probability": 0.9689656088438834
+  },
+  {
+    "start": 20.594,
+    "end": 20.714,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 20.714,
+    "end": 21.294,
+    "word": "porci",
+    "probability": 0.9735307268050586
+  },
+  {
+    "start": 21.294,
+    "end": 21.734,
+    "word": "și",
+    "probability": 0.9897252310466957
+  },
+  {
+    "start": 21.734,
+    "end": 22.095,
+    "word": "acele",
+    "probability": 0.9409366974485107
+  },
+  {
+    "start": 22.095,
+    "end": 22.515,
+    "word": "rațe",
+    "probability": 0.9607563490074037
+  },
+  {
+    "start": 22.515,
+    "end": 23.155,
+    "word": "PuddleDuck",
+    "probability": 0.8001998401332104
+  }
+]

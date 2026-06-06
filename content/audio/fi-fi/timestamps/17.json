@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.033,
+    "end": 0.267,
+    "word": "Herra",
+    "probability": 0.42857143024131356
+  },
+  {
+    "start": 0.267,
+    "end": 0.701,
+    "word": "Drake",
+    "probability": 0.537598385848394
+  },
+  {
+    "start": 0.701,
+    "end": 1.338,
+    "word": "PuddleDuck",
+    "probability": 0.47045698559584403
+  },
+  {
+    "start": 1.338,
+    "end": 1.839,
+    "word": "vaappui",
+    "probability": 0.5311109633392733
+  },
+  {
+    "start": 1.839,
+    "end": 2.542,
+    "word": "hitaasti",
+    "probability": 0.5677750067720168
+  },
+  {
+    "start": 2.542,
+    "end": 3.577,
+    "word": "sivuttain",
+    "probability": 0.7090168688509073
+  },
+  {
+    "start": 3.577,
+    "end": 3.777,
+    "word": "ja",
+    "probability": 0.5767303470494635
+  },
+  {
+    "start": 3.777,
+    "end": 4.347,
+    "word": "poimi",
+    "probability": 0.587698987468416
+  },
+  {
+    "start": 4.347,
+    "end": 5.182,
+    "word": "erilaisia",
+    "probability": 0.6256877467367163
+  },
+  {
+    "start": 5.182,
+    "end": 5.616,
+    "word": "esineitä",
+    "probability": 0.3846151652719644
+  }
+]

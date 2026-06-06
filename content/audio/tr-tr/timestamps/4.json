@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.422,
+    "word": "Sonra",
+    "probability": 0.99
+  },
+  {
+    "start": 0.422,
+    "end": 1.106,
+    "word": "kürklerini",
+    "probability": 0.9649548581130483
+  },
+  {
+    "start": 1.106,
+    "end": 1.87,
+    "word": "fırçaladı",
+    "probability": 0.99
+  },
+  {
+    "start": 1.87,
+    "end": 2.292,
+    "word": "bu",
+    "probability": 0.99
+  },
+  {
+    "start": 2.292,
+    "end": 2.875,
+    "word": "Mittens",
+    "probability": 0.9339374152154744
+  }
+]

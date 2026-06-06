@@ -1,0 +1,128 @@
+[
+  {
+    "start": 5.844,
+    "end": 6.044,
+    "word": "Okrenuli",
+    "probability": 0.3004274964421306
+  },
+  {
+    "start": 6.044,
+    "end": 6.324,
+    "word": "su",
+    "probability": 0.7857671136527877
+  },
+  {
+    "start": 6.324,
+    "end": 6.485,
+    "word": "haljine",
+    "probability": 0.01
+  },
+  {
+    "start": 6.485,
+    "end": 6.905,
+    "word": "unatrag",
+    "probability": 0.5916646524354605
+  },
+  {
+    "start": 6.905,
+    "end": 7.085,
+    "word": "kako",
+    "probability": 0.34695940801344555
+  },
+  {
+    "start": 7.085,
+    "end": 7.185,
+    "word": "bi",
+    "probability": 0.19919099766090215
+  },
+  {
+    "start": 7.185,
+    "end": 7.345,
+    "word": "se",
+    "probability": 0.5128575190047058
+  },
+  {
+    "start": 7.345,
+    "end": 7.485,
+    "word": "mogli",
+    "probability": 0.14091078829634265
+  },
+  {
+    "start": 7.485,
+    "end": 7.866,
+    "word": "bolje",
+    "probability": 0.6842423989738841
+  },
+  {
+    "start": 7.866,
+    "end": 8.206,
+    "word": "kretati",
+    "probability": 0.5244139697645434
+  },
+  {
+    "start": 8.206,
+    "end": 8.266,
+    "word": "i",
+    "probability": 0.33307834147707543
+  },
+  {
+    "start": 8.266,
+    "end": 8.866,
+    "word": "skočili",
+    "probability": 0.7322537866206017
+  },
+  {
+    "start": 8.866,
+    "end": 9.126,
+    "word": "gore",
+    "probability": 0.5808285046186584
+  },
+  {
+    "start": 9.126,
+    "end": 9.407,
+    "word": "Moppetin",
+    "probability": 0.427403465645653
+  },
+  {
+    "start": 9.407,
+    "end": 10.007,
+    "word": "bijeli",
+    "probability": 0.7418685711983755
+  },
+  {
+    "start": 10.007,
+    "end": 10.588,
+    "word": "čipkasti",
+    "probability": 0.6889603761235579
+  },
+  {
+    "start": 10.588,
+    "end": 10.668,
+    "word": "ovratnik",
+    "probability": 0.01
+  },
+  {
+    "start": 10.668,
+    "end": 10.688,
+    "word": "pao",
+    "probability": 0.01
+  },
+  {
+    "start": 10.668,
+    "end": 10.688,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 10.668,
+    "end": 10.688,
+    "word": "na",
+    "probability": 0.01
+  },
+  {
+    "start": 10.668,
+    "end": 10.688,
+    "word": "cestu",
+    "probability": 0.01
+  }
+]

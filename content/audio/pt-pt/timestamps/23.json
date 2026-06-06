@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.3,
+    "word": "Pelo",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 1.021,
+    "word": "contrário",
+    "probability": 0.99
+  },
+  {
+    "start": 1.021,
+    "end": 2.023,
+    "word": "eles",
+    "probability": 0.9694980145342278
+  },
+  {
+    "start": 2.023,
+    "end": 2.223,
+    "word": "não",
+    "probability": 0.9685597184055117
+  },
+  {
+    "start": 2.223,
+    "end": 2.724,
+    "word": "estavam",
+    "probability": 0.99
+  },
+  {
+    "start": 2.724,
+    "end": 2.884,
+    "word": "na",
+    "probability": 0.942311436330576
+  },
+  {
+    "start": 2.884,
+    "end": 3.225,
+    "word": "cama",
+    "probability": 0.9880923669242944
+  },
+  {
+    "start": 3.225,
+    "end": 3.365,
+    "word": "de",
+    "probability": 0.9135543652140761
+  },
+  {
+    "start": 3.365,
+    "end": 3.725,
+    "word": "todo",
+    "probability": 0.99
+  }
+]

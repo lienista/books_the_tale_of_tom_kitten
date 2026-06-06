@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.341,
+    "word": "Mens",
+    "probability": 0.9324786638002251
+  },
+  {
+    "start": 0.341,
+    "end": 0.481,
+    "word": "de",
+    "probability": 0.8124467255254413
+  },
+  {
+    "start": 0.481,
+    "end": 0.962,
+    "word": "strevde",
+    "probability": 0.8641344789689244
+  },
+  {
+    "start": 0.962,
+    "end": 1.402,
+    "word": "hørte",
+    "probability": 0.8373168850545837
+  },
+  {
+    "start": 1.402,
+    "end": 1.563,
+    "word": "de",
+    "probability": 0.807816168564597
+  },
+  {
+    "start": 1.563,
+    "end": 1.663,
+    "word": "en",
+    "probability": 0.7972855656919886
+  },
+  {
+    "start": 1.663,
+    "end": 3.626,
+    "word": "pitpatpaddlepat",
+    "probability": 0.8758967659201843
+  },
+  {
+    "start": 3.626,
+    "end": 4.247,
+    "word": "De",
+    "probability": 0.99
+  },
+  {
+    "start": 4.247,
+    "end": 4.527,
+    "word": "tre",
+    "probability": 0.9750621506627815
+  },
+  {
+    "start": 4.527,
+    "end": 5.469,
+    "word": "PuddleDucks",
+    "probability": 0.8717508832077483
+  },
+  {
+    "start": 5.469,
+    "end": 5.709,
+    "word": "kom",
+    "probability": 0.99
+  },
+  {
+    "start": 5.709,
+    "end": 6.39,
+    "word": "marsjerende",
+    "probability": 0.7689408552512572
+  },
+  {
+    "start": 6.39,
+    "end": 6.911,
+    "word": "nedover",
+    "probability": 0.873274252727015
+  },
+  {
+    "start": 6.911,
+    "end": 7.312,
+    "word": "veien",
+    "probability": 0.9661751390456305
+  },
+  {
+    "start": 7.312,
+    "end": 7.492,
+    "word": "på",
+    "probability": 0.9567729651027251
+  },
+  {
+    "start": 7.492,
+    "end": 7.953,
+    "word": "rekke",
+    "probability": 0.9005099254053973
+  },
+  {
+    "start": 7.953,
+    "end": 8.093,
+    "word": "og",
+    "probability": 0.8381650918225312
+  },
+  {
+    "start": 8.093,
+    "end": 8.354,
+    "word": "rad",
+    "probability": 0.8527508121758517
+  },
+  {
+    "start": 8.354,
+    "end": 8.835,
+    "word": "med",
+    "probability": 0.9112204154211344
+  },
+  {
+    "start": 8.835,
+    "end": 9.035,
+    "word": "sin",
+    "probability": 0.9795367321356944
+  },
+  {
+    "start": 9.035,
+    "end": 9.636,
+    "word": "rytmiske",
+    "probability": 0.989389752362737
+  },
+  {
+    "start": 9.636,
+    "end": 11.88,
+    "word": "vaggpitpatpaddlepat",
+    "probability": 0.8557658376779413
+  },
+  {
+    "start": 11.88,
+    "end": 13.743,
+    "word": "pitpatvaddlepat",
+    "probability": 0.880085250759067
+  }
+]

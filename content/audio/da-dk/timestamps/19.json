@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.16,
+    "word": "Så",
+    "probability": 0.9699359394270471
+  },
+  {
+    "start": 0.16,
+    "end": 0.461,
+    "word": "satte",
+    "probability": 0.9184365352584515
+  },
+  {
+    "start": 0.461,
+    "end": 0.681,
+    "word": "han",
+    "probability": 0.9396527032990701
+  },
+  {
+    "start": 0.681,
+    "end": 1.483,
+    "word": "Jemima",
+    "probability": 0.9288122851133972
+  },
+  {
+    "start": 1.483,
+    "end": 1.723,
+    "word": "og",
+    "probability": 0.9711146783929551
+  },
+  {
+    "start": 1.723,
+    "end": 2.224,
+    "word": "Rebeccah",
+    "probability": 0.8363726314599293
+  },
+  {
+    "start": 2.224,
+    "end": 2.805,
+    "word": "PuddleDuck",
+    "probability": 0.7370781855151151
+  },
+  {
+    "start": 2.805,
+    "end": 3.026,
+    "word": "af",
+    "probability": 0.889747666727231
+  },
+  {
+    "start": 3.026,
+    "end": 3.226,
+    "word": "sted",
+    "probability": 0.9404928228493462
+  },
+  {
+    "start": 3.226,
+    "end": 3.406,
+    "word": "op",
+    "probability": 0.9600985354429208
+  },
+  {
+    "start": 3.406,
+    "end": 3.567,
+    "word": "ad",
+    "probability": 0.81594781042547
+  },
+  {
+    "start": 3.567,
+    "end": 3.867,
+    "word": "vejen",
+    "probability": 0.9619364040555951
+  },
+  {
+    "start": 3.867,
+    "end": 4.208,
+    "word": "i",
+    "probability": 0.9618540610591422
+  },
+  {
+    "start": 4.208,
+    "end": 5.29,
+    "word": "taktpitpat",
+    "probability": 0.8476394765797501
+  },
+  {
+    "start": 5.29,
+    "end": 6.071,
+    "word": "paddlepat",
+    "probability": 0.8009565697959128
+  },
+  {
+    "start": 6.071,
+    "end": 6.753,
+    "word": "pitpat",
+    "probability": 0.8295214167697261
+  },
+  {
+    "start": 6.753,
+    "end": 7.374,
+    "word": "waddlepat",
+    "probability": 0.7992958183328437
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.421,
+    "word": "Potom",
+    "probability": 0.9698239439150395
+  },
+  {
+    "start": 0.421,
+    "end": 1.162,
+    "word": "Tabitha",
+    "probability": 0.9451724787387971
+  },
+  {
+    "start": 1.162,
+    "end": 1.903,
+    "word": "Twitchit",
+    "probability": 0.8664817987316551
+  },
+  {
+    "start": 1.903,
+    "end": 2.463,
+    "word": "prišla",
+    "probability": 0.8913472677296829
+  },
+  {
+    "start": 2.463,
+    "end": 2.664,
+    "word": "do",
+    "probability": 0.9141938035832597
+  },
+  {
+    "start": 2.664,
+    "end": 3.385,
+    "word": "záhrady",
+    "probability": 0.9289138852562151
+  },
+  {
+    "start": 3.385,
+    "end": 4.226,
+    "word": "a",
+    "probability": 0.9888184673844791
+  },
+  {
+    "start": 4.226,
+    "end": 4.726,
+    "word": "našla",
+    "probability": 0.9232811708736663
+  },
+  {
+    "start": 4.726,
+    "end": 5.107,
+    "word": "svoje",
+    "probability": 0.99
+  },
+  {
+    "start": 5.107,
+    "end": 5.888,
+    "word": "mačiatka",
+    "probability": 0.9876857697469058
+  },
+  {
+    "start": 5.888,
+    "end": 6.108,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 6.108,
+    "end": 6.529,
+    "word": "múre",
+    "probability": 0.9487745750300757
+  },
+  {
+    "start": 6.529,
+    "end": 7.21,
+    "word": "bez",
+    "probability": 0.99
+  },
+  {
+    "start": 7.21,
+    "end": 7.991,
+    "word": "oblečenia",
+    "probability": 0.972545845725657
+  }
+]

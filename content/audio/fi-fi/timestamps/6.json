@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.064,
+    "end": 0.255,
+    "word": "Rouva",
+    "probability": 0.3333324002988324
+  },
+  {
+    "start": 0.255,
+    "end": 0.702,
+    "word": "Tabitha",
+    "probability": 0.42806162142959686
+  },
+  {
+    "start": 0.702,
+    "end": 0.957,
+    "word": "puki",
+    "probability": 0.37159119388387535
+  },
+  {
+    "start": 0.957,
+    "end": 1.468,
+    "word": "Moppetin",
+    "probability": 0.48671202342480757
+  },
+  {
+    "start": 1.468,
+    "end": 1.564,
+    "word": "ja",
+    "probability": 0.2750209847402703
+  },
+  {
+    "start": 1.564,
+    "end": 2.202,
+    "word": "Mittensin",
+    "probability": 0.5000088326757451
+  },
+  {
+    "start": 2.202,
+    "end": 3.064,
+    "word": "puhtaisiin",
+    "probability": 0.5392016016280041
+  },
+  {
+    "start": 3.064,
+    "end": 3.638,
+    "word": "pieniin",
+    "probability": 0.506271005120544
+  },
+  {
+    "start": 3.638,
+    "end": 4.436,
+    "word": "mekkoihin",
+    "probability": 0.5979494266284492
+  },
+  {
+    "start": 4.436,
+    "end": 4.627,
+    "word": "ja",
+    "probability": 0.49969073119603985
+  },
+  {
+    "start": 4.627,
+    "end": 5.745,
+    "word": "pitsikauluksiin",
+    "probability": 0.5566827807728914
+  },
+  {
+    "start": 5.745,
+    "end": 6.224,
+    "word": "Sitten",
+    "probability": 0.5999230542966991
+  },
+  {
+    "start": 6.224,
+    "end": 6.479,
+    "word": "hän",
+    "probability": 0.4999467189840515
+  },
+  {
+    "start": 6.479,
+    "end": 6.797,
+    "word": "veti",
+    "probability": 0.5697101250533196
+  },
+  {
+    "start": 6.797,
+    "end": 7.436,
+    "word": "vanhasta",
+    "probability": 0.5449560894699423
+  },
+  {
+    "start": 7.436,
+    "end": 8.265,
+    "word": "lipastosta",
+    "probability": 0.5728845489467693
+  },
+  {
+    "start": 8.265,
+    "end": 8.745,
+    "word": "jäykät",
+    "probability": 0.5301065434871163
+  },
+  {
+    "start": 8.745,
+    "end": 9.32,
+    "word": "hienot",
+    "probability": 0.5926395398631498
+  },
+  {
+    "start": 9.32,
+    "end": 10.915,
+    "word": "vaatteet",
+    "probability": 0.8087106197526291
+  },
+  {
+    "start": 10.915,
+    "end": 11.235,
+    "word": "Tomille",
+    "probability": 0.3924009537162653
+  }
+]

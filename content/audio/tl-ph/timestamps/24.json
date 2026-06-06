@@ -1,0 +1,254 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.18,
+    "word": "Sa",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.721,
+    "word": "halip",
+    "probability": 0.9771132304333293
+  },
+  {
+    "start": 0.721,
+    "end": 1.522,
+    "word": "may",
+    "probability": 0.99
+  },
+  {
+    "start": 1.522,
+    "end": 1.762,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 1.762,
+    "end": 2.363,
+    "word": "kakaibang",
+    "probability": 0.9836305904861503
+  },
+  {
+    "start": 2.363,
+    "end": 2.884,
+    "word": "ingay",
+    "probability": 0.99
+  },
+  {
+    "start": 2.884,
+    "end": 3.024,
+    "word": "na",
+    "probability": 0.8572506544555825
+  },
+  {
+    "start": 3.024,
+    "end": 3.845,
+    "word": "nanggagaling",
+    "probability": 0.894871021820938
+  },
+  {
+    "start": 3.845,
+    "end": 4.045,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 4.045,
+    "end": 4.706,
+    "word": "itaas",
+    "probability": 0.9737424135044409
+  },
+  {
+    "start": 4.706,
+    "end": 5.447,
+    "word": "na",
+    "probability": 0.9892318870587792
+  },
+  {
+    "start": 5.447,
+    "end": 5.988,
+    "word": "sumira",
+    "probability": 0.9844428879999133
+  },
+  {
+    "start": 5.988,
+    "end": 6.188,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 6.188,
+    "end": 6.789,
+    "word": "tahimik",
+    "probability": 0.9803039717451635
+  },
+  {
+    "start": 6.789,
+    "end": 6.909,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 6.909,
+    "end": 7.69,
+    "word": "kapaligiran",
+    "probability": 0.968169810815701
+  },
+  {
+    "start": 7.69,
+    "end": 7.83,
+    "word": "ng",
+    "probability": 0.9829365291529575
+  },
+  {
+    "start": 7.83,
+    "end": 8.07,
+    "word": "tea",
+    "probability": 0.9138618084436111
+  },
+  {
+    "start": 8.07,
+    "end": 8.491,
+    "word": "party",
+    "probability": 0.9083201166819748
+  },
+  {
+    "start": 8.491,
+    "end": 9.392,
+    "word": "At",
+    "probability": 0.99
+  },
+  {
+    "start": 9.392,
+    "end": 9.552,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 9.552,
+    "end": 9.933,
+    "word": "tingin",
+    "probability": 0.9752332366306392
+  },
+  {
+    "start": 9.933,
+    "end": 10.173,
+    "word": "ko",
+    "probability": 0.99
+  },
+  {
+    "start": 10.173,
+    "end": 10.614,
+    "word": "balang",
+    "probability": 0.99
+  },
+  {
+    "start": 10.614,
+    "end": 11.194,
+    "word": "araw",
+    "probability": 0.9654030987602427
+  },
+  {
+    "start": 11.194,
+    "end": 11.394,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 11.394,
+    "end": 11.975,
+    "word": "kailangan",
+    "probability": 0.9732311304792817
+  },
+  {
+    "start": 11.975,
+    "end": 12.216,
+    "word": "kong",
+    "probability": 0.9157877397769524
+  },
+  {
+    "start": 12.216,
+    "end": 12.896,
+    "word": "magsulat",
+    "probability": 0.99
+  },
+  {
+    "start": 12.896,
+    "end": 13.597,
+    "word": "ng",
+    "probability": 0.99
+  },
+  {
+    "start": 13.597,
+    "end": 13.878,
+    "word": "mas",
+    "probability": 0.99
+  },
+  {
+    "start": 13.878,
+    "end": 14.418,
+    "word": "mahabang",
+    "probability": 0.9652527218183643
+  },
+  {
+    "start": 14.418,
+    "end": 14.919,
+    "word": "aklat",
+    "probability": 0.9518280988627148
+  },
+  {
+    "start": 14.919,
+    "end": 15.7,
+    "word": "para",
+    "probability": 0.99
+  },
+  {
+    "start": 15.7,
+    "end": 15.96,
+    "word": "mas",
+    "probability": 0.99
+  },
+  {
+    "start": 15.96,
+    "end": 16.401,
+    "word": "marami",
+    "probability": 0.9724575460929117
+  },
+  {
+    "start": 16.401,
+    "end": 16.681,
+    "word": "pang",
+    "probability": 0.99
+  },
+  {
+    "start": 16.681,
+    "end": 17.382,
+    "word": "maikuwento",
+    "probability": 0.9264549541397056
+  },
+  {
+    "start": 17.382,
+    "end": 17.903,
+    "word": "tungkol",
+    "probability": 0.99
+  },
+  {
+    "start": 17.903,
+    "end": 18.123,
+    "word": "kay",
+    "probability": 0.9807744036892352
+  },
+  {
+    "start": 18.123,
+    "end": 18.423,
+    "word": "Tom",
+    "probability": 0.9795165618275455
+  },
+  {
+    "start": 18.423,
+    "end": 18.864,
+    "word": "Kitten",
+    "probability": 0.893018035973867
+  }
+]

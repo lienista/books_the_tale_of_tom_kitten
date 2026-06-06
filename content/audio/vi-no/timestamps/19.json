@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.2,
+    "word": "Sau",
+    "probability": 0.99
+  },
+  {
+    "start": 0.2,
+    "end": 0.461,
+    "word": "đó",
+    "probability": 0.9571237841268109
+  },
+  {
+    "start": 0.461,
+    "end": 1.022,
+    "word": "ông",
+    "probability": 0.9600301961980443
+  },
+  {
+    "start": 1.022,
+    "end": 1.263,
+    "word": "cùng",
+    "probability": 0.99
+  },
+  {
+    "start": 1.263,
+    "end": 2.104,
+    "word": "Jemima",
+    "probability": 0.8478934242907441
+  },
+  {
+    "start": 2.104,
+    "end": 2.465,
+    "word": "và",
+    "probability": 0.9817128261665595
+  },
+  {
+    "start": 2.465,
+    "end": 3.246,
+    "word": "Rebeccah",
+    "probability": 0.8152241152889622
+  },
+  {
+    "start": 3.246,
+    "end": 3.888,
+    "word": "PuddleDuck",
+    "probability": 0.6310289573563832
+  },
+  {
+    "start": 3.888,
+    "end": 4.489,
+    "word": "khởi",
+    "probability": 0.9517640346607981
+  },
+  {
+    "start": 4.489,
+    "end": 4.729,
+    "word": "hành",
+    "probability": 0.99
+  },
+  {
+    "start": 4.729,
+    "end": 4.99,
+    "word": "đi",
+    "probability": 0.956202696769482
+  },
+  {
+    "start": 4.99,
+    "end": 5.17,
+    "word": "lên",
+    "probability": 0.99
+  },
+  {
+    "start": 5.17,
+    "end": 5.491,
+    "word": "đường",
+    "probability": 0.9764172423441784
+  },
+  {
+    "start": 5.491,
+    "end": 6.293,
+    "word": "bước",
+    "probability": 0.99
+  },
+  {
+    "start": 6.293,
+    "end": 6.573,
+    "word": "đi",
+    "probability": 0.99
+  },
+  {
+    "start": 6.573,
+    "end": 6.874,
+    "word": "đều",
+    "probability": 0.99
+  },
+  {
+    "start": 6.874,
+    "end": 7.174,
+    "word": "bước",
+    "probability": 0.9311455745703091
+  },
+  {
+    "start": 7.174,
+    "end": 7.816,
+    "word": "lạch",
+    "probability": 0.99
+  },
+  {
+    "start": 7.816,
+    "end": 8.056,
+    "word": "bạch",
+    "probability": 0.9348447910979868
+  },
+  {
+    "start": 8.056,
+    "end": 8.357,
+    "word": "lạch",
+    "probability": 0.99
+  },
+  {
+    "start": 8.357,
+    "end": 8.597,
+    "word": "bạch",
+    "probability": 0.9537461092916988
+  },
+  {
+    "start": 8.597,
+    "end": 9.098,
+    "word": "lạch",
+    "probability": 0.99
+  },
+  {
+    "start": 9.098,
+    "end": 9.319,
+    "word": "bạch",
+    "probability": 0.9522980090527744
+  },
+  {
+    "start": 9.319,
+    "end": 9.679,
+    "word": "lạch",
+    "probability": 0.99
+  },
+  {
+    "start": 9.679,
+    "end": 9.9,
+    "word": "bạch",
+    "probability": 0.9472953427461721
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.1,
+    "word": "Og",
+    "probability": 0.8507338115643548
+  },
+  {
+    "start": 0.1,
+    "end": 0.501,
+    "word": "Mr",
+    "probability": 0.7009609138590396
+  },
+  {
+    "start": 0.501,
+    "end": 0.982,
+    "word": "Drake",
+    "probability": 0.8780739133735714
+  },
+  {
+    "start": 0.982,
+    "end": 1.683,
+    "word": "PuddleDuck",
+    "probability": 0.7836050654118465
+  },
+  {
+    "start": 1.683,
+    "end": 2.645,
+    "word": "Jemima",
+    "probability": 0.8913070777260028
+  },
+  {
+    "start": 2.645,
+    "end": 2.846,
+    "word": "og",
+    "probability": 0.9110638944402458
+  },
+  {
+    "start": 2.846,
+    "end": 3.427,
+    "word": "Rebeccah",
+    "probability": 0.8337743313647142
+  },
+  {
+    "start": 3.427,
+    "end": 3.747,
+    "word": "har",
+    "probability": 0.917114010718838
+  },
+  {
+    "start": 3.747,
+    "end": 4.008,
+    "word": "ledt",
+    "probability": 0.9572406799871532
+  },
+  {
+    "start": 4.008,
+    "end": 4.348,
+    "word": "efter",
+    "probability": 0.9724739957255463
+  },
+  {
+    "start": 4.348,
+    "end": 4.529,
+    "word": "dem",
+    "probability": 0.9623315238004342
+  },
+  {
+    "start": 4.529,
+    "end": 4.91,
+    "word": "lige",
+    "probability": 0.9586797798472478
+  },
+  {
+    "start": 4.91,
+    "end": 5.33,
+    "word": "siden",
+    "probability": 0.9727087309928295
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.08,
+    "word": "A",
+    "probability": 0.22761733255682207
+  },
+  {
+    "start": 0.08,
+    "end": 0.461,
+    "word": "pán",
+    "probability": 0.8807372416085548
+  },
+  {
+    "start": 0.461,
+    "end": 1.042,
+    "word": "Drake",
+    "probability": 0.9646841941639888
+  },
+  {
+    "start": 1.042,
+    "end": 1.904,
+    "word": "PuddleDuck",
+    "probability": 0.836617518153539
+  },
+  {
+    "start": 1.904,
+    "end": 3.166,
+    "word": "Jemima",
+    "probability": 0.9400777535218832
+  },
+  {
+    "start": 3.166,
+    "end": 3.607,
+    "word": "a",
+    "probability": 0.9608983564012984
+  },
+  {
+    "start": 3.607,
+    "end": 4.428,
+    "word": "Rebeccah",
+    "probability": 0.885323102339334
+  },
+  {
+    "start": 4.428,
+    "end": 4.99,
+    "word": "ich",
+    "probability": 0.9310665740480716
+  },
+  {
+    "start": 4.99,
+    "end": 5.711,
+    "word": "odvtedy",
+    "probability": 0.9855279360460221
+  },
+  {
+    "start": 5.711,
+    "end": 6.312,
+    "word": "hľadajú",
+    "probability": 0.9743190622091784
+  }
+]

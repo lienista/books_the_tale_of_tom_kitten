@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "La",
+    "probability": 0.9525570167038364
+  },
+  {
+    "start": 0.16,
+    "end": 0.66,
+    "word": "señora",
+    "probability": 0.8964758737571573
+  },
+  {
+    "start": 0.66,
+    "end": 1.241,
+    "word": "Tabitha",
+    "probability": 0.9552570794115771
+  },
+  {
+    "start": 1.241,
+    "end": 2.061,
+    "word": "vistió",
+    "probability": 0.9798216915246893
+  },
+  {
+    "start": 2.061,
+    "end": 2.181,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 2.181,
+    "end": 2.701,
+    "word": "Moppet",
+    "probability": 0.9384140530846796
+  },
+  {
+    "start": 2.701,
+    "end": 2.761,
+    "word": "y",
+    "probability": 0.6972603398251601
+  },
+  {
+    "start": 2.761,
+    "end": 3.341,
+    "word": "Mittens",
+    "probability": 0.9043803495491055
+  },
+  {
+    "start": 3.341,
+    "end": 3.602,
+    "word": "con",
+    "probability": 0.99
+  },
+  {
+    "start": 3.602,
+    "end": 4.242,
+    "word": "pequeños",
+    "probability": 0.9826195949069537
+  },
+  {
+    "start": 4.242,
+    "end": 4.842,
+    "word": "vestidos",
+    "probability": 0.9873400896715029
+  },
+  {
+    "start": 4.842,
+    "end": 5.462,
+    "word": "limpios",
+    "probability": 0.9598974071684119
+  },
+  {
+    "start": 5.462,
+    "end": 5.582,
+    "word": "y",
+    "probability": 0.9828943166038192
+  },
+  {
+    "start": 5.582,
+    "end": 6.123,
+    "word": "cuellos",
+    "probability": 0.99
+  },
+  {
+    "start": 6.123,
+    "end": 6.243,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 6.243,
+    "end": 6.803,
+    "word": "encaje",
+    "probability": 0.99
+  },
+  {
+    "start": 6.803,
+    "end": 7.903,
+    "word": "Luego",
+    "probability": 0.99
+  },
+  {
+    "start": 7.903,
+    "end": 8.303,
+    "word": "sacó",
+    "probability": 0.977208185465955
+  },
+  {
+    "start": 8.303,
+    "end": 8.724,
+    "word": "ropa",
+    "probability": 0.99
+  },
+  {
+    "start": 8.724,
+    "end": 9.264,
+    "word": "rígida",
+    "probability": 0.99
+  },
+  {
+    "start": 9.264,
+    "end": 9.404,
+    "word": "y",
+    "probability": 0.953498074962147
+  },
+  {
+    "start": 9.404,
+    "end": 10.064,
+    "word": "elegante",
+    "probability": 0.99
+  },
+  {
+    "start": 10.064,
+    "end": 10.244,
+    "word": "de",
+    "probability": 0.8789178133637036
+  },
+  {
+    "start": 10.244,
+    "end": 10.444,
+    "word": "un",
+    "probability": 0.9379427878959996
+  },
+  {
+    "start": 10.444,
+    "end": 10.845,
+    "word": "viejo",
+    "probability": 0.9601020904566999
+  },
+  {
+    "start": 10.845,
+    "end": 11.425,
+    "word": "armario",
+    "probability": 0.9762432299161273
+  },
+  {
+    "start": 11.425,
+    "end": 11.745,
+    "word": "para",
+    "probability": 0.9657654278823065
+  },
+  {
+    "start": 11.745,
+    "end": 11.945,
+    "word": "Tom",
+    "probability": 0.982437960601197
+  }
+]

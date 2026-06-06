@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.221,
+    "word": "Она",
+    "probability": 0.99
+  },
+  {
+    "start": 0.221,
+    "end": 0.603,
+    "word": "сняла",
+    "probability": 0.99
+  },
+  {
+    "start": 0.603,
+    "end": 0.804,
+    "word": "их",
+    "probability": 0.9876347554171401
+  },
+  {
+    "start": 0.804,
+    "end": 0.925,
+    "word": "со",
+    "probability": 0.99
+  },
+  {
+    "start": 0.925,
+    "end": 1.347,
+    "word": "стены",
+    "probability": 0.9820454216895472
+  },
+  {
+    "start": 1.347,
+    "end": 2.453,
+    "word": "поторопила",
+    "probability": 0.99
+  },
+  {
+    "start": 2.453,
+    "end": 2.675,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 2.675,
+    "end": 3.097,
+    "word": "отвела",
+    "probability": 0.99
+  },
+  {
+    "start": 3.097,
+    "end": 3.62,
+    "word": "обратно",
+    "probability": 0.99
+  },
+  {
+    "start": 3.62,
+    "end": 3.72,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 3.72,
+    "end": 3.861,
+    "word": "дом",
+    "probability": 0.99
+  }
+]

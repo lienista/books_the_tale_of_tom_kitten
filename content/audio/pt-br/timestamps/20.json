@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.461,
+    "word": "Então",
+    "probability": 0.99
+  },
+  {
+    "start": 0.461,
+    "end": 1.143,
+    "word": "a",
+    "probability": 0.9863738310521829
+  },
+  {
+    "start": 1.143,
+    "end": 1.604,
+    "word": "Tabitha",
+    "probability": 0.9101571812532631
+  },
+  {
+    "start": 1.604,
+    "end": 2.226,
+    "word": "Twitchit",
+    "probability": 0.8634495176325075
+  },
+  {
+    "start": 2.226,
+    "end": 2.968,
+    "word": "desceu",
+    "probability": 0.9872607828816189
+  },
+  {
+    "start": 2.968,
+    "end": 3.148,
+    "word": "ao",
+    "probability": 0.9840933199611079
+  },
+  {
+    "start": 3.148,
+    "end": 3.629,
+    "word": "jardim",
+    "probability": 0.99
+  },
+  {
+    "start": 3.629,
+    "end": 4.191,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 4.191,
+    "end": 4.892,
+    "word": "encontrou",
+    "probability": 0.9668903448085975
+  },
+  {
+    "start": 4.892,
+    "end": 5.093,
+    "word": "os",
+    "probability": 0.9044081848292019
+  },
+  {
+    "start": 5.093,
+    "end": 5.374,
+    "word": "seus",
+    "probability": 0.9867135597174415
+  },
+  {
+    "start": 5.374,
+    "end": 6.015,
+    "word": "gatinhos",
+    "probability": 0.9833293798389665
+  },
+  {
+    "start": 6.015,
+    "end": 6.176,
+    "word": "no",
+    "probability": 0.9668002768321557
+  },
+  {
+    "start": 6.176,
+    "end": 6.617,
+    "word": "muro",
+    "probability": 0.9897410064691873
+  },
+  {
+    "start": 6.617,
+    "end": 6.978,
+    "word": "sem",
+    "probability": 0.9745224483610664
+  },
+  {
+    "start": 6.978,
+    "end": 7.399,
+    "word": "roupas",
+    "probability": 0.99
+  }
+]

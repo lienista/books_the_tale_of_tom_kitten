@@ -1,0 +1,230 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.5,
+    "word": "Mittens",
+    "probability": 0.7250904112970551
+  },
+  {
+    "start": 0.5,
+    "end": 0.96,
+    "word": "śmiała",
+    "probability": 0.9461976527741397
+  },
+  {
+    "start": 0.96,
+    "end": 1.14,
+    "word": "się",
+    "probability": 0.9160839794158764
+  },
+  {
+    "start": 1.14,
+    "end": 1.42,
+    "word": "tak",
+    "probability": 0.9535260015886113
+  },
+  {
+    "start": 1.42,
+    "end": 1.921,
+    "word": "mocno",
+    "probability": 0.9867577331114734
+  },
+  {
+    "start": 1.921,
+    "end": 2.441,
+    "word": "że",
+    "probability": 0.99
+  },
+  {
+    "start": 2.441,
+    "end": 2.861,
+    "word": "spadła",
+    "probability": 0.9885149463615069
+  },
+  {
+    "start": 2.861,
+    "end": 2.961,
+    "word": "z",
+    "probability": 0.9606126010739378
+  },
+  {
+    "start": 2.961,
+    "end": 3.421,
+    "word": "muru",
+    "probability": 0.99
+  },
+  {
+    "start": 3.421,
+    "end": 4.421,
+    "word": "Moppet",
+    "probability": 0.9786432073236543
+  },
+  {
+    "start": 4.421,
+    "end": 4.521,
+    "word": "i",
+    "probability": 0.939348459082219
+  },
+  {
+    "start": 4.521,
+    "end": 4.822,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 4.822,
+    "end": 5.302,
+    "word": "zeszli",
+    "probability": 0.99
+  },
+  {
+    "start": 5.302,
+    "end": 5.522,
+    "word": "za",
+    "probability": 0.9487590794896916
+  },
+  {
+    "start": 5.522,
+    "end": 5.742,
+    "word": "nią",
+    "probability": 0.9616328839801987
+  },
+  {
+    "start": 5.742,
+    "end": 6.942,
+    "word": "sukienki",
+    "probability": 0.99
+  },
+  {
+    "start": 6.942,
+    "end": 7.202,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 7.202,
+    "end": 7.743,
+    "word": "reszta",
+    "probability": 0.9825177138352489
+  },
+  {
+    "start": 7.743,
+    "end": 8.243,
+    "word": "ubrań",
+    "probability": 0.99
+  },
+  {
+    "start": 8.243,
+    "end": 8.803,
+    "word": "Toma",
+    "probability": 0.99
+  },
+  {
+    "start": 8.803,
+    "end": 9.483,
+    "word": "spadły",
+    "probability": 0.99
+  },
+  {
+    "start": 9.483,
+    "end": 9.663,
+    "word": "po",
+    "probability": 0.99
+  },
+  {
+    "start": 9.663,
+    "end": 10.103,
+    "word": "drodze",
+    "probability": 0.99
+  },
+  {
+    "start": 10.103,
+    "end": 11.084,
+    "word": "Panie",
+    "probability": 0.9884243307199293
+  },
+  {
+    "start": 11.084,
+    "end": 11.584,
+    "word": "Drake",
+    "probability": 0.9156158587036984
+  },
+  {
+    "start": 11.584,
+    "end": 12.264,
+    "word": "PuddleDuck",
+    "probability": 0.7581413057925518
+  },
+  {
+    "start": 12.264,
+    "end": 13.104,
+    "word": "zawołała",
+    "probability": 0.9885061416491825
+  },
+  {
+    "start": 13.104,
+    "end": 13.504,
+    "word": "Moppet",
+    "probability": 0.9490109942920582
+  },
+  {
+    "start": 13.504,
+    "end": 14.265,
+    "word": "Chodź",
+    "probability": 0.99
+  },
+  {
+    "start": 14.265,
+    "end": 14.525,
+    "word": "i",
+    "probability": 0.9713465450885967
+  },
+  {
+    "start": 14.525,
+    "end": 14.885,
+    "word": "pomóż",
+    "probability": 0.9804383670189107
+  },
+  {
+    "start": 14.885,
+    "end": 15.065,
+    "word": "nam",
+    "probability": 0.9178424281367212
+  },
+  {
+    "start": 15.065,
+    "end": 15.205,
+    "word": "go",
+    "probability": 0.99
+  },
+  {
+    "start": 15.205,
+    "end": 15.685,
+    "word": "ubrać",
+    "probability": 0.99
+  },
+  {
+    "start": 15.685,
+    "end": 16.305,
+    "word": "Chodź",
+    "probability": 0.99
+  },
+  {
+    "start": 16.305,
+    "end": 16.545,
+    "word": "i",
+    "probability": 0.9550712270118921
+  },
+  {
+    "start": 16.545,
+    "end": 16.986,
+    "word": "zapnij",
+    "probability": 0.9783028486997934
+  },
+  {
+    "start": 16.986,
+    "end": 17.346,
+    "word": "Toma",
+    "probability": 0.9718929118705945
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.14,
+    "word": "Ze",
+    "probability": 0.7335421506837335
+  },
+  {
+    "start": 0.14,
+    "end": 0.621,
+    "word": "draaiden",
+    "probability": 0.859132369382292
+  },
+  {
+    "start": 0.621,
+    "end": 0.801,
+    "word": "hun",
+    "probability": 0.8577869023058144
+  },
+  {
+    "start": 0.801,
+    "end": 1.282,
+    "word": "jurkjes",
+    "probability": 0.9793140548852383
+  },
+  {
+    "start": 1.282,
+    "end": 2.483,
+    "word": "achterstevoren",
+    "probability": 0.9290079733148107
+  },
+  {
+    "start": 2.483,
+    "end": 3.305,
+    "word": "zodat",
+    "probability": 0.9715208395754702
+  },
+  {
+    "start": 3.305,
+    "end": 3.445,
+    "word": "ze",
+    "probability": 0.9260272028947888
+  },
+  {
+    "start": 3.445,
+    "end": 3.925,
+    "word": "beter",
+    "probability": 0.9790925918116438
+  },
+  {
+    "start": 3.925,
+    "end": 4.266,
+    "word": "konden",
+    "probability": 0.9543794268329906
+  },
+  {
+    "start": 4.266,
+    "end": 4.827,
+    "word": "bewegen",
+    "probability": 0.9788801974824501
+  },
+  {
+    "start": 4.827,
+    "end": 5.267,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 5.267,
+    "end": 5.748,
+    "word": "sprongen",
+    "probability": 0.9793447430440537
+  },
+  {
+    "start": 5.748,
+    "end": 6.189,
+    "word": "omhoog",
+    "probability": 0.9827233497261223
+  },
+  {
+    "start": 6.189,
+    "end": 7.731,
+    "word": "Moppets",
+    "probability": 0.9298374965260922
+  },
+  {
+    "start": 7.731,
+    "end": 8.051,
+    "word": "witte",
+    "probability": 0.9719727647074503
+  },
+  {
+    "start": 8.051,
+    "end": 8.512,
+    "word": "kanten",
+    "probability": 0.965418079078165
+  },
+  {
+    "start": 8.512,
+    "end": 8.892,
+    "word": "kraag",
+    "probability": 0.9388446870728506
+  },
+  {
+    "start": 8.892,
+    "end": 9.433,
+    "word": "viel",
+    "probability": 0.9817984778952507
+  },
+  {
+    "start": 9.433,
+    "end": 9.633,
+    "word": "op",
+    "probability": 0.9842542851044899
+  },
+  {
+    "start": 9.633,
+    "end": 9.774,
+    "word": "de",
+    "probability": 0.9739667981471706
+  },
+  {
+    "start": 9.774,
+    "end": 9.954,
+    "word": "weg",
+    "probability": 0.8466102400669808
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.361,
+    "end": 0.401,
+    "word": "Mr",
+    "probability": 0.49999803305452395
+  },
+  {
+    "start": 0.401,
+    "end": 0.761,
+    "word": "Drake",
+    "probability": 0.5651818554356295
+  },
+  {
+    "start": 0.761,
+    "end": 1.463,
+    "word": "PuddleDuck",
+    "probability": 0.5547660939059268
+  },
+  {
+    "start": 1.463,
+    "end": 2.344,
+    "word": "waddled",
+    "probability": 0.7272244450168401
+  },
+  {
+    "start": 2.344,
+    "end": 2.745,
+    "word": "over",
+    "probability": 0.694760658397958
+  },
+  {
+    "start": 2.745,
+    "end": 2.925,
+    "word": "in",
+    "probability": 0.7420154688346655
+  },
+  {
+    "start": 2.925,
+    "end": 3.045,
+    "word": "a",
+    "probability": 0.7362757381804496
+  },
+  {
+    "start": 3.045,
+    "end": 3.606,
+    "word": "slow",
+    "probability": 0.7682646280390854
+  },
+  {
+    "start": 3.606,
+    "end": 4.528,
+    "word": "sideways",
+    "probability": 0.7280574773542823
+  },
+  {
+    "start": 4.528,
+    "end": 4.849,
+    "word": "way",
+    "probability": 0.6165620103149976
+  },
+  {
+    "start": 4.849,
+    "end": 5.369,
+    "word": "and",
+    "probability": 0.8693472602088644
+  },
+  {
+    "start": 5.369,
+    "end": 5.85,
+    "word": "picked",
+    "probability": 0.641504573671039
+  },
+  {
+    "start": 5.85,
+    "end": 6.031,
+    "word": "up",
+    "probability": 0.7348473353815962
+  },
+  {
+    "start": 6.031,
+    "end": 6.231,
+    "word": "the",
+    "probability": 0.6626867900270565
+  },
+  {
+    "start": 6.231,
+    "end": 6.792,
+    "word": "various",
+    "probability": 0.6677432172443006
+  },
+  {
+    "start": 6.792,
+    "end": 7.313,
+    "word": "items",
+    "probability": 0.6810584568459723
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.421,
+    "word": "Tabitha",
+    "probability": 0.6471154227985471
+  },
+  {
+    "start": 0.421,
+    "end": 1.062,
+    "word": "Twitchit",
+    "probability": 0.7189877454987885
+  },
+  {
+    "start": 1.062,
+    "end": 2.024,
+    "word": "太太给M",
+    "probability": 0.945842008155049
+  },
+  {
+    "start": 2.024,
+    "end": 2.464,
+    "word": "oppe",
+    "probability": 0.7624167165822021
+  },
+  {
+    "start": 2.464,
+    "end": 2.785,
+    "word": "t和Mi",
+    "probability": 0.7057910430718525
+  },
+  {
+    "start": 2.785,
+    "end": 3.146,
+    "word": "tten",
+    "probability": 0.7234357853853388
+  },
+  {
+    "start": 3.146,
+    "end": 3.707,
+    "word": "s穿上了",
+    "probability": 0.8589670183795788
+  },
+  {
+    "start": 3.707,
+    "end": 4.508,
+    "word": "干净的小",
+    "probability": 0.945553073209634
+  },
+  {
+    "start": 4.508,
+    "end": 5.57,
+    "word": "裙子和蕾",
+    "probability": 0.981040920180709
+  },
+  {
+    "start": 5.57,
+    "end": 6.191,
+    "word": "丝衣领",
+    "probability": 0.871207492621116
+  },
+  {
+    "start": 6.191,
+    "end": 7.674,
+    "word": "然后",
+    "probability": 0.9780504161916239
+  },
+  {
+    "start": 7.674,
+    "end": 9.036,
+    "word": "她从一个",
+    "probability": 0.9737623369971461
+  },
+  {
+    "start": 9.036,
+    "end": 9.797,
+    "word": "旧衣柜里",
+    "probability": 0.9175991780757439
+  },
+  {
+    "start": 9.797,
+    "end": 10.679,
+    "word": "为汤姆拿",
+    "probability": 0.9499088216886412
+  },
+  {
+    "start": 10.679,
+    "end": 11.42,
+    "word": "出了一些",
+    "probability": 0.9726699868788768
+  },
+  {
+    "start": 11.42,
+    "end": 12.021,
+    "word": "僵硬",
+    "probability": 0.933308406207357
+  },
+  {
+    "start": 12.021,
+    "end": 13.123,
+    "word": "华丽的衣服",
+    "probability": 0.9364312383347342
+  }
+]

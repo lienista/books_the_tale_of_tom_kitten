@@ -1,0 +1,116 @@
+[
+  {
+    "start": 3.48,
+    "end": 3.853,
+    "word": "ਉਸਨ",
+    "probability": 0.7499984105473275
+  },
+  {
+    "start": 3.853,
+    "end": 3.992,
+    "word": "ਉਹਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.992,
+    "end": 4.039,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.039,
+    "end": 4.131,
+    "word": "ਕਧ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.131,
+    "end": 4.178,
+    "word": "ਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.178,
+    "end": 4.781,
+    "word": "ਉਤਰਆ",
+    "probability": 0.6929274278983263
+  },
+  {
+    "start": 4.781,
+    "end": 4.92,
+    "word": "ਉਹਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.92,
+    "end": 4.966,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.966,
+    "end": 5.43,
+    "word": "ਜਲਦ",
+    "probability": 0.699994428856961
+  },
+  {
+    "start": 5.43,
+    "end": 5.523,
+    "word": "ਨਲ",
+    "probability": 0.01
+  },
+  {
+    "start": 5.523,
+    "end": 5.615,
+    "word": "ਅਗ",
+    "probability": 0.01
+  },
+  {
+    "start": 5.615,
+    "end": 6.125,
+    "word": "ਵਧਇਆ",
+    "probability": 0.6314775435075219
+  },
+  {
+    "start": 6.125,
+    "end": 6.267,
+    "word": "ਅਤ",
+    "probability": 0.6664599308447946
+  },
+  {
+    "start": 6.267,
+    "end": 7.472,
+    "word": "ਉਹਨ",
+    "probability": 0.9614493757959366
+  },
+  {
+    "start": 7.472,
+    "end": 7.565,
+    "word": "ਨ",
+    "probability": 0.50000159012665
+  },
+  {
+    "start": 7.565,
+    "end": 7.751,
+    "word": "ਵਪਸ",
+    "probability": 0.49993676656294317
+  },
+  {
+    "start": 7.751,
+    "end": 7.843,
+    "word": "ਘਰ",
+    "probability": 0.01
+  },
+  {
+    "start": 7.843,
+    "end": 7.89,
+    "word": "ਲ",
+    "probability": 0.01
+  },
+  {
+    "start": 7.89,
+    "end": 7.936,
+    "word": "ਗਈ",
+    "probability": 0.01
+  }
+]

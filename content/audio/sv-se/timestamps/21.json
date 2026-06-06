@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.201,
+    "word": "Hon",
+    "probability": 0.9421235367676128
+  },
+  {
+    "start": 0.201,
+    "end": 0.462,
+    "word": "drog",
+    "probability": 0.949169331838947
+  },
+  {
+    "start": 0.462,
+    "end": 0.663,
+    "word": "ner",
+    "probability": 0.9547114650800749
+  },
+  {
+    "start": 0.663,
+    "end": 0.803,
+    "word": "dem",
+    "probability": 0.9530771037560697
+  },
+  {
+    "start": 0.803,
+    "end": 0.984,
+    "word": "från",
+    "probability": 0.99
+  },
+  {
+    "start": 0.984,
+    "end": 1.426,
+    "word": "muren",
+    "probability": 0.99
+  },
+  {
+    "start": 1.426,
+    "end": 2.51,
+    "word": "skyndade",
+    "probability": 0.9897593636647299
+  },
+  {
+    "start": 2.51,
+    "end": 2.67,
+    "word": "på",
+    "probability": 0.9144861222636473
+  },
+  {
+    "start": 2.67,
+    "end": 2.931,
+    "word": "dem",
+    "probability": 0.9897627136625998
+  },
+  {
+    "start": 2.931,
+    "end": 3.092,
+    "word": "och",
+    "probability": 0.936867877439312
+  },
+  {
+    "start": 3.092,
+    "end": 3.473,
+    "word": "tog",
+    "probability": 0.9869924119711652
+  },
+  {
+    "start": 3.473,
+    "end": 3.634,
+    "word": "dem",
+    "probability": 0.9893426640805618
+  },
+  {
+    "start": 3.634,
+    "end": 4.176,
+    "word": "tillbaka",
+    "probability": 0.99
+  },
+  {
+    "start": 4.176,
+    "end": 4.397,
+    "word": "till",
+    "probability": 0.99
+  },
+  {
+    "start": 4.397,
+    "end": 4.778,
+    "word": "huset",
+    "probability": 0.9839290209972884
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "start": 1.682,
+    "end": 1.822,
+    "word": "Mire",
+    "probability": 0.5666659892726076
+  },
+  {
+    "start": 1.822,
+    "end": 1.882,
+    "word": "a",
+    "probability": 0.49943200755649836
+  },
+  {
+    "start": 1.882,
+    "end": 2.263,
+    "word": "fal",
+    "probability": 0.8418962614498187
+  },
+  {
+    "start": 2.263,
+    "end": 3.444,
+    "word": "tetejére",
+    "probability": 0.8556492240267612
+  },
+  {
+    "start": 3.444,
+    "end": 3.544,
+    "word": "ért",
+    "probability": 0.3935645427825155
+  },
+  {
+    "start": 3.544,
+    "end": 3.624,
+    "word": "már",
+    "probability": 0.01
+  },
+  {
+    "start": 3.624,
+    "end": 3.965,
+    "word": "teljesen",
+    "probability": 0.47014606231570544
+  },
+  {
+    "start": 3.965,
+    "end": 4.665,
+    "word": "rendetlen",
+    "probability": 0.6489971433437117
+  },
+  {
+    "start": 4.665,
+    "end": 5.066,
+    "word": "volt",
+    "probability": 0.7549023122926787
+  },
+  {
+    "start": 5.066,
+    "end": 6.187,
+    "word": "Moppet",
+    "probability": 0.8826593120430718
+  },
+  {
+    "start": 6.187,
+    "end": 6.367,
+    "word": "és",
+    "probability": 0.5496437673836674
+  },
+  {
+    "start": 6.367,
+    "end": 6.828,
+    "word": "Mittens",
+    "probability": 0.6119212561653641
+  },
+  {
+    "start": 6.828,
+    "end": 7.609,
+    "word": "próbálták",
+    "probability": 0.714082066278931
+  },
+  {
+    "start": 7.609,
+    "end": 8.47,
+    "word": "megjavítani",
+    "probability": 0.7075499524729889
+  },
+  {
+    "start": 8.47,
+    "end": 8.55,
+    "word": "a",
+    "probability": 0.3333323297029883
+  },
+  {
+    "start": 8.55,
+    "end": 9.091,
+    "word": "ruháit",
+    "probability": 0.7620082442375461
+  },
+  {
+    "start": 9.091,
+    "end": 9.391,
+    "word": "de",
+    "probability": 0.7406085297107092
+  },
+  {
+    "start": 9.391,
+    "end": 9.471,
+    "word": "a",
+    "probability": 0.7483797995560144
+  },
+  {
+    "start": 9.471,
+    "end": 10.532,
+    "word": "kalapja",
+    "probability": 0.8516893212527092
+  },
+  {
+    "start": 10.532,
+    "end": 10.913,
+    "word": "leesett",
+    "probability": 0.6288921327804751
+  },
+  {
+    "start": 10.913,
+    "end": 11.033,
+    "word": "és",
+    "probability": 0.41780715297582754
+  },
+  {
+    "start": 11.033,
+    "end": 11.093,
+    "word": "az",
+    "probability": 0.01
+  },
+  {
+    "start": 11.093,
+    "end": 11.493,
+    "word": "utolsó",
+    "probability": 0.6169632874336636
+  },
+  {
+    "start": 11.493,
+    "end": 12.395,
+    "word": "gombjai",
+    "probability": 0.8343085896205737
+  },
+  {
+    "start": 12.395,
+    "end": 12.675,
+    "word": "is",
+    "probability": 0.7762671646105664
+  },
+  {
+    "start": 12.675,
+    "end": 13.276,
+    "word": "leszakadtak",
+    "probability": 0.656865738263751
+  }
+]

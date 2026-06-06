@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.601,
+    "word": "Najprv",
+    "probability": 0.9636277186943235
+  },
+  {
+    "start": 0.601,
+    "end": 0.942,
+    "word": "im",
+    "probability": 0.9316475979619323
+  },
+  {
+    "start": 0.942,
+    "end": 1.624,
+    "word": "vydrhla",
+    "probability": 0.9737064475429641
+  },
+  {
+    "start": 1.624,
+    "end": 2.286,
+    "word": "tváre",
+    "probability": 0.9741747241277164
+  },
+  {
+    "start": 2.286,
+    "end": 3.308,
+    "word": "toto",
+    "probability": 0.9871195564025481
+  },
+  {
+    "start": 3.308,
+    "end": 3.428,
+    "word": "je",
+    "probability": 0.9594286782193473
+  },
+  {
+    "start": 3.428,
+    "end": 3.869,
+    "word": "Moppet",
+    "probability": 0.9188554450518184
+  }
+]

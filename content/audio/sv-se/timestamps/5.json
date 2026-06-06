@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.38,
+    "word": "Sedan",
+    "probability": 0.9825680666756573
+  },
+  {
+    "start": 0.38,
+    "end": 0.801,
+    "word": "kammade",
+    "probability": 0.99
+  },
+  {
+    "start": 0.801,
+    "end": 0.941,
+    "word": "hon",
+    "probability": 0.9637292926210795
+  },
+  {
+    "start": 0.941,
+    "end": 1.201,
+    "word": "deras",
+    "probability": 0.9718773874021627
+  },
+  {
+    "start": 1.201,
+    "end": 1.762,
+    "word": "svansar",
+    "probability": 0.9812860014084234
+  },
+  {
+    "start": 1.762,
+    "end": 1.882,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 1.882,
+    "end": 2.542,
+    "word": "morrhår",
+    "probability": 0.9784597645264765
+  },
+  {
+    "start": 2.542,
+    "end": 2.983,
+    "word": "detta",
+    "probability": 0.9866180546706311
+  },
+  {
+    "start": 2.983,
+    "end": 3.163,
+    "word": "är",
+    "probability": 0.9266422829799834
+  },
+  {
+    "start": 3.163,
+    "end": 3.423,
+    "word": "Tom",
+    "probability": 0.9549098624676575
+  },
+  {
+    "start": 3.423,
+    "end": 3.944,
+    "word": "Kitten",
+    "probability": 0.9357601725305431
+  },
+  {
+    "start": 3.944,
+    "end": 4.885,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 4.885,
+    "end": 5.525,
+    "word": "försökte",
+    "probability": 0.975534255978591
+  },
+  {
+    "start": 5.525,
+    "end": 5.826,
+    "word": "hela",
+    "probability": 0.9447758127365258
+  },
+  {
+    "start": 5.826,
+    "end": 6.146,
+    "word": "tiden",
+    "probability": 0.9883414072499979
+  },
+  {
+    "start": 6.146,
+    "end": 6.686,
+    "word": "klia",
+    "probability": 0.99
+  },
+  {
+    "start": 6.686,
+    "end": 6.887,
+    "word": "sig",
+    "probability": 0.99
+  },
+  {
+    "start": 6.887,
+    "end": 7.027,
+    "word": "med",
+    "probability": 0.9487916220235577
+  },
+  {
+    "start": 7.027,
+    "end": 7.467,
+    "word": "kammen",
+    "probability": 0.9686401825943513
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.32,
+    "word": "Aber",
+    "probability": 0.8859295708102515
+  },
+  {
+    "start": 0.32,
+    "end": 0.46,
+    "word": "er",
+    "probability": 0.9039540240280719
+  },
+  {
+    "start": 0.46,
+    "end": 0.821,
+    "word": "zog",
+    "probability": 0.9818563267315906
+  },
+  {
+    "start": 0.821,
+    "end": 1.021,
+    "word": "sie",
+    "probability": 0.9487473817333327
+  },
+  {
+    "start": 1.021,
+    "end": 1.521,
+    "word": "selbst",
+    "probability": 0.9882619673006897
+  },
+  {
+    "start": 1.521,
+    "end": 1.902,
+    "word": "an",
+    "probability": 0.9775273947248148
+  },
+  {
+    "start": 1.902,
+    "end": 3.523,
+    "word": "Sie",
+    "probability": 0.99
+  },
+  {
+    "start": 3.523,
+    "end": 4.104,
+    "word": "passten",
+    "probability": 0.9799124659955922
+  },
+  {
+    "start": 4.104,
+    "end": 4.444,
+    "word": "ihm",
+    "probability": 0.9509113671077107
+  },
+  {
+    "start": 4.444,
+    "end": 4.765,
+    "word": "noch",
+    "probability": 0.9889545142886828
+  },
+  {
+    "start": 4.765,
+    "end": 5.365,
+    "word": "schlechter",
+    "probability": 0.9755857514216485
+  },
+  {
+    "start": 5.365,
+    "end": 5.605,
+    "word": "als",
+    "probability": 0.9819173929725177
+  },
+  {
+    "start": 5.605,
+    "end": 5.926,
+    "word": "Tom",
+    "probability": 0.9866690044588078
+  },
+  {
+    "start": 5.926,
+    "end": 6.386,
+    "word": "Kitten",
+    "probability": 0.9486152169830121
+  },
+  {
+    "start": 6.386,
+    "end": 8.448,
+    "word": "Es",
+    "probability": 0.99
+  },
+  {
+    "start": 8.448,
+    "end": 8.668,
+    "word": "ist",
+    "probability": 0.9282877088343475
+  },
+  {
+    "start": 8.668,
+    "end": 8.869,
+    "word": "ein",
+    "probability": 0.91280190240804
+  },
+  {
+    "start": 8.869,
+    "end": 9.509,
+    "word": "schöner",
+    "probability": 0.9581352549909883
+  },
+  {
+    "start": 9.509,
+    "end": 10.13,
+    "word": "Morgen",
+    "probability": 0.9819159106348527
+  },
+  {
+    "start": 10.13,
+    "end": 11.331,
+    "word": "sagte",
+    "probability": 0.99
+  },
+  {
+    "start": 11.331,
+    "end": 11.772,
+    "word": "Mr",
+    "probability": 0.9713885486204227
+  },
+  {
+    "start": 11.772,
+    "end": 12.252,
+    "word": "Drake",
+    "probability": 0.9493433231573815
+  },
+  {
+    "start": 12.252,
+    "end": 13.073,
+    "word": "PuddleDuck",
+    "probability": 0.7883260357498508
+  }
+]

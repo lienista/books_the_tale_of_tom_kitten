@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.461,
+    "word": "Potom",
+    "probability": 0.9706901083816684
+  },
+  {
+    "start": 0.461,
+    "end": 0.921,
+    "word": "im",
+    "probability": 0.9625744216952262
+  },
+  {
+    "start": 0.921,
+    "end": 1.923,
+    "word": "prečesala",
+    "probability": 0.8711956212712425
+  },
+  {
+    "start": 1.923,
+    "end": 2.644,
+    "word": "chvosty",
+    "probability": 0.9756054225182265
+  },
+  {
+    "start": 2.644,
+    "end": 2.804,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 2.804,
+    "end": 3.405,
+    "word": "fúzy",
+    "probability": 0.966160961697983
+  },
+  {
+    "start": 3.405,
+    "end": 4.707,
+    "word": "toto",
+    "probability": 0.9889835933613711
+  },
+  {
+    "start": 4.707,
+    "end": 4.887,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 4.887,
+    "end": 5.307,
+    "word": "Tom",
+    "probability": 0.9845306730641434
+  },
+  {
+    "start": 5.307,
+    "end": 6.008,
+    "word": "Kitten",
+    "probability": 0.8167801142307762
+  },
+  {
+    "start": 6.008,
+    "end": 7.07,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 7.07,
+    "end": 7.27,
+    "word": "sa",
+    "probability": 0.9653852175398725
+  },
+  {
+    "start": 7.27,
+    "end": 7.831,
+    "word": "stále",
+    "probability": 0.99
+  },
+  {
+    "start": 7.831,
+    "end": 8.552,
+    "word": "snažil",
+    "probability": 0.9265996729074275
+  },
+  {
+    "start": 8.552,
+    "end": 9.573,
+    "word": "poškriabať",
+    "probability": 0.9187219656480038
+  },
+  {
+    "start": 9.573,
+    "end": 10.074,
+    "word": "hrebeň",
+    "probability": 0.8933209665845186
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.681,
+    "word": "Invece",
+    "probability": 0.99
+  },
+  {
+    "start": 0.681,
+    "end": 1.282,
+    "word": "cerano",
+    "probability": 0.9339058320258485
+  },
+  {
+    "start": 1.282,
+    "end": 1.822,
+    "word": "rumori",
+    "probability": 0.9703036557873911
+  },
+  {
+    "start": 1.822,
+    "end": 2.243,
+    "word": "molto",
+    "probability": 0.9512430302451653
+  },
+  {
+    "start": 2.243,
+    "end": 2.684,
+    "word": "strani",
+    "probability": 0.99
+  },
+  {
+    "start": 2.684,
+    "end": 3.344,
+    "word": "provenienti",
+    "probability": 0.9504967357258304
+  },
+  {
+    "start": 3.344,
+    "end": 3.525,
+    "word": "dal",
+    "probability": 0.9661063176066769
+  },
+  {
+    "start": 3.525,
+    "end": 3.825,
+    "word": "piano",
+    "probability": 0.99
+  },
+  {
+    "start": 3.825,
+    "end": 4.005,
+    "word": "di",
+    "probability": 0.9864860353591021
+  },
+  {
+    "start": 4.005,
+    "end": 4.506,
+    "word": "sopra",
+    "probability": 0.9851984324791538
+  },
+  {
+    "start": 4.506,
+    "end": 5.067,
+    "word": "che",
+    "probability": 0.9893974851569798
+  },
+  {
+    "start": 5.067,
+    "end": 5.748,
+    "word": "rovinarono",
+    "probability": 0.9885014118967658
+  },
+  {
+    "start": 5.748,
+    "end": 6.449,
+    "word": "latmosfera",
+    "probability": 0.9291832238748938
+  },
+  {
+    "start": 6.449,
+    "end": 7.049,
+    "word": "tranquilla",
+    "probability": 0.99
+  },
+  {
+    "start": 7.049,
+    "end": 7.25,
+    "word": "del",
+    "probability": 0.99
+  },
+  {
+    "start": 7.25,
+    "end": 7.45,
+    "word": "tè",
+    "probability": 0.9884553268233276
+  },
+  {
+    "start": 7.45,
+    "end": 8.231,
+    "word": "E",
+    "probability": 0.9749444599611575
+  },
+  {
+    "start": 8.231,
+    "end": 8.611,
+    "word": "penso",
+    "probability": 0.9769877633288653
+  },
+  {
+    "start": 8.611,
+    "end": 8.772,
+    "word": "che",
+    "probability": 0.9240913716815876
+  },
+  {
+    "start": 8.772,
+    "end": 8.872,
+    "word": "un",
+    "probability": 0.9867782465170493
+  },
+  {
+    "start": 8.872,
+    "end": 9.252,
+    "word": "giorno",
+    "probability": 0.973445419705026
+  },
+  {
+    "start": 9.252,
+    "end": 9.513,
+    "word": "dovrò",
+    "probability": 0.9888709336103125
+  },
+  {
+    "start": 9.513,
+    "end": 9.993,
+    "word": "scrivere",
+    "probability": 0.9834876038755237
+  },
+  {
+    "start": 9.993,
+    "end": 10.113,
+    "word": "un",
+    "probability": 0.9104820391459237
+  },
+  {
+    "start": 10.113,
+    "end": 10.414,
+    "word": "libro",
+    "probability": 0.9790488655865556
+  },
+  {
+    "start": 10.414,
+    "end": 10.574,
+    "word": "più",
+    "probability": 0.9738360033437492
+  },
+  {
+    "start": 10.574,
+    "end": 10.934,
+    "word": "lungo",
+    "probability": 0.9328426682890554
+  },
+  {
+    "start": 10.934,
+    "end": 11.115,
+    "word": "per",
+    "probability": 0.99
+  },
+  {
+    "start": 11.115,
+    "end": 11.856,
+    "word": "raccontarvi",
+    "probability": 0.9818091926865933
+  },
+  {
+    "start": 11.856,
+    "end": 12.016,
+    "word": "di",
+    "probability": 0.8940598942515904
+  },
+  {
+    "start": 12.016,
+    "end": 12.216,
+    "word": "più",
+    "probability": 0.9649367697724222
+  },
+  {
+    "start": 12.216,
+    "end": 12.476,
+    "word": "su",
+    "probability": 0.941197071407949
+  },
+  {
+    "start": 12.476,
+    "end": 12.837,
+    "word": "Tom",
+    "probability": 0.9784923338262617
+  },
+  {
+    "start": 12.837,
+    "end": 13.418,
+    "word": "Kitten",
+    "probability": 0.8839624623055988
+  }
+]

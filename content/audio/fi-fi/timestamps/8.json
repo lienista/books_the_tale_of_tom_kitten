@@ -1,0 +1,230 @@
+[
+  {
+    "start": 2.842,
+    "end": 3.113,
+    "word": "Kun",
+    "probability": 0.799898467995106
+  },
+  {
+    "start": 3.113,
+    "end": 3.437,
+    "word": "kolme",
+    "probability": 0.49634923385287216
+  },
+  {
+    "start": 3.437,
+    "end": 4.979,
+    "word": "kissanpentua",
+    "probability": 0.7763948587772518
+  },
+  {
+    "start": 4.979,
+    "end": 5.439,
+    "word": "olivat",
+    "probability": 0.6327528322098499
+  },
+  {
+    "start": 5.439,
+    "end": 5.926,
+    "word": "valmiita",
+    "probability": 0.5138102754779574
+  },
+  {
+    "start": 5.926,
+    "end": 6.278,
+    "word": "rouva",
+    "probability": 0.5904071166276543
+  },
+  {
+    "start": 6.278,
+    "end": 6.738,
+    "word": "Tabitha",
+    "probability": 0.5294079484056431
+  },
+  {
+    "start": 6.738,
+    "end": 7.144,
+    "word": "teki",
+    "probability": 0.6949256062770595
+  },
+  {
+    "start": 7.144,
+    "end": 7.47,
+    "word": "virheen",
+    "probability": 0.3617622446351329
+  },
+  {
+    "start": 7.47,
+    "end": 7.659,
+    "word": "ja",
+    "probability": 0.5713138429486336
+  },
+  {
+    "start": 7.659,
+    "end": 8.2,
+    "word": "lähetti",
+    "probability": 0.5000863917024799
+  },
+  {
+    "start": 8.2,
+    "end": 8.606,
+    "word": "heidät",
+    "probability": 0.5974619442156129
+  },
+  {
+    "start": 8.606,
+    "end": 9.066,
+    "word": "puutarhaan",
+    "probability": 0.35278464256695347
+  },
+  {
+    "start": 9.066,
+    "end": 9.445,
+    "word": "samalla",
+    "probability": 0.4993705197269523
+  },
+  {
+    "start": 9.445,
+    "end": 9.715,
+    "word": "kun",
+    "probability": 0.5994174652361332
+  },
+  {
+    "start": 9.715,
+    "end": 10.392,
+    "word": "hän",
+    "probability": 0.8160795057837484
+  },
+  {
+    "start": 10.392,
+    "end": 10.635,
+    "word": "valmisti",
+    "probability": 0.01
+  },
+  {
+    "start": 10.635,
+    "end": 11.041,
+    "word": "kuumaa",
+    "probability": 0.5427522866747196
+  },
+  {
+    "start": 11.041,
+    "end": 11.42,
+    "word": "voilla",
+    "probability": 0.5331496549504597
+  },
+  {
+    "start": 11.42,
+    "end": 12.096,
+    "word": "voideltua",
+    "probability": 0.5722381473118805
+  },
+  {
+    "start": 12.096,
+    "end": 12.801,
+    "word": "paahtoleipää",
+    "probability": 0.5007578370221537
+  },
+  {
+    "start": 12.801,
+    "end": 13.369,
+    "word": "Nyt",
+    "probability": 0.8567983350926985
+  },
+  {
+    "start": 13.369,
+    "end": 13.91,
+    "word": "pitäkää",
+    "probability": 0.5040604757728385
+  },
+  {
+    "start": 13.91,
+    "end": 14.614,
+    "word": "vaatteet",
+    "probability": 0.6577551772264107
+  },
+  {
+    "start": 14.614,
+    "end": 15.155,
+    "word": "puhtaina",
+    "probability": 0.5446273884195291
+  },
+  {
+    "start": 15.155,
+    "end": 16.507,
+    "word": "lapset",
+    "probability": 0.8771926870450654
+  },
+  {
+    "start": 16.507,
+    "end": 17.375,
+    "word": "Kävelkää",
+    "probability": 0.7187046419023915
+  },
+  {
+    "start": 17.375,
+    "end": 18.24,
+    "word": "takajaloillanne",
+    "probability": 0.5310544887717216
+  },
+  {
+    "start": 18.24,
+    "end": 18.917,
+    "word": "Pysykää",
+    "probability": 0.6981739821445578
+  },
+  {
+    "start": 18.917,
+    "end": 19.187,
+    "word": "poissa",
+    "probability": 0.29588053482631593
+  },
+  {
+    "start": 19.187,
+    "end": 20.107,
+    "word": "mutaisesta",
+    "probability": 0.6781807623930802
+  },
+  {
+    "start": 20.107,
+    "end": 21.649,
+    "word": "tuhkakasasta",
+    "probability": 0.8035040747570632
+  },
+  {
+    "start": 21.649,
+    "end": 22.109,
+    "word": "Sally",
+    "probability": 0.6324988340848742
+  },
+  {
+    "start": 22.109,
+    "end": 22.949,
+    "word": "HennyPennystä",
+    "probability": 0.5118673037599679
+  },
+  {
+    "start": 22.949,
+    "end": 23.247,
+    "word": "sikalasta",
+    "probability": 0.09129339354926297
+  },
+  {
+    "start": 23.247,
+    "end": 24.221,
+    "word": "ja",
+    "probability": 0.9159946323280569
+  },
+  {
+    "start": 24.221,
+    "end": 24.789,
+    "word": "noista",
+    "probability": 0.6369494435835064
+  },
+  {
+    "start": 24.789,
+    "end": 25.817,
+    "word": "PuddleDuckseista",
+    "probability": 0.5943839998826009
+  }
+]

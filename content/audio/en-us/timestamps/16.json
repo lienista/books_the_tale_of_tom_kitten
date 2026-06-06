@@ -1,0 +1,278 @@
+[
+  {
+    "start": 0.24,
+    "end": 0.44,
+    "word": "Mittens",
+    "probability": 0.32649934626638405
+  },
+  {
+    "start": 0.44,
+    "end": 0.781,
+    "word": "laughed",
+    "probability": 0.5245490938581919
+  },
+  {
+    "start": 0.781,
+    "end": 1.101,
+    "word": "so",
+    "probability": 0.8458914342060457
+  },
+  {
+    "start": 1.101,
+    "end": 1.541,
+    "word": "hard",
+    "probability": 0.633767393855215
+  },
+  {
+    "start": 1.541,
+    "end": 1.761,
+    "word": "she",
+    "probability": 0.6310154960086806
+  },
+  {
+    "start": 1.761,
+    "end": 2.041,
+    "word": "fell",
+    "probability": 0.6038419283079764
+  },
+  {
+    "start": 2.041,
+    "end": 2.242,
+    "word": "off",
+    "probability": 0.525790533205335
+  },
+  {
+    "start": 2.242,
+    "end": 2.382,
+    "word": "the",
+    "probability": 0.5346318683516292
+  },
+  {
+    "start": 2.382,
+    "end": 2.762,
+    "word": "wall",
+    "probability": 0.632786713050486
+  },
+  {
+    "start": 2.762,
+    "end": 3.943,
+    "word": "Moppet",
+    "probability": 0.8805772740510401
+  },
+  {
+    "start": 3.943,
+    "end": 4.143,
+    "word": "and",
+    "probability": 0.4573715137266724
+  },
+  {
+    "start": 4.143,
+    "end": 4.483,
+    "word": "Tom",
+    "probability": 0.7099788803496824
+  },
+  {
+    "start": 4.483,
+    "end": 4.984,
+    "word": "climbed",
+    "probability": 0.641325403220903
+  },
+  {
+    "start": 4.984,
+    "end": 5.264,
+    "word": "down",
+    "probability": 0.46259632677536866
+  },
+  {
+    "start": 5.264,
+    "end": 5.724,
+    "word": "after",
+    "probability": 0.6830096387989965
+  },
+  {
+    "start": 5.724,
+    "end": 5.984,
+    "word": "her",
+    "probability": 0.40563479214946174
+  },
+  {
+    "start": 5.984,
+    "end": 6.785,
+    "word": "the",
+    "probability": 0.8949247304516319
+  },
+  {
+    "start": 6.785,
+    "end": 7.405,
+    "word": "dresses",
+    "probability": 0.5223515606133051
+  },
+  {
+    "start": 7.405,
+    "end": 7.546,
+    "word": "and",
+    "probability": 0.5680804093108142
+  },
+  {
+    "start": 7.546,
+    "end": 7.666,
+    "word": "the",
+    "probability": 0.3627732941159412
+  },
+  {
+    "start": 7.666,
+    "end": 7.946,
+    "word": "rest",
+    "probability": 0.635826155635208
+  },
+  {
+    "start": 7.946,
+    "end": 8.066,
+    "word": "of",
+    "probability": 0.6145407975611407
+  },
+  {
+    "start": 8.066,
+    "end": 8.506,
+    "word": "Toms",
+    "probability": 0.6922426543776408
+  },
+  {
+    "start": 8.506,
+    "end": 8.987,
+    "word": "clothes",
+    "probability": 0.4699993499161916
+  },
+  {
+    "start": 8.987,
+    "end": 9.567,
+    "word": "fell",
+    "probability": 0.7420627813276555
+  },
+  {
+    "start": 9.567,
+    "end": 9.867,
+    "word": "off",
+    "probability": 0.6641353046714562
+  },
+  {
+    "start": 9.867,
+    "end": 10.067,
+    "word": "on",
+    "probability": 0.7627045473416741
+  },
+  {
+    "start": 10.067,
+    "end": 10.187,
+    "word": "the",
+    "probability": 0.4988524353611992
+  },
+  {
+    "start": 10.187,
+    "end": 10.368,
+    "word": "way",
+    "probability": 0.45262986722004506
+  },
+  {
+    "start": 10.368,
+    "end": 10.768,
+    "word": "down",
+    "probability": 0.6471366464453899
+  },
+  {
+    "start": 10.768,
+    "end": 10.848,
+    "word": "Mr",
+    "probability": 0.49980074987435175
+  },
+  {
+    "start": 10.848,
+    "end": 11.809,
+    "word": "Drake",
+    "probability": 0.862919319115921
+  },
+  {
+    "start": 11.809,
+    "end": 12.649,
+    "word": "PuddleDuck",
+    "probability": 0.5539900164715109
+  },
+  {
+    "start": 12.649,
+    "end": 13.03,
+    "word": "Moppet",
+    "probability": 0.6708470278597712
+  },
+  {
+    "start": 13.03,
+    "end": 13.65,
+    "word": "called",
+    "probability": 0.7790798596140978
+  },
+  {
+    "start": 13.65,
+    "end": 14.11,
+    "word": "Come",
+    "probability": 0.7412534152064029
+  },
+  {
+    "start": 14.11,
+    "end": 14.27,
+    "word": "and",
+    "probability": 0.18214930357620673
+  },
+  {
+    "start": 14.27,
+    "end": 15.071,
+    "word": "help",
+    "probability": 0.8270699772564705
+  },
+  {
+    "start": 15.071,
+    "end": 15.171,
+    "word": "us",
+    "probability": 0.5878753247402531
+  },
+  {
+    "start": 15.171,
+    "end": 15.451,
+    "word": "dress",
+    "probability": 0.45941090392778483
+  },
+  {
+    "start": 15.451,
+    "end": 15.671,
+    "word": "him",
+    "probability": 0.6322687656050522
+  },
+  {
+    "start": 15.671,
+    "end": 16.072,
+    "word": "Come",
+    "probability": 0.6769136726249316
+  },
+  {
+    "start": 16.072,
+    "end": 16.332,
+    "word": "and",
+    "probability": 0.7298437227655141
+  },
+  {
+    "start": 16.332,
+    "end": 17.093,
+    "word": "button",
+    "probability": 0.7742992097844071
+  },
+  {
+    "start": 17.093,
+    "end": 17.213,
+    "word": "Tom",
+    "probability": 0.4977518126058335
+  },
+  {
+    "start": 17.213,
+    "end": 17.413,
+    "word": "up",
+    "probability": 0.6916149346270024
+  }
+]

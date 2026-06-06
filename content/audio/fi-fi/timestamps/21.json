@@ -1,0 +1,80 @@
+[
+  {
+    "start": 1.043,
+    "end": 1.224,
+    "word": "Hän",
+    "probability": 0.6537670828705476
+  },
+  {
+    "start": 1.224,
+    "end": 1.525,
+    "word": "veti",
+    "probability": 0.7305952055484243
+  },
+  {
+    "start": 1.525,
+    "end": 1.846,
+    "word": "heidät",
+    "probability": 0.4555518950430033
+  },
+  {
+    "start": 1.846,
+    "end": 2.327,
+    "word": "alas",
+    "probability": 0.8236518041846055
+  },
+  {
+    "start": 2.327,
+    "end": 2.648,
+    "word": "muurilta",
+    "probability": 0.43741950660180917
+  },
+  {
+    "start": 2.648,
+    "end": 2.949,
+    "word": "kiirehti",
+    "probability": 0.4367658612551125
+  },
+  {
+    "start": 2.949,
+    "end": 3.17,
+    "word": "heitä",
+    "probability": 0.5432672360865436
+  },
+  {
+    "start": 3.17,
+    "end": 3.571,
+    "word": "eteenpäin",
+    "probability": 0.45189630922678325
+  },
+  {
+    "start": 3.571,
+    "end": 3.631,
+    "word": "ja",
+    "probability": 0.01
+  },
+  {
+    "start": 3.631,
+    "end": 3.892,
+    "word": "vei",
+    "probability": 0.769229898099905
+  },
+  {
+    "start": 3.892,
+    "end": 4.072,
+    "word": "heidät",
+    "probability": 0.3150201411290292
+  },
+  {
+    "start": 4.072,
+    "end": 4.433,
+    "word": "takaisin",
+    "probability": 0.45172800295829674
+  },
+  {
+    "start": 4.433,
+    "end": 4.734,
+    "word": "taloon",
+    "probability": 0.6665885776126488
+  }
+]

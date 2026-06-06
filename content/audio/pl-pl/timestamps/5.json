@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.722,
+    "word": "Następnie",
+    "probability": 0.99
+  },
+  {
+    "start": 0.722,
+    "end": 1.484,
+    "word": "uczesała",
+    "probability": 0.99
+  },
+  {
+    "start": 1.484,
+    "end": 1.665,
+    "word": "im",
+    "probability": 0.99
+  },
+  {
+    "start": 1.665,
+    "end": 2.286,
+    "word": "ogony",
+    "probability": 0.99
+  },
+  {
+    "start": 2.286,
+    "end": 2.427,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 2.427,
+    "end": 3.089,
+    "word": "wąsy",
+    "probability": 0.99
+  },
+  {
+    "start": 3.089,
+    "end": 3.63,
+    "word": "to",
+    "probability": 0.99
+  },
+  {
+    "start": 3.63,
+    "end": 3.931,
+    "word": "jest",
+    "probability": 0.99
+  },
+  {
+    "start": 3.931,
+    "end": 4.332,
+    "word": "Tom",
+    "probability": 0.9840903858698706
+  },
+  {
+    "start": 4.332,
+    "end": 4.994,
+    "word": "Kitten",
+    "probability": 0.9674866223691785
+  },
+  {
+    "start": 4.994,
+    "end": 5.977,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 5.977,
+    "end": 6.538,
+    "word": "ciągle",
+    "probability": 0.99
+  },
+  {
+    "start": 6.538,
+    "end": 7.04,
+    "word": "próbował",
+    "probability": 0.9613297381267302
+  },
+  {
+    "start": 7.04,
+    "end": 7.581,
+    "word": "drapać",
+    "probability": 0.99
+  },
+  {
+    "start": 7.581,
+    "end": 8.203,
+    "word": "grzebień",
+    "probability": 0.9528185507706072
+  }
+]

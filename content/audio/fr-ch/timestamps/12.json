@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "Il",
+    "probability": 0.663832900229187
+  },
+  {
+    "start": 0.16,
+    "end": 0.52,
+    "word": "était",
+    "probability": 0.7548126696029098
+  },
+  {
+    "start": 0.52,
+    "end": 0.681,
+    "word": "en",
+    "probability": 0.834307985316941
+  },
+  {
+    "start": 0.681,
+    "end": 1.361,
+    "word": "désordre",
+    "probability": 0.9776353017121387
+  },
+  {
+    "start": 1.361,
+    "end": 1.961,
+    "word": "quand",
+    "probability": 0.9899062488884911
+  },
+  {
+    "start": 1.961,
+    "end": 2.182,
+    "word": "il",
+    "probability": 0.9657471064458477
+  },
+  {
+    "start": 2.182,
+    "end": 2.762,
+    "word": "atteignit",
+    "probability": 0.9810682193575618
+  },
+  {
+    "start": 2.762,
+    "end": 2.922,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 2.922,
+    "end": 3.363,
+    "word": "sommet",
+    "probability": 0.99
+  },
+  {
+    "start": 3.363,
+    "end": 3.543,
+    "word": "du",
+    "probability": 0.99
+  },
+  {
+    "start": 3.543,
+    "end": 3.943,
+    "word": "mur",
+    "probability": 0.99
+  },
+  {
+    "start": 3.943,
+    "end": 6.165,
+    "word": "Moppet",
+    "probability": 0.9745132874240237
+  },
+  {
+    "start": 6.165,
+    "end": 6.345,
+    "word": "et",
+    "probability": 0.9390266942823232
+  },
+  {
+    "start": 6.345,
+    "end": 6.965,
+    "word": "Mittens",
+    "probability": 0.9605135839019815
+  },
+  {
+    "start": 6.965,
+    "end": 8.086,
+    "word": "essayèrent",
+    "probability": 0.9844473669377479
+  },
+  {
+    "start": 8.086,
+    "end": 8.206,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 8.206,
+    "end": 8.787,
+    "word": "réparer",
+    "probability": 0.99
+  },
+  {
+    "start": 8.787,
+    "end": 9.067,
+    "word": "ses",
+    "probability": 0.9630077164589708
+  },
+  {
+    "start": 9.067,
+    "end": 9.647,
+    "word": "vêtements",
+    "probability": 0.99
+  },
+  {
+    "start": 9.647,
+    "end": 10.608,
+    "word": "mais",
+    "probability": 0.9789276752512718
+  },
+  {
+    "start": 10.608,
+    "end": 10.828,
+    "word": "son",
+    "probability": 0.99
+  },
+  {
+    "start": 10.828,
+    "end": 11.329,
+    "word": "chapeau",
+    "probability": 0.9738577602782299
+  },
+  {
+    "start": 11.329,
+    "end": 11.829,
+    "word": "tomba",
+    "probability": 0.99
+  },
+  {
+    "start": 11.829,
+    "end": 12.79,
+    "word": "et",
+    "probability": 0.9894399779199858
+  },
+  {
+    "start": 12.79,
+    "end": 13.03,
+    "word": "ses",
+    "probability": 0.99
+  },
+  {
+    "start": 13.03,
+    "end": 13.53,
+    "word": "derniers",
+    "probability": 0.9506661763267449
+  },
+  {
+    "start": 13.53,
+    "end": 13.971,
+    "word": "boutons",
+    "probability": 0.99
+  },
+  {
+    "start": 13.971,
+    "end": 14.831,
+    "word": "sautèrent",
+    "probability": 0.8289189719891824
+  }
+]

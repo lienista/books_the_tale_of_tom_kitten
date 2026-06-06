@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.261,
+    "word": "Quite",
+    "probability": 0.3931227284819107
+  },
+  {
+    "start": 0.261,
+    "end": 0.421,
+    "word": "the",
+    "probability": 0.4249234113355219
+  },
+  {
+    "start": 0.421,
+    "end": 0.963,
+    "word": "opposite",
+    "probability": 0.4677665319467568
+  },
+  {
+    "start": 0.963,
+    "end": 1.725,
+    "word": "they",
+    "probability": 0.8678360519364754
+  },
+  {
+    "start": 1.725,
+    "end": 2.026,
+    "word": "werent",
+    "probability": 0.37555425707595474
+  },
+  {
+    "start": 2.026,
+    "end": 2.187,
+    "word": "in",
+    "probability": 0.44198842743958777
+  },
+  {
+    "start": 2.187,
+    "end": 2.427,
+    "word": "bed",
+    "probability": 0.7204257423958169
+  },
+  {
+    "start": 2.427,
+    "end": 2.808,
+    "word": "at",
+    "probability": 0.7806360349933666
+  },
+  {
+    "start": 2.808,
+    "end": 2.949,
+    "word": "all",
+    "probability": 0.4287764539860169
+  }
+]

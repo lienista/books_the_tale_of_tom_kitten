@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.66,
+    "word": "Stattdessen",
+    "probability": 0.899068152501683
+  },
+  {
+    "start": 0.66,
+    "end": 1.08,
+    "word": "kamen",
+    "probability": 0.9803732982760996
+  },
+  {
+    "start": 1.08,
+    "end": 1.341,
+    "word": "sehr",
+    "probability": 0.9640525494818633
+  },
+  {
+    "start": 1.341,
+    "end": 2.001,
+    "word": "seltsame",
+    "probability": 0.99
+  },
+  {
+    "start": 2.001,
+    "end": 2.601,
+    "word": "Geräusche",
+    "probability": 0.9676611893996308
+  },
+  {
+    "start": 2.601,
+    "end": 2.921,
+    "word": "von",
+    "probability": 0.99
+  },
+  {
+    "start": 2.921,
+    "end": 3.442,
+    "word": "oben",
+    "probability": 0.99
+  },
+  {
+    "start": 3.442,
+    "end": 4.102,
+    "word": "die",
+    "probability": 0.99
+  },
+  {
+    "start": 4.102,
+    "end": 4.302,
+    "word": "die",
+    "probability": 0.9311056178691687
+  },
+  {
+    "start": 4.302,
+    "end": 4.782,
+    "word": "ruhige",
+    "probability": 0.99
+  },
+  {
+    "start": 4.782,
+    "end": 5.362,
+    "word": "Stimmung",
+    "probability": 0.9791759072550846
+  },
+  {
+    "start": 5.362,
+    "end": 5.603,
+    "word": "der",
+    "probability": 0.9728634813617411
+  },
+  {
+    "start": 5.603,
+    "end": 6.383,
+    "word": "Teeparty",
+    "probability": 0.9179343909162521
+  },
+  {
+    "start": 6.383,
+    "end": 7.303,
+    "word": "ruinierten",
+    "probability": 0.9633400461603506
+  },
+  {
+    "start": 7.303,
+    "end": 8.164,
+    "word": "Und",
+    "probability": 0.99
+  },
+  {
+    "start": 8.164,
+    "end": 8.324,
+    "word": "ich",
+    "probability": 0.9819361791687325
+  },
+  {
+    "start": 8.324,
+    "end": 8.764,
+    "word": "denke",
+    "probability": 0.9802248262478038
+  },
+  {
+    "start": 8.764,
+    "end": 9.264,
+    "word": "eines",
+    "probability": 0.9823794932732767
+  },
+  {
+    "start": 9.264,
+    "end": 9.784,
+    "word": "Tages",
+    "probability": 0.987796316826345
+  },
+  {
+    "start": 9.784,
+    "end": 10.165,
+    "word": "werde",
+    "probability": 0.9782437479316163
+  },
+  {
+    "start": 10.165,
+    "end": 10.405,
+    "word": "ich",
+    "probability": 0.9701049671848981
+  },
+  {
+    "start": 10.405,
+    "end": 10.645,
+    "word": "ein",
+    "probability": 0.9829888318747974
+  },
+  {
+    "start": 10.645,
+    "end": 11.245,
+    "word": "längeres",
+    "probability": 0.9760651975006736
+  },
+  {
+    "start": 11.245,
+    "end": 11.665,
+    "word": "Buch",
+    "probability": 0.99
+  },
+  {
+    "start": 11.665,
+    "end": 12.326,
+    "word": "schreiben",
+    "probability": 0.9870092597740218
+  },
+  {
+    "start": 12.326,
+    "end": 12.806,
+    "word": "müssen",
+    "probability": 0.9770566958940986
+  },
+  {
+    "start": 12.806,
+    "end": 13.666,
+    "word": "um",
+    "probability": 0.99
+  },
+  {
+    "start": 13.666,
+    "end": 14.026,
+    "word": "euch",
+    "probability": 0.9871627288619066
+  },
+  {
+    "start": 14.026,
+    "end": 14.527,
+    "word": "mehr",
+    "probability": 0.9809403834175283
+  },
+  {
+    "start": 14.527,
+    "end": 14.927,
+    "word": "über",
+    "probability": 0.959443184108794
+  },
+  {
+    "start": 14.927,
+    "end": 15.287,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 15.287,
+    "end": 15.827,
+    "word": "Kitten",
+    "probability": 0.9845639031003933
+  },
+  {
+    "start": 15.827,
+    "end": 16.147,
+    "word": "zu",
+    "probability": 0.99
+  },
+  {
+    "start": 16.147,
+    "end": 16.908,
+    "word": "erzählen",
+    "probability": 0.99
+  }
+]

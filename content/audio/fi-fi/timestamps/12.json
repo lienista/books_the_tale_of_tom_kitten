@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.784,
+    "end": 2.14,
+    "word": "Hän",
+    "probability": 0.8461367090676303
+  },
+  {
+    "start": 2.14,
+    "end": 2.334,
+    "word": "oli",
+    "probability": 0.2896723459624967
+  },
+  {
+    "start": 2.334,
+    "end": 2.964,
+    "word": "sotkussa",
+    "probability": 0.615036918542953
+  },
+  {
+    "start": 2.964,
+    "end": 3.101,
+    "word": "kun",
+    "probability": 0.24979675139978325
+  },
+  {
+    "start": 3.101,
+    "end": 3.239,
+    "word": "hän",
+    "probability": 0.053356085156684586
+  },
+  {
+    "start": 3.239,
+    "end": 3.788,
+    "word": "saavutti",
+    "probability": 0.5712334970207491
+  },
+  {
+    "start": 3.788,
+    "end": 4.007,
+    "word": "muurin",
+    "probability": 0.2481667768307761
+  },
+  {
+    "start": 4.007,
+    "end": 4.501,
+    "word": "huipun",
+    "probability": 0.6111088003809726
+  },
+  {
+    "start": 4.501,
+    "end": 5.957,
+    "word": "Moppet",
+    "probability": 0.8846146503329492
+  },
+  {
+    "start": 5.957,
+    "end": 6.121,
+    "word": "ja",
+    "probability": 0.5730089252535887
+  },
+  {
+    "start": 6.121,
+    "end": 6.423,
+    "word": "Mittens",
+    "probability": 0.3812973167723363
+  },
+  {
+    "start": 6.423,
+    "end": 6.945,
+    "word": "yrittivät",
+    "probability": 0.47037655694720537
+  },
+  {
+    "start": 6.945,
+    "end": 7.411,
+    "word": "korjata",
+    "probability": 0.5275049537859772
+  },
+  {
+    "start": 7.411,
+    "end": 7.74,
+    "word": "hänen",
+    "probability": 0.4875818060555766
+  },
+  {
+    "start": 7.74,
+    "end": 8.399,
+    "word": "vaatteitaan",
+    "probability": 0.5322758250159979
+  },
+  {
+    "start": 8.399,
+    "end": 8.673,
+    "word": "mutta",
+    "probability": 0.497998273183416
+  },
+  {
+    "start": 8.673,
+    "end": 8.866,
+    "word": "hänen",
+    "probability": 0.14264594505133663
+  },
+  {
+    "start": 8.866,
+    "end": 9.441,
+    "word": "hattunsa",
+    "probability": 0.5506355385691908
+  },
+  {
+    "start": 9.441,
+    "end": 9.826,
+    "word": "putosi",
+    "probability": 0.4999643502349956
+  },
+  {
+    "start": 9.826,
+    "end": 9.909,
+    "word": "ja",
+    "probability": 0.01
+  },
+  {
+    "start": 9.909,
+    "end": 10.897,
+    "word": "hänen",
+    "probability": 0.8302020003490707
+  },
+  {
+    "start": 10.897,
+    "end": 11.308,
+    "word": "viimeiset",
+    "probability": 0.37317296106631415
+  },
+  {
+    "start": 11.308,
+    "end": 11.912,
+    "word": "nappinsa",
+    "probability": 0.6666547819952188
+  },
+  {
+    "start": 11.912,
+    "end": 12.489,
+    "word": "irtosivat",
+    "probability": 0.5452815089991847
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.361,
+    "word": "Durup",
+    "probability": 0.99
+  },
+  {
+    "start": 0.361,
+    "end": 0.702,
+    "word": "bir",
+    "probability": 0.99
+  },
+  {
+    "start": 0.702,
+    "end": 1.023,
+    "word": "sıra",
+    "probability": 0.9742755868998945
+  },
+  {
+    "start": 1.023,
+    "end": 1.625,
+    "word": "halinde",
+    "probability": 0.99
+  },
+  {
+    "start": 1.625,
+    "end": 2.427,
+    "word": "dizildiler",
+    "probability": 0.9836283426809406
+  },
+  {
+    "start": 2.427,
+    "end": 2.869,
+    "word": "ve",
+    "probability": 0.984871939252481
+  },
+  {
+    "start": 2.869,
+    "end": 3.49,
+    "word": "geniş",
+    "probability": 0.9537919378000752
+  },
+  {
+    "start": 3.49,
+    "end": 4.213,
+    "word": "şaşkın",
+    "probability": 0.9735910977924979
+  },
+  {
+    "start": 4.213,
+    "end": 5.035,
+    "word": "gözlerle",
+    "probability": 0.99
+  },
+  {
+    "start": 5.035,
+    "end": 5.797,
+    "word": "kedilere",
+    "probability": 0.9637799553392915
+  },
+  {
+    "start": 5.797,
+    "end": 6.399,
+    "word": "baktılar",
+    "probability": 0.9886780439625795
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.421,
+    "word": "Meneer",
+    "probability": 0.7538793255986163
+  },
+  {
+    "start": 0.421,
+    "end": 0.882,
+    "word": "Drake",
+    "probability": 0.8365593433597832
+  },
+  {
+    "start": 0.882,
+    "end": 1.603,
+    "word": "PuddleDuck",
+    "probability": 0.8513015761396115
+  },
+  {
+    "start": 1.603,
+    "end": 2.405,
+    "word": "waggelde",
+    "probability": 0.975918432187323
+  },
+  {
+    "start": 2.405,
+    "end": 2.645,
+    "word": "op",
+    "probability": 0.9722552409172366
+  },
+  {
+    "start": 2.645,
+    "end": 2.826,
+    "word": "een",
+    "probability": 0.9568676721075438
+  },
+  {
+    "start": 2.826,
+    "end": 3.547,
+    "word": "langzame",
+    "probability": 0.9799393348545755
+  },
+  {
+    "start": 3.547,
+    "end": 4.69,
+    "word": "zijwaartse",
+    "probability": 0.9395801016758915
+  },
+  {
+    "start": 4.69,
+    "end": 5.131,
+    "word": "manier",
+    "probability": 0.8957436768568657
+  },
+  {
+    "start": 5.131,
+    "end": 5.932,
+    "word": "en",
+    "probability": 0.977810265880138
+  },
+  {
+    "start": 5.932,
+    "end": 6.513,
+    "word": "raapte",
+    "probability": 0.9840040199173371
+  },
+  {
+    "start": 6.513,
+    "end": 6.674,
+    "word": "de",
+    "probability": 0.9497537337564219
+  },
+  {
+    "start": 6.674,
+    "end": 7.375,
+    "word": "verschillende",
+    "probability": 0.977827057033894
+  },
+  {
+    "start": 7.375,
+    "end": 7.896,
+    "word": "items",
+    "probability": 0.8650702491140053
+  },
+  {
+    "start": 7.896,
+    "end": 8.057,
+    "word": "op",
+    "probability": 0.9388181703861973
+  }
+]

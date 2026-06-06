@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.982,
+    "end": 1.322,
+    "word": "While",
+    "probability": 0.6848327424322735
+  },
+  {
+    "start": 1.322,
+    "end": 1.462,
+    "word": "they",
+    "probability": 0.14243594771041754
+  },
+  {
+    "start": 1.462,
+    "end": 2.063,
+    "word": "were",
+    "probability": 0.772097135849864
+  },
+  {
+    "start": 2.063,
+    "end": 2.504,
+    "word": "struggling",
+    "probability": 0.3644902160810494
+  },
+  {
+    "start": 2.504,
+    "end": 2.744,
+    "word": "they",
+    "probability": 0.5670383116823222
+  },
+  {
+    "start": 2.744,
+    "end": 3.185,
+    "word": "heard",
+    "probability": 0.7016218610283298
+  },
+  {
+    "start": 3.185,
+    "end": 3.265,
+    "word": "a",
+    "probability": 0.3844798859122388
+  },
+  {
+    "start": 3.265,
+    "end": 4.327,
+    "word": "pitpatpaddlepat",
+    "probability": 0.6115615897342437
+  },
+  {
+    "start": 4.327,
+    "end": 5.068,
+    "word": "The",
+    "probability": 0.8927615501014483
+  },
+  {
+    "start": 5.068,
+    "end": 5.409,
+    "word": "three",
+    "probability": 0.6029408023982
+  },
+  {
+    "start": 5.409,
+    "end": 6.17,
+    "word": "PuddleDucks",
+    "probability": 0.5613388250544938
+  },
+  {
+    "start": 6.17,
+    "end": 6.51,
+    "word": "came",
+    "probability": 0.7118003035080785
+  },
+  {
+    "start": 6.51,
+    "end": 7.051,
+    "word": "marching",
+    "probability": 0.6017461991306144
+  },
+  {
+    "start": 7.051,
+    "end": 7.292,
+    "word": "down",
+    "probability": 0.6483103628621812
+  },
+  {
+    "start": 7.292,
+    "end": 7.432,
+    "word": "the",
+    "probability": 0.4265806424021359
+  },
+  {
+    "start": 7.432,
+    "end": 7.692,
+    "word": "road",
+    "probability": 0.5526538868791172
+  },
+  {
+    "start": 7.692,
+    "end": 7.832,
+    "word": "in",
+    "probability": 0.7041388975887953
+  },
+  {
+    "start": 7.832,
+    "end": 8.313,
+    "word": "single",
+    "probability": 0.6608745808307507
+  },
+  {
+    "start": 8.313,
+    "end": 8.774,
+    "word": "file",
+    "probability": 0.7426410168097116
+  },
+  {
+    "start": 8.774,
+    "end": 9.655,
+    "word": "doing",
+    "probability": 0.8470759846130165
+  },
+  {
+    "start": 9.655,
+    "end": 9.856,
+    "word": "their",
+    "probability": 0.3631880457727519
+  },
+  {
+    "start": 9.856,
+    "end": 10.437,
+    "word": "rhythmic",
+    "probability": 0.48748738514846157
+  },
+  {
+    "start": 10.437,
+    "end": 12.56,
+    "word": "waddlepitpatpaddlepat",
+    "probability": 0.698733012838203
+  },
+  {
+    "start": 12.56,
+    "end": 14.042,
+    "word": "pitpatwaddlepat",
+    "probability": 0.7653821322858957
+  }
+]

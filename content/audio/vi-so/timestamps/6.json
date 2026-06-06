@@ -1,0 +1,224 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.2,
+    "word": "Bà",
+    "probability": 0.9591256022930782
+  },
+  {
+    "start": 0.2,
+    "end": 0.762,
+    "word": "Tabitha",
+    "probability": 0.8822063475010565
+  },
+  {
+    "start": 0.762,
+    "end": 0.962,
+    "word": "mặc",
+    "probability": 0.9566081132969533
+  },
+  {
+    "start": 0.962,
+    "end": 1.162,
+    "word": "cho",
+    "probability": 0.8669087737466284
+  },
+  {
+    "start": 1.162,
+    "end": 1.543,
+    "word": "Moppet",
+    "probability": 0.6002097050143871
+  },
+  {
+    "start": 1.543,
+    "end": 1.663,
+    "word": "và",
+    "probability": 0.7437084470541722
+  },
+  {
+    "start": 1.663,
+    "end": 2.124,
+    "word": "Mittens",
+    "probability": 0.6924685398353877
+  },
+  {
+    "start": 2.124,
+    "end": 2.345,
+    "word": "những",
+    "probability": 0.8811946918209057
+  },
+  {
+    "start": 2.345,
+    "end": 2.545,
+    "word": "chiếc",
+    "probability": 0.9662066387322277
+  },
+  {
+    "start": 2.545,
+    "end": 2.725,
+    "word": "váy",
+    "probability": 0.9822482535588707
+  },
+  {
+    "start": 2.725,
+    "end": 2.946,
+    "word": "nhỏ",
+    "probability": 0.9891254502146971
+  },
+  {
+    "start": 2.946,
+    "end": 3.166,
+    "word": "sạch",
+    "probability": 0.99
+  },
+  {
+    "start": 3.166,
+    "end": 3.447,
+    "word": "sẽ",
+    "probability": 0.99
+  },
+  {
+    "start": 3.447,
+    "end": 3.747,
+    "word": "và",
+    "probability": 0.9882924711223795
+  },
+  {
+    "start": 3.747,
+    "end": 3.948,
+    "word": "cổ",
+    "probability": 0.99
+  },
+  {
+    "start": 3.948,
+    "end": 4.108,
+    "word": "áo",
+    "probability": 0.9105848710283102
+  },
+  {
+    "start": 4.108,
+    "end": 4.329,
+    "word": "ren",
+    "probability": 0.9794019834196195
+  },
+  {
+    "start": 4.329,
+    "end": 5.331,
+    "word": "Sau",
+    "probability": 0.9859520868984135
+  },
+  {
+    "start": 5.331,
+    "end": 5.551,
+    "word": "đó",
+    "probability": 0.99
+  },
+  {
+    "start": 5.551,
+    "end": 6.172,
+    "word": "bà",
+    "probability": 0.9831279526493345
+  },
+  {
+    "start": 6.172,
+    "end": 6.313,
+    "word": "lấy",
+    "probability": 0.99
+  },
+  {
+    "start": 6.313,
+    "end": 6.493,
+    "word": "một",
+    "probability": 0.99
+  },
+  {
+    "start": 6.493,
+    "end": 6.773,
+    "word": "vài",
+    "probability": 0.9822526508483769
+  },
+  {
+    "start": 6.773,
+    "end": 6.954,
+    "word": "bộ",
+    "probability": 0.99
+  },
+  {
+    "start": 6.954,
+    "end": 7.114,
+    "word": "quần",
+    "probability": 0.9206049336367903
+  },
+  {
+    "start": 7.114,
+    "end": 7.335,
+    "word": "áo",
+    "probability": 0.9852225243165568
+  },
+  {
+    "start": 7.335,
+    "end": 7.595,
+    "word": "cứng",
+    "probability": 0.9584505539887211
+  },
+  {
+    "start": 7.595,
+    "end": 7.836,
+    "word": "cáp",
+    "probability": 0.99
+  },
+  {
+    "start": 7.836,
+    "end": 8.216,
+    "word": "sang",
+    "probability": 0.99
+  },
+  {
+    "start": 8.216,
+    "end": 8.477,
+    "word": "trọng",
+    "probability": 0.9185291644168021
+  },
+  {
+    "start": 8.477,
+    "end": 8.757,
+    "word": "từ",
+    "probability": 0.99
+  },
+  {
+    "start": 8.757,
+    "end": 8.898,
+    "word": "một",
+    "probability": 0.99
+  },
+  {
+    "start": 8.898,
+    "end": 9.078,
+    "word": "chiếc",
+    "probability": 0.9678795345256265
+  },
+  {
+    "start": 9.078,
+    "end": 9.258,
+    "word": "tủ",
+    "probability": 0.99
+  },
+  {
+    "start": 9.258,
+    "end": 9.519,
+    "word": "cũ",
+    "probability": 0.99
+  },
+  {
+    "start": 9.519,
+    "end": 9.719,
+    "word": "cho",
+    "probability": 0.9444029900348768
+  },
+  {
+    "start": 9.719,
+    "end": 9.94,
+    "word": "Tom",
+    "probability": 0.8772578629190565
+  }
+]

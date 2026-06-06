@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.12,
+    "word": "Au",
+    "probability": 0.6737298943732916
+  },
+  {
+    "start": 0.12,
+    "end": 0.34,
+    "word": "lieu",
+    "probability": 0.790596177941525
+  },
+  {
+    "start": 0.34,
+    "end": 0.48,
+    "word": "de",
+    "probability": 0.883497275521317
+  },
+  {
+    "start": 0.48,
+    "end": 0.781,
+    "word": "cela",
+    "probability": 0.948407902251503
+  },
+  {
+    "start": 0.781,
+    "end": 1.221,
+    "word": "il",
+    "probability": 0.9761420763857855
+  },
+  {
+    "start": 1.221,
+    "end": 1.321,
+    "word": "y",
+    "probability": 0.9447559125610029
+  },
+  {
+    "start": 1.321,
+    "end": 1.581,
+    "word": "avait",
+    "probability": 0.9858638417669432
+  },
+  {
+    "start": 1.581,
+    "end": 1.741,
+    "word": "des",
+    "probability": 0.99
+  },
+  {
+    "start": 1.741,
+    "end": 2.062,
+    "word": "bruits",
+    "probability": 0.9859747222486881
+  },
+  {
+    "start": 2.062,
+    "end": 2.502,
+    "word": "très",
+    "probability": 0.99
+  },
+  {
+    "start": 2.502,
+    "end": 3.222,
+    "word": "étranges",
+    "probability": 0.99
+  },
+  {
+    "start": 3.222,
+    "end": 3.723,
+    "word": "venant",
+    "probability": 0.9752532899999485
+  },
+  {
+    "start": 3.723,
+    "end": 3.863,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 3.863,
+    "end": 4.523,
+    "word": "létage",
+    "probability": 0.9412966484034859
+  },
+  {
+    "start": 4.523,
+    "end": 4.884,
+    "word": "ce",
+    "probability": 0.9840028832444729
+  },
+  {
+    "start": 4.884,
+    "end": 5.084,
+    "word": "qui",
+    "probability": 0.9800864029263398
+  },
+  {
+    "start": 5.084,
+    "end": 5.544,
+    "word": "gâcha",
+    "probability": 0.9727491399007661
+  },
+  {
+    "start": 5.544,
+    "end": 6.245,
+    "word": "lambiance",
+    "probability": 0.9231201383625386
+  },
+  {
+    "start": 6.245,
+    "end": 6.965,
+    "word": "tranquille",
+    "probability": 0.9862896983487901
+  },
+  {
+    "start": 6.965,
+    "end": 7.265,
+    "word": "de",
+    "probability": 0.9881630348853219
+  },
+  {
+    "start": 7.265,
+    "end": 7.406,
+    "word": "la",
+    "probability": 0.981948138258608
+  },
+  {
+    "start": 7.406,
+    "end": 7.726,
+    "word": "fête",
+    "probability": 0.9681351167732485
+  },
+  {
+    "start": 7.726,
+    "end": 7.866,
+    "word": "du",
+    "probability": 0.9882691855057287
+  },
+  {
+    "start": 7.866,
+    "end": 8.106,
+    "word": "thé",
+    "probability": 0.9392163578235998
+  },
+  {
+    "start": 8.106,
+    "end": 8.747,
+    "word": "Et",
+    "probability": 0.9768897013248312
+  },
+  {
+    "start": 8.747,
+    "end": 9.027,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 9.027,
+    "end": 9.367,
+    "word": "pense",
+    "probability": 0.9687930953339936
+  },
+  {
+    "start": 9.367,
+    "end": 9.587,
+    "word": "quun",
+    "probability": 0.8526201116767332
+  },
+  {
+    "start": 9.587,
+    "end": 9.928,
+    "word": "jour",
+    "probability": 0.9847180662199535
+  },
+  {
+    "start": 9.928,
+    "end": 10.348,
+    "word": "je",
+    "probability": 0.9882381692101256
+  },
+  {
+    "start": 10.348,
+    "end": 10.668,
+    "word": "devrai",
+    "probability": 0.9875964023117
+  },
+  {
+    "start": 10.668,
+    "end": 11.289,
+    "word": "écrire",
+    "probability": 0.9611326949092158
+  },
+  {
+    "start": 11.289,
+    "end": 11.409,
+    "word": "un",
+    "probability": 0.98699626028479
+  },
+  {
+    "start": 11.409,
+    "end": 11.789,
+    "word": "livre",
+    "probability": 0.99
+  },
+  {
+    "start": 11.789,
+    "end": 12.129,
+    "word": "plus",
+    "probability": 0.99
+  },
+  {
+    "start": 12.129,
+    "end": 12.329,
+    "word": "long",
+    "probability": 0.99
+  },
+  {
+    "start": 12.329,
+    "end": 12.73,
+    "word": "pour",
+    "probability": 0.98923669181173
+  },
+  {
+    "start": 12.73,
+    "end": 12.93,
+    "word": "vous",
+    "probability": 0.99
+  },
+  {
+    "start": 12.93,
+    "end": 13.09,
+    "word": "en",
+    "probability": 0.9832500090884038
+  },
+  {
+    "start": 13.09,
+    "end": 13.37,
+    "word": "dire",
+    "probability": 0.9724076348550337
+  },
+  {
+    "start": 13.37,
+    "end": 13.63,
+    "word": "plus",
+    "probability": 0.99
+  },
+  {
+    "start": 13.63,
+    "end": 13.85,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 13.85,
+    "end": 14.171,
+    "word": "Tom",
+    "probability": 0.9737133083366262
+  },
+  {
+    "start": 14.171,
+    "end": 14.671,
+    "word": "Kitten",
+    "probability": 0.7908258391401539
+  }
+]

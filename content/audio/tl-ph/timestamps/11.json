@@ -1,0 +1,218 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.32,
+    "word": "Hindi",
+    "probability": 0.942101392513257
+  },
+  {
+    "start": 0.32,
+    "end": 0.98,
+    "word": "makatalon",
+    "probability": 0.9835101273193072
+  },
+  {
+    "start": 0.98,
+    "end": 1.141,
+    "word": "si",
+    "probability": 0.9556856425420943
+  },
+  {
+    "start": 1.141,
+    "end": 1.461,
+    "word": "Tom",
+    "probability": 0.9888425560643205
+  },
+  {
+    "start": 1.461,
+    "end": 2.061,
+    "word": "Kitten",
+    "probability": 0.9567621381636643
+  },
+  {
+    "start": 2.061,
+    "end": 2.981,
+    "word": "habang",
+    "probability": 0.9653423041065825
+  },
+  {
+    "start": 2.981,
+    "end": 3.962,
+    "word": "sinusubukang",
+    "probability": 0.9880835490043443
+  },
+  {
+    "start": 3.962,
+    "end": 4.542,
+    "word": "maglakad",
+    "probability": 0.9807206596585117
+  },
+  {
+    "start": 4.542,
+    "end": 5.202,
+    "word": "gamit",
+    "probability": 0.9832117488311725
+  },
+  {
+    "start": 5.202,
+    "end": 5.362,
+    "word": "ang",
+    "probability": 0.842474614071705
+  },
+  {
+    "start": 5.362,
+    "end": 5.703,
+    "word": "kanyang",
+    "probability": 0.8834622030337004
+  },
+  {
+    "start": 5.703,
+    "end": 5.963,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 5.963,
+    "end": 6.543,
+    "word": "hulihang",
+    "probability": 0.989970627457111
+  },
+  {
+    "start": 6.543,
+    "end": 6.943,
+    "word": "binti",
+    "probability": 0.99
+  },
+  {
+    "start": 6.943,
+    "end": 7.723,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 7.723,
+    "end": 8.764,
+    "word": "nakapantalon",
+    "probability": 0.9845125040431223
+  },
+  {
+    "start": 8.764,
+    "end": 10.465,
+    "word": "Nahirapan",
+    "probability": 0.99
+  },
+  {
+    "start": 10.465,
+    "end": 10.705,
+    "word": "siyang",
+    "probability": 0.9630438422917553
+  },
+  {
+    "start": 10.705,
+    "end": 11.345,
+    "word": "umakyat",
+    "probability": 0.99
+  },
+  {
+    "start": 11.345,
+    "end": 11.485,
+    "word": "sa",
+    "probability": 0.8420069104229151
+  },
+  {
+    "start": 11.485,
+    "end": 11.745,
+    "word": "mga",
+    "probability": 0.9800251028716261
+  },
+  {
+    "start": 11.745,
+    "end": 12.085,
+    "word": "bato",
+    "probability": 0.99
+  },
+  {
+    "start": 12.085,
+    "end": 12.826,
+    "word": "nang",
+    "probability": 0.9626406740613628
+  },
+  {
+    "start": 12.826,
+    "end": 13.786,
+    "word": "pauntiunti",
+    "probability": 0.9807729461427206
+  },
+  {
+    "start": 13.786,
+    "end": 15.307,
+    "word": "dinudurog",
+    "probability": 0.99
+  },
+  {
+    "start": 15.307,
+    "end": 15.447,
+    "word": "ang",
+    "probability": 0.921619446569406
+  },
+  {
+    "start": 15.447,
+    "end": 15.727,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 15.727,
+    "end": 16.227,
+    "word": "pako",
+    "probability": 0.9883678042739433
+  },
+  {
+    "start": 16.227,
+    "end": 17.048,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 17.048,
+    "end": 17.828,
+    "word": "nawawalan",
+    "probability": 0.99
+  },
+  {
+    "start": 17.828,
+    "end": 17.948,
+    "word": "ng",
+    "probability": 0.832530811403672
+  },
+  {
+    "start": 17.948,
+    "end": 18.168,
+    "word": "mga",
+    "probability": 0.9529137514208436
+  },
+  {
+    "start": 18.168,
+    "end": 19.069,
+    "word": "butones",
+    "probability": 0.9777131738973757
+  },
+  {
+    "start": 19.069,
+    "end": 19.669,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 19.669,
+    "end": 20.189,
+    "word": "kaliwat",
+    "probability": 0.9846238198413221
+  },
+  {
+    "start": 20.189,
+    "end": 20.609,
+    "word": "kanan",
+    "probability": 0.979778382268673
+  }
+]

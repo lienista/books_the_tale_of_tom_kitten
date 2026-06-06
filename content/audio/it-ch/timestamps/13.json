@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.36,
+    "word": "Mentre",
+    "probability": 0.99
+  },
+  {
+    "start": 0.36,
+    "end": 0.821,
+    "word": "stavano",
+    "probability": 0.9857858618180219
+  },
+  {
+    "start": 0.821,
+    "end": 1.601,
+    "word": "lottando",
+    "probability": 0.99
+  },
+  {
+    "start": 1.601,
+    "end": 2.582,
+    "word": "sentirono",
+    "probability": 0.99
+  },
+  {
+    "start": 2.582,
+    "end": 2.862,
+    "word": "un",
+    "probability": 0.9674180013501857
+  },
+  {
+    "start": 2.862,
+    "end": 5.264,
+    "word": "pitpatpaddlepat",
+    "probability": 0.9282912699023641
+  },
+  {
+    "start": 5.264,
+    "end": 6.024,
+    "word": "I",
+    "probability": 0.9846383722785234
+  },
+  {
+    "start": 6.024,
+    "end": 6.305,
+    "word": "tre",
+    "probability": 0.9869935472918604
+  },
+  {
+    "start": 6.305,
+    "end": 7.485,
+    "word": "PuddleDucks",
+    "probability": 0.8797828979421556
+  },
+  {
+    "start": 7.485,
+    "end": 8.026,
+    "word": "vennero",
+    "probability": 0.9477912305470475
+  },
+  {
+    "start": 8.026,
+    "end": 8.746,
+    "word": "marciando",
+    "probability": 0.99
+  },
+  {
+    "start": 8.746,
+    "end": 9.027,
+    "word": "lungo",
+    "probability": 0.99
+  },
+  {
+    "start": 9.027,
+    "end": 9.187,
+    "word": "la",
+    "probability": 0.9422804623424268
+  },
+  {
+    "start": 9.187,
+    "end": 9.667,
+    "word": "strada",
+    "probability": 0.9880663858024331
+  },
+  {
+    "start": 9.667,
+    "end": 9.787,
+    "word": "in",
+    "probability": 0.9733495854425919
+  },
+  {
+    "start": 9.787,
+    "end": 10.047,
+    "word": "fila",
+    "probability": 0.9894991146578487
+  },
+  {
+    "start": 10.047,
+    "end": 10.608,
+    "word": "indiana",
+    "probability": 0.9865715006651127
+  },
+  {
+    "start": 10.608,
+    "end": 11.508,
+    "word": "facendo",
+    "probability": 0.99
+  },
+  {
+    "start": 11.508,
+    "end": 11.589,
+    "word": "il",
+    "probability": 0.9604651664915069
+  },
+  {
+    "start": 11.589,
+    "end": 11.849,
+    "word": "loro",
+    "probability": 0.9605012864622722
+  },
+  {
+    "start": 11.849,
+    "end": 12.469,
+    "word": "ritmico",
+    "probability": 0.987912684830168
+  },
+  {
+    "start": 12.469,
+    "end": 15.772,
+    "word": "dondoliopitpatpaddlepat",
+    "probability": 0.9263108411776498
+  },
+  {
+    "start": 15.772,
+    "end": 18.233,
+    "word": "pitpatwaddlepat",
+    "probability": 0.9035669717174162
+  }
+]

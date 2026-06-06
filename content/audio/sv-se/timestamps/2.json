@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.14,
+    "word": "En",
+    "probability": 0.99
+  },
+  {
+    "start": 0.14,
+    "end": 0.46,
+    "word": "dag",
+    "probability": 0.9882779531514219
+  },
+  {
+    "start": 0.46,
+    "end": 0.921,
+    "word": "väntade",
+    "probability": 0.9871145420522547
+  },
+  {
+    "start": 0.921,
+    "end": 1.261,
+    "word": "deras",
+    "probability": 0.99
+  },
+  {
+    "start": 1.261,
+    "end": 2.082,
+    "word": "mammafru",
+    "probability": 0.932887371623711
+  },
+  {
+    "start": 2.082,
+    "end": 2.762,
+    "word": "Tabitha",
+    "probability": 0.9620163897941637
+  },
+  {
+    "start": 2.762,
+    "end": 4.564,
+    "word": "Twitchitvänner",
+    "probability": 0.9497210897295476
+  },
+  {
+    "start": 4.564,
+    "end": 4.744,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 4.744,
+    "end": 4.964,
+    "word": "te",
+    "probability": 0.9748492368876946
+  },
+  {
+    "start": 4.964,
+    "end": 5.945,
+    "word": "Hon",
+    "probability": 0.99
+  },
+  {
+    "start": 5.945,
+    "end": 6.145,
+    "word": "tog",
+    "probability": 0.99
+  },
+  {
+    "start": 6.145,
+    "end": 6.285,
+    "word": "in",
+    "probability": 0.9637288936467779
+  },
+  {
+    "start": 6.285,
+    "end": 6.985,
+    "word": "kattungarna",
+    "probability": 0.9662299023436197
+  },
+  {
+    "start": 6.985,
+    "end": 7.186,
+    "word": "för",
+    "probability": 0.9881592487625674
+  },
+  {
+    "start": 7.186,
+    "end": 7.346,
+    "word": "att",
+    "probability": 0.99
+  },
+  {
+    "start": 7.346,
+    "end": 7.826,
+    "word": "tvätta",
+    "probability": 0.99
+  },
+  {
+    "start": 7.826,
+    "end": 8.026,
+    "word": "dem",
+    "probability": 0.99
+  },
+  {
+    "start": 8.026,
+    "end": 8.327,
+    "word": "och",
+    "probability": 0.9691113948225163
+  },
+  {
+    "start": 8.327,
+    "end": 8.567,
+    "word": "klä",
+    "probability": 0.99
+  },
+  {
+    "start": 8.567,
+    "end": 8.847,
+    "word": "dem",
+    "probability": 0.99
+  },
+  {
+    "start": 8.847,
+    "end": 9.127,
+    "word": "innan",
+    "probability": 0.96924057620353
+  },
+  {
+    "start": 9.127,
+    "end": 9.427,
+    "word": "hennes",
+    "probability": 0.9865243492856287
+  },
+  {
+    "start": 9.427,
+    "end": 9.808,
+    "word": "gäster",
+    "probability": 0.9682998416874513
+  },
+  {
+    "start": 9.808,
+    "end": 9.948,
+    "word": "kom",
+    "probability": 0.9816604134456673
+  }
+]

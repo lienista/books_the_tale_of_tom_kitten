@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.4,
+    "word": "Sedan",
+    "probability": 0.99
+  },
+  {
+    "start": 0.4,
+    "end": 0.581,
+    "word": "kom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.581,
+    "end": 1.041,
+    "word": "Tabitha",
+    "probability": 0.8921467303690993
+  },
+  {
+    "start": 1.041,
+    "end": 1.602,
+    "word": "Twitchit",
+    "probability": 0.9209981740982638
+  },
+  {
+    "start": 1.602,
+    "end": 1.762,
+    "word": "ner",
+    "probability": 0.9264807862339275
+  },
+  {
+    "start": 1.762,
+    "end": 1.942,
+    "word": "till",
+    "probability": 0.99
+  },
+  {
+    "start": 1.942,
+    "end": 2.503,
+    "word": "trädgården",
+    "probability": 0.9740812120594546
+  },
+  {
+    "start": 2.503,
+    "end": 2.623,
+    "word": "och",
+    "probability": 0.9288223615620289
+  },
+  {
+    "start": 2.623,
+    "end": 2.923,
+    "word": "fann",
+    "probability": 0.99
+  },
+  {
+    "start": 2.923,
+    "end": 3.184,
+    "word": "sina",
+    "probability": 0.9754663265481853
+  },
+  {
+    "start": 3.184,
+    "end": 3.804,
+    "word": "kattungar",
+    "probability": 0.99
+  },
+  {
+    "start": 3.804,
+    "end": 3.965,
+    "word": "på",
+    "probability": 0.9452523359928019
+  },
+  {
+    "start": 3.965,
+    "end": 4.405,
+    "word": "muren",
+    "probability": 0.99
+  },
+  {
+    "start": 4.405,
+    "end": 4.705,
+    "word": "utan",
+    "probability": 0.99
+  },
+  {
+    "start": 4.705,
+    "end": 5.086,
+    "word": "kläder",
+    "probability": 0.99
+  }
+]

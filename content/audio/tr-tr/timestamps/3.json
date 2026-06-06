@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.301,
+    "word": "Önce",
+    "probability": 0.99
+  },
+  {
+    "start": 0.301,
+    "end": 0.944,
+    "word": "yüzlerini",
+    "probability": 0.9742138811298748
+  },
+  {
+    "start": 0.944,
+    "end": 1.326,
+    "word": "ovdu",
+    "probability": 0.8804756137092093
+  },
+  {
+    "start": 1.326,
+    "end": 1.788,
+    "word": "bu",
+    "probability": 0.99
+  },
+  {
+    "start": 1.788,
+    "end": 2.331,
+    "word": "Moppet",
+    "probability": 0.9375881880810876
+  }
+]

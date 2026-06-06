@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "Et",
+    "probability": 0.6571422008525999
+  },
+  {
+    "start": 0.16,
+    "end": 0.281,
+    "word": "M",
+    "probability": 0.7872599849121362
+  },
+  {
+    "start": 0.281,
+    "end": 0.922,
+    "word": "Drake",
+    "probability": 0.8129029319126418
+  },
+  {
+    "start": 0.922,
+    "end": 1.725,
+    "word": "PuddleDuck",
+    "probability": 0.7602595479250791
+  },
+  {
+    "start": 1.725,
+    "end": 2.507,
+    "word": "Jemima",
+    "probability": 0.8995686386194199
+  },
+  {
+    "start": 2.507,
+    "end": 2.787,
+    "word": "et",
+    "probability": 0.954342786985387
+  },
+  {
+    "start": 2.787,
+    "end": 3.389,
+    "word": "Rebeccah",
+    "probability": 0.8916592108716822
+  },
+  {
+    "start": 3.389,
+    "end": 3.79,
+    "word": "les",
+    "probability": 0.9365494299006383
+  },
+  {
+    "start": 3.79,
+    "end": 4.191,
+    "word": "cherchent",
+    "probability": 0.9671186528522819
+  },
+  {
+    "start": 4.191,
+    "end": 4.472,
+    "word": "depuis",
+    "probability": 0.6657260216728139
+  }
+]

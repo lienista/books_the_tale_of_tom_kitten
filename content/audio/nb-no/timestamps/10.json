@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.1,
+    "word": "De",
+    "probability": 0.99
+  },
+  {
+    "start": 0.1,
+    "end": 0.501,
+    "word": "snudde",
+    "probability": 0.9554265183211677
+  },
+  {
+    "start": 0.501,
+    "end": 0.981,
+    "word": "kjolene",
+    "probability": 0.9577095164172397
+  },
+  {
+    "start": 0.981,
+    "end": 1.522,
+    "word": "bakover",
+    "probability": 0.99
+  },
+  {
+    "start": 1.522,
+    "end": 1.742,
+    "word": "så",
+    "probability": 0.99
+  },
+  {
+    "start": 1.742,
+    "end": 1.862,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 1.862,
+    "end": 2.082,
+    "word": "kunne",
+    "probability": 0.9879529328339657
+  },
+  {
+    "start": 2.082,
+    "end": 2.543,
+    "word": "bevege",
+    "probability": 0.9844968903259668
+  },
+  {
+    "start": 2.543,
+    "end": 2.763,
+    "word": "seg",
+    "probability": 0.99
+  },
+  {
+    "start": 2.763,
+    "end": 3.244,
+    "word": "bedre",
+    "probability": 0.8312005604218194
+  },
+  {
+    "start": 3.244,
+    "end": 3.584,
+    "word": "og",
+    "probability": 0.9236267354218417
+  },
+  {
+    "start": 3.584,
+    "end": 3.905,
+    "word": "hoppet",
+    "probability": 0.8838353718583518
+  },
+  {
+    "start": 3.905,
+    "end": 4.165,
+    "word": "opp",
+    "probability": 0.99
+  },
+  {
+    "start": 4.165,
+    "end": 5.006,
+    "word": "Moppets",
+    "probability": 0.9415512335362459
+  },
+  {
+    "start": 5.006,
+    "end": 5.406,
+    "word": "hvite",
+    "probability": 0.9621587271043387
+  },
+  {
+    "start": 5.406,
+    "end": 6.187,
+    "word": "blondekrage",
+    "probability": 0.9451049280366379
+  },
+  {
+    "start": 6.187,
+    "end": 6.648,
+    "word": "falt",
+    "probability": 0.8780748176122328
+  },
+  {
+    "start": 6.648,
+    "end": 6.968,
+    "word": "ned",
+    "probability": 0.9851878000500588
+  },
+  {
+    "start": 6.968,
+    "end": 7.168,
+    "word": "på",
+    "probability": 0.9582195887783749
+  },
+  {
+    "start": 7.168,
+    "end": 7.449,
+    "word": "veien",
+    "probability": 0.9108571427314046
+  }
+]

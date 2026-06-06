@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.301,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.301,
+    "end": 0.742,
+    "word": "Kitten",
+    "probability": 0.8852323636275511
+  },
+  {
+    "start": 0.742,
+    "end": 1.162,
+    "word": "cukup",
+    "probability": 0.978060907290964
+  },
+  {
+    "start": 1.162,
+    "end": 1.603,
+    "word": "gemuk",
+    "probability": 0.9786427552452968
+  },
+  {
+    "start": 1.603,
+    "end": 1.884,
+    "word": "dan",
+    "probability": 0.9632479402700642
+  },
+  {
+    "start": 1.884,
+    "end": 2.305,
+    "word": "sudah",
+    "probability": 0.99
+  },
+  {
+    "start": 2.305,
+    "end": 2.646,
+    "word": "tumbuh",
+    "probability": 0.970522408267973
+  },
+  {
+    "start": 2.646,
+    "end": 3.147,
+    "word": "besar",
+    "probability": 0.99
+  },
+  {
+    "start": 3.147,
+    "end": 4.229,
+    "word": "beberapa",
+    "probability": 0.99
+  },
+  {
+    "start": 4.229,
+    "end": 4.971,
+    "word": "kancing",
+    "probability": 0.9802854508361482
+  },
+  {
+    "start": 4.971,
+    "end": 5.913,
+    "word": "langsung",
+    "probability": 0.9864576150851408
+  },
+  {
+    "start": 5.913,
+    "end": 6.694,
+    "word": "terlepas",
+    "probability": 0.9840059858453901
+  },
+  {
+    "start": 6.694,
+    "end": 7.716,
+    "word": "Ibunya",
+    "probability": 0.9712222494238634
+  },
+  {
+    "start": 7.716,
+    "end": 8.298,
+    "word": "menghela",
+    "probability": 0.9482280793541735
+  },
+  {
+    "start": 8.298,
+    "end": 8.939,
+    "word": "napas",
+    "probability": 0.9612571115483497
+  },
+  {
+    "start": 8.939,
+    "end": 9.5,
+    "word": "dan",
+    "probability": 0.9697904447927072
+  },
+  {
+    "start": 9.5,
+    "end": 10.342,
+    "word": "menjahitnya",
+    "probability": 0.9794298397854595
+  },
+  {
+    "start": 10.342,
+    "end": 10.863,
+    "word": "kembali",
+    "probability": 0.99
+  }
+]

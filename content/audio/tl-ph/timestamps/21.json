@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.44,
+    "word": "Hinila",
+    "probability": 0.952237822992178
+  },
+  {
+    "start": 0.44,
+    "end": 0.621,
+    "word": "niya",
+    "probability": 0.8964411028622643
+  },
+  {
+    "start": 0.621,
+    "end": 0.921,
+    "word": "sila",
+    "probability": 0.97347966221813
+  },
+  {
+    "start": 0.921,
+    "end": 1.401,
+    "word": "pababa",
+    "probability": 0.99
+  },
+  {
+    "start": 1.401,
+    "end": 1.721,
+    "word": "mula",
+    "probability": 0.8869591304359465
+  },
+  {
+    "start": 1.721,
+    "end": 1.962,
+    "word": "sa",
+    "probability": 0.9790800490639598
+  },
+  {
+    "start": 1.962,
+    "end": 2.462,
+    "word": "pader",
+    "probability": 0.99
+  },
+  {
+    "start": 2.462,
+    "end": 3.503,
+    "word": "minadali",
+    "probability": 0.99
+  },
+  {
+    "start": 3.503,
+    "end": 3.923,
+    "word": "sila",
+    "probability": 0.9880839159268746
+  },
+  {
+    "start": 3.923,
+    "end": 4.844,
+    "word": "at",
+    "probability": 0.985196813604189
+  },
+  {
+    "start": 4.844,
+    "end": 5.645,
+    "word": "ibinalik",
+    "probability": 0.9879735032069885
+  },
+  {
+    "start": 5.645,
+    "end": 5.885,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 5.885,
+    "end": 6.265,
+    "word": "bahay",
+    "probability": 0.9792832152343358
+  }
+]

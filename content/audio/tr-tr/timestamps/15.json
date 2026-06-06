@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.461,
+    "word": "Sonra",
+    "probability": 0.9822937295297822
+  },
+  {
+    "start": 0.461,
+    "end": 0.942,
+    "word": "iki",
+    "probability": 0.9804849917713314
+  },
+  {
+    "start": 0.942,
+    "end": 1.263,
+    "word": "dişi",
+    "probability": 0.9878525575227592
+  },
+  {
+    "start": 1.263,
+    "end": 1.784,
+    "word": "ördek",
+    "probability": 0.960402595816849
+  },
+  {
+    "start": 1.784,
+    "end": 2.887,
+    "word": "Rebeccah",
+    "probability": 0.9489803944158065
+  },
+  {
+    "start": 2.887,
+    "end": 3.388,
+    "word": "ve",
+    "probability": 0.9505028934891654
+  },
+  {
+    "start": 3.388,
+    "end": 4.03,
+    "word": "Jemima",
+    "probability": 0.9394470991224051
+  },
+  {
+    "start": 4.03,
+    "end": 4.872,
+    "word": "PuddleDuck",
+    "probability": 0.8454244791883112
+  },
+  {
+    "start": 4.872,
+    "end": 6.094,
+    "word": "şapkayı",
+    "probability": 0.99
+  },
+  {
+    "start": 6.094,
+    "end": 6.295,
+    "word": "ve",
+    "probability": 0.9843950363969224
+  },
+  {
+    "start": 6.295,
+    "end": 6.956,
+    "word": "dantel",
+    "probability": 0.9699029810329828
+  },
+  {
+    "start": 6.956,
+    "end": 7.458,
+    "word": "yakayı",
+    "probability": 0.9808517093359161
+  },
+  {
+    "start": 7.458,
+    "end": 8.239,
+    "word": "aldılar",
+    "probability": 0.99
+  },
+  {
+    "start": 8.239,
+    "end": 8.841,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 8.841,
+    "end": 9.603,
+    "word": "taktılar",
+    "probability": 0.99
+  }
+]

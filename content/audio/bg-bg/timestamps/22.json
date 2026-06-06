@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.2,
+    "word": "Тя",
+    "probability": 0.99
+  },
+  {
+    "start": 0.2,
+    "end": 0.421,
+    "word": "ги",
+    "probability": 0.9876419177967981
+  },
+  {
+    "start": 0.421,
+    "end": 0.902,
+    "word": "изпрати",
+    "probability": 0.9739892927748017
+  },
+  {
+    "start": 0.902,
+    "end": 1.282,
+    "word": "горе",
+    "probability": 0.9809411057878032
+  },
+  {
+    "start": 1.282,
+    "end": 1.844,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 1.844,
+    "end": 2.485,
+    "word": "съжалявам",
+    "probability": 0.9643479943729619
+  },
+  {
+    "start": 2.485,
+    "end": 2.605,
+    "word": "да",
+    "probability": 0.99
+  },
+  {
+    "start": 2.605,
+    "end": 3.066,
+    "word": "кажа",
+    "probability": 0.99
+  },
+  {
+    "start": 3.066,
+    "end": 3.908,
+    "word": "че",
+    "probability": 0.9887443308154757
+  },
+  {
+    "start": 3.908,
+    "end": 4.248,
+    "word": "каза",
+    "probability": 0.99
+  },
+  {
+    "start": 4.248,
+    "end": 4.348,
+    "word": "на",
+    "probability": 0.9857546049601128
+  },
+  {
+    "start": 4.348,
+    "end": 5.11,
+    "word": "приятелите",
+    "probability": 0.9825475240935914
+  },
+  {
+    "start": 5.11,
+    "end": 5.31,
+    "word": "си",
+    "probability": 0.9889744127232568
+  },
+  {
+    "start": 5.31,
+    "end": 6.172,
+    "word": "че",
+    "probability": 0.99
+  },
+  {
+    "start": 6.172,
+    "end": 6.352,
+    "word": "са",
+    "probability": 0.9170997195442625
+  },
+  {
+    "start": 6.352,
+    "end": 6.472,
+    "word": "в",
+    "probability": 0.7300061721639076
+  },
+  {
+    "start": 6.472,
+    "end": 6.973,
+    "word": "леглото",
+    "probability": 0.9317606696451726
+  },
+  {
+    "start": 6.973,
+    "end": 7.074,
+    "word": "с",
+    "probability": 0.9484133489011146
+  },
+  {
+    "start": 7.074,
+    "end": 7.715,
+    "word": "настинка",
+    "probability": 0.9880172007977929
+  },
+  {
+    "start": 7.715,
+    "end": 8.456,
+    "word": "което",
+    "probability": 0.99
+  },
+  {
+    "start": 8.456,
+    "end": 8.577,
+    "word": "не",
+    "probability": 0.9189324760031604
+  },
+  {
+    "start": 8.577,
+    "end": 8.917,
+    "word": "беше",
+    "probability": 0.99
+  },
+  {
+    "start": 8.917,
+    "end": 9.338,
+    "word": "вярно",
+    "probability": 0.99
+  }
+]

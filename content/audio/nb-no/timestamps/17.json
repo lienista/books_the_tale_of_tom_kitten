@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.32,
+    "end": 0.4,
+    "word": "Mr",
+    "probability": 0.7499882321559324
+  },
+  {
+    "start": 0.4,
+    "end": 0.881,
+    "word": "Drake",
+    "probability": 0.9745692059149352
+  },
+  {
+    "start": 0.881,
+    "end": 1.662,
+    "word": "PuddleDuck",
+    "probability": 0.8192603394130618
+  },
+  {
+    "start": 1.662,
+    "end": 2.322,
+    "word": "vagget",
+    "probability": 0.9432542871323542
+  },
+  {
+    "start": 2.322,
+    "end": 2.663,
+    "word": "bort",
+    "probability": 0.9861638024940068
+  },
+  {
+    "start": 2.663,
+    "end": 2.843,
+    "word": "på",
+    "probability": 0.8814566573850111
+  },
+  {
+    "start": 2.843,
+    "end": 3.003,
+    "word": "en",
+    "probability": 0.9400528885046628
+  },
+  {
+    "start": 3.003,
+    "end": 3.583,
+    "word": "langsom",
+    "probability": 0.99
+  },
+  {
+    "start": 3.583,
+    "end": 4.584,
+    "word": "sidelengs",
+    "probability": 0.9587243611765486
+  },
+  {
+    "start": 4.584,
+    "end": 5.005,
+    "word": "måte",
+    "probability": 0.835756638985927
+  },
+  {
+    "start": 5.005,
+    "end": 5.265,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 5.265,
+    "end": 5.826,
+    "word": "plukket",
+    "probability": 0.8914542700242448
+  },
+  {
+    "start": 5.826,
+    "end": 6.046,
+    "word": "opp",
+    "probability": 0.99
+  },
+  {
+    "start": 6.046,
+    "end": 6.306,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 6.306,
+    "end": 7.087,
+    "word": "forskjellige",
+    "probability": 0.9721404444555832
+  },
+  {
+    "start": 7.087,
+    "end": 7.667,
+    "word": "tingene",
+    "probability": 0.99
+  }
+]

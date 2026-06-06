@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.722,
+    "word": "Depois",
+    "probability": 0.9839846724911865
+  },
+  {
+    "start": 0.722,
+    "end": 1.623,
+    "word": "penteoulhes",
+    "probability": 0.9152105345280297
+  },
+  {
+    "start": 1.623,
+    "end": 1.824,
+    "word": "as",
+    "probability": 0.9629943112712367
+  },
+  {
+    "start": 1.824,
+    "end": 2.385,
+    "word": "caudas",
+    "probability": 0.9687980037851457
+  },
+  {
+    "start": 2.385,
+    "end": 2.545,
+    "word": "e",
+    "probability": 0.9354422085141666
+  },
+  {
+    "start": 2.545,
+    "end": 2.706,
+    "word": "os",
+    "probability": 0.9437139892988469
+  },
+  {
+    "start": 2.706,
+    "end": 3.548,
+    "word": "bigodes",
+    "probability": 0.9784124910898829
+  },
+  {
+    "start": 3.548,
+    "end": 4.991,
+    "word": "este",
+    "probability": 0.99
+  },
+  {
+    "start": 4.991,
+    "end": 5.251,
+    "word": "é",
+    "probability": 0.99
+  },
+  {
+    "start": 5.251,
+    "end": 5.411,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 5.411,
+    "end": 5.752,
+    "word": "Tom",
+    "probability": 0.9800275743467219
+  },
+  {
+    "start": 5.752,
+    "end": 6.353,
+    "word": "Kitten",
+    "probability": 0.838948500038887
+  },
+  {
+    "start": 6.353,
+    "end": 7.416,
+    "word": "O",
+    "probability": 0.99
+  },
+  {
+    "start": 7.416,
+    "end": 7.797,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 7.797,
+    "end": 8.678,
+    "word": "continuava",
+    "probability": 0.99
+  },
+  {
+    "start": 8.678,
+    "end": 8.899,
+    "word": "a",
+    "probability": 0.9097333879702336
+  },
+  {
+    "start": 8.899,
+    "end": 9.56,
+    "word": "tentar",
+    "probability": 0.99
+  },
+  {
+    "start": 9.56,
+    "end": 10.282,
+    "word": "arranhar",
+    "probability": 0.9841296624938382
+  },
+  {
+    "start": 10.282,
+    "end": 10.402,
+    "word": "o",
+    "probability": 0.9634914643118084
+  },
+  {
+    "start": 10.402,
+    "end": 10.843,
+    "word": "pente",
+    "probability": 0.9878380117157858
+  }
+]

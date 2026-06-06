@@ -1,0 +1,176 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.32,
+    "word": "Pada",
+    "probability": 0.99
+  },
+  {
+    "start": 0.32,
+    "end": 0.801,
+    "word": "suatu",
+    "probability": 0.9678587454715867
+  },
+  {
+    "start": 0.801,
+    "end": 1.241,
+    "word": "hari",
+    "probability": 0.9895185803773013
+  },
+  {
+    "start": 1.241,
+    "end": 2.483,
+    "word": "ibu",
+    "probability": 0.99
+  },
+  {
+    "start": 2.483,
+    "end": 4.325,
+    "word": "merekaMrs",
+    "probability": 0.9656544620730074
+  },
+  {
+    "start": 4.325,
+    "end": 5.166,
+    "word": "Tabitha",
+    "probability": 0.9155373990068202
+  },
+  {
+    "start": 5.166,
+    "end": 7.468,
+    "word": "Twitchitmenantikan",
+    "probability": 0.9527673579332714
+  },
+  {
+    "start": 7.468,
+    "end": 8.57,
+    "word": "rakanrakan",
+    "probability": 0.9653929954968727
+  },
+  {
+    "start": 8.57,
+    "end": 9.13,
+    "word": "untuk",
+    "probability": 0.99
+  },
+  {
+    "start": 9.13,
+    "end": 9.611,
+    "word": "minum",
+    "probability": 0.99
+  },
+  {
+    "start": 9.611,
+    "end": 10.031,
+    "word": "teh",
+    "probability": 0.9630759780642046
+  },
+  {
+    "start": 10.031,
+    "end": 11.633,
+    "word": "Dia",
+    "probability": 0.9684199607726995
+  },
+  {
+    "start": 11.633,
+    "end": 12.214,
+    "word": "membawa",
+    "probability": 0.9840532041351753
+  },
+  {
+    "start": 12.214,
+    "end": 13.135,
+    "word": "anakanak",
+    "probability": 0.9516864129055879
+  },
+  {
+    "start": 13.135,
+    "end": 13.655,
+    "word": "kucing",
+    "probability": 0.99
+  },
+  {
+    "start": 13.655,
+    "end": 14.076,
+    "word": "itu",
+    "probability": 0.99
+  },
+  {
+    "start": 14.076,
+    "end": 14.676,
+    "word": "masuk",
+    "probability": 0.9893506769501247
+  },
+  {
+    "start": 14.676,
+    "end": 14.937,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 14.937,
+    "end": 15.357,
+    "word": "dalam",
+    "probability": 0.99
+  },
+  {
+    "start": 15.357,
+    "end": 15.738,
+    "word": "untuk",
+    "probability": 0.986981130167424
+  },
+  {
+    "start": 15.738,
+    "end": 16.518,
+    "word": "membasuh",
+    "probability": 0.99
+  },
+  {
+    "start": 16.518,
+    "end": 17.499,
+    "word": "dan",
+    "probability": 0.9867924135718181
+  },
+  {
+    "start": 17.499,
+    "end": 18.461,
+    "word": "memakaikan",
+    "probability": 0.99
+  },
+  {
+    "start": 18.461,
+    "end": 18.921,
+    "word": "baju",
+    "probability": 0.99
+  },
+  {
+    "start": 18.921,
+    "end": 19.382,
+    "word": "kepada",
+    "probability": 0.9793990036729138
+  },
+  {
+    "start": 19.382,
+    "end": 19.842,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 19.842,
+    "end": 20.403,
+    "word": "sebelum",
+    "probability": 0.9830716600121455
+  },
+  {
+    "start": 20.403,
+    "end": 21.204,
+    "word": "tetamunya",
+    "probability": 0.9874073841438108
+  },
+  {
+    "start": 21.204,
+    "end": 21.624,
+    "word": "tiba",
+    "probability": 0.9862637932759588
+  }
+]

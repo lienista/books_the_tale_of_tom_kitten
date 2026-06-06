@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.741,
+    "end": 1.001,
+    "word": "Aztán",
+    "probability": 0.644861129498781
+  },
+  {
+    "start": 1.001,
+    "end": 1.341,
+    "word": "Tabitha",
+    "probability": 0.5871773017078542
+  },
+  {
+    "start": 1.341,
+    "end": 1.621,
+    "word": "Twitchit",
+    "probability": 0.35683977136763617
+  },
+  {
+    "start": 1.621,
+    "end": 1.922,
+    "word": "lejött",
+    "probability": 0.5967602808548738
+  },
+  {
+    "start": 1.922,
+    "end": 2.082,
+    "word": "a",
+    "probability": 0.8204110201837542
+  },
+  {
+    "start": 2.082,
+    "end": 2.622,
+    "word": "kertbe",
+    "probability": 0.7153381908718058
+  },
+  {
+    "start": 2.622,
+    "end": 3.603,
+    "word": "és",
+    "probability": 0.9384761277048057
+  },
+  {
+    "start": 3.603,
+    "end": 4.124,
+    "word": "meztelenül",
+    "probability": 0.559638769357718
+  },
+  {
+    "start": 4.124,
+    "end": 4.344,
+    "word": "találta",
+    "probability": 0.39261246896151203
+  },
+  {
+    "start": 4.344,
+    "end": 4.404,
+    "word": "a",
+    "probability": 0.3078384807794396
+  },
+  {
+    "start": 4.404,
+    "end": 4.904,
+    "word": "kiscicáit",
+    "probability": 0.6048446030118071
+  },
+  {
+    "start": 4.904,
+    "end": 5.104,
+    "word": "a",
+    "probability": 0.8594213252335337
+  },
+  {
+    "start": 5.104,
+    "end": 5.425,
+    "word": "falon",
+    "probability": 0.6619305269778403
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.18,
+    "word": "Em",
+    "probability": 0.6799744314820617
+  },
+  {
+    "start": 0.18,
+    "end": 0.461,
+    "word": "vez",
+    "probability": 0.8627478685685503
+  },
+  {
+    "start": 0.461,
+    "end": 0.901,
+    "word": "disso",
+    "probability": 0.9450717761129096
+  },
+  {
+    "start": 0.901,
+    "end": 1.322,
+    "word": "havia",
+    "probability": 0.9807019693755162
+  },
+  {
+    "start": 1.322,
+    "end": 1.743,
+    "word": "ruídos",
+    "probability": 0.8948622005103294
+  },
+  {
+    "start": 1.743,
+    "end": 2.103,
+    "word": "muito",
+    "probability": 0.9411377092659686
+  },
+  {
+    "start": 2.103,
+    "end": 2.704,
+    "word": "estranhos",
+    "probability": 0.953997842128348
+  },
+  {
+    "start": 2.704,
+    "end": 3.145,
+    "word": "vindos",
+    "probability": 0.9415563946653731
+  },
+  {
+    "start": 3.145,
+    "end": 3.265,
+    "word": "do",
+    "probability": 0.9030191136627929
+  },
+  {
+    "start": 3.265,
+    "end": 3.685,
+    "word": "andar",
+    "probability": 0.967228123679092
+  },
+  {
+    "start": 3.685,
+    "end": 3.866,
+    "word": "de",
+    "probability": 0.935435301970788
+  },
+  {
+    "start": 3.866,
+    "end": 4.326,
+    "word": "cima",
+    "probability": 0.99
+  },
+  {
+    "start": 4.326,
+    "end": 5.128,
+    "word": "que",
+    "probability": 0.9809394323640553
+  },
+  {
+    "start": 5.128,
+    "end": 5.929,
+    "word": "arruinaram",
+    "probability": 0.9378333989864434
+  },
+  {
+    "start": 5.929,
+    "end": 6.009,
+    "word": "o",
+    "probability": 0.8455334582556967
+  },
+  {
+    "start": 6.009,
+    "end": 6.57,
+    "word": "ambiente",
+    "probability": 0.9695121448506195
+  },
+  {
+    "start": 6.57,
+    "end": 7.411,
+    "word": "tranquilo",
+    "probability": 0.9021956819988739
+  },
+  {
+    "start": 7.411,
+    "end": 7.611,
+    "word": "da",
+    "probability": 0.8948075292462289
+  },
+  {
+    "start": 7.611,
+    "end": 8.132,
+    "word": "festa",
+    "probability": 0.9703725952603096
+  },
+  {
+    "start": 8.132,
+    "end": 8.312,
+    "word": "do",
+    "probability": 0.9639577079537831
+  },
+  {
+    "start": 8.312,
+    "end": 8.613,
+    "word": "chá",
+    "probability": 0.99
+  },
+  {
+    "start": 8.613,
+    "end": 10.035,
+    "word": "E",
+    "probability": 0.99
+  },
+  {
+    "start": 10.035,
+    "end": 10.496,
+    "word": "acho",
+    "probability": 0.9692712122665218
+  },
+  {
+    "start": 10.496,
+    "end": 10.656,
+    "word": "que",
+    "probability": 0.7135219874094759
+  },
+  {
+    "start": 10.656,
+    "end": 10.816,
+    "word": "um",
+    "probability": 0.8766470730887203
+  },
+  {
+    "start": 10.816,
+    "end": 11.136,
+    "word": "dia",
+    "probability": 0.9224129227649286
+  },
+  {
+    "start": 11.136,
+    "end": 11.577,
+    "word": "terei",
+    "probability": 0.8396529222144722
+  },
+  {
+    "start": 11.577,
+    "end": 11.677,
+    "word": "de",
+    "probability": 0.8957746169582551
+  },
+  {
+    "start": 11.677,
+    "end": 12.178,
+    "word": "escrever",
+    "probability": 0.9105494493682518
+  },
+  {
+    "start": 12.178,
+    "end": 12.338,
+    "word": "um",
+    "probability": 0.9220207923783718
+  },
+  {
+    "start": 12.338,
+    "end": 12.699,
+    "word": "livro",
+    "probability": 0.9340822899130975
+  },
+  {
+    "start": 12.699,
+    "end": 13.039,
+    "word": "mais",
+    "probability": 0.9165625435780059
+  },
+  {
+    "start": 13.039,
+    "end": 13.44,
+    "word": "longo",
+    "probability": 0.9841480566037759
+  },
+  {
+    "start": 13.44,
+    "end": 13.72,
+    "word": "para",
+    "probability": 0.9388522026721875
+  },
+  {
+    "start": 13.72,
+    "end": 13.961,
+    "word": "vos",
+    "probability": 0.9373079384465953
+  },
+  {
+    "start": 13.961,
+    "end": 14.461,
+    "word": "contar",
+    "probability": 0.99
+  },
+  {
+    "start": 14.461,
+    "end": 14.922,
+    "word": "mais",
+    "probability": 0.9468343822690034
+  },
+  {
+    "start": 14.922,
+    "end": 15.323,
+    "word": "sobre",
+    "probability": 0.9596123067579321
+  },
+  {
+    "start": 15.323,
+    "end": 15.403,
+    "word": "o",
+    "probability": 0.8705941137131946
+  },
+  {
+    "start": 15.403,
+    "end": 15.703,
+    "word": "Tom",
+    "probability": 0.8822865963007928
+  },
+  {
+    "start": 15.703,
+    "end": 16.164,
+    "word": "Kitten",
+    "probability": 0.7375180555503474
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "start": 1.661,
+    "end": 1.841,
+    "word": "When",
+    "probability": 0.5769552645289182
+  },
+  {
+    "start": 1.841,
+    "end": 2.282,
+    "word": "the",
+    "probability": 0.8609829541543571
+  },
+  {
+    "start": 2.282,
+    "end": 2.482,
+    "word": "three",
+    "probability": 0.3989976701261566
+  },
+  {
+    "start": 2.482,
+    "end": 2.902,
+    "word": "kittens",
+    "probability": 0.6471042241106966
+  },
+  {
+    "start": 2.902,
+    "end": 3.062,
+    "word": "were",
+    "probability": 0.3570740193230107
+  },
+  {
+    "start": 3.062,
+    "end": 3.343,
+    "word": "ready",
+    "probability": 0.5963218689234157
+  },
+  {
+    "start": 3.343,
+    "end": 3.483,
+    "word": "Mrs",
+    "probability": 0.47600184745643886
+  },
+  {
+    "start": 3.483,
+    "end": 4.083,
+    "word": "Tabitha",
+    "probability": 0.5450428558250332
+  },
+  {
+    "start": 4.083,
+    "end": 4.624,
+    "word": "made",
+    "probability": 0.7753866567352546
+  },
+  {
+    "start": 4.624,
+    "end": 4.664,
+    "word": "a",
+    "probability": 0.4082045679395523
+  },
+  {
+    "start": 4.664,
+    "end": 5.004,
+    "word": "mistake",
+    "probability": 0.5759659998825576
+  },
+  {
+    "start": 5.004,
+    "end": 5.164,
+    "word": "and",
+    "probability": 0.23158506081590213
+  },
+  {
+    "start": 5.164,
+    "end": 5.384,
+    "word": "sent",
+    "probability": 0.6257330277293248
+  },
+  {
+    "start": 5.384,
+    "end": 5.724,
+    "word": "them",
+    "probability": 0.7050114948868117
+  },
+  {
+    "start": 5.724,
+    "end": 5.864,
+    "word": "out",
+    "probability": 0.5332881960261453
+  },
+  {
+    "start": 5.864,
+    "end": 6.325,
+    "word": "into",
+    "probability": 0.7789796576460192
+  },
+  {
+    "start": 6.325,
+    "end": 6.425,
+    "word": "the",
+    "probability": 0.19664710833210236
+  },
+  {
+    "start": 6.425,
+    "end": 6.965,
+    "word": "garden",
+    "probability": 0.7422462119583721
+  },
+  {
+    "start": 6.965,
+    "end": 7.185,
+    "word": "while",
+    "probability": 0.3165114696416253
+  },
+  {
+    "start": 7.185,
+    "end": 7.326,
+    "word": "she",
+    "probability": 0.5558720817813994
+  },
+  {
+    "start": 7.326,
+    "end": 7.526,
+    "word": "made",
+    "probability": 0.4652006904412643
+  },
+  {
+    "start": 7.526,
+    "end": 7.966,
+    "word": "hot",
+    "probability": 0.7830198033946721
+  },
+  {
+    "start": 7.966,
+    "end": 8.627,
+    "word": "buttered",
+    "probability": 0.5908316158948241
+  },
+  {
+    "start": 8.627,
+    "end": 9.127,
+    "word": "toast",
+    "probability": 0.7215914742992815
+  },
+  {
+    "start": 9.127,
+    "end": 10.328,
+    "word": "Now",
+    "probability": 0.9325126871112189
+  },
+  {
+    "start": 10.328,
+    "end": 10.828,
+    "word": "keep",
+    "probability": 0.7156410124717403
+  },
+  {
+    "start": 10.828,
+    "end": 11.048,
+    "word": "your",
+    "probability": 0.5792752667835259
+  },
+  {
+    "start": 11.048,
+    "end": 11.649,
+    "word": "clothes",
+    "probability": 0.5745813231313995
+  },
+  {
+    "start": 11.649,
+    "end": 12.149,
+    "word": "clean",
+    "probability": 0.7552829386550962
+  },
+  {
+    "start": 12.149,
+    "end": 12.87,
+    "word": "children",
+    "probability": 0.5888630128416223
+  },
+  {
+    "start": 12.87,
+    "end": 13.63,
+    "word": "Walk",
+    "probability": 0.8715530733721671
+  },
+  {
+    "start": 13.63,
+    "end": 13.851,
+    "word": "on",
+    "probability": 0.6992082231680912
+  },
+  {
+    "start": 13.851,
+    "end": 14.051,
+    "word": "your",
+    "probability": 0.5109897382328283
+  },
+  {
+    "start": 14.051,
+    "end": 14.511,
+    "word": "back",
+    "probability": 0.7245142179802019
+  },
+  {
+    "start": 14.511,
+    "end": 14.871,
+    "word": "legs",
+    "probability": 0.7286002717164504
+  },
+  {
+    "start": 14.871,
+    "end": 15.812,
+    "word": "Stay",
+    "probability": 0.8901861360011484
+  },
+  {
+    "start": 15.812,
+    "end": 16.292,
+    "word": "away",
+    "probability": 0.7069355931184648
+  },
+  {
+    "start": 16.292,
+    "end": 16.593,
+    "word": "from",
+    "probability": 0.5045005609338669
+  },
+  {
+    "start": 16.593,
+    "end": 16.773,
+    "word": "the",
+    "probability": 0.33634932565573494
+  },
+  {
+    "start": 16.773,
+    "end": 17.313,
+    "word": "muddy",
+    "probability": 0.6765967422991082
+  },
+  {
+    "start": 17.313,
+    "end": 17.753,
+    "word": "ash",
+    "probability": 0.8146464472135875
+  },
+  {
+    "start": 17.753,
+    "end": 18.134,
+    "word": "pit",
+    "probability": 0.713367149820655
+  },
+  {
+    "start": 18.134,
+    "end": 18.674,
+    "word": "Sally",
+    "probability": 0.8056798556530927
+  },
+  {
+    "start": 18.674,
+    "end": 19.555,
+    "word": "HennyPenny",
+    "probability": 0.6974250584359918
+  },
+  {
+    "start": 19.555,
+    "end": 20.115,
+    "word": "the",
+    "probability": 0.8719655109109852
+  },
+  {
+    "start": 20.115,
+    "end": 20.916,
+    "word": "pigpen",
+    "probability": 0.7970143505868215
+  },
+  {
+    "start": 20.916,
+    "end": 21.576,
+    "word": "and",
+    "probability": 0.8501752870355709
+  },
+  {
+    "start": 21.576,
+    "end": 21.937,
+    "word": "those",
+    "probability": 0.5986092082341388
+  },
+  {
+    "start": 21.937,
+    "end": 22.817,
+    "word": "PuddleDucks",
+    "probability": 0.7238912904587834
+  }
+]

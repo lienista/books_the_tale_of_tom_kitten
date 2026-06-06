@@ -1,0 +1,134 @@
+[
+  {
+    "start": 8.375,
+    "end": 8.435,
+    "word": "Tom",
+    "probability": 0.33322017714836366
+  },
+  {
+    "start": 8.435,
+    "end": 8.696,
+    "word": "Kitten",
+    "probability": 0.41666884171428653
+  },
+  {
+    "start": 8.696,
+    "end": 8.916,
+    "word": "bio",
+    "probability": 0.6653320765886998
+  },
+  {
+    "start": 8.916,
+    "end": 9.036,
+    "word": "je",
+    "probability": 0.5000002367528366
+  },
+  {
+    "start": 9.036,
+    "end": 9.297,
+    "word": "prilično",
+    "probability": 0.30767951808069166
+  },
+  {
+    "start": 9.297,
+    "end": 9.597,
+    "word": "bucmast",
+    "probability": 0.4520871339616511
+  },
+  {
+    "start": 9.597,
+    "end": 9.637,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 9.637,
+    "end": 9.898,
+    "word": "narastao",
+    "probability": 0.30767420737663775
+  },
+  {
+    "start": 9.898,
+    "end": 10.238,
+    "word": "je",
+    "probability": 0.8006148507730816
+  },
+  {
+    "start": 10.238,
+    "end": 10.519,
+    "word": "nekoliko",
+    "probability": 0.35588966376713393
+  },
+  {
+    "start": 10.519,
+    "end": 11.04,
+    "word": "gumba",
+    "probability": 0.7688896904811754
+  },
+  {
+    "start": 11.04,
+    "end": 11.18,
+    "word": "odmah",
+    "probability": 0.1427772245792883
+  },
+  {
+    "start": 11.18,
+    "end": 11.24,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 11.24,
+    "end": 11.38,
+    "word": "otpalo",
+    "probability": 0.01
+  },
+  {
+    "start": 11.38,
+    "end": 11.541,
+    "word": "Njegova",
+    "probability": 0.01
+  },
+  {
+    "start": 11.541,
+    "end": 11.701,
+    "word": "majka",
+    "probability": 0.2500070887376787
+  },
+  {
+    "start": 11.701,
+    "end": 11.901,
+    "word": "uzdahnula",
+    "probability": 0.01
+  },
+  {
+    "start": 11.901,
+    "end": 11.921,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 11.921,
+    "end": 11.941,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 11.921,
+    "end": 11.941,
+    "word": "prišila",
+    "probability": 0.01
+  },
+  {
+    "start": 11.921,
+    "end": 11.941,
+    "word": "ih",
+    "probability": 0.01
+  },
+  {
+    "start": 11.921,
+    "end": 11.941,
+    "word": "natrag",
+    "probability": 0.01
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "Mrs",
+    "probability": 0.7909182321075882
+  },
+  {
+    "start": 0.18,
+    "end": 0.981,
+    "word": "Tabitha",
+    "probability": 0.831211066264185
+  },
+  {
+    "start": 0.981,
+    "end": 1.582,
+    "word": "klædte",
+    "probability": 0.957897566663974
+  },
+  {
+    "start": 1.582,
+    "end": 2.063,
+    "word": "Moppet",
+    "probability": 0.8859983351563224
+  },
+  {
+    "start": 2.063,
+    "end": 2.283,
+    "word": "og",
+    "probability": 0.9689162581833035
+  },
+  {
+    "start": 2.283,
+    "end": 2.803,
+    "word": "Mittens",
+    "probability": 0.9113649776830515
+  },
+  {
+    "start": 2.803,
+    "end": 3.004,
+    "word": "i",
+    "probability": 0.9469714049766751
+  },
+  {
+    "start": 3.004,
+    "end": 3.324,
+    "word": "rene",
+    "probability": 0.9266518317343864
+  },
+  {
+    "start": 3.324,
+    "end": 3.644,
+    "word": "små",
+    "probability": 0.9204435682234144
+  },
+  {
+    "start": 3.644,
+    "end": 4.185,
+    "word": "kjoler",
+    "probability": 0.9585140782776317
+  },
+  {
+    "start": 4.185,
+    "end": 4.425,
+    "word": "og",
+    "probability": 0.9557968318801854
+  },
+  {
+    "start": 4.425,
+    "end": 5.246,
+    "word": "blondekraver",
+    "probability": 0.9669099500549024
+  },
+  {
+    "start": 5.246,
+    "end": 6.047,
+    "word": "Så",
+    "probability": 0.99
+  },
+  {
+    "start": 6.047,
+    "end": 6.308,
+    "word": "trak",
+    "probability": 0.9127639896565843
+  },
+  {
+    "start": 6.308,
+    "end": 6.488,
+    "word": "hun",
+    "probability": 0.96336297113
+  },
+  {
+    "start": 6.488,
+    "end": 6.768,
+    "word": "noget",
+    "probability": 0.9613537179613443
+  },
+  {
+    "start": 6.768,
+    "end": 7.169,
+    "word": "stift",
+    "probability": 0.9724787165755355
+  },
+  {
+    "start": 7.169,
+    "end": 7.91,
+    "word": "fint",
+    "probability": 0.9871392182536314
+  },
+  {
+    "start": 7.91,
+    "end": 8.21,
+    "word": "tøj",
+    "probability": 0.9468760551648732
+  },
+  {
+    "start": 8.21,
+    "end": 8.651,
+    "word": "ud",
+    "probability": 0.9795540965438845
+  },
+  {
+    "start": 8.651,
+    "end": 8.811,
+    "word": "af",
+    "probability": 0.979581460975436
+  },
+  {
+    "start": 8.811,
+    "end": 8.951,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 8.951,
+    "end": 9.291,
+    "word": "gammel",
+    "probability": 0.99
+  },
+  {
+    "start": 9.291,
+    "end": 9.812,
+    "word": "kommode",
+    "probability": 0.9453693590306068
+  },
+  {
+    "start": 9.812,
+    "end": 10.052,
+    "word": "til",
+    "probability": 0.928419380292858
+  },
+  {
+    "start": 10.052,
+    "end": 10.313,
+    "word": "Tom",
+    "probability": 0.9712537143825349
+  }
+]

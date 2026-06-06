@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.621,
+    "word": "Ensuite",
+    "probability": 0.953077574459832
+  },
+  {
+    "start": 0.621,
+    "end": 1.141,
+    "word": "elle",
+    "probability": 0.9883777604673727
+  },
+  {
+    "start": 1.141,
+    "end": 1.602,
+    "word": "peigna",
+    "probability": 0.9850395176442114
+  },
+  {
+    "start": 1.602,
+    "end": 1.922,
+    "word": "leurs",
+    "probability": 0.9692179221696973
+  },
+  {
+    "start": 1.922,
+    "end": 2.243,
+    "word": "queues",
+    "probability": 0.9091480073689522
+  },
+  {
+    "start": 2.243,
+    "end": 2.583,
+    "word": "et",
+    "probability": 0.9575166290638694
+  },
+  {
+    "start": 2.583,
+    "end": 2.843,
+    "word": "leurs",
+    "probability": 0.99
+  },
+  {
+    "start": 2.843,
+    "end": 3.664,
+    "word": "moustaches",
+    "probability": 0.9817025912919323
+  },
+  {
+    "start": 3.664,
+    "end": 4.245,
+    "word": "cest",
+    "probability": 0.9398482774712207
+  },
+  {
+    "start": 4.245,
+    "end": 4.485,
+    "word": "Tom",
+    "probability": 0.8606454672162575
+  },
+  {
+    "start": 4.485,
+    "end": 5.106,
+    "word": "Kitten",
+    "probability": 0.7918879405720989
+  },
+  {
+    "start": 5.106,
+    "end": 5.947,
+    "word": "Tom",
+    "probability": 0.954175658752255
+  },
+  {
+    "start": 5.947,
+    "end": 6.527,
+    "word": "essayait",
+    "probability": 0.9821325116656084
+  },
+  {
+    "start": 6.527,
+    "end": 6.768,
+    "word": "sans",
+    "probability": 0.9887951308848835
+  },
+  {
+    "start": 6.768,
+    "end": 7.168,
+    "word": "cesse",
+    "probability": 0.9872471129795292
+  },
+  {
+    "start": 7.168,
+    "end": 7.328,
+    "word": "de",
+    "probability": 0.977632382045067
+  },
+  {
+    "start": 7.328,
+    "end": 7.789,
+    "word": "gratter",
+    "probability": 0.9895337734249058
+  },
+  {
+    "start": 7.789,
+    "end": 7.909,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 7.909,
+    "end": 8.309,
+    "word": "peigne",
+    "probability": 0.9778044955474696
+  }
+]

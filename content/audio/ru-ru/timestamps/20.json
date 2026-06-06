@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.401,
+    "word": "Затем",
+    "probability": 0.99
+  },
+  {
+    "start": 0.401,
+    "end": 0.863,
+    "word": "Табита",
+    "probability": 0.8871537491952581
+  },
+  {
+    "start": 0.863,
+    "end": 1.405,
+    "word": "Твитчит",
+    "probability": 0.8172404413276154
+  },
+  {
+    "start": 1.405,
+    "end": 1.846,
+    "word": "вышла",
+    "probability": 0.9809239455588977
+  },
+  {
+    "start": 1.846,
+    "end": 1.946,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 1.946,
+    "end": 2.368,
+    "word": "сад",
+    "probability": 0.98279906794666
+  },
+  {
+    "start": 2.368,
+    "end": 2.548,
+    "word": "и",
+    "probability": 0.9783480722833227
+  },
+  {
+    "start": 2.548,
+    "end": 2.929,
+    "word": "нашла",
+    "probability": 0.99
+  },
+  {
+    "start": 2.929,
+    "end": 3.351,
+    "word": "своих",
+    "probability": 0.9769545812906253
+  },
+  {
+    "start": 3.351,
+    "end": 3.792,
+    "word": "котят",
+    "probability": 0.99
+  },
+  {
+    "start": 3.792,
+    "end": 3.933,
+    "word": "на",
+    "probability": 0.8512265470448732
+  },
+  {
+    "start": 3.933,
+    "end": 4.334,
+    "word": "стене",
+    "probability": 0.9431857558831303
+  },
+  {
+    "start": 4.334,
+    "end": 4.615,
+    "word": "без",
+    "probability": 0.99
+  },
+  {
+    "start": 4.615,
+    "end": 5.157,
+    "word": "одежды",
+    "probability": 0.99
+  }
+]

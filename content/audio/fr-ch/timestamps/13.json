@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.4,
+    "word": "Pendant",
+    "probability": 0.6982578191885217
+  },
+  {
+    "start": 0.4,
+    "end": 0.7,
+    "word": "quils",
+    "probability": 0.7352472959435837
+  },
+  {
+    "start": 0.7,
+    "end": 0.88,
+    "word": "se",
+    "probability": 0.932886899487062
+  },
+  {
+    "start": 0.88,
+    "end": 1.601,
+    "word": "débattaient",
+    "probability": 0.9665965231026298
+  },
+  {
+    "start": 1.601,
+    "end": 2.461,
+    "word": "ils",
+    "probability": 0.9766844816908095
+  },
+  {
+    "start": 2.461,
+    "end": 3.182,
+    "word": "entendirent",
+    "probability": 0.9795171345369186
+  },
+  {
+    "start": 3.182,
+    "end": 3.362,
+    "word": "un",
+    "probability": 0.9802223579810643
+  },
+  {
+    "start": 3.362,
+    "end": 5.043,
+    "word": "pitpatpaddlepat",
+    "probability": 0.9003997557272718
+  },
+  {
+    "start": 5.043,
+    "end": 6.323,
+    "word": "Les",
+    "probability": 0.9748501721291891
+  },
+  {
+    "start": 6.323,
+    "end": 6.604,
+    "word": "trois",
+    "probability": 0.99
+  },
+  {
+    "start": 6.604,
+    "end": 7.584,
+    "word": "PuddleDucks",
+    "probability": 0.7752538221527487
+  },
+  {
+    "start": 7.584,
+    "end": 8.745,
+    "word": "arrivèrent",
+    "probability": 0.9738929090471713
+  },
+  {
+    "start": 8.745,
+    "end": 8.885,
+    "word": "en",
+    "probability": 0.9829560643250973
+  },
+  {
+    "start": 8.885,
+    "end": 9.345,
+    "word": "marchant",
+    "probability": 0.9721094224367571
+  },
+  {
+    "start": 9.345,
+    "end": 9.605,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 9.605,
+    "end": 9.805,
+    "word": "la",
+    "probability": 0.9870462597553209
+  },
+  {
+    "start": 9.805,
+    "end": 10.245,
+    "word": "route",
+    "probability": 0.9846449444106316
+  },
+  {
+    "start": 10.245,
+    "end": 10.806,
+    "word": "en",
+    "probability": 0.9827252367921518
+  },
+  {
+    "start": 10.806,
+    "end": 11.206,
+    "word": "file",
+    "probability": 0.9637892693695139
+  },
+  {
+    "start": 11.206,
+    "end": 11.766,
+    "word": "indienne",
+    "probability": 0.9665745067207139
+  },
+  {
+    "start": 11.766,
+    "end": 12.827,
+    "word": "faisant",
+    "probability": 0.9852020450185781
+  },
+  {
+    "start": 12.827,
+    "end": 13.027,
+    "word": "leur",
+    "probability": 0.99
+  },
+  {
+    "start": 13.027,
+    "end": 13.647,
+    "word": "démarche",
+    "probability": 0.9756593374473542
+  },
+  {
+    "start": 13.647,
+    "end": 16.949,
+    "word": "rythméepitpatpaddlepat",
+    "probability": 0.8974344045894337
+  },
+  {
+    "start": 16.949,
+    "end": 18.95,
+    "word": "pitpatwaddlepat",
+    "probability": 0.8650906410419101
+  }
+]

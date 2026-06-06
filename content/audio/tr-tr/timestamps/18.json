@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.24,
+    "word": "Ama",
+    "probability": 0.9512418630681755
+  },
+  {
+    "start": 0.24,
+    "end": 0.801,
+    "word": "onları",
+    "probability": 0.99
+  },
+  {
+    "start": 0.801,
+    "end": 1.442,
+    "word": "kendine",
+    "probability": 0.99
+  },
+  {
+    "start": 1.442,
+    "end": 2.083,
+    "word": "giydirdi",
+    "probability": 0.9468172555335801
+  },
+  {
+    "start": 2.083,
+    "end": 2.563,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 2.563,
+    "end": 3.084,
+    "word": "Kittena",
+    "probability": 0.8836793286397382
+  },
+  {
+    "start": 3.084,
+    "end": 3.925,
+    "word": "olduğundan",
+    "probability": 0.9513393071505053
+  },
+  {
+    "start": 3.925,
+    "end": 4.285,
+    "word": "daha",
+    "probability": 0.9740652886576753
+  },
+  {
+    "start": 4.285,
+    "end": 4.686,
+    "word": "kötü",
+    "probability": 0.9771118942084991
+  },
+  {
+    "start": 4.686,
+    "end": 5.467,
+    "word": "oturdular",
+    "probability": 0.9888778403237034
+  },
+  {
+    "start": 5.467,
+    "end": 5.888,
+    "word": "Ne",
+    "probability": 0.9785641991091942
+  },
+  {
+    "start": 5.888,
+    "end": 6.368,
+    "word": "güzel",
+    "probability": 0.99
+  },
+  {
+    "start": 6.368,
+    "end": 6.588,
+    "word": "bir",
+    "probability": 0.99
+  },
+  {
+    "start": 6.588,
+    "end": 7.109,
+    "word": "sabah",
+    "probability": 0.96104377512456
+  },
+  {
+    "start": 7.109,
+    "end": 7.69,
+    "word": "dedi",
+    "probability": 0.99
+  },
+  {
+    "start": 7.69,
+    "end": 8.07,
+    "word": "Bay",
+    "probability": 0.9528846935488503
+  },
+  {
+    "start": 8.07,
+    "end": 8.591,
+    "word": "Drake",
+    "probability": 0.8641608304476099
+  },
+  {
+    "start": 8.591,
+    "end": 9.372,
+    "word": "PuddleDuck",
+    "probability": 0.8059178885346768
+  }
+]

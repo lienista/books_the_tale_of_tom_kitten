@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.402,
+    "word": "Eerst",
+    "probability": 0.8492675275580511
+  },
+  {
+    "start": 0.402,
+    "end": 0.883,
+    "word": "schrobde",
+    "probability": 0.9118204040123153
+  },
+  {
+    "start": 0.883,
+    "end": 1.064,
+    "word": "ze",
+    "probability": 0.8322591604690494
+  },
+  {
+    "start": 1.064,
+    "end": 1.285,
+    "word": "hun",
+    "probability": 0.9419912268583444
+  },
+  {
+    "start": 1.285,
+    "end": 1.907,
+    "word": "gezichten",
+    "probability": 0.967559060821054
+  },
+  {
+    "start": 1.907,
+    "end": 2.75,
+    "word": "deze",
+    "probability": 0.99
+  },
+  {
+    "start": 2.75,
+    "end": 2.931,
+    "word": "is",
+    "probability": 0.9497359326010792
+  },
+  {
+    "start": 2.931,
+    "end": 3.313,
+    "word": "Moppet",
+    "probability": 0.9176666483589755
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.44,
+    "word": "Moppet",
+    "probability": 0.9349842643456207
+  },
+  {
+    "start": 0.44,
+    "end": 0.561,
+    "word": "și",
+    "probability": 0.9738015701390582
+  },
+  {
+    "start": 0.561,
+    "end": 1.101,
+    "word": "Mittens",
+    "probability": 0.9452898100029636
+  },
+  {
+    "start": 1.101,
+    "end": 1.522,
+    "word": "sau",
+    "probability": 0.9256317900893652
+  },
+  {
+    "start": 1.522,
+    "end": 2.042,
+    "word": "clătinat",
+    "probability": 0.969698178421427
+  },
+  {
+    "start": 2.042,
+    "end": 2.202,
+    "word": "pe",
+    "probability": 0.9412684358436796
+  },
+  {
+    "start": 2.202,
+    "end": 2.623,
+    "word": "cărarea",
+    "probability": 0.99
+  },
+  {
+    "start": 2.623,
+    "end": 2.803,
+    "word": "din",
+    "probability": 0.99
+  },
+  {
+    "start": 2.803,
+    "end": 3.303,
+    "word": "grădină",
+    "probability": 0.9785296738774028
+  },
+  {
+    "start": 3.303,
+    "end": 4.204,
+    "word": "Curând",
+    "probability": 0.99
+  },
+  {
+    "start": 4.204,
+    "end": 4.404,
+    "word": "sau",
+    "probability": 0.9479173765457063
+  },
+  {
+    "start": 4.404,
+    "end": 4.945,
+    "word": "împiedicat",
+    "probability": 0.969786486004381
+  },
+  {
+    "start": 4.945,
+    "end": 5.045,
+    "word": "de",
+    "probability": 0.686308490675936
+  },
+  {
+    "start": 5.045,
+    "end": 5.626,
+    "word": "rochițe",
+    "probability": 0.9420636785253929
+  },
+  {
+    "start": 5.626,
+    "end": 5.786,
+    "word": "și",
+    "probability": 0.9340086701191984
+  },
+  {
+    "start": 5.786,
+    "end": 5.906,
+    "word": "au",
+    "probability": 0.7802782893422385
+  },
+  {
+    "start": 5.906,
+    "end": 6.266,
+    "word": "căzut",
+    "probability": 0.9721215533070224
+  },
+  {
+    "start": 6.266,
+    "end": 6.386,
+    "word": "pe",
+    "probability": 0.930591926440642
+  },
+  {
+    "start": 6.386,
+    "end": 6.827,
+    "word": "fețele",
+    "probability": 0.983603537085033
+  },
+  {
+    "start": 6.827,
+    "end": 7.107,
+    "word": "lor",
+    "probability": 0.9777725797868785
+  },
+  {
+    "start": 7.107,
+    "end": 7.908,
+    "word": "Când",
+    "probability": 0.9697239759440354
+  },
+  {
+    "start": 7.908,
+    "end": 8.088,
+    "word": "sau",
+    "probability": 0.8400182146924462
+  },
+  {
+    "start": 8.088,
+    "end": 8.649,
+    "word": "ridicat",
+    "probability": 0.9866239474967868
+  },
+  {
+    "start": 8.649,
+    "end": 9.329,
+    "word": "erau",
+    "probability": 0.9847902438152875
+  },
+  {
+    "start": 9.329,
+    "end": 9.91,
+    "word": "acoperite",
+    "probability": 0.99
+  },
+  {
+    "start": 9.91,
+    "end": 10.03,
+    "word": "de",
+    "probability": 0.8225835176188798
+  },
+  {
+    "start": 10.03,
+    "end": 10.35,
+    "word": "pete",
+    "probability": 0.9586152773025368
+  },
+  {
+    "start": 10.35,
+    "end": 10.491,
+    "word": "de",
+    "probability": 0.9270637397629048
+  },
+  {
+    "start": 10.491,
+    "end": 10.911,
+    "word": "iarbă",
+    "probability": 0.9885741332507181
+  },
+  {
+    "start": 10.911,
+    "end": 11.992,
+    "word": "Hai",
+    "probability": 0.99
+  },
+  {
+    "start": 11.992,
+    "end": 12.152,
+    "word": "să",
+    "probability": 0.9324863429987078
+  },
+  {
+    "start": 12.152,
+    "end": 12.252,
+    "word": "ne",
+    "probability": 0.9804536405010806
+  },
+  {
+    "start": 12.252,
+    "end": 12.793,
+    "word": "cățărăm",
+    "probability": 0.981659208925509
+  },
+  {
+    "start": 12.793,
+    "end": 12.933,
+    "word": "pe",
+    "probability": 0.9874917047784791
+  },
+  {
+    "start": 12.933,
+    "end": 13.413,
+    "word": "pietre",
+    "probability": 0.9788345599509408
+  },
+  {
+    "start": 13.413,
+    "end": 13.574,
+    "word": "și",
+    "probability": 0.9212841634045994
+  },
+  {
+    "start": 13.574,
+    "end": 13.754,
+    "word": "să",
+    "probability": 0.99
+  },
+  {
+    "start": 13.754,
+    "end": 14.034,
+    "word": "stăm",
+    "probability": 0.9307141165304749
+  },
+  {
+    "start": 14.034,
+    "end": 14.174,
+    "word": "pe",
+    "probability": 0.9861451814804097
+  },
+  {
+    "start": 14.174,
+    "end": 14.515,
+    "word": "zidul",
+    "probability": 0.9715293948477308
+  },
+  {
+    "start": 14.515,
+    "end": 15.035,
+    "word": "grădinii",
+    "probability": 0.9897298911064247
+  },
+  {
+    "start": 15.035,
+    "end": 15.476,
+    "word": "a",
+    "probability": 0.978673853682987
+  },
+  {
+    "start": 15.476,
+    "end": 16.016,
+    "word": "sugerat",
+    "probability": 0.9898045179552172
+  },
+  {
+    "start": 16.016,
+    "end": 16.396,
+    "word": "Moppet",
+    "probability": 0.8939595944970923
+  }
+]

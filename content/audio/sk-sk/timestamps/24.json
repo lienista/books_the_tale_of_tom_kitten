@@ -1,0 +1,194 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.56,
+    "word": "Namiesto",
+    "probability": 0.99
+  },
+  {
+    "start": 0.56,
+    "end": 1.0,
+    "word": "toho",
+    "probability": 0.9746382286315726
+  },
+  {
+    "start": 1.0,
+    "end": 1.421,
+    "word": "sa",
+    "probability": 0.9841194015452297
+  },
+  {
+    "start": 1.421,
+    "end": 1.861,
+    "word": "zhora",
+    "probability": 0.9173233246692999
+  },
+  {
+    "start": 1.861,
+    "end": 2.701,
+    "word": "ozývali",
+    "probability": 0.927181858658433
+  },
+  {
+    "start": 2.701,
+    "end": 3.142,
+    "word": "veľmi",
+    "probability": 0.9693393795235941
+  },
+  {
+    "start": 3.142,
+    "end": 3.882,
+    "word": "zvláštne",
+    "probability": 0.9405013404157426
+  },
+  {
+    "start": 3.882,
+    "end": 4.382,
+    "word": "zvuky",
+    "probability": 0.9761733435233941
+  },
+  {
+    "start": 4.382,
+    "end": 5.863,
+    "word": "ktoré",
+    "probability": 0.99
+  },
+  {
+    "start": 5.863,
+    "end": 6.783,
+    "word": "pokazili",
+    "probability": 0.9895581960217051
+  },
+  {
+    "start": 6.783,
+    "end": 7.724,
+    "word": "tichú",
+    "probability": 0.99
+  },
+  {
+    "start": 7.724,
+    "end": 8.444,
+    "word": "náladu",
+    "probability": 0.9384855363754496
+  },
+  {
+    "start": 8.444,
+    "end": 9.245,
+    "word": "čajového",
+    "probability": 0.9608065239722836
+  },
+  {
+    "start": 9.245,
+    "end": 10.085,
+    "word": "večierka",
+    "probability": 0.9630467023549287
+  },
+  {
+    "start": 10.085,
+    "end": 11.165,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 11.165,
+    "end": 12.246,
+    "word": "myslím",
+    "probability": 0.99
+  },
+  {
+    "start": 12.246,
+    "end": 13.146,
+    "word": "že",
+    "probability": 0.99
+  },
+  {
+    "start": 13.146,
+    "end": 13.687,
+    "word": "jedného",
+    "probability": 0.9537060995659533
+  },
+  {
+    "start": 13.687,
+    "end": 14.107,
+    "word": "dňa",
+    "probability": 0.7586066876844492
+  },
+  {
+    "start": 14.107,
+    "end": 14.507,
+    "word": "budem",
+    "probability": 0.9805739325088675
+  },
+  {
+    "start": 14.507,
+    "end": 15.107,
+    "word": "musieť",
+    "probability": 0.952773569046046
+  },
+  {
+    "start": 15.107,
+    "end": 15.908,
+    "word": "napísať",
+    "probability": 0.9413929100583346
+  },
+  {
+    "start": 15.908,
+    "end": 16.608,
+    "word": "dlhšiu",
+    "probability": 0.99
+  },
+  {
+    "start": 16.608,
+    "end": 17.148,
+    "word": "knihu",
+    "probability": 0.9629488962422252
+  },
+  {
+    "start": 17.148,
+    "end": 18.709,
+    "word": "aby",
+    "probability": 0.9754543303586642
+  },
+  {
+    "start": 18.709,
+    "end": 19.049,
+    "word": "som",
+    "probability": 0.9677143556694507
+  },
+  {
+    "start": 19.049,
+    "end": 19.369,
+    "word": "vám",
+    "probability": 0.9546636303614107
+  },
+  {
+    "start": 19.369,
+    "end": 20.09,
+    "word": "povedal",
+    "probability": 0.9827083702744701
+  },
+  {
+    "start": 20.09,
+    "end": 20.65,
+    "word": "viac",
+    "probability": 0.9670571741631577
+  },
+  {
+    "start": 20.65,
+    "end": 21.29,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 21.29,
+    "end": 21.971,
+    "word": "Tomovi",
+    "probability": 0.9298374530913033
+  },
+  {
+    "start": 21.971,
+    "end": 23.031,
+    "word": "Kittenovi",
+    "probability": 0.9453134491308275
+  }
+]

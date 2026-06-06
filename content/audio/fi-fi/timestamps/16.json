@@ -1,0 +1,224 @@
+[
+  {
+    "start": 6.404,
+    "end": 6.584,
+    "word": "Mittens",
+    "probability": 0.33304253748008666
+  },
+  {
+    "start": 6.584,
+    "end": 7.024,
+    "word": "nauroi",
+    "probability": 0.5946890734948763
+  },
+  {
+    "start": 7.024,
+    "end": 7.224,
+    "word": "niin",
+    "probability": 0.4112276469189782
+  },
+  {
+    "start": 7.224,
+    "end": 8.004,
+    "word": "kovasti",
+    "probability": 0.8416364901889426
+  },
+  {
+    "start": 8.004,
+    "end": 8.104,
+    "word": "että",
+    "probability": 0.16631180274631094
+  },
+  {
+    "start": 8.104,
+    "end": 8.465,
+    "word": "putosi",
+    "probability": 0.5999732793531675
+  },
+  {
+    "start": 8.465,
+    "end": 8.825,
+    "word": "muurilta",
+    "probability": 0.4962477643031312
+  },
+  {
+    "start": 8.825,
+    "end": 9.185,
+    "word": "Moppet",
+    "probability": 0.6664859895672401
+  },
+  {
+    "start": 9.185,
+    "end": 9.245,
+    "word": "ja",
+    "probability": 0.01
+  },
+  {
+    "start": 9.245,
+    "end": 9.485,
+    "word": "Tom",
+    "probability": 0.45719192197004016
+  },
+  {
+    "start": 9.485,
+    "end": 9.966,
+    "word": "kiipesivät",
+    "probability": 0.5857118076232487
+  },
+  {
+    "start": 9.966,
+    "end": 10.166,
+    "word": "alas",
+    "probability": 0.444406642691888
+  },
+  {
+    "start": 10.166,
+    "end": 10.486,
+    "word": "hänen",
+    "probability": 0.6670644874561573
+  },
+  {
+    "start": 10.486,
+    "end": 10.846,
+    "word": "perässään",
+    "probability": 0.44328314670648145
+  },
+  {
+    "start": 10.846,
+    "end": 11.086,
+    "word": "mekot",
+    "probability": 0.4999537302365033
+  },
+  {
+    "start": 11.086,
+    "end": 11.146,
+    "word": "ja",
+    "probability": 0.01
+  },
+  {
+    "start": 11.146,
+    "end": 12.007,
+    "word": "loput",
+    "probability": 0.8790302831552188
+  },
+  {
+    "start": 12.007,
+    "end": 12.307,
+    "word": "Tomin",
+    "probability": 0.5997006419671486
+  },
+  {
+    "start": 12.307,
+    "end": 12.747,
+    "word": "vaatteista",
+    "probability": 0.49976987259392625
+  },
+  {
+    "start": 12.747,
+    "end": 13.207,
+    "word": "putosivat",
+    "probability": 0.60867942130176
+  },
+  {
+    "start": 13.207,
+    "end": 13.568,
+    "word": "alas",
+    "probability": 0.7334789728896457
+  },
+  {
+    "start": 13.568,
+    "end": 14.588,
+    "word": "tullessa",
+    "probability": 0.7944487592981484
+  },
+  {
+    "start": 14.588,
+    "end": 14.848,
+    "word": "Herra",
+    "probability": 0.6152831110114247
+  },
+  {
+    "start": 14.848,
+    "end": 15.048,
+    "word": "Drake",
+    "probability": 0.3999723115310203
+  },
+  {
+    "start": 15.048,
+    "end": 15.989,
+    "word": "PuddleDuck",
+    "probability": 0.7784451847583939
+  },
+  {
+    "start": 15.989,
+    "end": 16.229,
+    "word": "Moppet",
+    "probability": 0.49999949342387384
+  },
+  {
+    "start": 16.229,
+    "end": 16.449,
+    "word": "huusi",
+    "probability": 0.45449099822465544
+  },
+  {
+    "start": 16.449,
+    "end": 16.589,
+    "word": "Tule",
+    "probability": 0.2857142866024228
+  },
+  {
+    "start": 16.589,
+    "end": 16.929,
+    "word": "auttamaan",
+    "probability": 0.47057294463417043
+  },
+  {
+    "start": 16.929,
+    "end": 17.27,
+    "word": "meitä",
+    "probability": 0.7002545964874991
+  },
+  {
+    "start": 17.27,
+    "end": 17.59,
+    "word": "pukemaan",
+    "probability": 0.43748161558256204
+  },
+  {
+    "start": 17.59,
+    "end": 17.79,
+    "word": "hänet",
+    "probability": 0.4999798918611379
+  },
+  {
+    "start": 17.79,
+    "end": 17.97,
+    "word": "Tule",
+    "probability": 0.44436336694703443
+  },
+  {
+    "start": 17.97,
+    "end": 18.03,
+    "word": "ja",
+    "probability": 0.01
+  },
+  {
+    "start": 18.03,
+    "end": 18.75,
+    "word": "napita",
+    "probability": 0.8198479009253252
+  },
+  {
+    "start": 18.75,
+    "end": 18.93,
+    "word": "Tom",
+    "probability": 0.555744408564683
+  },
+  {
+    "start": 18.93,
+    "end": 19.091,
+    "word": "kiinni",
+    "probability": 0.2642011473231204
+  }
+]

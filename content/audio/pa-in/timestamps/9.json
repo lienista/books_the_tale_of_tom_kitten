@@ -1,0 +1,314 @@
+[
+  {
+    "start": 6.658,
+    "end": 6.868,
+    "word": "ਮਪਟ",
+    "probability": 0.4999987827178485
+  },
+  {
+    "start": 6.868,
+    "end": 6.973,
+    "word": "ਅਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 6.973,
+    "end": 7.34,
+    "word": "ਮਟਨਜ",
+    "probability": 0.5713926459805657
+  },
+  {
+    "start": 7.34,
+    "end": 7.444,
+    "word": "ਬਗ",
+    "probability": 0.01
+  },
+  {
+    "start": 7.444,
+    "end": 7.497,
+    "word": "ਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 7.497,
+    "end": 7.814,
+    "word": "ਰਸਤ",
+    "probability": 0.500000807460909
+  },
+  {
+    "start": 7.814,
+    "end": 7.866,
+    "word": "ਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 7.866,
+    "end": 9.176,
+    "word": "ਲੜਖੜਉਦਆ",
+    "probability": 0.8729478441919113
+  },
+  {
+    "start": 9.176,
+    "end": 9.438,
+    "word": "ਹਈਆ",
+    "probability": 0.20675201348614167
+  },
+  {
+    "start": 9.438,
+    "end": 9.805,
+    "word": "ਗਈਆ",
+    "probability": 0.5714226849587034
+  },
+  {
+    "start": 9.805,
+    "end": 10.015,
+    "word": "ਜਲਦ",
+    "probability": 0.49888934378207156
+  },
+  {
+    "start": 10.015,
+    "end": 10.067,
+    "word": "ਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 10.067,
+    "end": 10.172,
+    "word": "ਉਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 10.172,
+    "end": 10.644,
+    "word": "ਆਪਣ",
+    "probability": 0.7777566326068306
+  },
+  {
+    "start": 10.644,
+    "end": 10.853,
+    "word": "ਕਪੜਆ",
+    "probability": 0.01
+  },
+  {
+    "start": 10.853,
+    "end": 10.958,
+    "word": "ਨਲ",
+    "probability": 0.4999581116186376
+  },
+  {
+    "start": 10.958,
+    "end": 11.115,
+    "word": "ਠਕਰ",
+    "probability": 0.01
+  },
+  {
+    "start": 11.115,
+    "end": 11.168,
+    "word": "ਖ",
+    "probability": 0.01
+  },
+  {
+    "start": 11.168,
+    "end": 11.744,
+    "word": "ਗਈਆ",
+    "probability": 0.7442601927779232
+  },
+  {
+    "start": 11.744,
+    "end": 11.902,
+    "word": "ਅਤ",
+    "probability": 0.6665785229804935
+  },
+  {
+    "start": 11.902,
+    "end": 12.006,
+    "word": "ਮਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 12.006,
+    "end": 14.472,
+    "word": "ਭਰ",
+    "probability": 0.9574115331833025
+  },
+  {
+    "start": 14.472,
+    "end": 14.734,
+    "word": "ਡਗ",
+    "probability": 0.7999111597368633
+  },
+  {
+    "start": 14.734,
+    "end": 15.101,
+    "word": "ਪਈਆ",
+    "probability": 0.5714278292983512
+  },
+  {
+    "start": 15.101,
+    "end": 15.206,
+    "word": "ਜਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 15.206,
+    "end": 15.311,
+    "word": "ਉਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 15.311,
+    "end": 15.573,
+    "word": "ਉਠਆ",
+    "probability": 0.5933544531241954
+  },
+  {
+    "start": 15.573,
+    "end": 15.625,
+    "word": "ਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 15.625,
+    "end": 15.94,
+    "word": "ਉਹ",
+    "probability": 0.6342498506229787
+  },
+  {
+    "start": 15.94,
+    "end": 16.044,
+    "word": "ਘਹ",
+    "probability": 0.4978315374097914
+  },
+  {
+    "start": 16.044,
+    "end": 16.097,
+    "word": "ਦ",
+    "probability": 0.893015965169536
+  },
+  {
+    "start": 16.097,
+    "end": 16.202,
+    "word": "ਦਗ",
+    "probability": 0.01
+  },
+  {
+    "start": 16.202,
+    "end": 16.621,
+    "word": "ਨਲ",
+    "probability": 0.7499524267427382
+  },
+  {
+    "start": 16.621,
+    "end": 16.83,
+    "word": "ਢਕਆ",
+    "probability": 0.25000142590130614
+  },
+  {
+    "start": 16.83,
+    "end": 16.988,
+    "word": "ਹਈਆ",
+    "probability": 0.01
+  },
+  {
+    "start": 16.988,
+    "end": 17.564,
+    "word": "ਸਨ",
+    "probability": 0.8159957282064887
+  },
+  {
+    "start": 17.564,
+    "end": 17.826,
+    "word": "ਚਲ",
+    "probability": 0.5999981565556296
+  },
+  {
+    "start": 17.826,
+    "end": 18.196,
+    "word": "ਚਟਨ",
+    "probability": 0.7141899979744701
+  },
+  {
+    "start": 18.196,
+    "end": 18.248,
+    "word": "ਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 18.248,
+    "end": 18.458,
+    "word": "ਚੜਹਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 18.458,
+    "end": 18.772,
+    "word": "ਹ",
+    "probability": 0.8333329684273015
+  },
+  {
+    "start": 18.772,
+    "end": 18.877,
+    "word": "ਅਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 18.877,
+    "end": 19.034,
+    "word": "ਬਗ",
+    "probability": 0.33333367684590515
+  },
+  {
+    "start": 19.034,
+    "end": 19.087,
+    "word": "ਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 19.087,
+    "end": 19.191,
+    "word": "ਕਧ",
+    "probability": 0.01
+  },
+  {
+    "start": 19.191,
+    "end": 19.296,
+    "word": "ਤ",
+    "probability": 0.4999959053859624
+  },
+  {
+    "start": 19.296,
+    "end": 20.973,
+    "word": "ਬਠਦ",
+    "probability": 0.9373980406740545
+  },
+  {
+    "start": 20.973,
+    "end": 21.183,
+    "word": "ਹ",
+    "probability": 0.7499964550964635
+  },
+  {
+    "start": 21.183,
+    "end": 21.602,
+    "word": "ਮਪਟ",
+    "probability": 0.7142850140486965
+  },
+  {
+    "start": 21.602,
+    "end": 21.654,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 21.654,
+    "end": 22.283,
+    "word": "ਸਝਅ",
+    "probability": 0.7395416150886587
+  },
+  {
+    "start": 22.283,
+    "end": 22.493,
+    "word": "ਦਤ",
+    "probability": 0.7499925150352207
+  }
+]

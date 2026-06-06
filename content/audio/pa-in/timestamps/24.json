@@ -1,0 +1,242 @@
+[
+  {
+    "start": 9.102,
+    "end": 9.188,
+    "word": "ਇਸ",
+    "probability": 0.46010081045400514
+  },
+  {
+    "start": 9.188,
+    "end": 9.576,
+    "word": "ਦ",
+    "probability": 0.99
+  },
+  {
+    "start": 9.576,
+    "end": 11.128,
+    "word": "ਬਜਏ",
+    "probability": 0.9444404700223501
+  },
+  {
+    "start": 11.128,
+    "end": 11.387,
+    "word": "ਉਪਰ",
+    "probability": 0.4999812948711313
+  },
+  {
+    "start": 11.387,
+    "end": 11.56,
+    "word": "ਬਹਤ",
+    "probability": 0.2490832186126909
+  },
+  {
+    "start": 11.56,
+    "end": 11.818,
+    "word": "ਅਜਬ",
+    "probability": 0.4999994139495089
+  },
+  {
+    "start": 11.818,
+    "end": 11.991,
+    "word": "ਆਵਜ",
+    "probability": 0.24988163119601747
+  },
+  {
+    "start": 11.991,
+    "end": 12.338,
+    "word": "ਆ",
+    "probability": 0.8749897746584269
+  },
+  {
+    "start": 12.338,
+    "end": 12.467,
+    "word": "ਰਹਆ",
+    "probability": 0.3332529745467481
+  },
+  {
+    "start": 12.467,
+    "end": 12.553,
+    "word": "ਸਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 12.553,
+    "end": 12.985,
+    "word": "ਜਸਨ",
+    "probability": 0.6859077114127407
+  },
+  {
+    "start": 12.985,
+    "end": 13.071,
+    "word": "ਚਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 13.071,
+    "end": 13.33,
+    "word": "ਪਰਟ",
+    "probability": 0.5000009329130136
+  },
+  {
+    "start": 13.33,
+    "end": 13.502,
+    "word": "ਦ",
+    "probability": 0.99
+  },
+  {
+    "start": 13.502,
+    "end": 13.588,
+    "word": "ਸਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 13.588,
+    "end": 13.89,
+    "word": "ਮਹਲ",
+    "probability": 0.5713922394612746
+  },
+  {
+    "start": 13.89,
+    "end": 13.933,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 13.933,
+    "end": 14.58,
+    "word": "ਖਰਬ",
+    "probability": 0.7395958902226224
+  },
+  {
+    "start": 14.58,
+    "end": 14.666,
+    "word": "ਕਰ",
+    "probability": 0.01
+  },
+  {
+    "start": 14.666,
+    "end": 14.882,
+    "word": "ਦਤ",
+    "probability": 0.5999928383703423
+  },
+  {
+    "start": 14.882,
+    "end": 15.011,
+    "word": "ਅਤ",
+    "probability": 0.6666406034823192
+  },
+  {
+    "start": 15.011,
+    "end": 15.14,
+    "word": "ਮਨ",
+    "probability": 0.6665657869258497
+  },
+  {
+    "start": 15.14,
+    "end": 15.356,
+    "word": "ਲਗਦ",
+    "probability": 0.39999923003507754
+  },
+  {
+    "start": 15.356,
+    "end": 15.399,
+    "word": "ਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 15.399,
+    "end": 15.529,
+    "word": "ਕ",
+    "probability": 0.99
+  },
+  {
+    "start": 15.529,
+    "end": 15.701,
+    "word": "ਇਕ",
+    "probability": 0.4999943382406019
+  },
+  {
+    "start": 15.701,
+    "end": 15.787,
+    "word": "ਦਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 15.787,
+    "end": 15.873,
+    "word": "ਮਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 15.873,
+    "end": 16.046,
+    "word": "ਤਹਨ",
+    "probability": 0.4995382764026437
+  },
+  {
+    "start": 16.046,
+    "end": 16.132,
+    "word": "ਟਮ",
+    "probability": 0.01
+  },
+  {
+    "start": 16.132,
+    "end": 16.262,
+    "word": "ਕਟਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 16.262,
+    "end": 16.477,
+    "word": "ਬਰ",
+    "probability": 0.5999984304092425
+  },
+  {
+    "start": 16.477,
+    "end": 16.563,
+    "word": "ਹਰ",
+    "probability": 0.01
+  },
+  {
+    "start": 16.563,
+    "end": 16.995,
+    "word": "ਦਸਣ",
+    "probability": 0.7997989191896505
+  },
+  {
+    "start": 16.995,
+    "end": 17.081,
+    "word": "ਲਈ",
+    "probability": 0.01
+  },
+  {
+    "start": 17.081,
+    "end": 17.167,
+    "word": "ਇਕ",
+    "probability": 0.01
+  },
+  {
+    "start": 17.167,
+    "end": 17.428,
+    "word": "ਲਬ",
+    "probability": 0.8333152202230515
+  },
+  {
+    "start": 17.428,
+    "end": 17.6,
+    "word": "ਕਤਬ",
+    "probability": 0.01
+  },
+  {
+    "start": 17.6,
+    "end": 17.773,
+    "word": "ਲਖਣ",
+    "probability": 0.39969252577513625
+  },
+  {
+    "start": 17.773,
+    "end": 17.859,
+    "word": "ਪਵਗ",
+    "probability": 0.01
+  }
+]

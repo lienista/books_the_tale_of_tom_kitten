@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.069,
+    "end": 0.413,
+    "word": "Zatim",
+    "probability": 0.1999368433777226
+  },
+  {
+    "start": 0.413,
+    "end": 0.62,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 0.62,
+    "end": 2.276,
+    "word": "Tabitha",
+    "probability": 0.6647650444545788
+  },
+  {
+    "start": 2.276,
+    "end": 2.895,
+    "word": "Twitchit",
+    "probability": 0.01
+  },
+  {
+    "start": 2.895,
+    "end": 3.518,
+    "word": "došla",
+    "probability": 0.33303991154759566
+  },
+  {
+    "start": 3.518,
+    "end": 3.725,
+    "word": "u",
+    "probability": 0.3333196791847958
+  },
+  {
+    "start": 3.725,
+    "end": 4.345,
+    "word": "vrt",
+    "probability": 0.5539590417286226
+  },
+  {
+    "start": 4.345,
+    "end": 4.62,
+    "word": "i",
+    "probability": 0.49986555327265614
+  },
+  {
+    "start": 4.62,
+    "end": 5.243,
+    "word": "pronašla",
+    "probability": 0.01
+  },
+  {
+    "start": 5.243,
+    "end": 5.932,
+    "word": "svoje",
+    "probability": 0.37768740384124083
+  },
+  {
+    "start": 5.932,
+    "end": 6.413,
+    "word": "mačiće",
+    "probability": 0.01
+  },
+  {
+    "start": 6.413,
+    "end": 6.964,
+    "word": "na",
+    "probability": 0.6244553967619764
+  },
+  {
+    "start": 6.964,
+    "end": 7.033,
+    "word": "zidu",
+    "probability": 0.01
+  },
+  {
+    "start": 7.033,
+    "end": 7.102,
+    "word": "bez",
+    "probability": 0.01
+  },
+  {
+    "start": 7.033,
+    "end": 7.102,
+    "word": "odjeće",
+    "probability": 0.01
+  }
+]

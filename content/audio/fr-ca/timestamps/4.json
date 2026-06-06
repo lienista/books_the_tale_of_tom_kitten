@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.321,
+    "word": "Puis",
+    "probability": 0.9350173978984321
+  },
+  {
+    "start": 0.321,
+    "end": 0.501,
+    "word": "elle",
+    "probability": 0.9518397467285205
+  },
+  {
+    "start": 0.501,
+    "end": 0.882,
+    "word": "brossa",
+    "probability": 0.9899568048763179
+  },
+  {
+    "start": 0.882,
+    "end": 1.083,
+    "word": "leur",
+    "probability": 0.99
+  },
+  {
+    "start": 1.083,
+    "end": 1.724,
+    "word": "fourrure",
+    "probability": 0.9786580407841108
+  },
+  {
+    "start": 1.724,
+    "end": 2.566,
+    "word": "celuici",
+    "probability": 0.9431271508148268
+  },
+  {
+    "start": 2.566,
+    "end": 2.747,
+    "word": "est",
+    "probability": 0.9226788753114741
+  },
+  {
+    "start": 2.747,
+    "end": 3.308,
+    "word": "Mittens",
+    "probability": 0.7446481682693735
+  }
+]

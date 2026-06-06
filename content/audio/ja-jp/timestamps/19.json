@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.5,
+    "word": "それから",
+    "probability": 0.99
+  },
+  {
+    "start": 0.5,
+    "end": 1.46,
+    "word": "Drake",
+    "probability": 0.8956133497398163
+  },
+  {
+    "start": 1.46,
+    "end": 1.72,
+    "word": "Pudd",
+    "probability": 0.5968431041395745
+  },
+  {
+    "start": 1.72,
+    "end": 1.961,
+    "word": "leD",
+    "probability": 0.6666666731507881
+  },
+  {
+    "start": 1.961,
+    "end": 2.141,
+    "word": "uck",
+    "probability": 0.6249995592678262
+  },
+  {
+    "start": 2.141,
+    "end": 2.301,
+    "word": "さん",
+    "probability": 0.5571783032845973
+  },
+  {
+    "start": 2.301,
+    "end": 2.481,
+    "word": "と",
+    "probability": 0.7778711367914313
+  },
+  {
+    "start": 2.481,
+    "end": 3.061,
+    "word": "Jemima",
+    "probability": 0.7930884212034709
+  },
+  {
+    "start": 3.061,
+    "end": 5.041,
+    "word": "Rebeccah",
+    "probability": 0.9054303130678074
+  },
+  {
+    "start": 5.041,
+    "end": 5.422,
+    "word": "Pudd",
+    "probability": 0.7367534760240676
+  },
+  {
+    "start": 5.422,
+    "end": 6.282,
+    "word": "leD",
+    "probability": 0.9069784774837871
+  },
+  {
+    "start": 6.282,
+    "end": 6.542,
+    "word": "uck",
+    "probability": 0.6923152413796184
+  },
+  {
+    "start": 6.542,
+    "end": 6.602,
+    "word": "は",
+    "probability": 0.6437830174234644
+  },
+  {
+    "start": 6.602,
+    "end": 6.842,
+    "word": "足並みを",
+    "probability": 0.5837354605528183
+  },
+  {
+    "start": 6.842,
+    "end": 7.342,
+    "word": "そろえて",
+    "probability": 0.8801697313485755
+  },
+  {
+    "start": 7.342,
+    "end": 8.682,
+    "word": "道を進ん",
+    "probability": 0.9698594296762342
+  },
+  {
+    "start": 8.682,
+    "end": 9.103,
+    "word": "でいきま",
+    "probability": 0.9520856228122987
+  },
+  {
+    "start": 9.103,
+    "end": 9.363,
+    "word": "した",
+    "probability": 0.9190537618380404
+  },
+  {
+    "start": 9.363,
+    "end": 10.983,
+    "word": "ピチャ",
+    "probability": 0.9567337614667024
+  },
+  {
+    "start": 10.983,
+    "end": 12.143,
+    "word": "パチャ",
+    "probability": 0.9394898004466999
+  },
+  {
+    "start": 12.143,
+    "end": 12.944,
+    "word": "パドル",
+    "probability": 0.9698667871521675
+  },
+  {
+    "start": 12.944,
+    "end": 14.664,
+    "word": "パチャ",
+    "probability": 0.955954434437553
+  },
+  {
+    "start": 14.664,
+    "end": 16.105,
+    "word": "ピチャ",
+    "probability": 0.9613617416742064
+  },
+  {
+    "start": 16.105,
+    "end": 16.925,
+    "word": "パチャ",
+    "probability": 0.900143437179993
+  },
+  {
+    "start": 16.925,
+    "end": 17.825,
+    "word": "ヨチヨチ",
+    "probability": 0.9211228382890686
+  },
+  {
+    "start": 17.825,
+    "end": 18.665,
+    "word": "パチャ",
+    "probability": 0.9052115675253825
+  }
+]

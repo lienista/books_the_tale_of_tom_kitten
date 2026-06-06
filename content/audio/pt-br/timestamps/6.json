@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.12,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 0.12,
+    "end": 0.38,
+    "word": "Dona",
+    "probability": 0.8494589280937697
+  },
+  {
+    "start": 0.38,
+    "end": 0.961,
+    "word": "Tabitha",
+    "probability": 0.9221388087591298
+  },
+  {
+    "start": 0.961,
+    "end": 1.521,
+    "word": "vestiu",
+    "probability": 0.982531568953381
+  },
+  {
+    "start": 1.521,
+    "end": 1.642,
+    "word": "a",
+    "probability": 0.9519898605411097
+  },
+  {
+    "start": 1.642,
+    "end": 2.182,
+    "word": "Moppet",
+    "probability": 0.8993597862004995
+  },
+  {
+    "start": 2.182,
+    "end": 2.502,
+    "word": "e",
+    "probability": 0.9487107189576655
+  },
+  {
+    "start": 2.502,
+    "end": 2.623,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 2.623,
+    "end": 3.223,
+    "word": "Mittens",
+    "probability": 0.9153440300106936
+  },
+  {
+    "start": 3.223,
+    "end": 3.604,
+    "word": "com",
+    "probability": 0.9646139709998776
+  },
+  {
+    "start": 3.604,
+    "end": 4.324,
+    "word": "vestidinhos",
+    "probability": 0.9500646222575005
+  },
+  {
+    "start": 4.324,
+    "end": 4.905,
+    "word": "limpos",
+    "probability": 0.99
+  },
+  {
+    "start": 4.905,
+    "end": 5.125,
+    "word": "e",
+    "probability": 0.9524995513482749
+  },
+  {
+    "start": 5.125,
+    "end": 5.786,
+    "word": "colarinhos",
+    "probability": 0.99
+  },
+  {
+    "start": 5.786,
+    "end": 5.906,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 5.906,
+    "end": 6.326,
+    "word": "renda",
+    "probability": 0.9750969738649532
+  },
+  {
+    "start": 6.326,
+    "end": 7.808,
+    "word": "Depois",
+    "probability": 0.99
+  },
+  {
+    "start": 7.808,
+    "end": 8.208,
+    "word": "tirou",
+    "probability": 0.99
+  },
+  {
+    "start": 8.208,
+    "end": 8.689,
+    "word": "algumas",
+    "probability": 0.9875786823976291
+  },
+  {
+    "start": 8.689,
+    "end": 9.129,
+    "word": "roupas",
+    "probability": 0.9780773779818771
+  },
+  {
+    "start": 9.129,
+    "end": 9.71,
+    "word": "rígidas",
+    "probability": 0.9815039805598164
+  },
+  {
+    "start": 9.71,
+    "end": 9.83,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 9.83,
+    "end": 10.57,
+    "word": "elegantes",
+    "probability": 0.9852396089678043
+  },
+  {
+    "start": 10.57,
+    "end": 11.211,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 11.211,
+    "end": 11.451,
+    "word": "uma",
+    "probability": 0.99
+  },
+  {
+    "start": 11.451,
+    "end": 11.952,
+    "word": "velha",
+    "probability": 0.9811861097014244
+  },
+  {
+    "start": 11.952,
+    "end": 12.492,
+    "word": "cômoda",
+    "probability": 0.9756718549976275
+  },
+  {
+    "start": 12.492,
+    "end": 12.752,
+    "word": "para",
+    "probability": 0.9737685982204669
+  },
+  {
+    "start": 12.752,
+    "end": 12.833,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 12.833,
+    "end": 13.013,
+    "word": "Tom",
+    "probability": 0.99
+  }
+]

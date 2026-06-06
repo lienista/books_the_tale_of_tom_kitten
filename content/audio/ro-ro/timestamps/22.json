@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.18,
+    "word": "Lea",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.521,
+    "word": "trimis",
+    "probability": 0.9638587736371586
+  },
+  {
+    "start": 0.521,
+    "end": 0.902,
+    "word": "sus",
+    "probability": 0.9214991255047088
+  },
+  {
+    "start": 0.902,
+    "end": 1.643,
+    "word": "și",
+    "probability": 0.9868034160148275
+  },
+  {
+    "start": 1.643,
+    "end": 1.783,
+    "word": "îmi",
+    "probability": 0.9838223014855335
+  },
+  {
+    "start": 1.783,
+    "end": 2.024,
+    "word": "pare",
+    "probability": 0.9438598049243061
+  },
+  {
+    "start": 2.024,
+    "end": 2.204,
+    "word": "rău",
+    "probability": 0.9694773644011487
+  },
+  {
+    "start": 2.204,
+    "end": 2.364,
+    "word": "să",
+    "probability": 0.8990658649303431
+  },
+  {
+    "start": 2.364,
+    "end": 2.685,
+    "word": "spun",
+    "probability": 0.9677860685254208
+  },
+  {
+    "start": 2.685,
+    "end": 2.825,
+    "word": "că",
+    "probability": 0.924377850445467
+  },
+  {
+    "start": 2.825,
+    "end": 2.965,
+    "word": "lea",
+    "probability": 0.9859283676543142
+  },
+  {
+    "start": 2.965,
+    "end": 3.246,
+    "word": "spus",
+    "probability": 0.99
+  },
+  {
+    "start": 3.246,
+    "end": 3.987,
+    "word": "prietenilor",
+    "probability": 0.9295466911772542
+  },
+  {
+    "start": 3.987,
+    "end": 4.207,
+    "word": "ei",
+    "probability": 0.9736679708012885
+  },
+  {
+    "start": 4.207,
+    "end": 4.348,
+    "word": "că",
+    "probability": 0.9643470505473343
+  },
+  {
+    "start": 4.348,
+    "end": 4.588,
+    "word": "erau",
+    "probability": 0.9329119184493306
+  },
+  {
+    "start": 4.588,
+    "end": 4.708,
+    "word": "în",
+    "probability": 0.6591924974272231
+  },
+  {
+    "start": 4.708,
+    "end": 5.029,
+    "word": "pat",
+    "probability": 0.9716218969192112
+  },
+  {
+    "start": 5.029,
+    "end": 5.169,
+    "word": "cu",
+    "probability": 0.8538529593235799
+  },
+  {
+    "start": 5.169,
+    "end": 5.209,
+    "word": "o",
+    "probability": 0.7972435555917636
+  },
+  {
+    "start": 5.209,
+    "end": 5.73,
+    "word": "răceală",
+    "probability": 0.9347314403873028
+  },
+  {
+    "start": 5.73,
+    "end": 6.471,
+    "word": "ceea",
+    "probability": 0.99
+  },
+  {
+    "start": 6.471,
+    "end": 6.612,
+    "word": "ce",
+    "probability": 0.9827424884571766
+  },
+  {
+    "start": 6.612,
+    "end": 6.732,
+    "word": "nu",
+    "probability": 0.9875219717704525
+  },
+  {
+    "start": 6.732,
+    "end": 6.952,
+    "word": "era",
+    "probability": 0.9365828352479518
+  },
+  {
+    "start": 6.952,
+    "end": 7.453,
+    "word": "adevărat",
+    "probability": 0.9735594701765841
+  }
+]

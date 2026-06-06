@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.181,
+    "end": 0.241,
+    "word": "Hun",
+    "probability": 0.9078640245080747
+  },
+  {
+    "start": 0.241,
+    "end": 0.582,
+    "word": "trak",
+    "probability": 0.9552717569690773
+  },
+  {
+    "start": 0.582,
+    "end": 0.823,
+    "word": "dem",
+    "probability": 0.9531084043228181
+  },
+  {
+    "start": 0.823,
+    "end": 1.043,
+    "word": "ned",
+    "probability": 0.9419133523185698
+  },
+  {
+    "start": 1.043,
+    "end": 1.304,
+    "word": "fra",
+    "probability": 0.9634135960147037
+  },
+  {
+    "start": 1.304,
+    "end": 1.705,
+    "word": "muren",
+    "probability": 0.9029127826405741
+  },
+  {
+    "start": 1.705,
+    "end": 2.649,
+    "word": "skyndte",
+    "probability": 0.9720629677558613
+  },
+  {
+    "start": 2.649,
+    "end": 2.849,
+    "word": "sig",
+    "probability": 0.9425189883137879
+  },
+  {
+    "start": 2.849,
+    "end": 3.05,
+    "word": "med",
+    "probability": 0.9562840367559057
+  },
+  {
+    "start": 3.05,
+    "end": 3.23,
+    "word": "dem",
+    "probability": 0.9637131619305617
+  },
+  {
+    "start": 3.23,
+    "end": 3.652,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 3.652,
+    "end": 3.893,
+    "word": "tog",
+    "probability": 0.9676142489829865
+  },
+  {
+    "start": 3.893,
+    "end": 4.073,
+    "word": "dem",
+    "probability": 0.9894654056871869
+  },
+  {
+    "start": 4.073,
+    "end": 4.535,
+    "word": "tilbage",
+    "probability": 0.9563459711818818
+  },
+  {
+    "start": 4.535,
+    "end": 4.795,
+    "word": "til",
+    "probability": 0.9819780993484701
+  },
+  {
+    "start": 4.795,
+    "end": 5.257,
+    "word": "huset",
+    "probability": 0.9885481837744341
+  }
+]

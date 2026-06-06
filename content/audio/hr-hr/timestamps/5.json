@@ -1,0 +1,104 @@
+[
+  {
+    "start": 4.63,
+    "end": 4.876,
+    "word": "Zatim",
+    "probability": 0.5000057839414409
+  },
+  {
+    "start": 4.876,
+    "end": 5.029,
+    "word": "im",
+    "probability": 0.39999552849334286
+  },
+  {
+    "start": 5.029,
+    "end": 5.121,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 5.121,
+    "end": 5.611,
+    "word": "počešljala",
+    "probability": 0.31289171005121585
+  },
+  {
+    "start": 5.611,
+    "end": 5.856,
+    "word": "repove",
+    "probability": 0.1250021219461557
+  },
+  {
+    "start": 5.856,
+    "end": 5.919,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 5.919,
+    "end": 6.286,
+    "word": "brkove",
+    "probability": 0.41537545646497387
+  },
+  {
+    "start": 6.286,
+    "end": 6.409,
+    "word": "ovo",
+    "probability": 0.01
+  },
+  {
+    "start": 6.409,
+    "end": 6.501,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 6.501,
+    "end": 6.899,
+    "word": "Tom",
+    "probability": 0.6922903542040489
+  },
+  {
+    "start": 6.899,
+    "end": 7.359,
+    "word": "Kitten",
+    "probability": 0.533308788773384
+  },
+  {
+    "start": 7.359,
+    "end": 7.604,
+    "word": "Tom",
+    "probability": 0.4999929723014308
+  },
+  {
+    "start": 7.604,
+    "end": 7.696,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 7.696,
+    "end": 8.096,
+    "word": "stalno",
+    "probability": 0.4611202626051194
+  },
+  {
+    "start": 8.096,
+    "end": 8.371,
+    "word": "pokušavao",
+    "probability": 0.01
+  },
+  {
+    "start": 8.371,
+    "end": 8.402,
+    "word": "ogrebati",
+    "probability": 0.01
+  },
+  {
+    "start": 8.371,
+    "end": 8.402,
+    "word": "češalj",
+    "probability": 0.01
+  }
+]

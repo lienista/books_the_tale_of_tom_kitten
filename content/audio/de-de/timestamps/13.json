@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.38,
+    "word": "Während",
+    "probability": 0.8168815423445283
+  },
+  {
+    "start": 0.38,
+    "end": 0.521,
+    "word": "sie",
+    "probability": 0.8104949292342214
+  },
+  {
+    "start": 0.521,
+    "end": 1.342,
+    "word": "kämpften",
+    "probability": 0.9863072884615913
+  },
+  {
+    "start": 1.342,
+    "end": 2.243,
+    "word": "hörten",
+    "probability": 0.9848328722574939
+  },
+  {
+    "start": 2.243,
+    "end": 2.443,
+    "word": "sie",
+    "probability": 0.9260003238083584
+  },
+  {
+    "start": 2.443,
+    "end": 2.744,
+    "word": "ein",
+    "probability": 0.9827213012397938
+  },
+  {
+    "start": 2.744,
+    "end": 4.886,
+    "word": "pitpatpaddlepat",
+    "probability": 0.8923380629909267
+  },
+  {
+    "start": 4.886,
+    "end": 5.687,
+    "word": "Die",
+    "probability": 0.9850627876176923
+  },
+  {
+    "start": 5.687,
+    "end": 5.928,
+    "word": "drei",
+    "probability": 0.9417544208276185
+  },
+  {
+    "start": 5.928,
+    "end": 6.809,
+    "word": "PuddleDucks",
+    "probability": 0.8598932319579216
+  },
+  {
+    "start": 6.809,
+    "end": 7.53,
+    "word": "marschierten",
+    "probability": 0.9322876679574527
+  },
+  {
+    "start": 7.53,
+    "end": 7.69,
+    "word": "in",
+    "probability": 0.9778320603451596
+  },
+  {
+    "start": 7.69,
+    "end": 8.01,
+    "word": "einer",
+    "probability": 0.9663194882662915
+  },
+  {
+    "start": 8.01,
+    "end": 8.471,
+    "word": "Reihe",
+    "probability": 0.9853756904540569
+  },
+  {
+    "start": 8.471,
+    "end": 8.671,
+    "word": "die",
+    "probability": 0.9593523401690248
+  },
+  {
+    "start": 8.671,
+    "end": 9.272,
+    "word": "Straße",
+    "probability": 0.9827427689095167
+  },
+  {
+    "start": 9.272,
+    "end": 9.873,
+    "word": "entlang",
+    "probability": 0.99
+  },
+  {
+    "start": 9.873,
+    "end": 10.493,
+    "word": "und",
+    "probability": 0.9833105145687807
+  },
+  {
+    "start": 10.493,
+    "end": 10.994,
+    "word": "machten",
+    "probability": 0.9698437302500974
+  },
+  {
+    "start": 10.994,
+    "end": 11.395,
+    "word": "ihren",
+    "probability": 0.9715635372733653
+  },
+  {
+    "start": 11.395,
+    "end": 12.115,
+    "word": "rhythmischen",
+    "probability": 0.9459517848425941
+  },
+  {
+    "start": 12.115,
+    "end": 14.859,
+    "word": "Watschelgangpitpatpaddlepat",
+    "probability": 0.887782886624278
+  },
+  {
+    "start": 14.859,
+    "end": 16.741,
+    "word": "pitpatwaddlepat",
+    "probability": 0.849188889341952
+  }
+]

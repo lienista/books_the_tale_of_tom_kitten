@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.441,
+    "word": "Sonra",
+    "probability": 0.99
+  },
+  {
+    "start": 0.441,
+    "end": 0.641,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 0.641,
+    "end": 1.583,
+    "word": "Jemima",
+    "probability": 0.9300227089465143
+  },
+  {
+    "start": 1.583,
+    "end": 1.803,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 1.803,
+    "end": 2.504,
+    "word": "Rebeccah",
+    "probability": 0.9034857261620485
+  },
+  {
+    "start": 2.504,
+    "end": 3.325,
+    "word": "PuddleDuck",
+    "probability": 0.8281884180066361
+  },
+  {
+    "start": 3.325,
+    "end": 3.706,
+    "word": "yola",
+    "probability": 0.9274579536018491
+  },
+  {
+    "start": 3.706,
+    "end": 4.407,
+    "word": "çıktılar",
+    "probability": 0.9565616126174132
+  },
+  {
+    "start": 4.407,
+    "end": 5.349,
+    "word": "adımlarını",
+    "probability": 0.9781724181766837
+  },
+  {
+    "start": 5.349,
+    "end": 5.91,
+    "word": "uyumlu",
+    "probability": 0.9746335555157224
+  },
+  {
+    "start": 5.91,
+    "end": 7.372,
+    "word": "tutarakpitpat",
+    "probability": 0.9498381405331662
+  },
+  {
+    "start": 7.372,
+    "end": 8.193,
+    "word": "paddlepat",
+    "probability": 0.8808572958820058
+  },
+  {
+    "start": 8.193,
+    "end": 8.895,
+    "word": "pitpat",
+    "probability": 0.9365897720371574
+  },
+  {
+    "start": 8.895,
+    "end": 9.676,
+    "word": "waddlepat",
+    "probability": 0.8576755473181839
+  }
+]

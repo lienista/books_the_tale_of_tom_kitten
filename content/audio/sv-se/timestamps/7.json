@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.24,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.741,
+    "word": "Kitten",
+    "probability": 0.9181340219815065
+  },
+  {
+    "start": 0.741,
+    "end": 0.881,
+    "word": "var",
+    "probability": 0.8352986080936468
+  },
+  {
+    "start": 0.881,
+    "end": 1.222,
+    "word": "ganska",
+    "probability": 0.99
+  },
+  {
+    "start": 1.222,
+    "end": 1.763,
+    "word": "knubbig",
+    "probability": 0.99
+  },
+  {
+    "start": 1.763,
+    "end": 1.923,
+    "word": "och",
+    "probability": 0.9199288446543198
+  },
+  {
+    "start": 1.923,
+    "end": 2.143,
+    "word": "hade",
+    "probability": 0.9514036784343978
+  },
+  {
+    "start": 2.143,
+    "end": 2.704,
+    "word": "vuxit",
+    "probability": 0.9865770296920147
+  },
+  {
+    "start": 2.704,
+    "end": 3.906,
+    "word": "flera",
+    "probability": 0.99
+  },
+  {
+    "start": 3.906,
+    "end": 4.407,
+    "word": "knappar",
+    "probability": 0.99
+  },
+  {
+    "start": 4.407,
+    "end": 4.888,
+    "word": "lossnade",
+    "probability": 0.974255032679649
+  },
+  {
+    "start": 4.888,
+    "end": 5.649,
+    "word": "omedelbart",
+    "probability": 0.99
+  },
+  {
+    "start": 5.649,
+    "end": 6.59,
+    "word": "Hans",
+    "probability": 0.99
+  },
+  {
+    "start": 6.59,
+    "end": 6.931,
+    "word": "mamma",
+    "probability": 0.99
+  },
+  {
+    "start": 6.931,
+    "end": 7.612,
+    "word": "suckade",
+    "probability": 0.99
+  },
+  {
+    "start": 7.612,
+    "end": 7.752,
+    "word": "och",
+    "probability": 0.9774430684706429
+  },
+  {
+    "start": 7.752,
+    "end": 8.072,
+    "word": "sydde",
+    "probability": 0.9545787440460678
+  },
+  {
+    "start": 8.072,
+    "end": 8.373,
+    "word": "fast",
+    "probability": 0.9758882583320646
+  },
+  {
+    "start": 8.373,
+    "end": 8.513,
+    "word": "dem",
+    "probability": 0.9886243604423609
+  },
+  {
+    "start": 8.513,
+    "end": 8.754,
+    "word": "igen",
+    "probability": 0.9865665474850761
+  }
+]

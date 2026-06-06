@@ -1,0 +1,242 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.581,
+    "word": "Moppet",
+    "probability": 0.7911607921890124
+  },
+  {
+    "start": 0.581,
+    "end": 0.761,
+    "word": "und",
+    "probability": 0.7056979790231089
+  },
+  {
+    "start": 0.761,
+    "end": 1.321,
+    "word": "Mittens",
+    "probability": 0.9173302964801068
+  },
+  {
+    "start": 1.321,
+    "end": 2.002,
+    "word": "wackelten",
+    "probability": 0.9492490057506445
+  },
+  {
+    "start": 2.002,
+    "end": 2.222,
+    "word": "den",
+    "probability": 0.9387460572157416
+  },
+  {
+    "start": 2.222,
+    "end": 3.003,
+    "word": "Gartenweg",
+    "probability": 0.99
+  },
+  {
+    "start": 3.003,
+    "end": 3.623,
+    "word": "hinunter",
+    "probability": 0.9767647858311339
+  },
+  {
+    "start": 3.623,
+    "end": 4.424,
+    "word": "Bald",
+    "probability": 0.99
+  },
+  {
+    "start": 4.424,
+    "end": 5.245,
+    "word": "stolperten",
+    "probability": 0.9748634329055681
+  },
+  {
+    "start": 5.245,
+    "end": 5.445,
+    "word": "sie",
+    "probability": 0.9542940817261565
+  },
+  {
+    "start": 5.445,
+    "end": 5.906,
+    "word": "über",
+    "probability": 0.9831390804891708
+  },
+  {
+    "start": 5.906,
+    "end": 6.146,
+    "word": "ihre",
+    "probability": 0.977764491193034
+  },
+  {
+    "start": 6.146,
+    "end": 6.786,
+    "word": "Kleider",
+    "probability": 0.9807903359792247
+  },
+  {
+    "start": 6.786,
+    "end": 6.987,
+    "word": "und",
+    "probability": 0.971760523142895
+  },
+  {
+    "start": 6.987,
+    "end": 7.547,
+    "word": "fielen",
+    "probability": 0.9810856520312188
+  },
+  {
+    "start": 7.547,
+    "end": 7.767,
+    "word": "auf",
+    "probability": 0.9554377590597519
+  },
+  {
+    "start": 7.767,
+    "end": 8.008,
+    "word": "ihre",
+    "probability": 0.9394880029641826
+  },
+  {
+    "start": 8.008,
+    "end": 8.748,
+    "word": "Gesichter",
+    "probability": 0.9609036989210883
+  },
+  {
+    "start": 8.748,
+    "end": 9.849,
+    "word": "Als",
+    "probability": 0.99
+  },
+  {
+    "start": 9.849,
+    "end": 9.989,
+    "word": "sie",
+    "probability": 0.9650925039397592
+  },
+  {
+    "start": 9.989,
+    "end": 10.93,
+    "word": "aufstanden",
+    "probability": 0.9706215943752622
+  },
+  {
+    "start": 10.93,
+    "end": 11.391,
+    "word": "waren",
+    "probability": 0.9702854894024253
+  },
+  {
+    "start": 11.391,
+    "end": 11.571,
+    "word": "sie",
+    "probability": 0.9657312688420738
+  },
+  {
+    "start": 11.571,
+    "end": 11.791,
+    "word": "mit",
+    "probability": 0.9490951385627003
+  },
+  {
+    "start": 11.791,
+    "end": 12.932,
+    "word": "Grasflecken",
+    "probability": 0.99
+  },
+  {
+    "start": 12.932,
+    "end": 13.613,
+    "word": "bedeckt",
+    "probability": 0.99
+  },
+  {
+    "start": 13.613,
+    "end": 14.894,
+    "word": "Lasst",
+    "probability": 0.99
+  },
+  {
+    "start": 14.894,
+    "end": 15.094,
+    "word": "uns",
+    "probability": 0.9845573084762608
+  },
+  {
+    "start": 15.094,
+    "end": 15.334,
+    "word": "auf",
+    "probability": 0.9890816057929475
+  },
+  {
+    "start": 15.334,
+    "end": 15.475,
+    "word": "die",
+    "probability": 0.9744184497830239
+  },
+  {
+    "start": 15.475,
+    "end": 15.995,
+    "word": "Felsen",
+    "probability": 0.96553997843755
+  },
+  {
+    "start": 15.995,
+    "end": 16.556,
+    "word": "klettern",
+    "probability": 0.9633785903574591
+  },
+  {
+    "start": 16.556,
+    "end": 16.816,
+    "word": "und",
+    "probability": 0.9836493449066186
+  },
+  {
+    "start": 16.816,
+    "end": 17.056,
+    "word": "auf",
+    "probability": 0.9844277541702812
+  },
+  {
+    "start": 17.056,
+    "end": 17.216,
+    "word": "der",
+    "probability": 0.9652416374381221
+  },
+  {
+    "start": 17.216,
+    "end": 18.157,
+    "word": "Gartenmauer",
+    "probability": 0.9814533189981163
+  },
+  {
+    "start": 18.157,
+    "end": 18.678,
+    "word": "sitzen",
+    "probability": 0.9886973409452402
+  },
+  {
+    "start": 18.678,
+    "end": 19.358,
+    "word": "schlug",
+    "probability": 0.9764271587608013
+  },
+  {
+    "start": 19.358,
+    "end": 19.839,
+    "word": "Moppet",
+    "probability": 0.9449095582502016
+  },
+  {
+    "start": 19.839,
+    "end": 20.039,
+    "word": "vor",
+    "probability": 0.9135158557056864
+  }
+]

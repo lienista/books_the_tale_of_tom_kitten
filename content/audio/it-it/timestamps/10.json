@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.601,
+    "word": "Girarono",
+    "probability": 0.99
+  },
+  {
+    "start": 0.601,
+    "end": 0.682,
+    "word": "i",
+    "probability": 0.9532375493896643
+  },
+  {
+    "start": 0.682,
+    "end": 0.922,
+    "word": "loro",
+    "probability": 0.9620140744045723
+  },
+  {
+    "start": 0.922,
+    "end": 1.423,
+    "word": "vestiti",
+    "probability": 0.99
+  },
+  {
+    "start": 1.423,
+    "end": 1.544,
+    "word": "al",
+    "probability": 0.9796725834418
+  },
+  {
+    "start": 1.544,
+    "end": 2.145,
+    "word": "contrario",
+    "probability": 0.99
+  },
+  {
+    "start": 2.145,
+    "end": 2.306,
+    "word": "per",
+    "probability": 0.989173011884718
+  },
+  {
+    "start": 2.306,
+    "end": 2.927,
+    "word": "muoversi",
+    "probability": 0.9826201985861325
+  },
+  {
+    "start": 2.927,
+    "end": 3.288,
+    "word": "meglio",
+    "probability": 0.99
+  },
+  {
+    "start": 3.288,
+    "end": 3.348,
+    "word": "e",
+    "probability": 0.9884552899339374
+  },
+  {
+    "start": 3.348,
+    "end": 4.05,
+    "word": "saltarono",
+    "probability": 0.9832887952469607
+  },
+  {
+    "start": 4.05,
+    "end": 4.331,
+    "word": "su",
+    "probability": 0.99
+  },
+  {
+    "start": 4.331,
+    "end": 4.972,
+    "word": "il",
+    "probability": 0.99
+  },
+  {
+    "start": 4.972,
+    "end": 5.513,
+    "word": "colletto",
+    "probability": 0.99
+  },
+  {
+    "start": 5.513,
+    "end": 5.694,
+    "word": "di",
+    "probability": 0.9494890712654542
+  },
+  {
+    "start": 5.694,
+    "end": 6.055,
+    "word": "pizzo",
+    "probability": 0.99
+  },
+  {
+    "start": 6.055,
+    "end": 6.496,
+    "word": "bianco",
+    "probability": 0.9714076723019247
+  },
+  {
+    "start": 6.496,
+    "end": 6.656,
+    "word": "di",
+    "probability": 0.9612347834105893
+  },
+  {
+    "start": 6.656,
+    "end": 7.258,
+    "word": "Moppet",
+    "probability": 0.9646347532301504
+  },
+  {
+    "start": 7.258,
+    "end": 7.719,
+    "word": "cadde",
+    "probability": 0.99
+  },
+  {
+    "start": 7.719,
+    "end": 8.04,
+    "word": "sulla",
+    "probability": 0.924823075867883
+  },
+  {
+    "start": 8.04,
+    "end": 8.541,
+    "word": "strada",
+    "probability": 0.99
+  }
+]

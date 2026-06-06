@@ -1,0 +1,122 @@
+[
+  {
+    "start": 2.306,
+    "end": 2.431,
+    "word": "Što",
+    "probability": 0.33356930423875863
+  },
+  {
+    "start": 2.431,
+    "end": 2.724,
+    "word": "se",
+    "probability": 0.5720301031554628
+  },
+  {
+    "start": 2.724,
+    "end": 3.144,
+    "word": "tiče",
+    "probability": 0.4767533020280464
+  },
+  {
+    "start": 3.144,
+    "end": 4.779,
+    "word": "PuddleDucksotišli",
+    "probability": 0.5521780740352152
+  },
+  {
+    "start": 4.779,
+    "end": 4.947,
+    "word": "su",
+    "probability": 0.20003330762520663
+  },
+  {
+    "start": 4.947,
+    "end": 5.03,
+    "word": "u",
+    "probability": 0.01
+  },
+  {
+    "start": 5.03,
+    "end": 5.365,
+    "word": "ribnjak",
+    "probability": 0.01
+  },
+  {
+    "start": 5.365,
+    "end": 6.372,
+    "word": "Odjeća",
+    "probability": 0.7080895601407899
+  },
+  {
+    "start": 6.372,
+    "end": 6.707,
+    "word": "je",
+    "probability": 0.6249453851205209
+  },
+  {
+    "start": 6.707,
+    "end": 7.083,
+    "word": "odmah",
+    "probability": 0.33330785494347565
+  },
+  {
+    "start": 7.083,
+    "end": 7.462,
+    "word": "pala",
+    "probability": 0.4442783293357525
+  },
+  {
+    "start": 7.462,
+    "end": 7.922,
+    "word": "jer",
+    "probability": 0.6345272255439359
+  },
+  {
+    "start": 7.922,
+    "end": 8.76,
+    "word": "nije",
+    "probability": 0.7499396618369206
+  },
+  {
+    "start": 8.76,
+    "end": 9.348,
+    "word": "bilo",
+    "probability": 0.6427977921281415
+  },
+  {
+    "start": 9.348,
+    "end": 9.64,
+    "word": "gumba",
+    "probability": 0.143002935159992
+  },
+  {
+    "start": 9.64,
+    "end": 9.851,
+    "word": "koji",
+    "probability": 0.01
+  },
+  {
+    "start": 9.851,
+    "end": 9.893,
+    "word": "bi",
+    "probability": 0.01
+  },
+  {
+    "start": 9.893,
+    "end": 9.935,
+    "word": "ih",
+    "probability": 0.01
+  },
+  {
+    "start": 9.893,
+    "end": 9.935,
+    "word": "držali",
+    "probability": 0.01
+  },
+  {
+    "start": 9.893,
+    "end": 9.935,
+    "word": "zajedno",
+    "probability": 0.01
+  }
+]

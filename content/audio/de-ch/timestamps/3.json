@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.541,
+    "word": "Zuerst",
+    "probability": 0.9585391280694031
+  },
+  {
+    "start": 0.541,
+    "end": 1.062,
+    "word": "schrubbte",
+    "probability": 0.8471746909185486
+  },
+  {
+    "start": 1.062,
+    "end": 1.303,
+    "word": "sie",
+    "probability": 0.9020729905484548
+  },
+  {
+    "start": 1.303,
+    "end": 1.584,
+    "word": "ihre",
+    "probability": 0.9522312847524327
+  },
+  {
+    "start": 1.584,
+    "end": 2.385,
+    "word": "Gesichter",
+    "probability": 0.9732325926500357
+  },
+  {
+    "start": 2.385,
+    "end": 3.027,
+    "word": "dieses",
+    "probability": 0.9812861005257617
+  },
+  {
+    "start": 3.027,
+    "end": 3.327,
+    "word": "hier",
+    "probability": 0.9459476628187392
+  },
+  {
+    "start": 3.327,
+    "end": 3.568,
+    "word": "ist",
+    "probability": 0.9510180531382549
+  },
+  {
+    "start": 3.568,
+    "end": 4.069,
+    "word": "Moppet",
+    "probability": 0.8885407150697788
+  }
+]

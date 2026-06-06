@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.141,
+    "end": 0.321,
+    "word": "Først",
+    "probability": 0.99
+  },
+  {
+    "start": 0.321,
+    "end": 0.923,
+    "word": "skrubbede",
+    "probability": 0.9719149933420902
+  },
+  {
+    "start": 0.923,
+    "end": 1.144,
+    "word": "hun",
+    "probability": 0.9798028848212978
+  },
+  {
+    "start": 1.144,
+    "end": 1.466,
+    "word": "deres",
+    "probability": 0.976498775975164
+  },
+  {
+    "start": 1.466,
+    "end": 2.108,
+    "word": "ansigter",
+    "probability": 0.9746409693240697
+  },
+  {
+    "start": 2.108,
+    "end": 2.77,
+    "word": "denne",
+    "probability": 0.9667565577526926
+  },
+  {
+    "start": 2.77,
+    "end": 2.931,
+    "word": "er",
+    "probability": 0.8552651572861394
+  },
+  {
+    "start": 2.931,
+    "end": 3.353,
+    "word": "Moppet",
+    "probability": 0.8927353221957343
+  }
+]

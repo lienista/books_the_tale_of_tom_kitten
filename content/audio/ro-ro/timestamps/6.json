@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.341,
+    "word": "Doamna",
+    "probability": 0.975875605588257
+  },
+  {
+    "start": 0.341,
+    "end": 0.861,
+    "word": "Tabitha",
+    "probability": 0.927468794833087
+  },
+  {
+    "start": 0.861,
+    "end": 1.042,
+    "word": "lea",
+    "probability": 0.7690324863890439
+  },
+  {
+    "start": 1.042,
+    "end": 1.422,
+    "word": "îmbrăcat",
+    "probability": 0.8458609312407525
+  },
+  {
+    "start": 1.422,
+    "end": 1.542,
+    "word": "pe",
+    "probability": 0.857893827026469
+  },
+  {
+    "start": 1.542,
+    "end": 2.003,
+    "word": "Moppet",
+    "probability": 0.9324133402284507
+  },
+  {
+    "start": 2.003,
+    "end": 2.123,
+    "word": "și",
+    "probability": 0.9885485376426528
+  },
+  {
+    "start": 2.123,
+    "end": 2.664,
+    "word": "Mittens",
+    "probability": 0.8896694859299215
+  },
+  {
+    "start": 2.664,
+    "end": 2.784,
+    "word": "în",
+    "probability": 0.8650274394847813
+  },
+  {
+    "start": 2.784,
+    "end": 3.225,
+    "word": "rochițe",
+    "probability": 0.9338067426985878
+  },
+  {
+    "start": 3.225,
+    "end": 3.725,
+    "word": "curate",
+    "probability": 0.9682357494476096
+  },
+  {
+    "start": 3.725,
+    "end": 3.866,
+    "word": "și",
+    "probability": 0.9885149515822463
+  },
+  {
+    "start": 3.866,
+    "end": 4.286,
+    "word": "gulere",
+    "probability": 0.9797827271054754
+  },
+  {
+    "start": 4.286,
+    "end": 4.467,
+    "word": "de",
+    "probability": 0.982424344609517
+  },
+  {
+    "start": 4.467,
+    "end": 5.027,
+    "word": "dantelă",
+    "probability": 0.968772614735394
+  },
+  {
+    "start": 5.027,
+    "end": 5.949,
+    "word": "Apoi",
+    "probability": 0.99
+  },
+  {
+    "start": 5.949,
+    "end": 6.049,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 6.049,
+    "end": 6.389,
+    "word": "scos",
+    "probability": 0.9644770541046628
+  },
+  {
+    "start": 6.389,
+    "end": 6.69,
+    "word": "niște",
+    "probability": 0.9017612577051072
+  },
+  {
+    "start": 6.69,
+    "end": 7.03,
+    "word": "haine",
+    "probability": 0.9721163397028169
+  },
+  {
+    "start": 7.03,
+    "end": 7.531,
+    "word": "rigide",
+    "probability": 0.9129982076402848
+  },
+  {
+    "start": 7.531,
+    "end": 7.711,
+    "word": "și",
+    "probability": 0.9142916053270267
+  },
+  {
+    "start": 7.711,
+    "end": 8.312,
+    "word": "elegante",
+    "probability": 0.9770587616974997
+  },
+  {
+    "start": 8.312,
+    "end": 8.673,
+    "word": "dintro",
+    "probability": 0.9431341243679774
+  },
+  {
+    "start": 8.673,
+    "end": 9.093,
+    "word": "comodă",
+    "probability": 0.9293750103806347
+  },
+  {
+    "start": 9.093,
+    "end": 9.414,
+    "word": "veche",
+    "probability": 0.9850910907937549
+  },
+  {
+    "start": 9.414,
+    "end": 9.734,
+    "word": "pentru",
+    "probability": 0.9671528392023883
+  },
+  {
+    "start": 9.734,
+    "end": 9.955,
+    "word": "Tom",
+    "probability": 0.9019514483333633
+  }
+]

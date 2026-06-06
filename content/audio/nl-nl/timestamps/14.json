@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "Ze",
+    "probability": 0.7392154565822463
+  },
+  {
+    "start": 0.16,
+    "end": 0.701,
+    "word": "stopten",
+    "probability": 0.8981964320236743
+  },
+  {
+    "start": 0.701,
+    "end": 0.881,
+    "word": "en",
+    "probability": 0.8876089535332841
+  },
+  {
+    "start": 0.881,
+    "end": 1.342,
+    "word": "stonden",
+    "probability": 0.9530065019173231
+  },
+  {
+    "start": 1.342,
+    "end": 1.522,
+    "word": "in",
+    "probability": 0.9682650332975816
+  },
+  {
+    "start": 1.522,
+    "end": 1.683,
+    "word": "een",
+    "probability": 0.9638039105848513
+  },
+  {
+    "start": 1.683,
+    "end": 1.963,
+    "word": "rij",
+    "probability": 0.9210738217711653
+  },
+  {
+    "start": 1.963,
+    "end": 3.205,
+    "word": "omhoog",
+    "probability": 0.9871732684269968
+  },
+  {
+    "start": 3.205,
+    "end": 3.866,
+    "word": "starend",
+    "probability": 0.9843212168990784
+  },
+  {
+    "start": 3.866,
+    "end": 4.066,
+    "word": "naar",
+    "probability": 0.9804061808197211
+  },
+  {
+    "start": 4.066,
+    "end": 4.166,
+    "word": "de",
+    "probability": 0.8758730855741211
+  },
+  {
+    "start": 4.166,
+    "end": 4.647,
+    "word": "kittens",
+    "probability": 0.9812294420824945
+  },
+  {
+    "start": 4.647,
+    "end": 5.148,
+    "word": "met",
+    "probability": 0.9726962436097355
+  },
+  {
+    "start": 5.148,
+    "end": 5.669,
+    "word": "grote",
+    "probability": 0.9671432182995999
+  },
+  {
+    "start": 5.669,
+    "end": 6.35,
+    "word": "verbaasde",
+    "probability": 0.9855800243492103
+  },
+  {
+    "start": 6.35,
+    "end": 6.77,
+    "word": "ogen",
+    "probability": 0.9873055312519634
+  }
+]

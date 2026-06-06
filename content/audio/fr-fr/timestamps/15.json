@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.24,
+    "word": "Puis",
+    "probability": 0.6750483065434193
+  },
+  {
+    "start": 0.24,
+    "end": 0.401,
+    "word": "les",
+    "probability": 0.7373584715534601
+  },
+  {
+    "start": 0.401,
+    "end": 0.601,
+    "word": "deux",
+    "probability": 0.9554601507752537
+  },
+  {
+    "start": 0.601,
+    "end": 1.102,
+    "word": "canes",
+    "probability": 0.9336124771577201
+  },
+  {
+    "start": 1.102,
+    "end": 1.983,
+    "word": "Rebeccah",
+    "probability": 0.9520857466717125
+  },
+  {
+    "start": 1.983,
+    "end": 2.304,
+    "word": "et",
+    "probability": 0.8966512356506229
+  },
+  {
+    "start": 2.304,
+    "end": 2.844,
+    "word": "Jemima",
+    "probability": 0.9384459418280345
+  },
+  {
+    "start": 2.844,
+    "end": 3.706,
+    "word": "PuddleDuck",
+    "probability": 0.8474110713445133
+  },
+  {
+    "start": 3.706,
+    "end": 4.787,
+    "word": "ramassèrent",
+    "probability": 0.9715779649341248
+  },
+  {
+    "start": 4.787,
+    "end": 4.928,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 4.928,
+    "end": 5.428,
+    "word": "chapeau",
+    "probability": 0.99
+  },
+  {
+    "start": 5.428,
+    "end": 5.749,
+    "word": "et",
+    "probability": 0.99
+  },
+  {
+    "start": 5.749,
+    "end": 5.869,
+    "word": "le",
+    "probability": 0.9559261365772763
+  },
+  {
+    "start": 5.869,
+    "end": 6.129,
+    "word": "col",
+    "probability": 0.9516655224434954
+  },
+  {
+    "start": 6.129,
+    "end": 6.27,
+    "word": "en",
+    "probability": 0.7737538677979215
+  },
+  {
+    "start": 6.27,
+    "end": 6.931,
+    "word": "dentelle",
+    "probability": 0.9326129742266682
+  },
+  {
+    "start": 6.931,
+    "end": 7.351,
+    "word": "et",
+    "probability": 0.9373637309861588
+  },
+  {
+    "start": 7.351,
+    "end": 7.532,
+    "word": "les",
+    "probability": 0.8506642670148266
+  },
+  {
+    "start": 7.532,
+    "end": 7.912,
+    "word": "mirent",
+    "probability": 0.8417812974762029
+  }
+]

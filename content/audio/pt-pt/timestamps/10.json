@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.581,
+    "word": "Viraram",
+    "probability": 0.7585997435894999
+  },
+  {
+    "start": 0.581,
+    "end": 0.762,
+    "word": "os",
+    "probability": 0.726228177036218
+  },
+  {
+    "start": 0.762,
+    "end": 1.383,
+    "word": "vestidos",
+    "probability": 0.99
+  },
+  {
+    "start": 1.383,
+    "end": 1.543,
+    "word": "ao",
+    "probability": 0.9480830783794092
+  },
+  {
+    "start": 1.543,
+    "end": 2.245,
+    "word": "contrário",
+    "probability": 0.9763839028888827
+  },
+  {
+    "start": 2.245,
+    "end": 2.525,
+    "word": "para",
+    "probability": 0.9614384178809554
+  },
+  {
+    "start": 2.525,
+    "end": 2.746,
+    "word": "se",
+    "probability": 0.9437779368184557
+  },
+  {
+    "start": 2.746,
+    "end": 3.267,
+    "word": "moverem",
+    "probability": 0.9675661006781231
+  },
+  {
+    "start": 3.267,
+    "end": 3.687,
+    "word": "melhor",
+    "probability": 0.9878228543702834
+  },
+  {
+    "start": 3.687,
+    "end": 3.768,
+    "word": "e",
+    "probability": 0.7630746762225645
+  },
+  {
+    "start": 3.768,
+    "end": 4.549,
+    "word": "saltaram",
+    "probability": 0.9578639383107495
+  },
+  {
+    "start": 4.549,
+    "end": 5.531,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 5.531,
+    "end": 6.333,
+    "word": "colarinho",
+    "probability": 0.9404636029309106
+  },
+  {
+    "start": 6.333,
+    "end": 6.393,
+    "word": "de",
+    "probability": 0.3819764129603318
+  },
+  {
+    "start": 6.393,
+    "end": 6.734,
+    "word": "renda",
+    "probability": 0.8916083503524309
+  },
+  {
+    "start": 6.734,
+    "end": 7.215,
+    "word": "branca",
+    "probability": 0.9602787936481318
+  },
+  {
+    "start": 7.215,
+    "end": 7.395,
+    "word": "da",
+    "probability": 0.9663866936812744
+  },
+  {
+    "start": 7.395,
+    "end": 7.996,
+    "word": "Moppet",
+    "probability": 0.9255946439933832
+  },
+  {
+    "start": 7.996,
+    "end": 8.457,
+    "word": "caiu",
+    "probability": 0.9724887865927603
+  },
+  {
+    "start": 8.457,
+    "end": 8.617,
+    "word": "na",
+    "probability": 0.9707896408101585
+  },
+  {
+    "start": 8.617,
+    "end": 9.159,
+    "word": "estrada",
+    "probability": 0.99
+  }
+]

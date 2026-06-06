@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.22,
+    "word": "Sie",
+    "probability": 0.5957573858694131
+  },
+  {
+    "start": 0.22,
+    "end": 0.641,
+    "word": "schickte",
+    "probability": 0.827154571232558
+  },
+  {
+    "start": 0.641,
+    "end": 0.861,
+    "word": "sie",
+    "probability": 0.8941382513094751
+  },
+  {
+    "start": 0.861,
+    "end": 1.082,
+    "word": "nach",
+    "probability": 0.870971900208379
+  },
+  {
+    "start": 1.082,
+    "end": 1.442,
+    "word": "oben",
+    "probability": 0.9822583406081269
+  },
+  {
+    "start": 1.442,
+    "end": 3.165,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 3.165,
+    "end": 3.425,
+    "word": "ich",
+    "probability": 0.9409378683269446
+  },
+  {
+    "start": 3.425,
+    "end": 3.685,
+    "word": "muss",
+    "probability": 0.9823705309626305
+  },
+  {
+    "start": 3.685,
+    "end": 4.106,
+    "word": "leider",
+    "probability": 0.9787355179196838
+  },
+  {
+    "start": 4.106,
+    "end": 4.567,
+    "word": "sagen",
+    "probability": 0.9697859338027138
+  },
+  {
+    "start": 4.567,
+    "end": 5.468,
+    "word": "dass",
+    "probability": 0.99
+  },
+  {
+    "start": 5.468,
+    "end": 5.648,
+    "word": "sie",
+    "probability": 0.940469384600128
+  },
+  {
+    "start": 5.648,
+    "end": 6.029,
+    "word": "ihren",
+    "probability": 0.9737499097150317
+  },
+  {
+    "start": 6.029,
+    "end": 6.589,
+    "word": "Freunden",
+    "probability": 0.9808673222316868
+  },
+  {
+    "start": 6.589,
+    "end": 7.29,
+    "word": "erzählte",
+    "probability": 0.9698668692576581
+  },
+  {
+    "start": 7.29,
+    "end": 8.112,
+    "word": "sie",
+    "probability": 0.99
+  },
+  {
+    "start": 8.112,
+    "end": 8.512,
+    "word": "lägen",
+    "probability": 0.9690277928063272
+  },
+  {
+    "start": 8.512,
+    "end": 8.672,
+    "word": "mit",
+    "probability": 0.9879130771098231
+  },
+  {
+    "start": 8.672,
+    "end": 8.913,
+    "word": "einer",
+    "probability": 0.9576711275735362
+  },
+  {
+    "start": 8.913,
+    "end": 9.634,
+    "word": "Erkältung",
+    "probability": 0.9878996339149659
+  },
+  {
+    "start": 9.634,
+    "end": 9.754,
+    "word": "im",
+    "probability": 0.9652024221612997
+  },
+  {
+    "start": 9.754,
+    "end": 10.094,
+    "word": "Bett",
+    "probability": 0.99
+  },
+  {
+    "start": 10.094,
+    "end": 10.916,
+    "word": "was",
+    "probability": 0.99
+  },
+  {
+    "start": 10.916,
+    "end": 11.236,
+    "word": "nicht",
+    "probability": 0.9830300220410129
+  },
+  {
+    "start": 11.236,
+    "end": 12.077,
+    "word": "stimmte",
+    "probability": 0.9761058897551742
+  }
+]

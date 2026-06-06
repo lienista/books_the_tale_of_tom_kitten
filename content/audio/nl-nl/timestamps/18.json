@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "Maar",
+    "probability": 0.7628349952846403
+  },
+  {
+    "start": 0.22,
+    "end": 0.38,
+    "word": "hij",
+    "probability": 0.8646266564544585
+  },
+  {
+    "start": 0.38,
+    "end": 0.721,
+    "word": "trok",
+    "probability": 0.9557019261107685
+  },
+  {
+    "start": 0.721,
+    "end": 0.861,
+    "word": "ze",
+    "probability": 0.9248488310590304
+  },
+  {
+    "start": 0.861,
+    "end": 1.241,
+    "word": "zelf",
+    "probability": 0.9676245755383162
+  },
+  {
+    "start": 1.241,
+    "end": 1.601,
+    "word": "aan",
+    "probability": 0.9734460650111717
+  },
+  {
+    "start": 1.601,
+    "end": 2.842,
+    "word": "Ze",
+    "probability": 0.9845447415628613
+  },
+  {
+    "start": 2.842,
+    "end": 3.342,
+    "word": "pasten",
+    "probability": 0.9775825432364013
+  },
+  {
+    "start": 3.342,
+    "end": 3.503,
+    "word": "hem",
+    "probability": 0.9161291784462329
+  },
+  {
+    "start": 3.503,
+    "end": 3.683,
+    "word": "nog",
+    "probability": 0.99
+  },
+  {
+    "start": 3.683,
+    "end": 4.223,
+    "word": "slechter",
+    "probability": 0.9606166334137565
+  },
+  {
+    "start": 4.223,
+    "end": 4.403,
+    "word": "dan",
+    "probability": 0.9396285908990334
+  },
+  {
+    "start": 4.403,
+    "end": 4.563,
+    "word": "ze",
+    "probability": 0.9809567649791888
+  },
+  {
+    "start": 4.563,
+    "end": 4.823,
+    "word": "Tom",
+    "probability": 0.9537012520305505
+  },
+  {
+    "start": 4.823,
+    "end": 5.244,
+    "word": "Kitten",
+    "probability": 0.936244321773661
+  },
+  {
+    "start": 5.244,
+    "end": 5.704,
+    "word": "pasten",
+    "probability": 0.9603832905242895
+  },
+  {
+    "start": 5.704,
+    "end": 6.945,
+    "word": "Het",
+    "probability": 0.9730745338103313
+  },
+  {
+    "start": 6.945,
+    "end": 7.145,
+    "word": "is",
+    "probability": 0.9861083226830056
+  },
+  {
+    "start": 7.145,
+    "end": 7.325,
+    "word": "een",
+    "probability": 0.9706792021023326
+  },
+  {
+    "start": 7.325,
+    "end": 8.146,
+    "word": "prachtige",
+    "probability": 0.9717021568029681
+  },
+  {
+    "start": 8.146,
+    "end": 8.866,
+    "word": "ochtend",
+    "probability": 0.9643059840563514
+  },
+  {
+    "start": 8.866,
+    "end": 9.887,
+    "word": "zei",
+    "probability": 0.9874858179408526
+  },
+  {
+    "start": 9.887,
+    "end": 10.267,
+    "word": "meneer",
+    "probability": 0.8486981695487558
+  },
+  {
+    "start": 10.267,
+    "end": 10.688,
+    "word": "Drake",
+    "probability": 0.912900708762461
+  },
+  {
+    "start": 10.688,
+    "end": 11.348,
+    "word": "PuddleDuck",
+    "probability": 0.8377704309132832
+  }
+]

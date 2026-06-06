@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.22,
+    "word": "Що",
+    "probability": 0.99
+  },
+  {
+    "start": 0.22,
+    "end": 0.4,
+    "word": "се",
+    "probability": 0.99
+  },
+  {
+    "start": 0.4,
+    "end": 0.841,
+    "word": "отнася",
+    "probability": 0.9865332349949237
+  },
+  {
+    "start": 0.841,
+    "end": 0.981,
+    "word": "до",
+    "probability": 0.9797093022891943
+  },
+  {
+    "start": 0.981,
+    "end": 1.761,
+    "word": "PuddleDucks",
+    "probability": 0.7297012675536697
+  },
+  {
+    "start": 1.761,
+    "end": 2.602,
+    "word": "те",
+    "probability": 0.9715130421139329
+  },
+  {
+    "start": 2.602,
+    "end": 3.162,
+    "word": "влязоха",
+    "probability": 0.953977759368205
+  },
+  {
+    "start": 3.162,
+    "end": 3.282,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 3.282,
+    "end": 3.783,
+    "word": "езерото",
+    "probability": 0.9107845842987267
+  },
+  {
+    "start": 3.783,
+    "end": 4.964,
+    "word": "Дрехите",
+    "probability": 0.9807374978187956
+  },
+  {
+    "start": 4.964,
+    "end": 5.484,
+    "word": "паднаха",
+    "probability": 0.9667218413484184
+  },
+  {
+    "start": 5.484,
+    "end": 5.944,
+    "word": "веднага",
+    "probability": 0.9600765696029879
+  },
+  {
+    "start": 5.944,
+    "end": 6.845,
+    "word": "защото",
+    "probability": 0.9794997619756141
+  },
+  {
+    "start": 6.845,
+    "end": 7.305,
+    "word": "нямаше",
+    "probability": 0.99
+  },
+  {
+    "start": 7.305,
+    "end": 7.786,
+    "word": "останали",
+    "probability": 0.9897487563062718
+  },
+  {
+    "start": 7.786,
+    "end": 8.326,
+    "word": "копчета",
+    "probability": 0.99
+  },
+  {
+    "start": 8.326,
+    "end": 9.147,
+    "word": "които",
+    "probability": 0.99
+  },
+  {
+    "start": 9.147,
+    "end": 9.267,
+    "word": "да",
+    "probability": 0.99
+  },
+  {
+    "start": 9.267,
+    "end": 9.387,
+    "word": "ги",
+    "probability": 0.99
+  },
+  {
+    "start": 9.387,
+    "end": 9.827,
+    "word": "държат",
+    "probability": 0.9818169012604833
+  },
+  {
+    "start": 9.827,
+    "end": 10.247,
+    "word": "заедно",
+    "probability": 0.9831361141895967
+  }
+]

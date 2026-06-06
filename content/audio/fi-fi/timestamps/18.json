@@ -1,0 +1,122 @@
+[
+  {
+    "start": 3.508,
+    "end": 3.708,
+    "word": "Mutta",
+    "probability": 0.5999695263630864
+  },
+  {
+    "start": 3.708,
+    "end": 3.808,
+    "word": "hän",
+    "probability": 0.19999940596443705
+  },
+  {
+    "start": 3.808,
+    "end": 3.969,
+    "word": "puki",
+    "probability": 0.3165820275933963
+  },
+  {
+    "start": 3.969,
+    "end": 4.069,
+    "word": "ne",
+    "probability": 0.39972300087103163
+  },
+  {
+    "start": 4.069,
+    "end": 4.249,
+    "word": "itse",
+    "probability": 0.5554610397535374
+  },
+  {
+    "start": 4.249,
+    "end": 4.31,
+    "word": "Ne",
+    "probability": 0.01
+  },
+  {
+    "start": 4.31,
+    "end": 4.831,
+    "word": "sopivat",
+    "probability": 0.7281281573902791
+  },
+  {
+    "start": 4.831,
+    "end": 5.111,
+    "word": "hänelle",
+    "probability": 0.461535666986499
+  },
+  {
+    "start": 5.111,
+    "end": 5.773,
+    "word": "vielä",
+    "probability": 0.8224687501549193
+  },
+  {
+    "start": 5.773,
+    "end": 6.194,
+    "word": "huonommin",
+    "probability": 0.5710378487816445
+  },
+  {
+    "start": 6.194,
+    "end": 6.494,
+    "word": "kuin",
+    "probability": 0.6595522951513526
+  },
+  {
+    "start": 6.494,
+    "end": 6.655,
+    "word": "Tom",
+    "probability": 0.3785317332534298
+  },
+  {
+    "start": 6.655,
+    "end": 7.437,
+    "word": "Kittenille",
+    "probability": 0.7435878087917855
+  },
+  {
+    "start": 7.437,
+    "end": 7.497,
+    "word": "On",
+    "probability": 0.01
+  },
+  {
+    "start": 7.497,
+    "end": 7.637,
+    "word": "ihana",
+    "probability": 0.14285842845780145
+  },
+  {
+    "start": 7.637,
+    "end": 7.837,
+    "word": "aamu",
+    "probability": 0.4119516256010461
+  },
+  {
+    "start": 7.837,
+    "end": 7.998,
+    "word": "sanoi",
+    "probability": 0.3570165621890913
+  },
+  {
+    "start": 7.998,
+    "end": 8.238,
+    "word": "herra",
+    "probability": 0.48191326368802145
+  },
+  {
+    "start": 8.238,
+    "end": 8.479,
+    "word": "Drake",
+    "probability": 0.5048765567250436
+  },
+  {
+    "start": 8.479,
+    "end": 8.96,
+    "word": "PuddleDuck",
+    "probability": 0.5827287436569644
+  }
+]

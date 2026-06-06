@@ -1,0 +1,68 @@
+[
+  {
+    "start": 2.064,
+    "end": 2.184,
+    "word": "He",
+    "probability": 0.857048845755798
+  },
+  {
+    "start": 2.184,
+    "end": 3.126,
+    "word": "pysähtyivät",
+    "probability": 0.763658146662868
+  },
+  {
+    "start": 3.126,
+    "end": 3.246,
+    "word": "ja",
+    "probability": 0.4999995454261002
+  },
+  {
+    "start": 3.246,
+    "end": 3.586,
+    "word": "seisoivat",
+    "probability": 0.41202947754923086
+  },
+  {
+    "start": 3.586,
+    "end": 4.067,
+    "word": "rivissä",
+    "probability": 0.6299160571330237
+  },
+  {
+    "start": 4.067,
+    "end": 4.428,
+    "word": "tuijottaen",
+    "probability": 0.4210426701330414
+  },
+  {
+    "start": 4.428,
+    "end": 4.568,
+    "word": "ylös",
+    "probability": 0.2857141425732605
+  },
+  {
+    "start": 4.568,
+    "end": 5.069,
+    "word": "kissanpentuja",
+    "probability": 0.47833505406210647
+  },
+  {
+    "start": 5.069,
+    "end": 5.53,
+    "word": "levein",
+    "probability": 0.7391302379724125
+  },
+  {
+    "start": 5.53,
+    "end": 6.091,
+    "word": "yllättynein",
+    "probability": 0.5698709869452006
+  },
+  {
+    "start": 6.091,
+    "end": 6.291,
+    "word": "silmin",
+    "probability": 0.4999726470567715
+  }
+]

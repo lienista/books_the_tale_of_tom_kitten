@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.3,
+    "word": "Ale",
+    "probability": 0.9603329651403628
+  },
+  {
+    "start": 0.3,
+    "end": 0.962,
+    "word": "założył",
+    "probability": 0.9816548482856696
+  },
+  {
+    "start": 0.962,
+    "end": 1.082,
+    "word": "je",
+    "probability": 0.9220963545915914
+  },
+  {
+    "start": 1.082,
+    "end": 1.202,
+    "word": "na",
+    "probability": 0.9590066597974006
+  },
+  {
+    "start": 1.202,
+    "end": 1.683,
+    "word": "siebie",
+    "probability": 0.9895037448865042
+  },
+  {
+    "start": 1.683,
+    "end": 3.045,
+    "word": "Pasowały",
+    "probability": 0.99
+  },
+  {
+    "start": 3.045,
+    "end": 3.285,
+    "word": "mu",
+    "probability": 0.9671634355167632
+  },
+  {
+    "start": 3.285,
+    "end": 3.726,
+    "word": "jeszcze",
+    "probability": 0.9768459177462989
+  },
+  {
+    "start": 3.726,
+    "end": 4.247,
+    "word": "gorzej",
+    "probability": 0.99
+  },
+  {
+    "start": 4.247,
+    "end": 4.667,
+    "word": "niż",
+    "probability": 0.9642847914788495
+  },
+  {
+    "start": 4.667,
+    "end": 5.348,
+    "word": "Tomowi",
+    "probability": 0.9760990465986005
+  },
+  {
+    "start": 5.348,
+    "end": 6.029,
+    "word": "Kittenowi",
+    "probability": 0.9626063667811064
+  },
+  {
+    "start": 6.029,
+    "end": 6.851,
+    "word": "To",
+    "probability": 0.99
+  },
+  {
+    "start": 6.851,
+    "end": 7.672,
+    "word": "piękny",
+    "probability": 0.9875326588865894
+  },
+  {
+    "start": 7.672,
+    "end": 8.353,
+    "word": "poranek",
+    "probability": 0.9874977624479113
+  },
+  {
+    "start": 8.353,
+    "end": 9.034,
+    "word": "powiedział",
+    "probability": 0.9822672763137691
+  },
+  {
+    "start": 9.034,
+    "end": 9.355,
+    "word": "pan",
+    "probability": 0.99
+  },
+  {
+    "start": 9.355,
+    "end": 9.996,
+    "word": "Drake",
+    "probability": 0.9109528968203313
+  },
+  {
+    "start": 9.996,
+    "end": 10.937,
+    "word": "PuddleDuck",
+    "probability": 0.8729803557154846
+  }
+]

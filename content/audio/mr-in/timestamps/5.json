@@ -1,0 +1,110 @@
+[
+  {
+    "start": 5.748,
+    "end": 5.788,
+    "word": "मग",
+    "probability": 0.9897541402757926
+  },
+  {
+    "start": 5.788,
+    "end": 5.849,
+    "word": "तन",
+    "probability": 0.33871093300412697
+  },
+  {
+    "start": 5.849,
+    "end": 5.929,
+    "word": "तयचय",
+    "probability": 0.01
+  },
+  {
+    "start": 5.929,
+    "end": 6.069,
+    "word": "शपट",
+    "probability": 0.571408213916983
+  },
+  {
+    "start": 6.069,
+    "end": 6.189,
+    "word": "आण",
+    "probability": 0.6665773630438766
+  },
+  {
+    "start": 6.189,
+    "end": 6.229,
+    "word": "मश",
+    "probability": 0.01
+  },
+  {
+    "start": 6.229,
+    "end": 6.429,
+    "word": "वचरलय",
+    "probability": 0.5993411731986279
+  },
+  {
+    "start": 6.429,
+    "end": 6.449,
+    "word": "ह",
+    "probability": 0.01
+  },
+  {
+    "start": 6.449,
+    "end": 6.53,
+    "word": "टम",
+    "probability": 0.4999859562140653
+  },
+  {
+    "start": 6.53,
+    "end": 6.69,
+    "word": "कटन",
+    "probability": 0.7497712060501892
+  },
+  {
+    "start": 6.69,
+    "end": 6.73,
+    "word": "आह",
+    "probability": 0.01
+  },
+  {
+    "start": 6.73,
+    "end": 6.77,
+    "word": "टम",
+    "probability": 0.01
+  },
+  {
+    "start": 6.77,
+    "end": 7.01,
+    "word": "वरवर",
+    "probability": 0.7489636033249409
+  },
+  {
+    "start": 7.01,
+    "end": 7.07,
+    "word": "कगव",
+    "probability": 0.01
+  },
+  {
+    "start": 7.07,
+    "end": 7.551,
+    "word": "खजवणयच",
+    "probability": 0.7098381358433188
+  },
+  {
+    "start": 7.551,
+    "end": 8.112,
+    "word": "परयतन",
+    "probability": 0.750267221811616
+  },
+  {
+    "start": 8.112,
+    "end": 8.552,
+    "word": "करत",
+    "probability": 0.8358724060897189
+  },
+  {
+    "start": 8.552,
+    "end": 8.613,
+    "word": "हत",
+    "probability": 0.5002138780138922
+  }
+]

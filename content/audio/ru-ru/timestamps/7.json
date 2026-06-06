@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "Том",
+    "probability": 0.9657680493414416
+  },
+  {
+    "start": 0.22,
+    "end": 0.641,
+    "word": "Киттен",
+    "probability": 0.8993351299114172
+  },
+  {
+    "start": 0.641,
+    "end": 0.881,
+    "word": "был",
+    "probability": 0.99
+  },
+  {
+    "start": 0.881,
+    "end": 1.361,
+    "word": "довольно",
+    "probability": 0.978110290493636
+  },
+  {
+    "start": 1.361,
+    "end": 2.062,
+    "word": "пухленьким",
+    "probability": 0.9898937108695003
+  },
+  {
+    "start": 2.062,
+    "end": 2.142,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 2.142,
+    "end": 2.762,
+    "word": "подрос",
+    "probability": 0.99
+  },
+  {
+    "start": 2.762,
+    "end": 3.963,
+    "word": "несколько",
+    "probability": 0.9859164898625276
+  },
+  {
+    "start": 3.963,
+    "end": 4.564,
+    "word": "пуговиц",
+    "probability": 0.99
+  },
+  {
+    "start": 4.564,
+    "end": 4.804,
+    "word": "тут",
+    "probability": 0.99
+  },
+  {
+    "start": 4.804,
+    "end": 4.944,
+    "word": "же",
+    "probability": 0.99
+  },
+  {
+    "start": 4.944,
+    "end": 5.685,
+    "word": "отлетели",
+    "probability": 0.99
+  },
+  {
+    "start": 5.685,
+    "end": 6.305,
+    "word": "Его",
+    "probability": 0.99
+  },
+  {
+    "start": 6.305,
+    "end": 6.686,
+    "word": "мама",
+    "probability": 0.99
+  },
+  {
+    "start": 6.686,
+    "end": 7.426,
+    "word": "вздохнула",
+    "probability": 0.99
+  },
+  {
+    "start": 7.426,
+    "end": 7.546,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 7.546,
+    "end": 8.047,
+    "word": "пришила",
+    "probability": 0.99
+  },
+  {
+    "start": 8.047,
+    "end": 8.247,
+    "word": "их",
+    "probability": 0.9577614418839693
+  },
+  {
+    "start": 8.247,
+    "end": 8.768,
+    "word": "обратно",
+    "probability": 0.99
+  }
+]

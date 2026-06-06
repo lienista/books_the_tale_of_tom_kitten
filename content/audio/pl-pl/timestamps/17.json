@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.321,
+    "word": "Pan",
+    "probability": 0.99
+  },
+  {
+    "start": 0.321,
+    "end": 0.922,
+    "word": "Drake",
+    "probability": 0.9303390152677653
+  },
+  {
+    "start": 0.922,
+    "end": 1.764,
+    "word": "PuddleDuck",
+    "probability": 0.8355814416718533
+  },
+  {
+    "start": 1.764,
+    "end": 2.486,
+    "word": "podszedł",
+    "probability": 0.9885458656699986
+  },
+  {
+    "start": 2.486,
+    "end": 3.088,
+    "word": "powoli",
+    "probability": 0.99
+  },
+  {
+    "start": 3.088,
+    "end": 3.629,
+    "word": "bocznym",
+    "probability": 0.9864540794802009
+  },
+  {
+    "start": 3.629,
+    "end": 4.251,
+    "word": "krokiem",
+    "probability": 0.9748752221159552
+  },
+  {
+    "start": 4.251,
+    "end": 4.351,
+    "word": "i",
+    "probability": 0.9427661041529941
+  },
+  {
+    "start": 4.351,
+    "end": 4.952,
+    "word": "podniósł",
+    "probability": 0.99
+  },
+  {
+    "start": 4.952,
+    "end": 5.353,
+    "word": "różne",
+    "probability": 0.9873326385204368
+  },
+  {
+    "start": 5.353,
+    "end": 5.754,
+    "word": "rzeczy",
+    "probability": 0.9780361561171393
+  }
+]

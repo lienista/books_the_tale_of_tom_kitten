@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.36,
+    "word": "Bunun",
+    "probability": 0.9541469858386926
+  },
+  {
+    "start": 0.36,
+    "end": 0.841,
+    "word": "yerine",
+    "probability": 0.9695683808943626
+  },
+  {
+    "start": 0.841,
+    "end": 1.762,
+    "word": "yukarıdan",
+    "probability": 0.9521134853348032
+  },
+  {
+    "start": 1.762,
+    "end": 2.182,
+    "word": "gelen",
+    "probability": 0.9699279133234585
+  },
+  {
+    "start": 2.182,
+    "end": 2.502,
+    "word": "çok",
+    "probability": 0.99
+  },
+  {
+    "start": 2.502,
+    "end": 2.882,
+    "word": "garip",
+    "probability": 0.99
+  },
+  {
+    "start": 2.882,
+    "end": 3.463,
+    "word": "sesler",
+    "probability": 0.9748223980655335
+  },
+  {
+    "start": 3.463,
+    "end": 3.963,
+    "word": "vardı",
+    "probability": 0.9695962866849621
+  },
+  {
+    "start": 3.963,
+    "end": 4.304,
+    "word": "bu",
+    "probability": 0.99
+  },
+  {
+    "start": 4.304,
+    "end": 4.484,
+    "word": "da",
+    "probability": 0.981740387927807
+  },
+  {
+    "start": 4.484,
+    "end": 4.844,
+    "word": "çay",
+    "probability": 0.99
+  },
+  {
+    "start": 4.844,
+    "end": 5.665,
+    "word": "partisinin",
+    "probability": 0.9794236000556322
+  },
+  {
+    "start": 5.665,
+    "end": 6.225,
+    "word": "sessiz",
+    "probability": 0.9647763327538559
+  },
+  {
+    "start": 6.225,
+    "end": 6.786,
+    "word": "havasını",
+    "probability": 0.99
+  },
+  {
+    "start": 6.786,
+    "end": 7.326,
+    "word": "bozdu",
+    "probability": 0.99
+  },
+  {
+    "start": 7.326,
+    "end": 7.667,
+    "word": "Ve",
+    "probability": 0.99
+  },
+  {
+    "start": 7.667,
+    "end": 8.247,
+    "word": "sanırım",
+    "probability": 0.9763529892465198
+  },
+  {
+    "start": 8.247,
+    "end": 8.647,
+    "word": "bir",
+    "probability": 0.99
+  },
+  {
+    "start": 8.647,
+    "end": 8.948,
+    "word": "gün",
+    "probability": 0.9743765121029632
+  },
+  {
+    "start": 8.948,
+    "end": 9.408,
+    "word": "size",
+    "probability": 0.99
+  },
+  {
+    "start": 9.408,
+    "end": 9.788,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 9.788,
+    "end": 10.249,
+    "word": "Kitten",
+    "probability": 0.838224315704034
+  },
+  {
+    "start": 10.249,
+    "end": 10.849,
+    "word": "hakkında",
+    "probability": 0.9827842059447008
+  },
+  {
+    "start": 10.849,
+    "end": 11.37,
+    "word": "daha",
+    "probability": 0.9865013050644887
+  },
+  {
+    "start": 11.37,
+    "end": 11.81,
+    "word": "fazla",
+    "probability": 0.9782670295283985
+  },
+  {
+    "start": 11.81,
+    "end": 12.07,
+    "word": "şey",
+    "probability": 0.9585205249240895
+  },
+  {
+    "start": 12.07,
+    "end": 12.691,
+    "word": "anlatmak",
+    "probability": 0.9548433067904498
+  },
+  {
+    "start": 12.691,
+    "end": 12.991,
+    "word": "için",
+    "probability": 0.99
+  },
+  {
+    "start": 12.991,
+    "end": 13.392,
+    "word": "daha",
+    "probability": 0.9890155538125318
+  },
+  {
+    "start": 13.392,
+    "end": 13.872,
+    "word": "uzun",
+    "probability": 0.9824749115531599
+  },
+  {
+    "start": 13.872,
+    "end": 14.092,
+    "word": "bir",
+    "probability": 0.953775548311248
+  },
+  {
+    "start": 14.092,
+    "end": 14.533,
+    "word": "kitap",
+    "probability": 0.99
+  },
+  {
+    "start": 14.533,
+    "end": 15.113,
+    "word": "yazmam",
+    "probability": 0.973585899187061
+  },
+  {
+    "start": 15.113,
+    "end": 15.774,
+    "word": "gerekecek",
+    "probability": 0.99
+  }
+]

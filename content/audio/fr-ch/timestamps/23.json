@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.2,
+    "word": "Tout",
+    "probability": 0.7870001420905766
+  },
+  {
+    "start": 0.2,
+    "end": 0.341,
+    "word": "le",
+    "probability": 0.9185365866662971
+  },
+  {
+    "start": 0.341,
+    "end": 1.162,
+    "word": "contraire",
+    "probability": 0.99
+  },
+  {
+    "start": 1.162,
+    "end": 1.943,
+    "word": "ils",
+    "probability": 0.9889900761334911
+  },
+  {
+    "start": 1.943,
+    "end": 2.524,
+    "word": "nétaient",
+    "probability": 0.7371006634191122
+  },
+  {
+    "start": 2.524,
+    "end": 2.724,
+    "word": "pas",
+    "probability": 0.8803681692547141
+  },
+  {
+    "start": 2.724,
+    "end": 2.905,
+    "word": "du",
+    "probability": 0.99
+  },
+  {
+    "start": 2.905,
+    "end": 3.145,
+    "word": "tout",
+    "probability": 0.9808920055626423
+  },
+  {
+    "start": 3.145,
+    "end": 3.346,
+    "word": "au",
+    "probability": 0.9738469113163642
+  },
+  {
+    "start": 3.346,
+    "end": 3.586,
+    "word": "lit",
+    "probability": 0.9624783955313059
+  }
+]

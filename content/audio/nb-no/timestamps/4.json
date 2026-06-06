@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.121,
+    "word": "Så",
+    "probability": 0.99
+  },
+  {
+    "start": 0.121,
+    "end": 0.623,
+    "word": "børstet",
+    "probability": 0.9287760043961497
+  },
+  {
+    "start": 0.623,
+    "end": 0.824,
+    "word": "hun",
+    "probability": 0.8702315130527133
+  },
+  {
+    "start": 0.824,
+    "end": 1.367,
+    "word": "pelsen",
+    "probability": 0.903221630466337
+  },
+  {
+    "start": 1.367,
+    "end": 1.87,
+    "word": "deres",
+    "probability": 0.9780983971605453
+  },
+  {
+    "start": 1.87,
+    "end": 2.393,
+    "word": "dette",
+    "probability": 0.8514958810590124
+  },
+  {
+    "start": 2.393,
+    "end": 2.553,
+    "word": "er",
+    "probability": 0.8854752849772768
+  },
+  {
+    "start": 2.553,
+    "end": 2.935,
+    "word": "Mittens",
+    "probability": 0.9379000028578331
+  }
+]

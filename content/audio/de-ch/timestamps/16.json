@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.521,
+    "word": "Mittens",
+    "probability": 0.7216453575754327
+  },
+  {
+    "start": 0.521,
+    "end": 1.001,
+    "word": "lachte",
+    "probability": 0.8141432572941785
+  },
+  {
+    "start": 1.001,
+    "end": 1.261,
+    "word": "so",
+    "probability": 0.8965582110214788
+  },
+  {
+    "start": 1.261,
+    "end": 1.722,
+    "word": "sehr",
+    "probability": 0.9777837338358849
+  },
+  {
+    "start": 1.722,
+    "end": 2.342,
+    "word": "dass",
+    "probability": 0.9790321568927147
+  },
+  {
+    "start": 2.342,
+    "end": 2.463,
+    "word": "sie",
+    "probability": 0.9713433967992361
+  },
+  {
+    "start": 2.463,
+    "end": 2.703,
+    "word": "von",
+    "probability": 0.9632092929394016
+  },
+  {
+    "start": 2.703,
+    "end": 2.883,
+    "word": "der",
+    "probability": 0.9428042264478435
+  },
+  {
+    "start": 2.883,
+    "end": 3.323,
+    "word": "Mauer",
+    "probability": 0.9849986596576794
+  },
+  {
+    "start": 3.323,
+    "end": 3.704,
+    "word": "fiel",
+    "probability": 0.9630789330661601
+  },
+  {
+    "start": 3.704,
+    "end": 4.945,
+    "word": "Moppet",
+    "probability": 0.9662182379264543
+  },
+  {
+    "start": 4.945,
+    "end": 5.145,
+    "word": "und",
+    "probability": 0.9297853073774058
+  },
+  {
+    "start": 5.145,
+    "end": 5.486,
+    "word": "Tom",
+    "probability": 0.965891926911672
+  },
+  {
+    "start": 5.486,
+    "end": 6.206,
+    "word": "kletterten",
+    "probability": 0.9836189770736374
+  },
+  {
+    "start": 6.206,
+    "end": 6.607,
+    "word": "hinter",
+    "probability": 0.9722316896810979
+  },
+  {
+    "start": 6.607,
+    "end": 6.787,
+    "word": "ihr",
+    "probability": 0.99
+  },
+  {
+    "start": 6.787,
+    "end": 7.468,
+    "word": "herunter",
+    "probability": 0.9780582923121081
+  },
+  {
+    "start": 7.468,
+    "end": 8.289,
+    "word": "die",
+    "probability": 0.99
+  },
+  {
+    "start": 8.289,
+    "end": 8.909,
+    "word": "Kleider",
+    "probability": 0.9804883325982928
+  },
+  {
+    "start": 8.909,
+    "end": 9.089,
+    "word": "und",
+    "probability": 0.9389079789891642
+  },
+  {
+    "start": 9.089,
+    "end": 9.25,
+    "word": "der",
+    "probability": 0.9283786963658516
+  },
+  {
+    "start": 9.25,
+    "end": 9.63,
+    "word": "Rest",
+    "probability": 0.9626307308977382
+  },
+  {
+    "start": 9.63,
+    "end": 9.83,
+    "word": "von",
+    "probability": 0.9537075215811385
+  },
+  {
+    "start": 9.83,
+    "end": 10.231,
+    "word": "Toms",
+    "probability": 0.9582905434366105
+  },
+  {
+    "start": 10.231,
+    "end": 10.851,
+    "word": "Kleidung",
+    "probability": 0.9871054185297906
+  },
+  {
+    "start": 10.851,
+    "end": 11.632,
+    "word": "fielen",
+    "probability": 0.975777238208203
+  },
+  {
+    "start": 11.632,
+    "end": 11.812,
+    "word": "auf",
+    "probability": 0.955288090095613
+  },
+  {
+    "start": 11.812,
+    "end": 12.012,
+    "word": "dem",
+    "probability": 0.9653639046639748
+  },
+  {
+    "start": 12.012,
+    "end": 12.353,
+    "word": "Weg",
+    "probability": 0.9859486871383993
+  },
+  {
+    "start": 12.353,
+    "end": 12.593,
+    "word": "nach",
+    "probability": 0.9335106726122638
+  },
+  {
+    "start": 12.593,
+    "end": 13.053,
+    "word": "unten",
+    "probability": 0.9782044825938211
+  },
+  {
+    "start": 13.053,
+    "end": 13.314,
+    "word": "ab",
+    "probability": 0.9571605311057311
+  },
+  {
+    "start": 13.314,
+    "end": 15.376,
+    "word": "Mr",
+    "probability": 0.9846040017305228
+  },
+  {
+    "start": 15.376,
+    "end": 15.916,
+    "word": "Drake",
+    "probability": 0.8573639307530571
+  },
+  {
+    "start": 15.916,
+    "end": 16.937,
+    "word": "PuddleDuck",
+    "probability": 0.8213412682495058
+  },
+  {
+    "start": 16.937,
+    "end": 17.618,
+    "word": "rief",
+    "probability": 0.9606993568267802
+  },
+  {
+    "start": 17.618,
+    "end": 18.199,
+    "word": "Moppet",
+    "probability": 0.911577485152949
+  },
+  {
+    "start": 18.199,
+    "end": 19.02,
+    "word": "Komm",
+    "probability": 0.9878033334694739
+  },
+  {
+    "start": 19.02,
+    "end": 19.32,
+    "word": "und",
+    "probability": 0.9810467151079371
+  },
+  {
+    "start": 19.32,
+    "end": 19.66,
+    "word": "hilf",
+    "probability": 0.99
+  },
+  {
+    "start": 19.66,
+    "end": 19.981,
+    "word": "uns",
+    "probability": 0.9569187308375118
+  },
+  {
+    "start": 19.981,
+    "end": 20.421,
+    "word": "ihn",
+    "probability": 0.980969224326072
+  },
+  {
+    "start": 20.421,
+    "end": 21.202,
+    "word": "anzuziehen",
+    "probability": 0.97312900852778
+  },
+  {
+    "start": 21.202,
+    "end": 21.903,
+    "word": "Komm",
+    "probability": 0.99
+  },
+  {
+    "start": 21.903,
+    "end": 22.163,
+    "word": "und",
+    "probability": 0.9826521374869602
+  },
+  {
+    "start": 22.163,
+    "end": 22.583,
+    "word": "knöpf",
+    "probability": 0.9791844557765701
+  },
+  {
+    "start": 22.583,
+    "end": 22.904,
+    "word": "Tom",
+    "probability": 0.9767719491402778
+  },
+  {
+    "start": 22.904,
+    "end": 23.104,
+    "word": "zu",
+    "probability": 0.9526047722297847
+  }
+]

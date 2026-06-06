@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.18,
+    "end": 0.321,
+    "word": "Then",
+    "probability": 0.43007012136059825
+  },
+  {
+    "start": 0.321,
+    "end": 0.501,
+    "word": "she",
+    "probability": 0.5914527484791123
+  },
+  {
+    "start": 0.501,
+    "end": 0.802,
+    "word": "combed",
+    "probability": 0.5499005544852739
+  },
+  {
+    "start": 0.802,
+    "end": 1.002,
+    "word": "their",
+    "probability": 0.05220443078090109
+  },
+  {
+    "start": 1.002,
+    "end": 1.403,
+    "word": "tails",
+    "probability": 0.6336128228102994
+  },
+  {
+    "start": 1.403,
+    "end": 1.563,
+    "word": "and",
+    "probability": 0.48463608991735735
+  },
+  {
+    "start": 1.563,
+    "end": 2.084,
+    "word": "whiskers",
+    "probability": 0.5159023478769144
+  },
+  {
+    "start": 2.084,
+    "end": 2.665,
+    "word": "this",
+    "probability": 0.8085910658943745
+  },
+  {
+    "start": 2.665,
+    "end": 2.825,
+    "word": "is",
+    "probability": 0.686289366847807
+  },
+  {
+    "start": 2.825,
+    "end": 3.166,
+    "word": "Tom",
+    "probability": 0.7245656603477864
+  },
+  {
+    "start": 3.166,
+    "end": 3.667,
+    "word": "Kitten",
+    "probability": 0.7163841279570907
+  },
+  {
+    "start": 3.667,
+    "end": 4.529,
+    "word": "Tom",
+    "probability": 0.9092143850123403
+  },
+  {
+    "start": 4.529,
+    "end": 4.809,
+    "word": "kept",
+    "probability": 0.6561304462039844
+  },
+  {
+    "start": 4.809,
+    "end": 5.21,
+    "word": "trying",
+    "probability": 0.6007738591342179
+  },
+  {
+    "start": 5.21,
+    "end": 5.33,
+    "word": "to",
+    "probability": 0.6021292567287215
+  },
+  {
+    "start": 5.33,
+    "end": 5.831,
+    "word": "scratch",
+    "probability": 0.6353175372486409
+  },
+  {
+    "start": 5.831,
+    "end": 6.032,
+    "word": "the",
+    "probability": 0.6013782545127134
+  },
+  {
+    "start": 6.032,
+    "end": 6.332,
+    "word": "comb",
+    "probability": 0.7706749608704891
+  }
+]

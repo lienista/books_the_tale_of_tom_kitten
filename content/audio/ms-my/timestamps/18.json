@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.54,
+    "word": "Tetapi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.54,
+    "end": 0.821,
+    "word": "dia",
+    "probability": 0.99
+  },
+  {
+    "start": 0.821,
+    "end": 1.421,
+    "word": "memakai",
+    "probability": 0.99
+  },
+  {
+    "start": 1.421,
+    "end": 2.062,
+    "word": "pakaian",
+    "probability": 0.9820611142150726
+  },
+  {
+    "start": 2.062,
+    "end": 2.602,
+    "word": "itu",
+    "probability": 0.99
+  },
+  {
+    "start": 2.602,
+    "end": 3.303,
+    "word": "sendiri",
+    "probability": 0.99
+  },
+  {
+    "start": 3.303,
+    "end": 4.804,
+    "word": "Pakaian",
+    "probability": 0.99
+  },
+  {
+    "start": 4.804,
+    "end": 5.164,
+    "word": "itu",
+    "probability": 0.9877100386724192
+  },
+  {
+    "start": 5.164,
+    "end": 5.565,
+    "word": "lebih",
+    "probability": 0.9884681517119074
+  },
+  {
+    "start": 5.565,
+    "end": 5.965,
+    "word": "tidak",
+    "probability": 0.99
+  },
+  {
+    "start": 5.965,
+    "end": 6.626,
+    "word": "padan",
+    "probability": 0.9581794247402625
+  },
+  {
+    "start": 6.626,
+    "end": 7.326,
+    "word": "dengannya",
+    "probability": 0.9866590964750139
+  },
+  {
+    "start": 7.326,
+    "end": 8.707,
+    "word": "berbanding",
+    "probability": 0.99
+  },
+  {
+    "start": 8.707,
+    "end": 9.188,
+    "word": "dengan",
+    "probability": 0.99
+  },
+  {
+    "start": 9.188,
+    "end": 9.648,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 9.648,
+    "end": 10.469,
+    "word": "Kitten",
+    "probability": 0.9766613267594169
+  },
+  {
+    "start": 10.469,
+    "end": 12.631,
+    "word": "Pagi",
+    "probability": 0.99
+  },
+  {
+    "start": 12.631,
+    "end": 12.911,
+    "word": "yang",
+    "probability": 0.99
+  },
+  {
+    "start": 12.911,
+    "end": 13.492,
+    "word": "indah",
+    "probability": 0.99
+  },
+  {
+    "start": 13.492,
+    "end": 14.613,
+    "word": "kata",
+    "probability": 0.99
+  },
+  {
+    "start": 14.613,
+    "end": 15.173,
+    "word": "Mr",
+    "probability": 0.8351332401793033
+  },
+  {
+    "start": 15.173,
+    "end": 15.714,
+    "word": "Drake",
+    "probability": 0.9423803336374754
+  },
+  {
+    "start": 15.714,
+    "end": 16.654,
+    "word": "PuddleDuck",
+    "probability": 0.8846085358898442
+  }
+]

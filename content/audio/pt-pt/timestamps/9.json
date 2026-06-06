@@ -1,0 +1,254 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.18,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.66,
+    "word": "Moppet",
+    "probability": 0.8471446454679362
+  },
+  {
+    "start": 0.66,
+    "end": 0.781,
+    "word": "e",
+    "probability": 0.7648031935719741
+  },
+  {
+    "start": 0.781,
+    "end": 0.861,
+    "word": "a",
+    "probability": 0.6986847341744848
+  },
+  {
+    "start": 0.861,
+    "end": 1.561,
+    "word": "Mittens",
+    "probability": 0.8838821580856274
+  },
+  {
+    "start": 1.561,
+    "end": 3.002,
+    "word": "cambalearam",
+    "probability": 0.9610916460155516
+  },
+  {
+    "start": 3.002,
+    "end": 3.302,
+    "word": "pelo",
+    "probability": 0.9538505755201026
+  },
+  {
+    "start": 3.302,
+    "end": 3.783,
+    "word": "caminho",
+    "probability": 0.9755558892378507
+  },
+  {
+    "start": 3.783,
+    "end": 3.883,
+    "word": "do",
+    "probability": 0.9691636290487441
+  },
+  {
+    "start": 3.883,
+    "end": 4.403,
+    "word": "jardim",
+    "probability": 0.99
+  },
+  {
+    "start": 4.403,
+    "end": 5.604,
+    "word": "Logo",
+    "probability": 0.99
+  },
+  {
+    "start": 5.604,
+    "end": 6.364,
+    "word": "tropeçaram",
+    "probability": 0.9285090422512967
+  },
+  {
+    "start": 6.364,
+    "end": 6.564,
+    "word": "nos",
+    "probability": 0.8861772258215515
+  },
+  {
+    "start": 6.564,
+    "end": 7.265,
+    "word": "vestidos",
+    "probability": 0.9558858235369121
+  },
+  {
+    "start": 7.265,
+    "end": 7.485,
+    "word": "e",
+    "probability": 0.9605767492532656
+  },
+  {
+    "start": 7.485,
+    "end": 8.025,
+    "word": "caíram",
+    "probability": 0.9024665333436954
+  },
+  {
+    "start": 8.025,
+    "end": 8.125,
+    "word": "de",
+    "probability": 0.9081714787605117
+  },
+  {
+    "start": 8.125,
+    "end": 8.486,
+    "word": "cara",
+    "probability": 0.9417149679844281
+  },
+  {
+    "start": 8.486,
+    "end": 8.626,
+    "word": "no",
+    "probability": 0.9120465168579189
+  },
+  {
+    "start": 8.626,
+    "end": 9.006,
+    "word": "chão",
+    "probability": 0.9568257795233582
+  },
+  {
+    "start": 9.006,
+    "end": 10.187,
+    "word": "Quando",
+    "probability": 0.987217417793906
+  },
+  {
+    "start": 10.187,
+    "end": 10.367,
+    "word": "se",
+    "probability": 0.865490116742478
+  },
+  {
+    "start": 10.367,
+    "end": 11.127,
+    "word": "levantaram",
+    "probability": 0.9275356150469264
+  },
+  {
+    "start": 11.127,
+    "end": 11.748,
+    "word": "estavam",
+    "probability": 0.9831069546522485
+  },
+  {
+    "start": 11.748,
+    "end": 12.388,
+    "word": "cobertas",
+    "probability": 0.9743024858034389
+  },
+  {
+    "start": 12.388,
+    "end": 12.548,
+    "word": "de",
+    "probability": 0.9148626564574862
+  },
+  {
+    "start": 12.548,
+    "end": 13.029,
+    "word": "manchas",
+    "probability": 0.9758555746487417
+  },
+  {
+    "start": 13.029,
+    "end": 13.149,
+    "word": "de",
+    "probability": 0.9436288590240897
+  },
+  {
+    "start": 13.149,
+    "end": 13.629,
+    "word": "relva",
+    "probability": 0.99
+  },
+  {
+    "start": 13.629,
+    "end": 14.99,
+    "word": "Vamos",
+    "probability": 0.969605669684658
+  },
+  {
+    "start": 14.99,
+    "end": 15.33,
+    "word": "subir",
+    "probability": 0.9756031450501936
+  },
+  {
+    "start": 15.33,
+    "end": 15.49,
+    "word": "as",
+    "probability": 0.949422539396078
+  },
+  {
+    "start": 15.49,
+    "end": 15.991,
+    "word": "pedras",
+    "probability": 0.99
+  },
+  {
+    "start": 15.991,
+    "end": 16.111,
+    "word": "e",
+    "probability": 0.9816393504146904
+  },
+  {
+    "start": 16.111,
+    "end": 16.931,
+    "word": "sentarnos",
+    "probability": 0.9617170346482358
+  },
+  {
+    "start": 16.931,
+    "end": 17.091,
+    "word": "no",
+    "probability": 0.9610436888760485
+  },
+  {
+    "start": 17.091,
+    "end": 17.412,
+    "word": "muro",
+    "probability": 0.9661820650434574
+  },
+  {
+    "start": 17.412,
+    "end": 17.552,
+    "word": "do",
+    "probability": 0.9146479693452129
+  },
+  {
+    "start": 17.552,
+    "end": 18.092,
+    "word": "jardim",
+    "probability": 0.9540973540215063
+  },
+  {
+    "start": 18.092,
+    "end": 19.253,
+    "word": "sugeriu",
+    "probability": 0.9879640268745244
+  },
+  {
+    "start": 19.253,
+    "end": 19.393,
+    "word": "a",
+    "probability": 0.7925865246410442
+  },
+  {
+    "start": 19.393,
+    "end": 19.833,
+    "word": "Moppet",
+    "probability": 0.8848971149483993
+  }
+]

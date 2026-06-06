@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.14,
+    "word": "Ze",
+    "probability": 0.6774656325188989
+  },
+  {
+    "start": 0.14,
+    "end": 0.601,
+    "word": "stuurde",
+    "probability": 0.8072196404378577
+  },
+  {
+    "start": 0.601,
+    "end": 0.761,
+    "word": "ze",
+    "probability": 0.8792567836065267
+  },
+  {
+    "start": 0.761,
+    "end": 1.002,
+    "word": "naar",
+    "probability": 0.9096581507105151
+  },
+  {
+    "start": 1.002,
+    "end": 1.443,
+    "word": "boven",
+    "probability": 0.9704882346822822
+  },
+  {
+    "start": 1.443,
+    "end": 2.324,
+    "word": "en",
+    "probability": 0.9666974061186218
+  },
+  {
+    "start": 2.324,
+    "end": 2.465,
+    "word": "het",
+    "probability": 0.9355995065855319
+  },
+  {
+    "start": 2.465,
+    "end": 2.926,
+    "word": "spijt",
+    "probability": 0.9485551406360527
+  },
+  {
+    "start": 2.926,
+    "end": 3.066,
+    "word": "me",
+    "probability": 0.8977604437407898
+  },
+  {
+    "start": 3.066,
+    "end": 3.226,
+    "word": "te",
+    "probability": 0.9775409693645583
+  },
+  {
+    "start": 3.226,
+    "end": 3.687,
+    "word": "zeggen",
+    "probability": 0.9754370116996758
+  },
+  {
+    "start": 3.687,
+    "end": 4.268,
+    "word": "dat",
+    "probability": 0.99
+  },
+  {
+    "start": 4.268,
+    "end": 4.408,
+    "word": "ze",
+    "probability": 0.9073647565224217
+  },
+  {
+    "start": 4.408,
+    "end": 4.629,
+    "word": "haar",
+    "probability": 0.9411390556771838
+  },
+  {
+    "start": 4.629,
+    "end": 5.13,
+    "word": "vrienden",
+    "probability": 0.9420794534773078
+  },
+  {
+    "start": 5.13,
+    "end": 5.751,
+    "word": "vertelde",
+    "probability": 0.9871035741121827
+  },
+  {
+    "start": 5.751,
+    "end": 6.232,
+    "word": "dat",
+    "probability": 0.9698484567059832
+  },
+  {
+    "start": 6.232,
+    "end": 6.392,
+    "word": "ze",
+    "probability": 0.9686984328308421
+  },
+  {
+    "start": 6.392,
+    "end": 6.572,
+    "word": "in",
+    "probability": 0.978408883805353
+  },
+  {
+    "start": 6.572,
+    "end": 6.893,
+    "word": "bed",
+    "probability": 0.9591204952176053
+  },
+  {
+    "start": 6.893,
+    "end": 7.334,
+    "word": "lagen",
+    "probability": 0.9774094022331776
+  },
+  {
+    "start": 7.334,
+    "end": 7.755,
+    "word": "met",
+    "probability": 0.9426880913001529
+  },
+  {
+    "start": 7.755,
+    "end": 7.915,
+    "word": "een",
+    "probability": 0.8926391966951317
+  },
+  {
+    "start": 7.915,
+    "end": 8.777,
+    "word": "verkoudheid",
+    "probability": 0.9792117399512331
+  },
+  {
+    "start": 8.777,
+    "end": 9.478,
+    "word": "wat",
+    "probability": 0.99
+  },
+  {
+    "start": 9.478,
+    "end": 9.718,
+    "word": "niet",
+    "probability": 0.9187493869377894
+  },
+  {
+    "start": 9.718,
+    "end": 9.979,
+    "word": "waar",
+    "probability": 0.9527623928712735
+  },
+  {
+    "start": 9.979,
+    "end": 10.159,
+    "word": "was",
+    "probability": 0.9140161516952545
+  }
+]

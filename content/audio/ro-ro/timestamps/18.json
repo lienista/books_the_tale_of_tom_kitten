@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.241,
+    "word": "Dar",
+    "probability": 0.9309915822255895
+  },
+  {
+    "start": 0.241,
+    "end": 0.381,
+    "word": "lea",
+    "probability": 0.9637706933625901
+  },
+  {
+    "start": 0.381,
+    "end": 0.682,
+    "word": "pus",
+    "probability": 0.99
+  },
+  {
+    "start": 0.682,
+    "end": 0.882,
+    "word": "pe",
+    "probability": 0.99
+  },
+  {
+    "start": 0.882,
+    "end": 1.143,
+    "word": "el",
+    "probability": 0.9865064773559692
+  },
+  {
+    "start": 1.143,
+    "end": 1.985,
+    "word": "Îi",
+    "probability": 0.99
+  },
+  {
+    "start": 1.985,
+    "end": 2.326,
+    "word": "veneau",
+    "probability": 0.967038258299695
+  },
+  {
+    "start": 2.326,
+    "end": 2.526,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 2.526,
+    "end": 2.727,
+    "word": "mai",
+    "probability": 0.9862855751284759
+  },
+  {
+    "start": 2.727,
+    "end": 2.907,
+    "word": "rău",
+    "probability": 0.9666997700407891
+  },
+  {
+    "start": 2.907,
+    "end": 3.188,
+    "word": "decât",
+    "probability": 0.9755124356844647
+  },
+  {
+    "start": 3.188,
+    "end": 3.288,
+    "word": "îi",
+    "probability": 0.9566289665837479
+  },
+  {
+    "start": 3.288,
+    "end": 3.609,
+    "word": "veneau",
+    "probability": 0.9406749755905174
+  },
+  {
+    "start": 3.609,
+    "end": 3.709,
+    "word": "lui",
+    "probability": 0.99
+  },
+  {
+    "start": 3.709,
+    "end": 3.97,
+    "word": "Tom",
+    "probability": 0.845584815761494
+  },
+  {
+    "start": 3.97,
+    "end": 4.431,
+    "word": "Kitten",
+    "probability": 0.7571569605501307
+  },
+  {
+    "start": 4.431,
+    "end": 5.354,
+    "word": "E",
+    "probability": 0.9840668322467672
+  },
+  {
+    "start": 5.354,
+    "end": 5.474,
+    "word": "o",
+    "probability": 0.8758882157657354
+  },
+  {
+    "start": 5.474,
+    "end": 6.015,
+    "word": "dimineață",
+    "probability": 0.9837049049395635
+  },
+  {
+    "start": 6.015,
+    "end": 6.677,
+    "word": "minunată",
+    "probability": 0.99
+  },
+  {
+    "start": 6.677,
+    "end": 6.817,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 6.817,
+    "end": 7.138,
+    "word": "spus",
+    "probability": 0.9556853423435558
+  },
+  {
+    "start": 7.138,
+    "end": 7.479,
+    "word": "domnul",
+    "probability": 0.99
+  },
+  {
+    "start": 7.479,
+    "end": 7.88,
+    "word": "Drake",
+    "probability": 0.810995485580252
+  },
+  {
+    "start": 7.88,
+    "end": 8.241,
+    "word": "PuddleDuck",
+    "probability": 0.5346585291760602
+  }
+]

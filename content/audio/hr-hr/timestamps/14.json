@@ -1,0 +1,86 @@
+[
+  {
+    "start": 3.056,
+    "end": 3.356,
+    "word": "Zaustavili",
+    "probability": 0.07695403796539291
+  },
+  {
+    "start": 3.356,
+    "end": 3.596,
+    "word": "su",
+    "probability": 0.6248223621233949
+  },
+  {
+    "start": 3.596,
+    "end": 4.465,
+    "word": "se",
+    "probability": 0.89561910546665
+  },
+  {
+    "start": 4.465,
+    "end": 4.525,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 4.525,
+    "end": 4.794,
+    "word": "stali",
+    "probability": 0.33342763116356333
+  },
+  {
+    "start": 4.794,
+    "end": 4.914,
+    "word": "u",
+    "probability": 0.4981516836454703
+  },
+  {
+    "start": 4.914,
+    "end": 5.274,
+    "word": "red",
+    "probability": 0.6417152330377661
+  },
+  {
+    "start": 5.274,
+    "end": 6.142,
+    "word": "gledajući",
+    "probability": 0.6542407050240705
+  },
+  {
+    "start": 6.142,
+    "end": 6.383,
+    "word": "gore",
+    "probability": 0.3749526008508065
+  },
+  {
+    "start": 6.383,
+    "end": 6.773,
+    "word": "prema",
+    "probability": 0.5782872160780625
+  },
+  {
+    "start": 6.773,
+    "end": 7.432,
+    "word": "mačićima",
+    "probability": 0.5534049288278527
+  },
+  {
+    "start": 7.432,
+    "end": 7.88,
+    "word": "širokim",
+    "probability": 0.4666037874642509
+  },
+  {
+    "start": 7.88,
+    "end": 8.001,
+    "word": "iznenađenim",
+    "probability": 0.01
+  },
+  {
+    "start": 8.001,
+    "end": 8.031,
+    "word": "očima",
+    "probability": 0.01
+  }
+]

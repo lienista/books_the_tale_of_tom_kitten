@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.101,
+    "end": 0.281,
+    "word": "Вона",
+    "probability": 0.99
+  },
+  {
+    "start": 0.281,
+    "end": 0.764,
+    "word": "зняла",
+    "probability": 0.99
+  },
+  {
+    "start": 0.764,
+    "end": 0.965,
+    "word": "їх",
+    "probability": 0.983016159630757
+  },
+  {
+    "start": 0.965,
+    "end": 1.066,
+    "word": "з",
+    "probability": 0.9822644961570848
+  },
+  {
+    "start": 1.066,
+    "end": 1.447,
+    "word": "муру",
+    "probability": 0.9582128232971503
+  },
+  {
+    "start": 1.447,
+    "end": 2.533,
+    "word": "підігнала",
+    "probability": 0.99
+  },
+  {
+    "start": 2.533,
+    "end": 2.634,
+    "word": "і",
+    "probability": 0.99
+  },
+  {
+    "start": 2.634,
+    "end": 3.076,
+    "word": "повела",
+    "probability": 0.9625978322632606
+  },
+  {
+    "start": 3.076,
+    "end": 3.619,
+    "word": "назад",
+    "probability": 0.99
+  },
+  {
+    "start": 3.619,
+    "end": 3.759,
+    "word": "до",
+    "probability": 0.9653197556465172
+  },
+  {
+    "start": 3.759,
+    "end": 4.162,
+    "word": "хати",
+    "probability": 0.9898037912980101
+  }
+]

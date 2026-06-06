@@ -1,0 +1,284 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.44,
+    "word": "Mittens",
+    "probability": 0.7211434492421795
+  },
+  {
+    "start": 0.44,
+    "end": 0.841,
+    "word": "lachte",
+    "probability": 0.8000157611304429
+  },
+  {
+    "start": 0.841,
+    "end": 1.101,
+    "word": "zo",
+    "probability": 0.9251621366149334
+  },
+  {
+    "start": 1.101,
+    "end": 1.581,
+    "word": "hard",
+    "probability": 0.9325002583331957
+  },
+  {
+    "start": 1.581,
+    "end": 1.761,
+    "word": "dat",
+    "probability": 0.9663026074343648
+  },
+  {
+    "start": 1.761,
+    "end": 1.921,
+    "word": "ze",
+    "probability": 0.9082395923882045
+  },
+  {
+    "start": 1.921,
+    "end": 2.121,
+    "word": "van",
+    "probability": 0.982070112716506
+  },
+  {
+    "start": 2.121,
+    "end": 2.261,
+    "word": "de",
+    "probability": 0.8826570324716768
+  },
+  {
+    "start": 2.261,
+    "end": 2.542,
+    "word": "muur",
+    "probability": 0.8616010395545259
+  },
+  {
+    "start": 2.542,
+    "end": 2.842,
+    "word": "viel",
+    "probability": 0.970210552042202
+  },
+  {
+    "start": 2.842,
+    "end": 4.503,
+    "word": "Moppet",
+    "probability": 0.9786106470539706
+  },
+  {
+    "start": 4.503,
+    "end": 4.643,
+    "word": "en",
+    "probability": 0.93302545464585
+  },
+  {
+    "start": 4.643,
+    "end": 4.983,
+    "word": "Tom",
+    "probability": 0.9692953253864056
+  },
+  {
+    "start": 4.983,
+    "end": 5.523,
+    "word": "klommen",
+    "probability": 0.99
+  },
+  {
+    "start": 5.523,
+    "end": 6.004,
+    "word": "achter",
+    "probability": 0.9703223862805285
+  },
+  {
+    "start": 6.004,
+    "end": 6.184,
+    "word": "haar",
+    "probability": 0.967917265981263
+  },
+  {
+    "start": 6.184,
+    "end": 6.484,
+    "word": "aan",
+    "probability": 0.9750595828144675
+  },
+  {
+    "start": 6.484,
+    "end": 6.684,
+    "word": "naar",
+    "probability": 0.9663748729626633
+  },
+  {
+    "start": 6.684,
+    "end": 7.185,
+    "word": "beneden",
+    "probability": 0.9435508094259698
+  },
+  {
+    "start": 7.185,
+    "end": 8.385,
+    "word": "de",
+    "probability": 0.9803616379731845
+  },
+  {
+    "start": 8.385,
+    "end": 8.946,
+    "word": "jurkjes",
+    "probability": 0.9842458061209005
+  },
+  {
+    "start": 8.946,
+    "end": 9.106,
+    "word": "en",
+    "probability": 0.987275958976384
+  },
+  {
+    "start": 9.106,
+    "end": 9.206,
+    "word": "de",
+    "probability": 0.9513039483211428
+  },
+  {
+    "start": 9.206,
+    "end": 9.546,
+    "word": "rest",
+    "probability": 0.9665557149368964
+  },
+  {
+    "start": 9.546,
+    "end": 9.726,
+    "word": "van",
+    "probability": 0.9641581744130221
+  },
+  {
+    "start": 9.726,
+    "end": 10.066,
+    "word": "Toms",
+    "probability": 0.9210828324119591
+  },
+  {
+    "start": 10.066,
+    "end": 10.547,
+    "word": "kleren",
+    "probability": 0.96384450128561
+  },
+  {
+    "start": 10.547,
+    "end": 10.967,
+    "word": "vielen",
+    "probability": 0.9627314190840941
+  },
+  {
+    "start": 10.967,
+    "end": 11.527,
+    "word": "onderweg",
+    "probability": 0.99
+  },
+  {
+    "start": 11.527,
+    "end": 11.807,
+    "word": "af",
+    "probability": 0.9684515044523169
+  },
+  {
+    "start": 11.807,
+    "end": 13.128,
+    "word": "Meneer",
+    "probability": 0.9608175131653708
+  },
+  {
+    "start": 13.128,
+    "end": 13.589,
+    "word": "Drake",
+    "probability": 0.9367163570659152
+  },
+  {
+    "start": 13.589,
+    "end": 14.329,
+    "word": "PuddleDuck",
+    "probability": 0.8500936243184627
+  },
+  {
+    "start": 14.329,
+    "end": 15.009,
+    "word": "riep",
+    "probability": 0.9804263301820384
+  },
+  {
+    "start": 15.009,
+    "end": 15.53,
+    "word": "Moppet",
+    "probability": 0.9420001616609521
+  },
+  {
+    "start": 15.53,
+    "end": 16.23,
+    "word": "Kom",
+    "probability": 0.9850629593347849
+  },
+  {
+    "start": 16.23,
+    "end": 16.47,
+    "word": "ons",
+    "probability": 0.9662020096066072
+  },
+  {
+    "start": 16.47,
+    "end": 16.911,
+    "word": "helpen",
+    "probability": 0.9782655748848635
+  },
+  {
+    "start": 16.911,
+    "end": 17.071,
+    "word": "hem",
+    "probability": 0.9768177775006139
+  },
+  {
+    "start": 17.071,
+    "end": 17.291,
+    "word": "aan",
+    "probability": 0.9806506879152863
+  },
+  {
+    "start": 17.291,
+    "end": 17.391,
+    "word": "te",
+    "probability": 0.9135140636216652
+  },
+  {
+    "start": 17.391,
+    "end": 17.851,
+    "word": "kleden",
+    "probability": 0.9573718208829279
+  },
+  {
+    "start": 17.851,
+    "end": 18.532,
+    "word": "Kom",
+    "probability": 0.9822874787889468
+  },
+  {
+    "start": 18.532,
+    "end": 18.912,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 18.912,
+    "end": 19.312,
+    "word": "knoop",
+    "probability": 0.9509578733572923
+  },
+  {
+    "start": 19.312,
+    "end": 19.632,
+    "word": "Tom",
+    "probability": 0.9712073097471505
+  },
+  {
+    "start": 19.632,
+    "end": 20.013,
+    "word": "dicht",
+    "probability": 0.9689440368162185
+  }
+]

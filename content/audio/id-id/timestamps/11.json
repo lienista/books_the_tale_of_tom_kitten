@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.28,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.28,
+    "end": 0.741,
+    "word": "Kitten",
+    "probability": 0.99
+  },
+  {
+    "start": 0.741,
+    "end": 1.081,
+    "word": "tidak",
+    "probability": 0.9464806184279557
+  },
+  {
+    "start": 1.081,
+    "end": 1.382,
+    "word": "bisa",
+    "probability": 0.9658404959905408
+  },
+  {
+    "start": 1.382,
+    "end": 1.963,
+    "word": "melompat",
+    "probability": 0.9698046962467742
+  },
+  {
+    "start": 1.963,
+    "end": 2.223,
+    "word": "sama",
+    "probability": 0.99
+  },
+  {
+    "start": 2.223,
+    "end": 2.684,
+    "word": "sekali",
+    "probability": 0.9782327983959087
+  },
+  {
+    "start": 2.684,
+    "end": 3.565,
+    "word": "saat",
+    "probability": 0.99
+  },
+  {
+    "start": 3.565,
+    "end": 3.985,
+    "word": "mencoba",
+    "probability": 0.99
+  },
+  {
+    "start": 3.985,
+    "end": 4.646,
+    "word": "berjalan",
+    "probability": 0.99
+  },
+  {
+    "start": 4.646,
+    "end": 5.007,
+    "word": "dengan",
+    "probability": 0.9765642435990164
+  },
+  {
+    "start": 5.007,
+    "end": 5.307,
+    "word": "kaki",
+    "probability": 0.9723660752716057
+  },
+  {
+    "start": 5.307,
+    "end": 5.928,
+    "word": "belakangnya",
+    "probability": 0.9545441820716569
+  },
+  {
+    "start": 5.928,
+    "end": 6.689,
+    "word": "menggunakan",
+    "probability": 0.9838624611823334
+  },
+  {
+    "start": 6.689,
+    "end": 7.21,
+    "word": "celana",
+    "probability": 0.9661764231736808
+  },
+  {
+    "start": 7.21,
+    "end": 8.612,
+    "word": "Dia",
+    "probability": 0.9844900365195239
+  },
+  {
+    "start": 8.612,
+    "end": 9.253,
+    "word": "bersusah",
+    "probability": 0.962209086640574
+  },
+  {
+    "start": 9.253,
+    "end": 9.633,
+    "word": "payah",
+    "probability": 0.9732391757514719
+  },
+  {
+    "start": 9.633,
+    "end": 10.214,
+    "word": "memanjat",
+    "probability": 0.9773638580149446
+  },
+  {
+    "start": 10.214,
+    "end": 10.535,
+    "word": "batu",
+    "probability": 0.9649268242508761
+  },
+  {
+    "start": 10.535,
+    "end": 11.095,
+    "word": "sedikit",
+    "probability": 0.9672750117054801
+  },
+  {
+    "start": 11.095,
+    "end": 11.316,
+    "word": "demi",
+    "probability": 0.9389976869015771
+  },
+  {
+    "start": 11.316,
+    "end": 11.977,
+    "word": "sedikit",
+    "probability": 0.99
+  },
+  {
+    "start": 11.977,
+    "end": 13.098,
+    "word": "menginjak",
+    "probability": 0.9685881548321491
+  },
+  {
+    "start": 13.098,
+    "end": 13.699,
+    "word": "pakis",
+    "probability": 0.99
+  },
+  {
+    "start": 13.699,
+    "end": 14.3,
+    "word": "dan",
+    "probability": 0.9817511708695593
+  },
+  {
+    "start": 14.3,
+    "end": 15.001,
+    "word": "kehilangan",
+    "probability": 0.9715018064279249
+  },
+  {
+    "start": 15.001,
+    "end": 15.682,
+    "word": "kancing",
+    "probability": 0.99
+  },
+  {
+    "start": 15.682,
+    "end": 15.822,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 15.822,
+    "end": 16.463,
+    "word": "sanasini",
+    "probability": 0.9267357353268135
+  }
+]

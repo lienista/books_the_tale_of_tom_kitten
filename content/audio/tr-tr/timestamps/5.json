@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.401,
+    "word": "Sonra",
+    "probability": 0.9764766745390323
+  },
+  {
+    "start": 0.401,
+    "end": 1.242,
+    "word": "kuyruklarını",
+    "probability": 0.9839706092319576
+  },
+  {
+    "start": 1.242,
+    "end": 1.423,
+    "word": "ve",
+    "probability": 0.9826703676730664
+  },
+  {
+    "start": 1.423,
+    "end": 2.164,
+    "word": "bıyıklarını",
+    "probability": 0.9745428636856838
+  },
+  {
+    "start": 2.164,
+    "end": 2.665,
+    "word": "taradı",
+    "probability": 0.9818050111489827
+  },
+  {
+    "start": 2.665,
+    "end": 3.186,
+    "word": "bu",
+    "probability": 0.9819278959381046
+  },
+  {
+    "start": 3.186,
+    "end": 3.686,
+    "word": "Tom",
+    "probability": 0.9583436430883274
+  },
+  {
+    "start": 3.686,
+    "end": 4.167,
+    "word": "Kitten",
+    "probability": 0.7592688165046786
+  },
+  {
+    "start": 4.167,
+    "end": 4.869,
+    "word": "Tom",
+    "probability": 0.9772950988883202
+  },
+  {
+    "start": 4.869,
+    "end": 5.53,
+    "word": "sürekli",
+    "probability": 0.99
+  },
+  {
+    "start": 5.53,
+    "end": 6.051,
+    "word": "tarağı",
+    "probability": 0.9715335429537004
+  },
+  {
+    "start": 6.051,
+    "end": 6.672,
+    "word": "kaşımaya",
+    "probability": 0.9585012062615458
+  },
+  {
+    "start": 6.672,
+    "end": 7.513,
+    "word": "çalışıyordu",
+    "probability": 0.9825981017852908
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "En",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.561,
+    "word": "cuanto",
+    "probability": 0.9604626414912831
+  },
+  {
+    "start": 0.561,
+    "end": 0.621,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 0.621,
+    "end": 0.801,
+    "word": "los",
+    "probability": 0.99
+  },
+  {
+    "start": 0.801,
+    "end": 1.582,
+    "word": "PuddleDucks",
+    "probability": 0.9305918828802845
+  },
+  {
+    "start": 1.582,
+    "end": 2.102,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 2.102,
+    "end": 2.683,
+    "word": "metieron",
+    "probability": 0.981084918186667
+  },
+  {
+    "start": 2.683,
+    "end": 2.843,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 2.843,
+    "end": 3.043,
+    "word": "un",
+    "probability": 0.9803698091821437
+  },
+  {
+    "start": 3.043,
+    "end": 3.724,
+    "word": "estanque",
+    "probability": 0.99
+  },
+  {
+    "start": 3.724,
+    "end": 4.485,
+    "word": "La",
+    "probability": 0.99
+  },
+  {
+    "start": 4.485,
+    "end": 4.845,
+    "word": "ropa",
+    "probability": 0.976906650659571
+  },
+  {
+    "start": 4.845,
+    "end": 5.025,
+    "word": "se",
+    "probability": 0.9813510125685592
+  },
+  {
+    "start": 5.025,
+    "end": 5.366,
+    "word": "cayó",
+    "probability": 0.9616389854632127
+  },
+  {
+    "start": 5.366,
+    "end": 5.786,
+    "word": "porque",
+    "probability": 0.99
+  },
+  {
+    "start": 5.786,
+    "end": 5.926,
+    "word": "no",
+    "probability": 0.99
+  },
+  {
+    "start": 5.926,
+    "end": 6.447,
+    "word": "quedaban",
+    "probability": 0.99
+  },
+  {
+    "start": 6.447,
+    "end": 7.007,
+    "word": "botones",
+    "probability": 0.99
+  },
+  {
+    "start": 7.007,
+    "end": 7.268,
+    "word": "para",
+    "probability": 0.99
+  },
+  {
+    "start": 7.268,
+    "end": 8.068,
+    "word": "mantenerla",
+    "probability": 0.9621144776403433
+  },
+  {
+    "start": 8.068,
+    "end": 8.429,
+    "word": "unida",
+    "probability": 0.99
+  }
+]

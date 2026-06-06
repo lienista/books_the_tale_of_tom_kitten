@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.441,
+    "word": "Тогава",
+    "probability": 0.99
+  },
+  {
+    "start": 0.441,
+    "end": 0.801,
+    "word": "двете",
+    "probability": 0.9795453488112741
+  },
+  {
+    "start": 0.801,
+    "end": 1.242,
+    "word": "женски",
+    "probability": 0.9882359816063453
+  },
+  {
+    "start": 1.242,
+    "end": 1.823,
+    "word": "патици",
+    "probability": 0.9812402548873959
+  },
+  {
+    "start": 1.823,
+    "end": 2.924,
+    "word": "Rebeccah",
+    "probability": 0.8648717403546499
+  },
+  {
+    "start": 2.924,
+    "end": 3.004,
+    "word": "и",
+    "probability": 0.6868388446911321
+  },
+  {
+    "start": 3.004,
+    "end": 3.425,
+    "word": "Jemima",
+    "probability": 0.73165132447976
+  },
+  {
+    "start": 3.425,
+    "end": 4.306,
+    "word": "PuddleDuck",
+    "probability": 0.7043769976935962
+  },
+  {
+    "start": 4.306,
+    "end": 5.468,
+    "word": "вдигнаха",
+    "probability": 0.9698645715968368
+  },
+  {
+    "start": 5.468,
+    "end": 6.069,
+    "word": "шапката",
+    "probability": 0.99
+  },
+  {
+    "start": 6.069,
+    "end": 6.129,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 6.129,
+    "end": 6.89,
+    "word": "дантелената",
+    "probability": 0.9401454068470473
+  },
+  {
+    "start": 6.89,
+    "end": 7.21,
+    "word": "яка",
+    "probability": 0.9473374395152129
+  },
+  {
+    "start": 7.21,
+    "end": 7.25,
+    "word": "и",
+    "probability": 0.6348487211092607
+  },
+  {
+    "start": 7.25,
+    "end": 7.371,
+    "word": "ги",
+    "probability": 0.8449393732264552
+  },
+  {
+    "start": 7.371,
+    "end": 7.871,
+    "word": "сложиха",
+    "probability": 0.9728360257373372
+  }
+]

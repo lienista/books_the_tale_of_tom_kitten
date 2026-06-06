@@ -1,0 +1,230 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "En",
+    "probability": 0.9874379350918676
+  },
+  {
+    "start": 0.16,
+    "end": 0.701,
+    "word": "cambio",
+    "probability": 0.972506722568308
+  },
+  {
+    "start": 0.701,
+    "end": 1.382,
+    "word": "había",
+    "probability": 0.99
+  },
+  {
+    "start": 1.382,
+    "end": 1.963,
+    "word": "ruidos",
+    "probability": 0.99
+  },
+  {
+    "start": 1.963,
+    "end": 2.243,
+    "word": "muy",
+    "probability": 0.9876086949866679
+  },
+  {
+    "start": 2.243,
+    "end": 2.844,
+    "word": "extraños",
+    "probability": 0.9776106413111516
+  },
+  {
+    "start": 2.844,
+    "end": 3.625,
+    "word": "provenientes",
+    "probability": 0.9827236652377306
+  },
+  {
+    "start": 3.625,
+    "end": 3.705,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 3.705,
+    "end": 4.125,
+    "word": "arriba",
+    "probability": 0.99
+  },
+  {
+    "start": 4.125,
+    "end": 4.746,
+    "word": "lo",
+    "probability": 0.99
+  },
+  {
+    "start": 4.746,
+    "end": 4.886,
+    "word": "que",
+    "probability": 0.9816946346491656
+  },
+  {
+    "start": 4.886,
+    "end": 5.307,
+    "word": "arruinó",
+    "probability": 0.9778349686699818
+  },
+  {
+    "start": 5.307,
+    "end": 5.427,
+    "word": "el",
+    "probability": 0.9651918436128079
+  },
+  {
+    "start": 5.427,
+    "end": 6.008,
+    "word": "ambiente",
+    "probability": 0.9809927768694763
+  },
+  {
+    "start": 6.008,
+    "end": 6.709,
+    "word": "tranquilo",
+    "probability": 0.9699147352355352
+  },
+  {
+    "start": 6.709,
+    "end": 6.829,
+    "word": "de",
+    "probability": 0.9721321544263399
+  },
+  {
+    "start": 6.829,
+    "end": 6.949,
+    "word": "la",
+    "probability": 0.9003901253068757
+  },
+  {
+    "start": 6.949,
+    "end": 7.45,
+    "word": "fiesta",
+    "probability": 0.9834563348398576
+  },
+  {
+    "start": 7.45,
+    "end": 7.59,
+    "word": "de",
+    "probability": 0.9818448953096642
+  },
+  {
+    "start": 7.59,
+    "end": 7.85,
+    "word": "té",
+    "probability": 0.9857413925127526
+  },
+  {
+    "start": 7.85,
+    "end": 9.332,
+    "word": "Y",
+    "probability": 0.9728256615794397
+  },
+  {
+    "start": 9.332,
+    "end": 9.613,
+    "word": "creo",
+    "probability": 0.9526488946585518
+  },
+  {
+    "start": 9.613,
+    "end": 9.773,
+    "word": "que",
+    "probability": 0.9445238529060344
+  },
+  {
+    "start": 9.773,
+    "end": 10.113,
+    "word": "algún",
+    "probability": 0.9850330800040347
+  },
+  {
+    "start": 10.113,
+    "end": 10.394,
+    "word": "día",
+    "probability": 0.99
+  },
+  {
+    "start": 10.394,
+    "end": 10.794,
+    "word": "tendré",
+    "probability": 0.9706222027630591
+  },
+  {
+    "start": 10.794,
+    "end": 10.954,
+    "word": "que",
+    "probability": 0.9874942410381877
+  },
+  {
+    "start": 10.954,
+    "end": 11.435,
+    "word": "escribir",
+    "probability": 0.9730779196706821
+  },
+  {
+    "start": 11.435,
+    "end": 11.595,
+    "word": "un",
+    "probability": 0.99
+  },
+  {
+    "start": 11.595,
+    "end": 11.896,
+    "word": "libro",
+    "probability": 0.987716570987249
+  },
+  {
+    "start": 11.896,
+    "end": 12.176,
+    "word": "más",
+    "probability": 0.99
+  },
+  {
+    "start": 12.176,
+    "end": 12.536,
+    "word": "largo",
+    "probability": 0.976591299637652
+  },
+  {
+    "start": 12.536,
+    "end": 12.817,
+    "word": "para",
+    "probability": 0.9449043899686435
+  },
+  {
+    "start": 12.817,
+    "end": 13.498,
+    "word": "contarles",
+    "probability": 0.99
+  },
+  {
+    "start": 13.498,
+    "end": 13.858,
+    "word": "más",
+    "probability": 0.9523391573417036
+  },
+  {
+    "start": 13.858,
+    "end": 14.579,
+    "word": "sobre",
+    "probability": 0.99
+  },
+  {
+    "start": 14.579,
+    "end": 14.96,
+    "word": "Tom",
+    "probability": 0.9653038301627803
+  },
+  {
+    "start": 14.96,
+    "end": 15.54,
+    "word": "Kitten",
+    "probability": 0.8786455697555536
+  }
+]

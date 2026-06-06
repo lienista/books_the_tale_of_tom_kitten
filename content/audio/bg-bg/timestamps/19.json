@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.42,
+    "word": "Тогава",
+    "probability": 0.99
+  },
+  {
+    "start": 0.42,
+    "end": 0.801,
+    "word": "той",
+    "probability": 0.99
+  },
+  {
+    "start": 0.801,
+    "end": 1.862,
+    "word": "Jemima",
+    "probability": 0.8413863721736455
+  },
+  {
+    "start": 1.862,
+    "end": 1.962,
+    "word": "и",
+    "probability": 0.7805837436588036
+  },
+  {
+    "start": 1.962,
+    "end": 2.483,
+    "word": "Rebeccah",
+    "probability": 0.7164131017607441
+  },
+  {
+    "start": 2.483,
+    "end": 3.644,
+    "word": "PuddleDuck",
+    "probability": 0.8276580034605435
+  },
+  {
+    "start": 3.644,
+    "end": 4.124,
+    "word": "тръгнаха",
+    "probability": 0.9294766568791083
+  },
+  {
+    "start": 4.124,
+    "end": 4.284,
+    "word": "по",
+    "probability": 0.99
+  },
+  {
+    "start": 4.284,
+    "end": 4.665,
+    "word": "пътя",
+    "probability": 0.9666617044105761
+  },
+  {
+    "start": 4.665,
+    "end": 5.306,
+    "word": "държейки",
+    "probability": 0.9356258632737511
+  },
+  {
+    "start": 5.306,
+    "end": 5.746,
+    "word": "ритъма",
+    "probability": 0.8364719357995324
+  },
+  {
+    "start": 5.746,
+    "end": 6.487,
+    "word": "потпат",
+    "probability": 0.9468354042864814
+  },
+  {
+    "start": 6.487,
+    "end": 7.228,
+    "word": "падълпат",
+    "probability": 0.8947330907125401
+  },
+  {
+    "start": 7.228,
+    "end": 7.748,
+    "word": "потпат",
+    "probability": 0.8419812854951808
+  },
+  {
+    "start": 7.748,
+    "end": 8.409,
+    "word": "клатушпат",
+    "probability": 0.9381291198728229
+  }
+]

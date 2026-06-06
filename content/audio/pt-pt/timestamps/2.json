@@ -1,0 +1,188 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "Um",
+    "probability": 0.9818145821697309
+  },
+  {
+    "start": 0.16,
+    "end": 0.501,
+    "word": "dia",
+    "probability": 0.9815571117348576
+  },
+  {
+    "start": 0.501,
+    "end": 0.701,
+    "word": "a",
+    "probability": 0.9048016672114765
+  },
+  {
+    "start": 0.701,
+    "end": 1.022,
+    "word": "sua",
+    "probability": 0.9182479589309445
+  },
+  {
+    "start": 1.022,
+    "end": 1.883,
+    "word": "mãeDona",
+    "probability": 0.9034802242818935
+  },
+  {
+    "start": 1.883,
+    "end": 2.424,
+    "word": "Tabitha",
+    "probability": 0.9177691160170215
+  },
+  {
+    "start": 2.424,
+    "end": 4.127,
+    "word": "Twitchitestava",
+    "probability": 0.9343467457899227
+  },
+  {
+    "start": 4.127,
+    "end": 4.247,
+    "word": "à",
+    "probability": 0.9139499121045501
+  },
+  {
+    "start": 4.247,
+    "end": 4.668,
+    "word": "espera",
+    "probability": 0.9312469125996553
+  },
+  {
+    "start": 4.668,
+    "end": 4.828,
+    "word": "de",
+    "probability": 0.9241754993758338
+  },
+  {
+    "start": 4.828,
+    "end": 5.329,
+    "word": "amigos",
+    "probability": 0.9365783453329763
+  },
+  {
+    "start": 5.329,
+    "end": 5.669,
+    "word": "para",
+    "probability": 0.99
+  },
+  {
+    "start": 5.669,
+    "end": 5.769,
+    "word": "o",
+    "probability": 0.7578443092673066
+  },
+  {
+    "start": 5.769,
+    "end": 6.03,
+    "word": "chá",
+    "probability": 0.9055405171791816
+  },
+  {
+    "start": 6.03,
+    "end": 7.332,
+    "word": "Ela",
+    "probability": 0.9791367313683933
+  },
+  {
+    "start": 7.332,
+    "end": 7.793,
+    "word": "trouxe",
+    "probability": 0.9143949466104451
+  },
+  {
+    "start": 7.793,
+    "end": 7.913,
+    "word": "os",
+    "probability": 0.8839574415661567
+  },
+  {
+    "start": 7.913,
+    "end": 8.574,
+    "word": "gatinhos",
+    "probability": 0.9057112930128767
+  },
+  {
+    "start": 8.574,
+    "end": 8.915,
+    "word": "para",
+    "probability": 0.9482713561841568
+  },
+  {
+    "start": 8.915,
+    "end": 9.315,
+    "word": "dentro",
+    "probability": 0.9656615249650295
+  },
+  {
+    "start": 9.315,
+    "end": 9.596,
+    "word": "para",
+    "probability": 0.9551744951426515
+  },
+  {
+    "start": 9.596,
+    "end": 9.776,
+    "word": "os",
+    "probability": 0.9059542322258515
+  },
+  {
+    "start": 9.776,
+    "end": 10.317,
+    "word": "lavar",
+    "probability": 0.9711769605543479
+  },
+  {
+    "start": 10.317,
+    "end": 10.417,
+    "word": "e",
+    "probability": 0.9630914551527315
+  },
+  {
+    "start": 10.417,
+    "end": 10.998,
+    "word": "vestir",
+    "probability": 0.9853363488812605
+  },
+  {
+    "start": 10.998,
+    "end": 11.359,
+    "word": "antes",
+    "probability": 0.99
+  },
+  {
+    "start": 11.359,
+    "end": 11.479,
+    "word": "que",
+    "probability": 0.9524406338865493
+  },
+  {
+    "start": 11.479,
+    "end": 11.579,
+    "word": "os",
+    "probability": 0.99
+  },
+  {
+    "start": 11.579,
+    "end": 11.819,
+    "word": "seus",
+    "probability": 0.9559548743363466
+  },
+  {
+    "start": 11.819,
+    "end": 12.621,
+    "word": "convidados",
+    "probability": 0.99
+  },
+  {
+    "start": 12.621,
+    "end": 13.723,
+    "word": "chegassem",
+    "probability": 0.99
+  }
+]

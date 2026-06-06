@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.341,
+    "word": "Luego",
+    "probability": 0.9804671174382162
+  },
+  {
+    "start": 0.341,
+    "end": 0.542,
+    "word": "les",
+    "probability": 0.9898751807031654
+  },
+  {
+    "start": 0.542,
+    "end": 1.003,
+    "word": "cepilló",
+    "probability": 0.878997260874843
+  },
+  {
+    "start": 1.003,
+    "end": 1.123,
+    "word": "el",
+    "probability": 0.99
+  },
+  {
+    "start": 1.123,
+    "end": 1.605,
+    "word": "pelaje",
+    "probability": 0.99
+  },
+  {
+    "start": 1.605,
+    "end": 2.187,
+    "word": "este",
+    "probability": 0.99
+  },
+  {
+    "start": 2.187,
+    "end": 2.267,
+    "word": "es",
+    "probability": 0.5295110785846591
+  },
+  {
+    "start": 2.267,
+    "end": 2.748,
+    "word": "Mittens",
+    "probability": 0.9414289336006817
+  }
+]

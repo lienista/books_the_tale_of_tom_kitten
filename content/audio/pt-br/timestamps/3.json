@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.601,
+    "word": "Primeiro",
+    "probability": 0.99
+  },
+  {
+    "start": 0.601,
+    "end": 1.624,
+    "word": "esfregoulhes",
+    "probability": 0.9481205314396344
+  },
+  {
+    "start": 1.624,
+    "end": 1.804,
+    "word": "as",
+    "probability": 0.9440301050743228
+  },
+  {
+    "start": 1.804,
+    "end": 2.326,
+    "word": "caras",
+    "probability": 0.99
+  },
+  {
+    "start": 2.326,
+    "end": 3.208,
+    "word": "esta",
+    "probability": 0.9836889775823764
+  },
+  {
+    "start": 3.208,
+    "end": 3.388,
+    "word": "é",
+    "probability": 0.99
+  },
+  {
+    "start": 3.388,
+    "end": 3.468,
+    "word": "a",
+    "probability": 0.9642784986976715
+  },
+  {
+    "start": 3.468,
+    "end": 3.89,
+    "word": "Moppet",
+    "probability": 0.8875231943171921
+  }
+]

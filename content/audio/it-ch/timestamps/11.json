@@ -1,0 +1,212 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.28,
+    "word": "Tom",
+    "probability": 0.8034726982249626
+  },
+  {
+    "start": 0.28,
+    "end": 0.941,
+    "word": "Kitten",
+    "probability": 0.8938901411629049
+  },
+  {
+    "start": 0.941,
+    "end": 1.261,
+    "word": "non",
+    "probability": 0.9420845582279394
+  },
+  {
+    "start": 1.261,
+    "end": 1.701,
+    "word": "riusciva",
+    "probability": 0.9597770962710857
+  },
+  {
+    "start": 1.701,
+    "end": 1.901,
+    "word": "a",
+    "probability": 0.7895122832460635
+  },
+  {
+    "start": 1.901,
+    "end": 3.202,
+    "word": "saltare",
+    "probability": 0.8077720261843931
+  },
+  {
+    "start": 3.202,
+    "end": 3.843,
+    "word": "affatto",
+    "probability": 0.977675068133895
+  },
+  {
+    "start": 3.843,
+    "end": 4.223,
+    "word": "mentre",
+    "probability": 0.954431289584842
+  },
+  {
+    "start": 4.223,
+    "end": 4.743,
+    "word": "cercava",
+    "probability": 0.99
+  },
+  {
+    "start": 4.743,
+    "end": 4.903,
+    "word": "di",
+    "probability": 0.8870678582905163
+  },
+  {
+    "start": 4.903,
+    "end": 5.544,
+    "word": "camminare",
+    "probability": 0.99
+  },
+  {
+    "start": 5.544,
+    "end": 5.864,
+    "word": "sulle",
+    "probability": 0.9018262619414795
+  },
+  {
+    "start": 5.864,
+    "end": 6.304,
+    "word": "zampe",
+    "probability": 0.99
+  },
+  {
+    "start": 6.304,
+    "end": 7.025,
+    "word": "posteriori",
+    "probability": 0.9868091044986809
+  },
+  {
+    "start": 7.025,
+    "end": 7.205,
+    "word": "con",
+    "probability": 0.9409943114011649
+  },
+  {
+    "start": 7.205,
+    "end": 7.305,
+    "word": "i",
+    "probability": 0.9603967819473034
+  },
+  {
+    "start": 7.305,
+    "end": 8.085,
+    "word": "pantaloni",
+    "probability": 0.9868950392351408
+  },
+  {
+    "start": 8.085,
+    "end": 8.866,
+    "word": "Si",
+    "probability": 0.99
+  },
+  {
+    "start": 8.866,
+    "end": 9.446,
+    "word": "arrampicò",
+    "probability": 0.99
+  },
+  {
+    "start": 9.446,
+    "end": 9.807,
+    "word": "sulle",
+    "probability": 0.9883311735350704
+  },
+  {
+    "start": 9.807,
+    "end": 10.207,
+    "word": "rocce",
+    "probability": 0.99
+  },
+  {
+    "start": 10.207,
+    "end": 10.527,
+    "word": "poco",
+    "probability": 0.9721850369414222
+  },
+  {
+    "start": 10.527,
+    "end": 10.587,
+    "word": "a",
+    "probability": 0.9561350525686643
+  },
+  {
+    "start": 10.587,
+    "end": 11.228,
+    "word": "poco",
+    "probability": 0.908768833415142
+  },
+  {
+    "start": 11.228,
+    "end": 12.368,
+    "word": "schiacciando",
+    "probability": 0.9705827028231298
+  },
+  {
+    "start": 12.368,
+    "end": 12.528,
+    "word": "le",
+    "probability": 0.9640784474750206
+  },
+  {
+    "start": 12.528,
+    "end": 13.029,
+    "word": "felci",
+    "probability": 0.9829315647589296
+  },
+  {
+    "start": 13.029,
+    "end": 13.089,
+    "word": "e",
+    "probability": 0.8641106492979843
+  },
+  {
+    "start": 13.089,
+    "end": 13.629,
+    "word": "perdendo",
+    "probability": 0.9826865493383189
+  },
+  {
+    "start": 13.629,
+    "end": 14.35,
+    "word": "bottoni",
+    "probability": 0.99
+  },
+  {
+    "start": 14.35,
+    "end": 14.81,
+    "word": "a",
+    "probability": 0.9860687933094041
+  },
+  {
+    "start": 14.81,
+    "end": 15.37,
+    "word": "destra",
+    "probability": 0.97837461061649
+  },
+  {
+    "start": 15.37,
+    "end": 15.53,
+    "word": "e",
+    "probability": 0.9856457611809283
+  },
+  {
+    "start": 15.53,
+    "end": 15.63,
+    "word": "a",
+    "probability": 0.9882912295831613
+  },
+  {
+    "start": 15.63,
+    "end": 16.291,
+    "word": "sinistra",
+    "probability": 0.9799146509974417
+  }
+]

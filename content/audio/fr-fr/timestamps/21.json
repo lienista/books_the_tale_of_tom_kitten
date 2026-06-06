@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.2,
+    "word": "Elle",
+    "probability": 0.5701994922555085
+  },
+  {
+    "start": 0.2,
+    "end": 0.36,
+    "word": "les",
+    "probability": 0.7384753201488226
+  },
+  {
+    "start": 0.36,
+    "end": 0.721,
+    "word": "tira",
+    "probability": 0.9536094194327566
+  },
+  {
+    "start": 0.721,
+    "end": 0.961,
+    "word": "du",
+    "probability": 0.9746134722608543
+  },
+  {
+    "start": 0.961,
+    "end": 1.282,
+    "word": "mur",
+    "probability": 0.99
+  },
+  {
+    "start": 1.282,
+    "end": 1.802,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 1.802,
+    "end": 2.283,
+    "word": "pressa",
+    "probability": 0.9877920180654559
+  },
+  {
+    "start": 2.283,
+    "end": 2.643,
+    "word": "et",
+    "probability": 0.99
+  },
+  {
+    "start": 2.643,
+    "end": 2.844,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 2.844,
+    "end": 3.284,
+    "word": "ramena",
+    "probability": 0.99
+  },
+  {
+    "start": 3.284,
+    "end": 3.424,
+    "word": "à",
+    "probability": 0.9895579806513515
+  },
+  {
+    "start": 3.424,
+    "end": 3.564,
+    "word": "la",
+    "probability": 0.9849386106077761
+  },
+  {
+    "start": 3.564,
+    "end": 3.925,
+    "word": "maison",
+    "probability": 0.99
+  }
+]

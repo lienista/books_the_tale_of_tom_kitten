@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.2,
+    "word": "Hon",
+    "probability": 0.99
+  },
+  {
+    "start": 0.2,
+    "end": 0.681,
+    "word": "skickade",
+    "probability": 0.9747308016264715
+  },
+  {
+    "start": 0.681,
+    "end": 0.881,
+    "word": "upp",
+    "probability": 0.9766576236049405
+  },
+  {
+    "start": 0.881,
+    "end": 1.021,
+    "word": "dem",
+    "probability": 0.9448569751090037
+  },
+  {
+    "start": 1.021,
+    "end": 1.162,
+    "word": "på",
+    "probability": 0.9851060736824232
+  },
+  {
+    "start": 1.162,
+    "end": 1.923,
+    "word": "övervåningen",
+    "probability": 0.9840339916377275
+  },
+  {
+    "start": 1.923,
+    "end": 2.864,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 2.864,
+    "end": 3.024,
+    "word": "jag",
+    "probability": 0.9585707266347783
+  },
+  {
+    "start": 3.024,
+    "end": 3.144,
+    "word": "är",
+    "probability": 0.9819366351748059
+  },
+  {
+    "start": 3.144,
+    "end": 3.625,
+    "word": "ledsen",
+    "probability": 0.9863139033529769
+  },
+  {
+    "start": 3.625,
+    "end": 3.805,
+    "word": "att",
+    "probability": 0.99
+  },
+  {
+    "start": 3.805,
+    "end": 4.146,
+    "word": "säga",
+    "probability": 0.99
+  },
+  {
+    "start": 4.146,
+    "end": 4.366,
+    "word": "att",
+    "probability": 0.9882848147274711
+  },
+  {
+    "start": 4.366,
+    "end": 4.506,
+    "word": "hon",
+    "probability": 0.9397664222552309
+  },
+  {
+    "start": 4.506,
+    "end": 5.047,
+    "word": "berättade",
+    "probability": 0.9815710775872546
+  },
+  {
+    "start": 5.047,
+    "end": 5.207,
+    "word": "för",
+    "probability": 0.9442712216250748
+  },
+  {
+    "start": 5.207,
+    "end": 5.448,
+    "word": "sina",
+    "probability": 0.9822663748287038
+  },
+  {
+    "start": 5.448,
+    "end": 5.828,
+    "word": "vänner",
+    "probability": 0.9812918456396748
+  },
+  {
+    "start": 5.828,
+    "end": 6.669,
+    "word": "att",
+    "probability": 0.99
+  },
+  {
+    "start": 6.669,
+    "end": 6.77,
+    "word": "de",
+    "probability": 0.9410183584682704
+  },
+  {
+    "start": 6.77,
+    "end": 7.17,
+    "word": "låg",
+    "probability": 0.99
+  },
+  {
+    "start": 7.17,
+    "end": 7.27,
+    "word": "i",
+    "probability": 0.9117347074475284
+  },
+  {
+    "start": 7.27,
+    "end": 7.751,
+    "word": "sängen",
+    "probability": 0.9788716241213091
+  },
+  {
+    "start": 7.751,
+    "end": 7.951,
+    "word": "med",
+    "probability": 0.99
+  },
+  {
+    "start": 7.951,
+    "end": 8.071,
+    "word": "en",
+    "probability": 0.9876512221061334
+  },
+  {
+    "start": 8.071,
+    "end": 8.873,
+    "word": "förkylning",
+    "probability": 0.9760942105449533
+  },
+  {
+    "start": 8.873,
+    "end": 9.994,
+    "word": "vilket",
+    "probability": 0.99
+  },
+  {
+    "start": 9.994,
+    "end": 10.475,
+    "word": "inte",
+    "probability": 0.99
+  },
+  {
+    "start": 10.475,
+    "end": 10.675,
+    "word": "var",
+    "probability": 0.99
+  },
+  {
+    "start": 10.675,
+    "end": 11.016,
+    "word": "sant",
+    "probability": 0.99
+  }
+]

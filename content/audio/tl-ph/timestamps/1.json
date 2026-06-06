@@ -1,0 +1,200 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.34,
+    "word": "Noong",
+    "probability": 0.9740128019029911
+  },
+  {
+    "start": 0.34,
+    "end": 0.821,
+    "word": "unang",
+    "probability": 0.9779011138072096
+  },
+  {
+    "start": 0.821,
+    "end": 1.461,
+    "word": "panahon",
+    "probability": 0.99
+  },
+  {
+    "start": 1.461,
+    "end": 2.141,
+    "word": "may",
+    "probability": 0.9765951517320605
+  },
+  {
+    "start": 2.141,
+    "end": 2.602,
+    "word": "tatlong",
+    "probability": 0.99
+  },
+  {
+    "start": 2.602,
+    "end": 3.302,
+    "word": "maliliit",
+    "probability": 0.9655638933894721
+  },
+  {
+    "start": 3.302,
+    "end": 3.422,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 3.422,
+    "end": 4.063,
+    "word": "kuting",
+    "probability": 0.99
+  },
+  {
+    "start": 4.063,
+    "end": 4.583,
+    "word": "na",
+    "probability": 0.9820156060436825
+  },
+  {
+    "start": 4.583,
+    "end": 5.444,
+    "word": "nagngangalang",
+    "probability": 0.8883279391884563
+  },
+  {
+    "start": 5.444,
+    "end": 6.244,
+    "word": "Mittens",
+    "probability": 0.938115123947121
+  },
+  {
+    "start": 6.244,
+    "end": 7.005,
+    "word": "Tom",
+    "probability": 0.9796888041092375
+  },
+  {
+    "start": 7.005,
+    "end": 7.665,
+    "word": "Kitten",
+    "probability": 0.9532620838372116
+  },
+  {
+    "start": 7.665,
+    "end": 8.386,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 8.386,
+    "end": 9.066,
+    "word": "Moppet",
+    "probability": 0.9247235609818099
+  },
+  {
+    "start": 9.066,
+    "end": 10.487,
+    "word": "Mayroon",
+    "probability": 0.9774575337631671
+  },
+  {
+    "start": 10.487,
+    "end": 10.887,
+    "word": "silang",
+    "probability": 0.99
+  },
+  {
+    "start": 10.887,
+    "end": 11.588,
+    "word": "magagandang",
+    "probability": 0.99
+  },
+  {
+    "start": 11.588,
+    "end": 12.288,
+    "word": "balahibo",
+    "probability": 0.9822298674312435
+  },
+  {
+    "start": 12.288,
+    "end": 13.069,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 13.069,
+    "end": 13.689,
+    "word": "ginugol",
+    "probability": 0.9663875394509647
+  },
+  {
+    "start": 13.689,
+    "end": 13.869,
+    "word": "ang",
+    "probability": 0.7754468043933436
+  },
+  {
+    "start": 13.869,
+    "end": 14.37,
+    "word": "kanilang",
+    "probability": 0.9650820852358649
+  },
+  {
+    "start": 14.37,
+    "end": 14.67,
+    "word": "mga",
+    "probability": 0.9262018394280865
+  },
+  {
+    "start": 14.67,
+    "end": 15.27,
+    "word": "araw",
+    "probability": 0.9686374262942461
+  },
+  {
+    "start": 15.27,
+    "end": 15.831,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 15.831,
+    "end": 16.791,
+    "word": "paggulonggulong",
+    "probability": 0.95502645420622
+  },
+  {
+    "start": 16.791,
+    "end": 16.991,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 16.991,
+    "end": 17.572,
+    "word": "beranda",
+    "probability": 0.9791261280813736
+  },
+  {
+    "start": 17.572,
+    "end": 18.232,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 18.232,
+    "end": 19.013,
+    "word": "paglalaro",
+    "probability": 0.9403413669578503
+  },
+  {
+    "start": 19.013,
+    "end": 19.533,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 19.533,
+    "end": 19.793,
+    "word": "dumi",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.38,
+    "word": "Cuando",
+    "probability": 0.9718047634245325
+  },
+  {
+    "start": 0.38,
+    "end": 0.56,
+    "word": "los",
+    "probability": 0.9896574743095928
+  },
+  {
+    "start": 0.56,
+    "end": 0.841,
+    "word": "tres",
+    "probability": 0.9598185751790018
+  },
+  {
+    "start": 0.841,
+    "end": 1.441,
+    "word": "gatitos",
+    "probability": 0.99
+  },
+  {
+    "start": 1.441,
+    "end": 2.142,
+    "word": "estuvieron",
+    "probability": 0.99
+  },
+  {
+    "start": 2.142,
+    "end": 2.742,
+    "word": "listos",
+    "probability": 0.99
+  },
+  {
+    "start": 2.742,
+    "end": 3.322,
+    "word": "la",
+    "probability": 0.9887198223717633
+  },
+  {
+    "start": 3.322,
+    "end": 3.763,
+    "word": "señora",
+    "probability": 0.9827978892859526
+  },
+  {
+    "start": 3.763,
+    "end": 4.243,
+    "word": "Tabitha",
+    "probability": 0.8972758879460786
+  },
+  {
+    "start": 4.243,
+    "end": 4.784,
+    "word": "cometió",
+    "probability": 0.9637647639161
+  },
+  {
+    "start": 4.784,
+    "end": 4.924,
+    "word": "un",
+    "probability": 0.99
+  },
+  {
+    "start": 4.924,
+    "end": 5.264,
+    "word": "error",
+    "probability": 0.9874663741423416
+  },
+  {
+    "start": 5.264,
+    "end": 5.764,
+    "word": "y",
+    "probability": 0.9794305343531069
+  },
+  {
+    "start": 5.764,
+    "end": 5.964,
+    "word": "los",
+    "probability": 0.9588262079990184
+  },
+  {
+    "start": 5.964,
+    "end": 6.425,
+    "word": "envió",
+    "probability": 0.9668264716763808
+  },
+  {
+    "start": 6.425,
+    "end": 6.565,
+    "word": "al",
+    "probability": 0.99
+  },
+  {
+    "start": 6.565,
+    "end": 7.065,
+    "word": "jardín",
+    "probability": 0.99
+  },
+  {
+    "start": 7.065,
+    "end": 7.866,
+    "word": "mientras",
+    "probability": 0.9875859446543611
+  },
+  {
+    "start": 7.866,
+    "end": 8.166,
+    "word": "ella",
+    "probability": 0.9731968366478366
+  },
+  {
+    "start": 8.166,
+    "end": 8.787,
+    "word": "preparaba",
+    "probability": 0.977431131089738
+  },
+  {
+    "start": 8.787,
+    "end": 9.587,
+    "word": "tostadas",
+    "probability": 0.9736047635947715
+  },
+  {
+    "start": 9.587,
+    "end": 10.268,
+    "word": "calientes",
+    "probability": 0.99
+  },
+  {
+    "start": 10.268,
+    "end": 10.508,
+    "word": "con",
+    "probability": 0.9693702580461244
+  },
+  {
+    "start": 10.508,
+    "end": 11.369,
+    "word": "mantequilla",
+    "probability": 0.9821625171165217
+  },
+  {
+    "start": 11.369,
+    "end": 13.03,
+    "word": "Ahora",
+    "probability": 0.99
+  },
+  {
+    "start": 13.03,
+    "end": 13.79,
+    "word": "mantengan",
+    "probability": 0.99
+  },
+  {
+    "start": 13.79,
+    "end": 13.95,
+    "word": "su",
+    "probability": 0.9546149594470981
+  },
+  {
+    "start": 13.95,
+    "end": 14.331,
+    "word": "ropa",
+    "probability": 0.99
+  },
+  {
+    "start": 14.331,
+    "end": 14.811,
+    "word": "limpia",
+    "probability": 0.9615399458430071
+  },
+  {
+    "start": 14.811,
+    "end": 15.392,
+    "word": "niños",
+    "probability": 0.9633004329552539
+  },
+  {
+    "start": 15.392,
+    "end": 16.292,
+    "word": "Caminen",
+    "probability": 0.9839877236456034
+  },
+  {
+    "start": 16.292,
+    "end": 16.612,
+    "word": "sobre",
+    "probability": 0.9758518249827236
+  },
+  {
+    "start": 16.612,
+    "end": 16.833,
+    "word": "sus",
+    "probability": 0.99
+  },
+  {
+    "start": 16.833,
+    "end": 17.313,
+    "word": "patas",
+    "probability": 0.99
+  },
+  {
+    "start": 17.313,
+    "end": 18.013,
+    "word": "traseras",
+    "probability": 0.99
+  },
+  {
+    "start": 18.013,
+    "end": 19.334,
+    "word": "Aléjense",
+    "probability": 0.9842374352682073
+  },
+  {
+    "start": 19.334,
+    "end": 19.555,
+    "word": "del",
+    "probability": 0.9755912457532525
+  },
+  {
+    "start": 19.555,
+    "end": 19.975,
+    "word": "pozo",
+    "probability": 0.980743671205331
+  },
+  {
+    "start": 19.975,
+    "end": 20.115,
+    "word": "de",
+    "probability": 0.9899833597639202
+  },
+  {
+    "start": 20.115,
+    "end": 20.796,
+    "word": "cenizas",
+    "probability": 0.99
+  },
+  {
+    "start": 20.796,
+    "end": 21.676,
+    "word": "embarrado",
+    "probability": 0.989876966912146
+  },
+  {
+    "start": 21.676,
+    "end": 22.777,
+    "word": "Sally",
+    "probability": 0.9752387698495965
+  },
+  {
+    "start": 22.777,
+    "end": 23.758,
+    "word": "HennyPenny",
+    "probability": 0.9275602146764014
+  },
+  {
+    "start": 23.758,
+    "end": 24.658,
+    "word": "el",
+    "probability": 0.981462086200347
+  },
+  {
+    "start": 24.658,
+    "end": 25.219,
+    "word": "corral",
+    "probability": 0.9623854122950287
+  },
+  {
+    "start": 25.219,
+    "end": 25.419,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 25.419,
+    "end": 26.1,
+    "word": "cerdos",
+    "probability": 0.99
+  },
+  {
+    "start": 26.1,
+    "end": 26.34,
+    "word": "y",
+    "probability": 0.9806141691103539
+  },
+  {
+    "start": 26.34,
+    "end": 26.86,
+    "word": "esos",
+    "probability": 0.99
+  },
+  {
+    "start": 26.86,
+    "end": 27.841,
+    "word": "PuddleDucks",
+    "probability": 0.8807858294543891
+  }
+]

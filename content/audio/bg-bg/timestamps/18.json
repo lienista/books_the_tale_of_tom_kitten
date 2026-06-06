@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.14,
+    "word": "Но",
+    "probability": 0.99
+  },
+  {
+    "start": 0.14,
+    "end": 0.441,
+    "word": "той",
+    "probability": 0.99
+  },
+  {
+    "start": 0.441,
+    "end": 0.601,
+    "word": "ги",
+    "probability": 0.9871739932262555
+  },
+  {
+    "start": 0.601,
+    "end": 1.102,
+    "word": "облече",
+    "probability": 0.9763701348187422
+  },
+  {
+    "start": 1.102,
+    "end": 1.422,
+    "word": "сам",
+    "probability": 0.975165365555924
+  },
+  {
+    "start": 1.422,
+    "end": 2.263,
+    "word": "Те",
+    "probability": 0.9855889154147617
+  },
+  {
+    "start": 2.263,
+    "end": 2.423,
+    "word": "му",
+    "probability": 0.99
+  },
+  {
+    "start": 2.423,
+    "end": 2.964,
+    "word": "стояха",
+    "probability": 0.99
+  },
+  {
+    "start": 2.964,
+    "end": 3.224,
+    "word": "дори",
+    "probability": 0.963384326642661
+  },
+  {
+    "start": 3.224,
+    "end": 3.745,
+    "word": "позле",
+    "probability": 0.99
+  },
+  {
+    "start": 3.745,
+    "end": 4.767,
+    "word": "отколкото",
+    "probability": 0.9787305753010653
+  },
+  {
+    "start": 4.767,
+    "end": 4.907,
+    "word": "на",
+    "probability": 0.9777363171862073
+  },
+  {
+    "start": 4.907,
+    "end": 5.187,
+    "word": "Tom",
+    "probability": 0.8297728287937024
+  },
+  {
+    "start": 5.187,
+    "end": 5.628,
+    "word": "Kitten",
+    "probability": 0.7125420431532891
+  },
+  {
+    "start": 5.628,
+    "end": 7.07,
+    "word": "Прекрасна",
+    "probability": 0.9728485798261113
+  },
+  {
+    "start": 7.07,
+    "end": 7.611,
+    "word": "сутрин",
+    "probability": 0.9695010638440285
+  },
+  {
+    "start": 7.611,
+    "end": 7.651,
+    "word": "е",
+    "probability": 0.4991609534881816
+  },
+  {
+    "start": 7.651,
+    "end": 8.512,
+    "word": "каза",
+    "probability": 0.964818009683317
+  },
+  {
+    "start": 8.512,
+    "end": 9.093,
+    "word": "господин",
+    "probability": 0.9507961352389611
+  },
+  {
+    "start": 9.093,
+    "end": 9.473,
+    "word": "Drake",
+    "probability": 0.7630308412743834
+  },
+  {
+    "start": 9.473,
+    "end": 10.034,
+    "word": "PuddleDuck",
+    "probability": 0.6745364814659719
+  }
+]

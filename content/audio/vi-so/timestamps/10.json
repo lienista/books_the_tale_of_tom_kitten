@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.221,
+    "word": "Chúng",
+    "probability": 0.9571691778119967
+  },
+  {
+    "start": 0.221,
+    "end": 0.441,
+    "word": "xoay",
+    "probability": 0.9140307752716258
+  },
+  {
+    "start": 0.441,
+    "end": 0.662,
+    "word": "ngược",
+    "probability": 0.9374535886765247
+  },
+  {
+    "start": 0.662,
+    "end": 0.862,
+    "word": "váy",
+    "probability": 0.907366657228623
+  },
+  {
+    "start": 0.862,
+    "end": 1.003,
+    "word": "ra",
+    "probability": 0.9254345484857663
+  },
+  {
+    "start": 1.003,
+    "end": 1.304,
+    "word": "sau",
+    "probability": 0.9672879095442654
+  },
+  {
+    "start": 1.304,
+    "end": 1.484,
+    "word": "để",
+    "probability": 0.846373521873313
+  },
+  {
+    "start": 1.484,
+    "end": 1.605,
+    "word": "có",
+    "probability": 0.9535632463844345
+  },
+  {
+    "start": 1.605,
+    "end": 1.765,
+    "word": "thể",
+    "probability": 0.9759333567203954
+  },
+  {
+    "start": 1.765,
+    "end": 1.966,
+    "word": "di",
+    "probability": 0.9448546071004374
+  },
+  {
+    "start": 1.966,
+    "end": 2.226,
+    "word": "chuyển",
+    "probability": 0.98069307129401
+  },
+  {
+    "start": 2.226,
+    "end": 2.447,
+    "word": "dễ",
+    "probability": 0.99
+  },
+  {
+    "start": 2.447,
+    "end": 2.688,
+    "word": "dàng",
+    "probability": 0.9584323691216675
+  },
+  {
+    "start": 2.688,
+    "end": 2.908,
+    "word": "hơn",
+    "probability": 0.99
+  },
+  {
+    "start": 2.908,
+    "end": 3.069,
+    "word": "và",
+    "probability": 0.99
+  },
+  {
+    "start": 3.069,
+    "end": 3.269,
+    "word": "nhảy",
+    "probability": 0.9472789663946868
+  },
+  {
+    "start": 3.269,
+    "end": 3.49,
+    "word": "lên",
+    "probability": 0.99
+  },
+  {
+    "start": 3.49,
+    "end": 4.814,
+    "word": "chiếc",
+    "probability": 0.99
+  },
+  {
+    "start": 4.814,
+    "end": 4.994,
+    "word": "cổ",
+    "probability": 0.9736270365839462
+  },
+  {
+    "start": 4.994,
+    "end": 5.175,
+    "word": "áo",
+    "probability": 0.9760813236028264
+  },
+  {
+    "start": 5.175,
+    "end": 5.335,
+    "word": "ren",
+    "probability": 0.8594439715853871
+  },
+  {
+    "start": 5.335,
+    "end": 5.636,
+    "word": "trắng",
+    "probability": 0.9708055108124622
+  },
+  {
+    "start": 5.636,
+    "end": 5.817,
+    "word": "của",
+    "probability": 0.9544892648187902
+  },
+  {
+    "start": 5.817,
+    "end": 6.158,
+    "word": "Moppet",
+    "probability": 0.7484154790542933
+  },
+  {
+    "start": 6.158,
+    "end": 6.418,
+    "word": "rơi",
+    "probability": 0.9175529224308205
+  },
+  {
+    "start": 6.418,
+    "end": 6.659,
+    "word": "xuống",
+    "probability": 0.9508537308760755
+  },
+  {
+    "start": 6.659,
+    "end": 6.84,
+    "word": "đường",
+    "probability": 0.9677545047356885
+  }
+]

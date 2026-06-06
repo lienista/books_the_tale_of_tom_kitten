@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.581,
+    "word": "Zatímco",
+    "probability": 0.980256094679992
+  },
+  {
+    "start": 0.581,
+    "end": 0.741,
+    "word": "se",
+    "probability": 0.9627794421642366
+  },
+  {
+    "start": 0.741,
+    "end": 1.322,
+    "word": "snažily",
+    "probability": 0.9895941716672274
+  },
+  {
+    "start": 1.322,
+    "end": 2.323,
+    "word": "uslyšely",
+    "probability": 0.9762862735130706
+  },
+  {
+    "start": 2.323,
+    "end": 3.866,
+    "word": "pitpatpaddlepat",
+    "probability": 0.8770499323391906
+  },
+  {
+    "start": 3.866,
+    "end": 4.727,
+    "word": "Tři",
+    "probability": 0.9740262630052011
+  },
+  {
+    "start": 4.727,
+    "end": 5.548,
+    "word": "PuddleDucks",
+    "probability": 0.8186875928180223
+  },
+  {
+    "start": 5.548,
+    "end": 6.249,
+    "word": "pochodovaly",
+    "probability": 0.9814803812604614
+  },
+  {
+    "start": 6.249,
+    "end": 6.469,
+    "word": "po",
+    "probability": 0.9317860336877832
+  },
+  {
+    "start": 6.469,
+    "end": 6.87,
+    "word": "cestě",
+    "probability": 0.9839175016472768
+  },
+  {
+    "start": 6.87,
+    "end": 6.99,
+    "word": "v",
+    "probability": 0.99
+  },
+  {
+    "start": 6.99,
+    "end": 7.271,
+    "word": "jedné",
+    "probability": 0.9721431362009246
+  },
+  {
+    "start": 7.271,
+    "end": 7.731,
+    "word": "řadě",
+    "probability": 0.99
+  },
+  {
+    "start": 7.731,
+    "end": 8.653,
+    "word": "dělaly",
+    "probability": 0.9859509653787496
+  },
+  {
+    "start": 8.653,
+    "end": 8.993,
+    "word": "svůj",
+    "probability": 0.9528553744041536
+  },
+  {
+    "start": 8.993,
+    "end": 9.634,
+    "word": "rytmický",
+    "probability": 0.99
+  },
+  {
+    "start": 9.634,
+    "end": 10.515,
+    "word": "kolébavý",
+    "probability": 0.99
+  },
+  {
+    "start": 10.515,
+    "end": 12.658,
+    "word": "krokpitpatpaddlepat",
+    "probability": 0.910258240684465
+  },
+  {
+    "start": 12.658,
+    "end": 14.101,
+    "word": "pitpatwaddlepat",
+    "probability": 0.8457781299359359
+  }
+]

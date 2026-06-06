@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.42,
+    "word": "Luego",
+    "probability": 0.989494487918336
+  },
+  {
+    "start": 0.42,
+    "end": 1.101,
+    "word": "los",
+    "probability": 0.99
+  },
+  {
+    "start": 1.101,
+    "end": 1.361,
+    "word": "dos",
+    "probability": 0.9793984683958351
+  },
+  {
+    "start": 1.361,
+    "end": 1.782,
+    "word": "patos",
+    "probability": 0.9831118766776525
+  },
+  {
+    "start": 1.782,
+    "end": 2.202,
+    "word": "hembra",
+    "probability": 0.9761190255495764
+  },
+  {
+    "start": 2.202,
+    "end": 3.363,
+    "word": "Rebeccah",
+    "probability": 0.9810179526495673
+  },
+  {
+    "start": 3.363,
+    "end": 3.803,
+    "word": "y",
+    "probability": 0.9388163059858132
+  },
+  {
+    "start": 3.803,
+    "end": 4.404,
+    "word": "Jemima",
+    "probability": 0.9802738613483474
+  },
+  {
+    "start": 4.404,
+    "end": 5.305,
+    "word": "PuddleDuck",
+    "probability": 0.9295977666220119
+  },
+  {
+    "start": 5.305,
+    "end": 6.586,
+    "word": "recogieron",
+    "probability": 0.99
+  },
+  {
+    "start": 6.586,
+    "end": 6.746,
+    "word": "el",
+    "probability": 0.99
+  },
+  {
+    "start": 6.746,
+    "end": 7.346,
+    "word": "sombrero",
+    "probability": 0.99
+  },
+  {
+    "start": 7.346,
+    "end": 7.446,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 7.446,
+    "end": 7.587,
+    "word": "el",
+    "probability": 0.9756789338402984
+  },
+  {
+    "start": 7.587,
+    "end": 7.967,
+    "word": "cuello",
+    "probability": 0.9871525612699943
+  },
+  {
+    "start": 7.967,
+    "end": 8.067,
+    "word": "de",
+    "probability": 0.9731013203155484
+  },
+  {
+    "start": 8.067,
+    "end": 8.607,
+    "word": "encaje",
+    "probability": 0.9838617399042039
+  },
+  {
+    "start": 8.607,
+    "end": 8.888,
+    "word": "y",
+    "probability": 0.9528232931105495
+  },
+  {
+    "start": 8.888,
+    "end": 9.068,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 9.068,
+    "end": 9.288,
+    "word": "los",
+    "probability": 0.9800861427671809
+  },
+  {
+    "start": 9.288,
+    "end": 9.869,
+    "word": "pusieron",
+    "probability": 0.9701162214290544
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.26,
+    "word": "Tom",
+    "probability": 0.9766069633881415
+  },
+  {
+    "start": 0.26,
+    "end": 0.761,
+    "word": "Kitten",
+    "probability": 0.8063848025471543
+  },
+  {
+    "start": 0.761,
+    "end": 1.321,
+    "word": "nemohl",
+    "probability": 0.9791383301107865
+  },
+  {
+    "start": 1.321,
+    "end": 1.802,
+    "word": "vůbec",
+    "probability": 0.99
+  },
+  {
+    "start": 1.802,
+    "end": 2.603,
+    "word": "skákat",
+    "probability": 0.966595843380827
+  },
+  {
+    "start": 2.603,
+    "end": 3.063,
+    "word": "když",
+    "probability": 0.9681831499299431
+  },
+  {
+    "start": 3.063,
+    "end": 3.183,
+    "word": "se",
+    "probability": 0.9428517372583304
+  },
+  {
+    "start": 3.183,
+    "end": 3.664,
+    "word": "snažil",
+    "probability": 0.99
+  },
+  {
+    "start": 3.664,
+    "end": 4.144,
+    "word": "chodit",
+    "probability": 0.9882851972491628
+  },
+  {
+    "start": 4.144,
+    "end": 4.325,
+    "word": "po",
+    "probability": 0.99
+  },
+  {
+    "start": 4.325,
+    "end": 4.825,
+    "word": "zadních",
+    "probability": 0.98243197277088
+  },
+  {
+    "start": 4.825,
+    "end": 5.346,
+    "word": "nohách",
+    "probability": 0.9803466930509631
+  },
+  {
+    "start": 5.346,
+    "end": 5.466,
+    "word": "v",
+    "probability": 0.9122173366145248
+  },
+  {
+    "start": 5.466,
+    "end": 6.367,
+    "word": "kalhotách",
+    "probability": 0.9847742636341056
+  },
+  {
+    "start": 6.367,
+    "end": 7.348,
+    "word": "Snažil",
+    "probability": 0.99
+  },
+  {
+    "start": 7.348,
+    "end": 7.528,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 7.528,
+    "end": 8.189,
+    "word": "vyšplhat",
+    "probability": 0.99
+  },
+  {
+    "start": 8.189,
+    "end": 8.349,
+    "word": "po",
+    "probability": 0.99
+  },
+  {
+    "start": 8.349,
+    "end": 8.95,
+    "word": "kamenech",
+    "probability": 0.960080003541858
+  },
+  {
+    "start": 8.95,
+    "end": 9.49,
+    "word": "kousek",
+    "probability": 0.9781065350391766
+  },
+  {
+    "start": 9.49,
+    "end": 9.65,
+    "word": "po",
+    "probability": 0.99
+  },
+  {
+    "start": 9.65,
+    "end": 10.211,
+    "word": "kousku",
+    "probability": 0.9682499431656417
+  },
+  {
+    "start": 10.211,
+    "end": 11.212,
+    "word": "drtil",
+    "probability": 0.99
+  },
+  {
+    "start": 11.212,
+    "end": 11.933,
+    "word": "kapradiny",
+    "probability": 0.99
+  },
+  {
+    "start": 11.933,
+    "end": 12.493,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 12.493,
+    "end": 13.214,
+    "word": "ztrácel",
+    "probability": 0.99
+  },
+  {
+    "start": 13.214,
+    "end": 13.875,
+    "word": "knoflíky",
+    "probability": 0.9472291869382687
+  },
+  {
+    "start": 13.875,
+    "end": 14.255,
+    "word": "vlevo",
+    "probability": 0.9843555474986004
+  },
+  {
+    "start": 14.255,
+    "end": 14.676,
+    "word": "i",
+    "probability": 0.9849149923416378
+  },
+  {
+    "start": 14.676,
+    "end": 15.116,
+    "word": "vpravo",
+    "probability": 0.9562650000372925
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.18,
+    "word": "She",
+    "probability": 0.8089744183351121
+  },
+  {
+    "start": 0.18,
+    "end": 0.701,
+    "word": "menarik",
+    "probability": 0.9255218363906008
+  },
+  {
+    "start": 0.701,
+    "end": 1.022,
+    "word": "mereka",
+    "probability": 0.944706922437889
+  },
+  {
+    "start": 1.022,
+    "end": 1.463,
+    "word": "turun",
+    "probability": 0.9829535834927651
+  },
+  {
+    "start": 1.463,
+    "end": 1.723,
+    "word": "dari",
+    "probability": 0.99
+  },
+  {
+    "start": 1.723,
+    "end": 2.384,
+    "word": "tembok",
+    "probability": 0.9780690506590256
+  },
+  {
+    "start": 2.384,
+    "end": 3.106,
+    "word": "membawa",
+    "probability": 0.9740688777946611
+  },
+  {
+    "start": 3.106,
+    "end": 3.547,
+    "word": "mereka",
+    "probability": 0.9709811986097944
+  },
+  {
+    "start": 3.547,
+    "end": 4.368,
+    "word": "bergegas",
+    "probability": 0.980610794752566
+  },
+  {
+    "start": 4.368,
+    "end": 5.11,
+    "word": "dan",
+    "probability": 0.9883275727238149
+  },
+  {
+    "start": 5.11,
+    "end": 5.811,
+    "word": "membawa",
+    "probability": 0.9796996131817283
+  },
+  {
+    "start": 5.811,
+    "end": 6.212,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 6.212,
+    "end": 6.833,
+    "word": "kembali",
+    "probability": 0.9867029825616683
+  },
+  {
+    "start": 6.833,
+    "end": 7.013,
+    "word": "ke",
+    "probability": 0.9512822851419469
+  },
+  {
+    "start": 7.013,
+    "end": 7.294,
+    "word": "rumah",
+    "probability": 0.9836567309826006
+  }
+]

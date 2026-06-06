@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.962,
+    "word": "Pagkatapos",
+    "probability": 0.99
+  },
+  {
+    "start": 0.962,
+    "end": 1.123,
+    "word": "ay",
+    "probability": 0.932272680202326
+  },
+  {
+    "start": 1.123,
+    "end": 1.865,
+    "word": "sinipilyo",
+    "probability": 0.9684554043086856
+  },
+  {
+    "start": 1.865,
+    "end": 2.065,
+    "word": "niya",
+    "probability": 0.9427088685951948
+  },
+  {
+    "start": 2.065,
+    "end": 2.266,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 2.266,
+    "end": 2.727,
+    "word": "kanilang",
+    "probability": 0.99
+  },
+  {
+    "start": 2.727,
+    "end": 3.409,
+    "word": "balahibo",
+    "probability": 0.9758877260881773
+  },
+  {
+    "start": 3.409,
+    "end": 4.551,
+    "word": "ito",
+    "probability": 0.9881440522250008
+  },
+  {
+    "start": 4.551,
+    "end": 4.772,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 4.772,
+    "end": 5.033,
+    "word": "si",
+    "probability": 0.99
+  },
+  {
+    "start": 5.033,
+    "end": 5.574,
+    "word": "Mittens",
+    "probability": 0.9151070907821962
+  }
+]

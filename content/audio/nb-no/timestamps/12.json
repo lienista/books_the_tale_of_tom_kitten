@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.12,
+    "word": "Han",
+    "probability": 0.7549230918705531
+  },
+  {
+    "start": 0.12,
+    "end": 0.3,
+    "word": "var",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 0.48,
+    "word": "et",
+    "probability": 0.9685960263798938
+  },
+  {
+    "start": 0.48,
+    "end": 0.821,
+    "word": "rot",
+    "probability": 0.9162735226665923
+  },
+  {
+    "start": 0.821,
+    "end": 1.141,
+    "word": "da",
+    "probability": 0.99
+  },
+  {
+    "start": 1.141,
+    "end": 1.341,
+    "word": "han",
+    "probability": 0.6594556430380721
+  },
+  {
+    "start": 1.341,
+    "end": 1.742,
+    "word": "nådde",
+    "probability": 0.9006579303016464
+  },
+  {
+    "start": 1.742,
+    "end": 2.242,
+    "word": "toppen",
+    "probability": 0.8627634693456855
+  },
+  {
+    "start": 2.242,
+    "end": 2.382,
+    "word": "av",
+    "probability": 0.658294508192734
+  },
+  {
+    "start": 2.382,
+    "end": 2.782,
+    "word": "muren",
+    "probability": 0.8379648504495133
+  },
+  {
+    "start": 2.782,
+    "end": 3.423,
+    "word": "Moppet",
+    "probability": 0.9313014001814737
+  },
+  {
+    "start": 3.423,
+    "end": 3.663,
+    "word": "og",
+    "probability": 0.9523067940049369
+  },
+  {
+    "start": 3.663,
+    "end": 4.204,
+    "word": "Mittens",
+    "probability": 0.8984267735624951
+  },
+  {
+    "start": 4.204,
+    "end": 4.884,
+    "word": "prøvde",
+    "probability": 0.8927304558815701
+  },
+  {
+    "start": 4.884,
+    "end": 5.144,
+    "word": "å",
+    "probability": 0.9223005159592113
+  },
+  {
+    "start": 5.144,
+    "end": 5.645,
+    "word": "fikse",
+    "probability": 0.9583448907368992
+  },
+  {
+    "start": 5.645,
+    "end": 6.105,
+    "word": "klærne",
+    "probability": 0.9705469903091838
+  },
+  {
+    "start": 6.105,
+    "end": 6.506,
+    "word": "hans",
+    "probability": 0.8865088315817843
+  },
+  {
+    "start": 6.506,
+    "end": 6.806,
+    "word": "men",
+    "probability": 0.99
+  },
+  {
+    "start": 6.806,
+    "end": 7.226,
+    "word": "hatten",
+    "probability": 0.8034262100013424
+  },
+  {
+    "start": 7.226,
+    "end": 7.567,
+    "word": "hans",
+    "probability": 0.8392732133359119
+  },
+  {
+    "start": 7.567,
+    "end": 7.907,
+    "word": "falt",
+    "probability": 0.8960318228531031
+  },
+  {
+    "start": 7.907,
+    "end": 8.167,
+    "word": "av",
+    "probability": 0.8074838117129178
+  },
+  {
+    "start": 8.167,
+    "end": 8.487,
+    "word": "og",
+    "probability": 0.8574638913068466
+  },
+  {
+    "start": 8.487,
+    "end": 8.667,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 8.667,
+    "end": 9.188,
+    "word": "siste",
+    "probability": 0.969417305162269
+  },
+  {
+    "start": 9.188,
+    "end": 9.728,
+    "word": "knappene",
+    "probability": 0.8857636446287102
+  },
+  {
+    "start": 9.728,
+    "end": 10.089,
+    "word": "spratt",
+    "probability": 0.9191337432497831
+  }
+]

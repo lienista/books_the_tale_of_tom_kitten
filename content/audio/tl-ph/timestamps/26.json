@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.2,
+    "word": "And",
+    "probability": 0.8277371543704581
+  },
+  {
+    "start": 0.2,
+    "end": 0.521,
+    "word": "Mr",
+    "probability": 0.6278270879204744
+  },
+  {
+    "start": 0.521,
+    "end": 1.002,
+    "word": "Drake",
+    "probability": 0.9425983394770433
+  },
+  {
+    "start": 1.002,
+    "end": 1.823,
+    "word": "PuddleDuck",
+    "probability": 0.838187711015902
+  },
+  {
+    "start": 1.823,
+    "end": 2.484,
+    "word": "Jemima",
+    "probability": 0.8875224715145561
+  },
+  {
+    "start": 2.484,
+    "end": 2.745,
+    "word": "at",
+    "probability": 0.9707819066079667
+  },
+  {
+    "start": 2.745,
+    "end": 3.346,
+    "word": "Rebeccah",
+    "probability": 0.9237743094740509
+  },
+  {
+    "start": 3.346,
+    "end": 3.687,
+    "word": "ay",
+    "probability": 0.9358681516379984
+  },
+  {
+    "start": 3.687,
+    "end": 4.408,
+    "word": "naghahanap",
+    "probability": 0.9752306712182498
+  },
+  {
+    "start": 4.408,
+    "end": 4.568,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 4.568,
+    "end": 4.788,
+    "word": "mga",
+    "probability": 0.9441077652210478
+  },
+  {
+    "start": 4.788,
+    "end": 5.109,
+    "word": "ito",
+    "probability": 0.9890073229020887
+  },
+  {
+    "start": 5.109,
+    "end": 6.031,
+    "word": "simula",
+    "probability": 0.9873938010831737
+  },
+  {
+    "start": 6.031,
+    "end": 6.331,
+    "word": "noon",
+    "probability": 0.9893593326223687
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.62,
+    "word": "Następnie",
+    "probability": 0.99
+  },
+  {
+    "start": 0.62,
+    "end": 1.301,
+    "word": "on",
+    "probability": 0.99
+  },
+  {
+    "start": 1.301,
+    "end": 2.162,
+    "word": "Jemima",
+    "probability": 0.9274944032762764
+  },
+  {
+    "start": 2.162,
+    "end": 2.762,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 2.762,
+    "end": 3.303,
+    "word": "Rebeccah",
+    "probability": 0.9256077709136611
+  },
+  {
+    "start": 3.303,
+    "end": 4.103,
+    "word": "PuddleDuck",
+    "probability": 0.7622979766087228
+  },
+  {
+    "start": 4.103,
+    "end": 5.064,
+    "word": "ruszyli",
+    "probability": 0.99
+  },
+  {
+    "start": 5.064,
+    "end": 5.644,
+    "word": "drogą",
+    "probability": 0.99
+  },
+  {
+    "start": 5.644,
+    "end": 6.685,
+    "word": "trzymając",
+    "probability": 0.99
+  },
+  {
+    "start": 6.685,
+    "end": 7.166,
+    "word": "krok",
+    "probability": 0.99
+  },
+  {
+    "start": 7.166,
+    "end": 8.166,
+    "word": "pitpat",
+    "probability": 0.9721677569144461
+  },
+  {
+    "start": 8.166,
+    "end": 9.227,
+    "word": "paddlepat",
+    "probability": 0.9284090653829019
+  },
+  {
+    "start": 9.227,
+    "end": 10.228,
+    "word": "pitpat",
+    "probability": 0.9841136967368339
+  },
+  {
+    "start": 10.228,
+    "end": 11.209,
+    "word": "waddlepat",
+    "probability": 0.8742873593690155
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.48,
+    "word": "Justru",
+    "probability": 0.9497653637317806
+  },
+  {
+    "start": 0.48,
+    "end": 1.281,
+    "word": "sebaliknya",
+    "probability": 0.9762972744533315
+  },
+  {
+    "start": 1.281,
+    "end": 2.242,
+    "word": "mereka",
+    "probability": 0.9889959232116134
+  },
+  {
+    "start": 2.242,
+    "end": 2.662,
+    "word": "sama",
+    "probability": 0.9620047139206679
+  },
+  {
+    "start": 2.662,
+    "end": 3.103,
+    "word": "sekali",
+    "probability": 0.9868742469593266
+  },
+  {
+    "start": 3.103,
+    "end": 3.503,
+    "word": "tidak",
+    "probability": 0.99
+  },
+  {
+    "start": 3.503,
+    "end": 4.124,
+    "word": "berada",
+    "probability": 0.99
+  },
+  {
+    "start": 4.124,
+    "end": 4.344,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 4.344,
+    "end": 4.884,
+    "word": "tempat",
+    "probability": 0.979790221347623
+  },
+  {
+    "start": 4.884,
+    "end": 5.204,
+    "word": "tidur",
+    "probability": 0.9736784694396361
+  }
+]

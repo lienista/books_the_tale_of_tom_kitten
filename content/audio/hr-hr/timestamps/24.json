@@ -1,0 +1,188 @@
+[
+  {
+    "start": 5.645,
+    "end": 5.922,
+    "word": "Umjesto",
+    "probability": 0.24714259399536243
+  },
+  {
+    "start": 5.922,
+    "end": 6.406,
+    "word": "toga",
+    "probability": 0.6428035270277898
+  },
+  {
+    "start": 6.406,
+    "end": 6.856,
+    "word": "dolazili",
+    "probability": 0.30759568976145474
+  },
+  {
+    "start": 6.856,
+    "end": 7.064,
+    "word": "su",
+    "probability": 0.39931451867619355
+  },
+  {
+    "start": 7.064,
+    "end": 7.271,
+    "word": "vrlo",
+    "probability": 0.2841240654968698
+  },
+  {
+    "start": 7.271,
+    "end": 7.619,
+    "word": "čudni",
+    "probability": 0.39972863068618353
+  },
+  {
+    "start": 7.619,
+    "end": 7.896,
+    "word": "zvukovi",
+    "probability": 0.01
+  },
+  {
+    "start": 7.896,
+    "end": 8.173,
+    "word": "odozgo",
+    "probability": 0.12506093849803096
+  },
+  {
+    "start": 8.173,
+    "end": 8.311,
+    "word": "što",
+    "probability": 0.01
+  },
+  {
+    "start": 8.311,
+    "end": 8.45,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 8.45,
+    "end": 8.934,
+    "word": "pokvarilo",
+    "probability": 0.3331425694744227
+  },
+  {
+    "start": 8.934,
+    "end": 9.142,
+    "word": "tihu",
+    "probability": 0.16651434688466185
+  },
+  {
+    "start": 9.142,
+    "end": 10.286,
+    "word": "atmosferu",
+    "probability": 0.6957419389166503
+  },
+  {
+    "start": 10.286,
+    "end": 10.943,
+    "word": "čajanke",
+    "probability": 0.5788805028643239
+  },
+  {
+    "start": 10.943,
+    "end": 11.013,
+    "word": "I",
+    "probability": 0.01
+  },
+  {
+    "start": 11.013,
+    "end": 11.462,
+    "word": "mislim",
+    "probability": 0.46149023467573413
+  },
+  {
+    "start": 11.462,
+    "end": 11.809,
+    "word": "da",
+    "probability": 0.651562203222059
+  },
+  {
+    "start": 11.809,
+    "end": 12.155,
+    "word": "ću",
+    "probability": 0.6998896380225291
+  },
+  {
+    "start": 12.155,
+    "end": 12.501,
+    "word": "jednog",
+    "probability": 0.3000022377930611
+  },
+  {
+    "start": 12.501,
+    "end": 13.089,
+    "word": "dana",
+    "probability": 0.7053027145189937
+  },
+  {
+    "start": 13.089,
+    "end": 13.575,
+    "word": "morati",
+    "probability": 0.49999499018456506
+  },
+  {
+    "start": 13.575,
+    "end": 13.921,
+    "word": "napisati",
+    "probability": 0.1000227034298756
+  },
+  {
+    "start": 13.921,
+    "end": 14.164,
+    "word": "dužu",
+    "probability": 0.2856964492268995
+  },
+  {
+    "start": 14.164,
+    "end": 14.406,
+    "word": "knjigu",
+    "probability": 0.01
+  },
+  {
+    "start": 14.406,
+    "end": 14.51,
+    "word": "da",
+    "probability": 0.01
+  },
+  {
+    "start": 14.51,
+    "end": 14.544,
+    "word": "vam",
+    "probability": 0.01
+  },
+  {
+    "start": 14.544,
+    "end": 14.579,
+    "word": "ispričam",
+    "probability": 0.01
+  },
+  {
+    "start": 14.544,
+    "end": 14.579,
+    "word": "više",
+    "probability": 0.01
+  },
+  {
+    "start": 14.544,
+    "end": 14.579,
+    "word": "o",
+    "probability": 0.01
+  },
+  {
+    "start": 14.544,
+    "end": 14.579,
+    "word": "Tom",
+    "probability": 0.01
+  },
+  {
+    "start": 14.544,
+    "end": 14.579,
+    "word": "Kittenu",
+    "probability": 0.01
+  }
+]

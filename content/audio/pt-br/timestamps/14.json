@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.662,
+    "word": "Pararam",
+    "probability": 0.99
+  },
+  {
+    "start": 0.662,
+    "end": 0.802,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 0.802,
+    "end": 1.283,
+    "word": "ficaram",
+    "probability": 0.9685059143922236
+  },
+  {
+    "start": 1.283,
+    "end": 1.484,
+    "word": "em",
+    "probability": 0.9777029699312212
+  },
+  {
+    "start": 1.484,
+    "end": 1.925,
+    "word": "fila",
+    "probability": 0.99
+  },
+  {
+    "start": 1.925,
+    "end": 2.687,
+    "word": "olhando",
+    "probability": 0.987788015861226
+  },
+  {
+    "start": 2.687,
+    "end": 2.968,
+    "word": "para",
+    "probability": 0.9496331377402151
+  },
+  {
+    "start": 2.968,
+    "end": 3.068,
+    "word": "os",
+    "probability": 0.9671647146313266
+  },
+  {
+    "start": 3.068,
+    "end": 3.67,
+    "word": "gatinhos",
+    "probability": 0.99
+  },
+  {
+    "start": 3.67,
+    "end": 3.87,
+    "word": "com",
+    "probability": 0.99
+  },
+  {
+    "start": 3.87,
+    "end": 4.191,
+    "word": "olhos",
+    "probability": 0.9651153473233081
+  },
+  {
+    "start": 4.191,
+    "end": 4.753,
+    "word": "grandes",
+    "probability": 0.9827198206511162
+  },
+  {
+    "start": 4.753,
+    "end": 4.873,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 4.873,
+    "end": 5.595,
+    "word": "surpresos",
+    "probability": 0.9785942715398688
+  }
+]

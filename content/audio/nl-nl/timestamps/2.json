@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.18,
+    "word": "Op",
+    "probability": 0.8683883757492497
+  },
+  {
+    "start": 0.18,
+    "end": 0.34,
+    "word": "een",
+    "probability": 0.8075091593460899
+  },
+  {
+    "start": 0.34,
+    "end": 0.641,
+    "word": "dag",
+    "probability": 0.9535054224337158
+  },
+  {
+    "start": 0.641,
+    "end": 1.362,
+    "word": "verwachtte",
+    "probability": 0.943056198597823
+  },
+  {
+    "start": 1.362,
+    "end": 1.602,
+    "word": "hun",
+    "probability": 0.8813635764251044
+  },
+  {
+    "start": 1.602,
+    "end": 3.004,
+    "word": "moedermevrouw",
+    "probability": 0.9612845505630047
+  },
+  {
+    "start": 3.004,
+    "end": 3.665,
+    "word": "Tabitha",
+    "probability": 0.9442518288677615
+  },
+  {
+    "start": 3.665,
+    "end": 5.628,
+    "word": "Twitchitvrienden",
+    "probability": 0.9552279490822532
+  },
+  {
+    "start": 5.628,
+    "end": 5.828,
+    "word": "voor",
+    "probability": 0.9174840190319908
+  },
+  {
+    "start": 5.828,
+    "end": 6.128,
+    "word": "thee",
+    "probability": 0.870727482733893
+  },
+  {
+    "start": 6.128,
+    "end": 7.45,
+    "word": "Ze",
+    "probability": 0.9815109655753126
+  },
+  {
+    "start": 7.45,
+    "end": 7.851,
+    "word": "bracht",
+    "probability": 0.9434629153983989
+  },
+  {
+    "start": 7.851,
+    "end": 7.971,
+    "word": "de",
+    "probability": 0.7841725082414454
+  },
+  {
+    "start": 7.971,
+    "end": 8.492,
+    "word": "kittens",
+    "probability": 0.9197402835979421
+  },
+  {
+    "start": 8.492,
+    "end": 8.692,
+    "word": "naar",
+    "probability": 0.939539166697482
+  },
+  {
+    "start": 8.692,
+    "end": 9.053,
+    "word": "binnen",
+    "probability": 0.9760698699983047
+  },
+  {
+    "start": 9.053,
+    "end": 9.273,
+    "word": "om",
+    "probability": 0.9396817929878615
+  },
+  {
+    "start": 9.273,
+    "end": 9.413,
+    "word": "ze",
+    "probability": 0.9122055430027834
+  },
+  {
+    "start": 9.413,
+    "end": 9.593,
+    "word": "te",
+    "probability": 0.9755568499527607
+  },
+  {
+    "start": 9.593,
+    "end": 10.114,
+    "word": "wassen",
+    "probability": 0.8827388877609313
+  },
+  {
+    "start": 10.114,
+    "end": 10.535,
+    "word": "en",
+    "probability": 0.9899418734768508
+  },
+  {
+    "start": 10.535,
+    "end": 10.915,
+    "word": "aan",
+    "probability": 0.9898414495843157
+  },
+  {
+    "start": 10.915,
+    "end": 11.075,
+    "word": "te",
+    "probability": 0.9097541548862975
+  },
+  {
+    "start": 11.075,
+    "end": 11.556,
+    "word": "kleden",
+    "probability": 0.9662931546803554
+  },
+  {
+    "start": 11.556,
+    "end": 11.936,
+    "word": "voordat",
+    "probability": 0.99
+  },
+  {
+    "start": 11.936,
+    "end": 12.117,
+    "word": "haar",
+    "probability": 0.9598974055876344
+  },
+  {
+    "start": 12.117,
+    "end": 12.597,
+    "word": "gasten",
+    "probability": 0.9682739412799052
+  },
+  {
+    "start": 12.597,
+    "end": 13.318,
+    "word": "arriveerden",
+    "probability": 0.8837232926270828
+  }
+]

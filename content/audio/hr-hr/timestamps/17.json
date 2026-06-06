@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.067,
+    "end": 0.865,
+    "word": "Gospodin",
+    "probability": 0.41662760132953996
+  },
+  {
+    "start": 0.865,
+    "end": 1.264,
+    "word": "Drake",
+    "probability": 0.01
+  },
+  {
+    "start": 1.264,
+    "end": 3.529,
+    "word": "PuddleDuck",
+    "probability": 0.6764295230084499
+  },
+  {
+    "start": 3.529,
+    "end": 4.263,
+    "word": "polako",
+    "probability": 0.3530716045792861
+  },
+  {
+    "start": 4.263,
+    "end": 4.53,
+    "word": "je",
+    "probability": 0.2501285334591423
+  },
+  {
+    "start": 4.53,
+    "end": 4.995,
+    "word": "bočno",
+    "probability": 0.143040390049778
+  },
+  {
+    "start": 4.995,
+    "end": 5.727,
+    "word": "došao",
+    "probability": 0.45449416904577605
+  },
+  {
+    "start": 5.727,
+    "end": 5.993,
+    "word": "i",
+    "probability": 0.4816516358964969
+  },
+  {
+    "start": 5.993,
+    "end": 6.924,
+    "word": "pokupio",
+    "probability": 0.42334148749938716
+  },
+  {
+    "start": 6.924,
+    "end": 7.592,
+    "word": "razne",
+    "probability": 0.5998089603260786
+  },
+  {
+    "start": 7.592,
+    "end": 7.659,
+    "word": "predmete",
+    "probability": 0.01
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.2,
+    "word": "Ils",
+    "probability": 0.7600673028062505
+  },
+  {
+    "start": 0.2,
+    "end": 0.961,
+    "word": "retournèrent",
+    "probability": 0.9190535932037134
+  },
+  {
+    "start": 0.961,
+    "end": 1.201,
+    "word": "leurs",
+    "probability": 0.9426560253616582
+  },
+  {
+    "start": 1.201,
+    "end": 1.581,
+    "word": "robes",
+    "probability": 0.99
+  },
+  {
+    "start": 1.581,
+    "end": 1.701,
+    "word": "à",
+    "probability": 0.99
+  },
+  {
+    "start": 1.701,
+    "end": 2.282,
+    "word": "lenvers",
+    "probability": 0.9275727908273631
+  },
+  {
+    "start": 2.282,
+    "end": 2.522,
+    "word": "pour",
+    "probability": 0.9798656037644357
+  },
+  {
+    "start": 2.522,
+    "end": 2.802,
+    "word": "mieux",
+    "probability": 0.9864387577500832
+  },
+  {
+    "start": 2.802,
+    "end": 3.243,
+    "word": "bouger",
+    "probability": 0.9830466983345268
+  },
+  {
+    "start": 3.243,
+    "end": 3.763,
+    "word": "et",
+    "probability": 0.9875855184458344
+  },
+  {
+    "start": 3.763,
+    "end": 4.584,
+    "word": "sautèrent",
+    "probability": 0.9800113671538376
+  },
+  {
+    "start": 4.584,
+    "end": 5.184,
+    "word": "le",
+    "probability": 0.9890681754718826
+  },
+  {
+    "start": 5.184,
+    "end": 5.445,
+    "word": "col",
+    "probability": 0.9541037263239549
+  },
+  {
+    "start": 5.445,
+    "end": 5.605,
+    "word": "en",
+    "probability": 0.9767046718174278
+  },
+  {
+    "start": 5.605,
+    "end": 6.085,
+    "word": "dentelle",
+    "probability": 0.984956510682714
+  },
+  {
+    "start": 6.085,
+    "end": 6.466,
+    "word": "blanche",
+    "probability": 0.9704716454871205
+  },
+  {
+    "start": 6.466,
+    "end": 6.626,
+    "word": "de",
+    "probability": 0.9493776380629301
+  },
+  {
+    "start": 6.626,
+    "end": 7.106,
+    "word": "Moppet",
+    "probability": 0.904917174415733
+  },
+  {
+    "start": 7.106,
+    "end": 7.907,
+    "word": "tomba",
+    "probability": 0.9502282143542402
+  },
+  {
+    "start": 7.907,
+    "end": 8.207,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 8.207,
+    "end": 8.387,
+    "word": "la",
+    "probability": 0.99
+  },
+  {
+    "start": 8.387,
+    "end": 8.788,
+    "word": "route",
+    "probability": 0.9720207220831473
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.661,
+    "word": "Następnie",
+    "probability": 0.9838681577287844
+  },
+  {
+    "start": 0.661,
+    "end": 1.022,
+    "word": "dwie",
+    "probability": 0.9607305841452581
+  },
+  {
+    "start": 1.022,
+    "end": 1.604,
+    "word": "kaczki",
+    "probability": 0.9844320267059821
+  },
+  {
+    "start": 1.604,
+    "end": 2.566,
+    "word": "Rebeccah",
+    "probability": 0.9583301447381977
+  },
+  {
+    "start": 2.566,
+    "end": 2.726,
+    "word": "i",
+    "probability": 0.8431388996192591
+  },
+  {
+    "start": 2.726,
+    "end": 3.648,
+    "word": "Jemima",
+    "probability": 0.9518160299084759
+  },
+  {
+    "start": 3.648,
+    "end": 4.43,
+    "word": "PuddleDuck",
+    "probability": 0.8416745723206528
+  },
+  {
+    "start": 4.43,
+    "end": 5.232,
+    "word": "podniosły",
+    "probability": 0.9776558644157156
+  },
+  {
+    "start": 5.232,
+    "end": 5.933,
+    "word": "kapelusz",
+    "probability": 0.99
+  },
+  {
+    "start": 5.933,
+    "end": 6.053,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 6.053,
+    "end": 6.635,
+    "word": "koronkowy",
+    "probability": 0.99
+  },
+  {
+    "start": 6.635,
+    "end": 7.296,
+    "word": "kołnierzyk",
+    "probability": 0.9575409778836748
+  },
+  {
+    "start": 7.296,
+    "end": 7.437,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 7.437,
+    "end": 8.018,
+    "word": "założyły",
+    "probability": 0.9849533367653747
+  },
+  {
+    "start": 8.018,
+    "end": 8.178,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 8.178,
+    "end": 8.359,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 8.359,
+    "end": 8.88,
+    "word": "siebie",
+    "probability": 0.9792469942860624
+  }
+]

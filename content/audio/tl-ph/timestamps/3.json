@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.301,
+    "word": "Una",
+    "probability": 0.99
+  },
+  {
+    "start": 0.301,
+    "end": 1.463,
+    "word": "kinuskos",
+    "probability": 0.99
+  },
+  {
+    "start": 1.463,
+    "end": 1.643,
+    "word": "niya",
+    "probability": 0.9853790002914287
+  },
+  {
+    "start": 1.643,
+    "end": 1.803,
+    "word": "ang",
+    "probability": 0.9455018772199175
+  },
+  {
+    "start": 1.803,
+    "end": 2.244,
+    "word": "kanilang",
+    "probability": 0.973426177365609
+  },
+  {
+    "start": 2.244,
+    "end": 2.505,
+    "word": "mga",
+    "probability": 0.9752186067251107
+  },
+  {
+    "start": 2.505,
+    "end": 2.885,
+    "word": "mukha",
+    "probability": 0.99
+  },
+  {
+    "start": 2.885,
+    "end": 3.547,
+    "word": "ito",
+    "probability": 0.99
+  },
+  {
+    "start": 3.547,
+    "end": 3.727,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 3.727,
+    "end": 3.967,
+    "word": "si",
+    "probability": 0.9700498930943553
+  },
+  {
+    "start": 3.967,
+    "end": 4.408,
+    "word": "Moppet",
+    "probability": 0.8896483741776877
+  }
+]

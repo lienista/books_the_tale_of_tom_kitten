@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.8,
+    "word": "Pagkatapos",
+    "probability": 0.9820945794045737
+  },
+  {
+    "start": 0.8,
+    "end": 0.98,
+    "word": "ay",
+    "probability": 0.8866724905855877
+  },
+  {
+    "start": 0.98,
+    "end": 1.401,
+    "word": "umalis",
+    "probability": 0.9706675764739787
+  },
+  {
+    "start": 1.401,
+    "end": 1.681,
+    "word": "siya",
+    "probability": 0.9172854305309502
+  },
+  {
+    "start": 1.681,
+    "end": 2.741,
+    "word": "sina",
+    "probability": 0.99
+  },
+  {
+    "start": 2.741,
+    "end": 3.442,
+    "word": "Jemima",
+    "probability": 0.9165903546140622
+  },
+  {
+    "start": 3.442,
+    "end": 4.202,
+    "word": "at",
+    "probability": 0.9859604426060052
+  },
+  {
+    "start": 4.202,
+    "end": 4.802,
+    "word": "Rebeccah",
+    "probability": 0.8981789928796355
+  },
+  {
+    "start": 4.802,
+    "end": 5.663,
+    "word": "PuddleDuck",
+    "probability": 0.8546430538493259
+  },
+  {
+    "start": 5.663,
+    "end": 5.843,
+    "word": "sa",
+    "probability": 0.9836054472470445
+  },
+  {
+    "start": 5.843,
+    "end": 6.363,
+    "word": "daan",
+    "probability": 0.9770773662828514
+  },
+  {
+    "start": 6.363,
+    "end": 7.744,
+    "word": "sumasabay",
+    "probability": 0.9855132442667631
+  },
+  {
+    "start": 7.744,
+    "end": 7.944,
+    "word": "sa",
+    "probability": 0.9727946066570633
+  },
+  {
+    "start": 7.944,
+    "end": 9.945,
+    "word": "hakbangpitpat",
+    "probability": 0.9486473535984044
+  },
+  {
+    "start": 9.945,
+    "end": 11.626,
+    "word": "paddlepat",
+    "probability": 0.9526352552901216
+  },
+  {
+    "start": 11.626,
+    "end": 12.886,
+    "word": "pitpat",
+    "probability": 0.968602650661907
+  },
+  {
+    "start": 12.886,
+    "end": 14.087,
+    "word": "waddlepat",
+    "probability": 0.9321566446139345
+  }
+]

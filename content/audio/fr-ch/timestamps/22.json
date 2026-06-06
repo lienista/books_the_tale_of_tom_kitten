@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.2,
+    "word": "Elle",
+    "probability": 0.5633314586673236
+  },
+  {
+    "start": 0.2,
+    "end": 0.36,
+    "word": "les",
+    "probability": 0.7178041077403121
+  },
+  {
+    "start": 0.36,
+    "end": 0.881,
+    "word": "envoya",
+    "probability": 0.9417446208873211
+  },
+  {
+    "start": 0.881,
+    "end": 1.021,
+    "word": "à",
+    "probability": 0.8808615352696253
+  },
+  {
+    "start": 1.021,
+    "end": 1.682,
+    "word": "létage",
+    "probability": 0.9556860786973773
+  },
+  {
+    "start": 1.682,
+    "end": 2.482,
+    "word": "et",
+    "probability": 0.983748420624827
+  },
+  {
+    "start": 2.482,
+    "end": 2.622,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 2.622,
+    "end": 2.863,
+    "word": "suis",
+    "probability": 0.9264060968838338
+  },
+  {
+    "start": 2.863,
+    "end": 3.343,
+    "word": "désolé",
+    "probability": 0.99
+  },
+  {
+    "start": 3.343,
+    "end": 3.563,
+    "word": "de",
+    "probability": 0.9784417293170641
+  },
+  {
+    "start": 3.563,
+    "end": 3.984,
+    "word": "dire",
+    "probability": 0.9887156272057024
+  },
+  {
+    "start": 3.984,
+    "end": 5.025,
+    "word": "quelle",
+    "probability": 0.9453328930199838
+  },
+  {
+    "start": 5.025,
+    "end": 5.245,
+    "word": "dit",
+    "probability": 0.9756748976293058
+  },
+  {
+    "start": 5.245,
+    "end": 5.365,
+    "word": "à",
+    "probability": 0.9857749008921987
+  },
+  {
+    "start": 5.365,
+    "end": 5.625,
+    "word": "ses",
+    "probability": 0.9813391610297652
+  },
+  {
+    "start": 5.625,
+    "end": 6.106,
+    "word": "amis",
+    "probability": 0.9888843772244692
+  },
+  {
+    "start": 6.106,
+    "end": 7.006,
+    "word": "quils",
+    "probability": 0.9447288888113333
+  },
+  {
+    "start": 7.006,
+    "end": 7.407,
+    "word": "étaient",
+    "probability": 0.9645551279483928
+  },
+  {
+    "start": 7.407,
+    "end": 8.348,
+    "word": "au",
+    "probability": 0.9317851540267386
+  },
+  {
+    "start": 8.348,
+    "end": 8.688,
+    "word": "lit",
+    "probability": 0.8760635606368923
+  },
+  {
+    "start": 8.688,
+    "end": 9.289,
+    "word": "avec",
+    "probability": 0.957931211859956
+  },
+  {
+    "start": 9.289,
+    "end": 9.489,
+    "word": "un",
+    "probability": 0.9875681749529507
+  },
+  {
+    "start": 9.489,
+    "end": 10.009,
+    "word": "rhume",
+    "probability": 0.9457250581801421
+  },
+  {
+    "start": 10.009,
+    "end": 10.93,
+    "word": "ce",
+    "probability": 0.9837262789767343
+  },
+  {
+    "start": 10.93,
+    "end": 11.13,
+    "word": "qui",
+    "probability": 0.9673088347424613
+  },
+  {
+    "start": 11.13,
+    "end": 11.551,
+    "word": "nétait",
+    "probability": 0.8621818505516584
+  },
+  {
+    "start": 11.551,
+    "end": 11.731,
+    "word": "pas",
+    "probability": 0.99
+  },
+  {
+    "start": 11.731,
+    "end": 12.031,
+    "word": "vrai",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.14,
+    "word": "Un",
+    "probability": 0.6011102841358141
+  },
+  {
+    "start": 0.14,
+    "end": 0.52,
+    "word": "jour",
+    "probability": 0.8189898604668646
+  },
+  {
+    "start": 0.52,
+    "end": 1.18,
+    "word": "leur",
+    "probability": 0.9464742538634184
+  },
+  {
+    "start": 1.18,
+    "end": 2.441,
+    "word": "mèreMme",
+    "probability": 0.9233602980364027
+  },
+  {
+    "start": 2.441,
+    "end": 3.101,
+    "word": "Tabitha",
+    "probability": 0.9403257303715209
+  },
+  {
+    "start": 3.101,
+    "end": 5.242,
+    "word": "Twitchitattendait",
+    "probability": 0.9184519878634765
+  },
+  {
+    "start": 5.242,
+    "end": 5.402,
+    "word": "des",
+    "probability": 0.9873549472262002
+  },
+  {
+    "start": 5.402,
+    "end": 5.762,
+    "word": "amis",
+    "probability": 0.9762984740482197
+  },
+  {
+    "start": 5.762,
+    "end": 5.982,
+    "word": "pour",
+    "probability": 0.9889154043817974
+  },
+  {
+    "start": 5.982,
+    "end": 6.162,
+    "word": "le",
+    "probability": 0.988110354825185
+  },
+  {
+    "start": 6.162,
+    "end": 6.422,
+    "word": "thé",
+    "probability": 0.8745296656553369
+  },
+  {
+    "start": 6.422,
+    "end": 7.843,
+    "word": "Elle",
+    "probability": 0.9860938423235707
+  },
+  {
+    "start": 7.843,
+    "end": 8.143,
+    "word": "fit",
+    "probability": 0.9840177179811204
+  },
+  {
+    "start": 8.143,
+    "end": 8.563,
+    "word": "entrer",
+    "probability": 0.9862133533609352
+  },
+  {
+    "start": 8.563,
+    "end": 8.743,
+    "word": "les",
+    "probability": 0.9867429632997029
+  },
+  {
+    "start": 8.743,
+    "end": 9.283,
+    "word": "chatons",
+    "probability": 0.9547178402819433
+  },
+  {
+    "start": 9.283,
+    "end": 9.983,
+    "word": "pour",
+    "probability": 0.975779209656426
+  },
+  {
+    "start": 9.983,
+    "end": 10.203,
+    "word": "les",
+    "probability": 0.9868769894909935
+  },
+  {
+    "start": 10.203,
+    "end": 10.664,
+    "word": "laver",
+    "probability": 0.9815887431743786
+  },
+  {
+    "start": 10.664,
+    "end": 11.384,
+    "word": "et",
+    "probability": 0.9836691145175558
+  },
+  {
+    "start": 11.384,
+    "end": 11.584,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 11.584,
+    "end": 12.204,
+    "word": "habiller",
+    "probability": 0.9151912243830046
+  },
+  {
+    "start": 12.204,
+    "end": 13.024,
+    "word": "avant",
+    "probability": 0.9809078513193621
+  },
+  {
+    "start": 13.024,
+    "end": 13.525,
+    "word": "larrivée",
+    "probability": 0.9301395869847976
+  },
+  {
+    "start": 13.525,
+    "end": 13.745,
+    "word": "de",
+    "probability": 0.9559077175230747
+  },
+  {
+    "start": 13.745,
+    "end": 14.005,
+    "word": "ses",
+    "probability": 0.9828090776607753
+  },
+  {
+    "start": 14.005,
+    "end": 14.705,
+    "word": "invités",
+    "probability": 0.982191619496494
+  }
+]

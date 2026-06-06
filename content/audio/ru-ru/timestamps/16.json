@@ -1,0 +1,236 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.44,
+    "word": "Миттенс",
+    "probability": 0.9405243768092376
+  },
+  {
+    "start": 0.44,
+    "end": 0.7,
+    "word": "так",
+    "probability": 0.9236243899140995
+  },
+  {
+    "start": 0.7,
+    "end": 1.021,
+    "word": "сильно",
+    "probability": 0.9473740480570614
+  },
+  {
+    "start": 1.021,
+    "end": 1.701,
+    "word": "смеялась",
+    "probability": 0.9841891767549948
+  },
+  {
+    "start": 1.701,
+    "end": 1.961,
+    "word": "что",
+    "probability": 0.973826666694581
+  },
+  {
+    "start": 1.961,
+    "end": 2.622,
+    "word": "свалилась",
+    "probability": 0.99
+  },
+  {
+    "start": 2.622,
+    "end": 2.762,
+    "word": "со",
+    "probability": 0.9769803975073227
+  },
+  {
+    "start": 2.762,
+    "end": 3.202,
+    "word": "стены",
+    "probability": 0.99
+  },
+  {
+    "start": 3.202,
+    "end": 4.563,
+    "word": "Моппет",
+    "probability": 0.9847119372900185
+  },
+  {
+    "start": 4.563,
+    "end": 4.743,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 4.743,
+    "end": 5.123,
+    "word": "Том",
+    "probability": 0.99
+  },
+  {
+    "start": 5.123,
+    "end": 5.683,
+    "word": "слезли",
+    "probability": 0.9851950387477587
+  },
+  {
+    "start": 5.683,
+    "end": 6.084,
+    "word": "вслед",
+    "probability": 0.9481915581185085
+  },
+  {
+    "start": 6.084,
+    "end": 6.224,
+    "word": "за",
+    "probability": 0.941444511948977
+  },
+  {
+    "start": 6.224,
+    "end": 6.544,
+    "word": "ней",
+    "probability": 0.99
+  },
+  {
+    "start": 6.544,
+    "end": 7.605,
+    "word": "платья",
+    "probability": 0.99
+  },
+  {
+    "start": 7.605,
+    "end": 7.805,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 7.805,
+    "end": 8.425,
+    "word": "остальная",
+    "probability": 0.99
+  },
+  {
+    "start": 8.425,
+    "end": 8.905,
+    "word": "одежда",
+    "probability": 0.99
+  },
+  {
+    "start": 8.905,
+    "end": 9.326,
+    "word": "Тома",
+    "probability": 0.99
+  },
+  {
+    "start": 9.326,
+    "end": 10.446,
+    "word": "свалились",
+    "probability": 0.99
+  },
+  {
+    "start": 10.446,
+    "end": 10.586,
+    "word": "по",
+    "probability": 0.9404666171231363
+  },
+  {
+    "start": 10.586,
+    "end": 11.027,
+    "word": "дороге",
+    "probability": 0.99
+  },
+  {
+    "start": 11.027,
+    "end": 11.467,
+    "word": "вниз",
+    "probability": 0.99
+  },
+  {
+    "start": 11.467,
+    "end": 12.968,
+    "word": "Мистер",
+    "probability": 0.99
+  },
+  {
+    "start": 12.968,
+    "end": 13.428,
+    "word": "Дрейк",
+    "probability": 0.99
+  },
+  {
+    "start": 13.428,
+    "end": 14.269,
+    "word": "ПаддлДак",
+    "probability": 0.934640790699734
+  },
+  {
+    "start": 14.269,
+    "end": 15.049,
+    "word": "позвала",
+    "probability": 0.9896141924226811
+  },
+  {
+    "start": 15.049,
+    "end": 15.549,
+    "word": "Моппет",
+    "probability": 0.9470965165014092
+  },
+  {
+    "start": 15.549,
+    "end": 16.73,
+    "word": "Идите",
+    "probability": 0.99
+  },
+  {
+    "start": 16.73,
+    "end": 16.99,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 16.99,
+    "end": 17.651,
+    "word": "помогите",
+    "probability": 0.99
+  },
+  {
+    "start": 17.651,
+    "end": 17.931,
+    "word": "нам",
+    "probability": 0.99
+  },
+  {
+    "start": 17.931,
+    "end": 18.391,
+    "word": "одеть",
+    "probability": 0.99
+  },
+  {
+    "start": 18.391,
+    "end": 18.651,
+    "word": "его",
+    "probability": 0.9717850705456085
+  },
+  {
+    "start": 18.651,
+    "end": 19.692,
+    "word": "Идите",
+    "probability": 0.99
+  },
+  {
+    "start": 19.692,
+    "end": 20.132,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 20.132,
+    "end": 20.893,
+    "word": "застегните",
+    "probability": 0.99
+  },
+  {
+    "start": 20.893,
+    "end": 21.313,
+    "word": "Тома",
+    "probability": 0.9707944957853752
+  }
+]

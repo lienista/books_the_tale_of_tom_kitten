@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.501,
+    "word": "Então",
+    "probability": 0.99
+  },
+  {
+    "start": 0.501,
+    "end": 0.802,
+    "word": "os",
+    "probability": 0.99
+  },
+  {
+    "start": 0.802,
+    "end": 1.082,
+    "word": "dois",
+    "probability": 0.9812969050378312
+  },
+  {
+    "start": 1.082,
+    "end": 1.523,
+    "word": "patos",
+    "probability": 0.9312384905275679
+  },
+  {
+    "start": 1.523,
+    "end": 2.085,
+    "word": "fêmeas",
+    "probability": 0.9578670998612129
+  },
+  {
+    "start": 2.085,
+    "end": 2.826,
+    "word": "Rebeccah",
+    "probability": 0.9415117921303233
+  },
+  {
+    "start": 2.826,
+    "end": 3.107,
+    "word": "e",
+    "probability": 0.925677614266183
+  },
+  {
+    "start": 3.107,
+    "end": 3.869,
+    "word": "Jemima",
+    "probability": 0.9159647011434457
+  },
+  {
+    "start": 3.869,
+    "end": 4.991,
+    "word": "PuddleDuck",
+    "probability": 0.9241642214759714
+  },
+  {
+    "start": 4.991,
+    "end": 6.154,
+    "word": "pegaram",
+    "probability": 0.9792374753137463
+  },
+  {
+    "start": 6.154,
+    "end": 6.294,
+    "word": "no",
+    "probability": 0.981193651154335
+  },
+  {
+    "start": 6.294,
+    "end": 6.896,
+    "word": "chapéu",
+    "probability": 0.9751223043279065
+  },
+  {
+    "start": 6.896,
+    "end": 6.996,
+    "word": "e",
+    "probability": 0.8829022223908467
+  },
+  {
+    "start": 6.996,
+    "end": 7.136,
+    "word": "no",
+    "probability": 0.9092994206450632
+  },
+  {
+    "start": 7.136,
+    "end": 7.778,
+    "word": "colarinho",
+    "probability": 0.9604710990813505
+  },
+  {
+    "start": 7.778,
+    "end": 7.918,
+    "word": "de",
+    "probability": 0.9375720853444677
+  },
+  {
+    "start": 7.918,
+    "end": 8.399,
+    "word": "renda",
+    "probability": 0.9517686092574683
+  },
+  {
+    "start": 8.399,
+    "end": 8.559,
+    "word": "e",
+    "probability": 0.9891928493704635
+  },
+  {
+    "start": 8.559,
+    "end": 9.562,
+    "word": "colocaramnos",
+    "probability": 0.9610387108411084
+  }
+]

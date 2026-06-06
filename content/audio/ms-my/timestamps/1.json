@@ -1,0 +1,194 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.3,
+    "word": "Pada",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 0.7,
+    "word": "zaman",
+    "probability": 0.9776865168296205
+  },
+  {
+    "start": 0.7,
+    "end": 1.2,
+    "word": "dahulu",
+    "probability": 0.9771548282248467
+  },
+  {
+    "start": 1.2,
+    "end": 2.581,
+    "word": "terdapat",
+    "probability": 0.99
+  },
+  {
+    "start": 2.581,
+    "end": 3.061,
+    "word": "tiga",
+    "probability": 0.99
+  },
+  {
+    "start": 3.061,
+    "end": 3.621,
+    "word": "ekor",
+    "probability": 0.99
+  },
+  {
+    "start": 3.621,
+    "end": 4.021,
+    "word": "anak",
+    "probability": 0.99
+  },
+  {
+    "start": 4.021,
+    "end": 4.561,
+    "word": "kucing",
+    "probability": 0.99
+  },
+  {
+    "start": 4.561,
+    "end": 5.101,
+    "word": "kecil",
+    "probability": 0.99
+  },
+  {
+    "start": 5.101,
+    "end": 5.902,
+    "word": "bernama",
+    "probability": 0.99
+  },
+  {
+    "start": 5.902,
+    "end": 6.622,
+    "word": "Mittens",
+    "probability": 0.9055414148071412
+  },
+  {
+    "start": 6.622,
+    "end": 7.582,
+    "word": "Tom",
+    "probability": 0.9783680788922231
+  },
+  {
+    "start": 7.582,
+    "end": 8.202,
+    "word": "Kitten",
+    "probability": 0.9639547386301862
+  },
+  {
+    "start": 8.202,
+    "end": 8.702,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 8.702,
+    "end": 9.683,
+    "word": "Moppet",
+    "probability": 0.9464056964400034
+  },
+  {
+    "start": 9.683,
+    "end": 11.763,
+    "word": "Mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 11.763,
+    "end": 12.483,
+    "word": "mempunyai",
+    "probability": 0.99
+  },
+  {
+    "start": 12.483,
+    "end": 12.924,
+    "word": "bulu",
+    "probability": 0.9844895360490596
+  },
+  {
+    "start": 12.924,
+    "end": 13.184,
+    "word": "yang",
+    "probability": 0.9620286689271802
+  },
+  {
+    "start": 13.184,
+    "end": 13.724,
+    "word": "cantik",
+    "probability": 0.99
+  },
+  {
+    "start": 13.724,
+    "end": 14.744,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 14.744,
+    "end": 15.704,
+    "word": "menghabiskan",
+    "probability": 0.99
+  },
+  {
+    "start": 15.704,
+    "end": 16.505,
+    "word": "harihari",
+    "probability": 0.9302472199874792
+  },
+  {
+    "start": 16.505,
+    "end": 17.025,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 17.025,
+    "end": 18.085,
+    "word": "bergulingguling",
+    "probability": 0.952316825581017
+  },
+  {
+    "start": 18.085,
+    "end": 18.285,
+    "word": "di",
+    "probability": 0.9889108864268422
+  },
+  {
+    "start": 18.285,
+    "end": 18.825,
+    "word": "beranda",
+    "probability": 0.9709824063790665
+  },
+  {
+    "start": 18.825,
+    "end": 19.665,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 19.665,
+    "end": 20.306,
+    "word": "bermain",
+    "probability": 0.99
+  },
+  {
+    "start": 20.306,
+    "end": 20.526,
+    "word": "di",
+    "probability": 0.955418707432645
+  },
+  {
+    "start": 20.526,
+    "end": 20.906,
+    "word": "dalam",
+    "probability": 0.952428647950261
+  },
+  {
+    "start": 20.906,
+    "end": 21.366,
+    "word": "tanah",
+    "probability": 0.99
+  }
+]

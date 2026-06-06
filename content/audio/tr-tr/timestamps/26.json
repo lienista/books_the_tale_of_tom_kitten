@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "Ve",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.601,
+    "word": "Bay",
+    "probability": 0.977709146642673
+  },
+  {
+    "start": 0.601,
+    "end": 1.081,
+    "word": "Drake",
+    "probability": 0.8633040740937741
+  },
+  {
+    "start": 1.081,
+    "end": 1.902,
+    "word": "PuddleDuck",
+    "probability": 0.8006882521077447
+  },
+  {
+    "start": 1.902,
+    "end": 2.882,
+    "word": "Jemima",
+    "probability": 0.9275031090285234
+  },
+  {
+    "start": 2.882,
+    "end": 3.063,
+    "word": "ve",
+    "probability": 0.9625580170855389
+  },
+  {
+    "start": 3.063,
+    "end": 3.763,
+    "word": "Rebeccah",
+    "probability": 0.9190503741469408
+  },
+  {
+    "start": 3.763,
+    "end": 4.104,
+    "word": "o",
+    "probability": 0.9373822711960567
+  },
+  {
+    "start": 4.104,
+    "end": 4.824,
+    "word": "zamandan",
+    "probability": 0.99
+  },
+  {
+    "start": 4.824,
+    "end": 5.164,
+    "word": "beri",
+    "probability": 0.9791909678869514
+  },
+  {
+    "start": 5.164,
+    "end": 5.805,
+    "word": "onları",
+    "probability": 0.99
+  },
+  {
+    "start": 5.805,
+    "end": 6.506,
+    "word": "arıyorlar",
+    "probability": 0.9753270893834612
+  }
+]

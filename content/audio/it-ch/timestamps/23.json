@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "Al",
+    "probability": 0.9761901022087821
+  },
+  {
+    "start": 0.16,
+    "end": 0.881,
+    "word": "contrario",
+    "probability": 0.9879067797960011
+  },
+  {
+    "start": 0.881,
+    "end": 1.202,
+    "word": "non",
+    "probability": 0.99
+  },
+  {
+    "start": 1.202,
+    "end": 1.583,
+    "word": "erano",
+    "probability": 0.9836287698593443
+  },
+  {
+    "start": 1.583,
+    "end": 2.083,
+    "word": "affatto",
+    "probability": 0.99
+  },
+  {
+    "start": 2.083,
+    "end": 2.144,
+    "word": "a",
+    "probability": 0.9860448842454671
+  },
+  {
+    "start": 2.144,
+    "end": 2.564,
+    "word": "letto",
+    "probability": 0.9705120879700404
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.2,
+    "word": "Sie",
+    "probability": 0.6274199736946043
+  },
+  {
+    "start": 0.2,
+    "end": 0.761,
+    "word": "drehten",
+    "probability": 0.92068125313788
+  },
+  {
+    "start": 0.761,
+    "end": 1.001,
+    "word": "ihre",
+    "probability": 0.9782914191123013
+  },
+  {
+    "start": 1.001,
+    "end": 1.661,
+    "word": "Kleider",
+    "probability": 0.9654913673841169
+  },
+  {
+    "start": 1.661,
+    "end": 1.902,
+    "word": "um",
+    "probability": 0.9760658613610856
+  },
+  {
+    "start": 1.902,
+    "end": 2.682,
+    "word": "damit",
+    "probability": 0.99
+  },
+  {
+    "start": 2.682,
+    "end": 2.842,
+    "word": "sie",
+    "probability": 0.9664523266012162
+  },
+  {
+    "start": 2.842,
+    "end": 3.083,
+    "word": "sich",
+    "probability": 0.9004881583795054
+  },
+  {
+    "start": 3.083,
+    "end": 3.583,
+    "word": "besser",
+    "probability": 0.9609678391148969
+  },
+  {
+    "start": 3.583,
+    "end": 4.284,
+    "word": "bewegen",
+    "probability": 0.9846312474243871
+  },
+  {
+    "start": 4.284,
+    "end": 4.884,
+    "word": "konnten",
+    "probability": 0.9844312469665331
+  },
+  {
+    "start": 4.884,
+    "end": 5.405,
+    "word": "und",
+    "probability": 0.9777976678388856
+  },
+  {
+    "start": 5.405,
+    "end": 5.925,
+    "word": "sprangen",
+    "probability": 0.9611788510397171
+  },
+  {
+    "start": 5.925,
+    "end": 6.345,
+    "word": "hoch",
+    "probability": 0.9846203114487165
+  },
+  {
+    "start": 6.345,
+    "end": 8.087,
+    "word": "Moppets",
+    "probability": 0.9795345046945477
+  },
+  {
+    "start": 8.087,
+    "end": 8.647,
+    "word": "weisser",
+    "probability": 0.9750928353209961
+  },
+  {
+    "start": 8.647,
+    "end": 9.728,
+    "word": "Spitzenkragen",
+    "probability": 0.9646424256663898
+  },
+  {
+    "start": 9.728,
+    "end": 10.109,
+    "word": "fiel",
+    "probability": 0.9534714826266671
+  },
+  {
+    "start": 10.109,
+    "end": 10.289,
+    "word": "auf",
+    "probability": 0.9411106759287811
+  },
+  {
+    "start": 10.289,
+    "end": 10.429,
+    "word": "die",
+    "probability": 0.9697703965042539
+  },
+  {
+    "start": 10.429,
+    "end": 11.03,
+    "word": "Strasse",
+    "probability": 0.9595785979220308
+  }
+]

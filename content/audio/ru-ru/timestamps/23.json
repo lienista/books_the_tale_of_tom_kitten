@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.463,
+    "word": "Совсем",
+    "probability": 0.99
+  },
+  {
+    "start": 0.463,
+    "end": 1.127,
+    "word": "наоборот",
+    "probability": 0.99
+  },
+  {
+    "start": 1.127,
+    "end": 1.369,
+    "word": "они",
+    "probability": 0.9764014890468274
+  },
+  {
+    "start": 1.369,
+    "end": 1.792,
+    "word": "вовсе",
+    "probability": 0.99
+  },
+  {
+    "start": 1.792,
+    "end": 1.953,
+    "word": "не",
+    "probability": 0.99
+  },
+  {
+    "start": 1.953,
+    "end": 2.255,
+    "word": "были",
+    "probability": 0.99
+  },
+  {
+    "start": 2.255,
+    "end": 2.356,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 2.356,
+    "end": 2.939,
+    "word": "постели",
+    "probability": 0.99
+  }
+]

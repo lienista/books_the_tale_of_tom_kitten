@@ -1,0 +1,200 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.34,
+    "word": "Isang",
+    "probability": 0.99
+  },
+  {
+    "start": 0.34,
+    "end": 0.901,
+    "word": "araw",
+    "probability": 0.99
+  },
+  {
+    "start": 0.901,
+    "end": 1.681,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 1.681,
+    "end": 2.241,
+    "word": "kanilang",
+    "probability": 0.99
+  },
+  {
+    "start": 2.241,
+    "end": 3.682,
+    "word": "inasi",
+    "probability": 0.9734501263887473
+  },
+  {
+    "start": 3.682,
+    "end": 3.983,
+    "word": "Mrs",
+    "probability": 0.8760997899068103
+  },
+  {
+    "start": 3.983,
+    "end": 4.583,
+    "word": "Tabitha",
+    "probability": 0.9063840136754239
+  },
+  {
+    "start": 4.583,
+    "end": 5.884,
+    "word": "Twitchitay",
+    "probability": 0.9268488211762407
+  },
+  {
+    "start": 5.884,
+    "end": 6.804,
+    "word": "naghihintay",
+    "probability": 0.99
+  },
+  {
+    "start": 6.804,
+    "end": 7.004,
+    "word": "ng",
+    "probability": 0.8994413911207978
+  },
+  {
+    "start": 7.004,
+    "end": 7.185,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 7.185,
+    "end": 7.785,
+    "word": "kaibigan",
+    "probability": 0.9803268193429389
+  },
+  {
+    "start": 7.785,
+    "end": 8.105,
+    "word": "para",
+    "probability": 0.9700624863269958
+  },
+  {
+    "start": 8.105,
+    "end": 8.305,
+    "word": "sa",
+    "probability": 0.987055488031118
+  },
+  {
+    "start": 8.305,
+    "end": 8.746,
+    "word": "tsaa",
+    "probability": 0.924906139001892
+  },
+  {
+    "start": 8.746,
+    "end": 9.986,
+    "word": "Dinala",
+    "probability": 0.99
+  },
+  {
+    "start": 9.986,
+    "end": 10.247,
+    "word": "niya",
+    "probability": 0.8693039376794187
+  },
+  {
+    "start": 10.247,
+    "end": 10.407,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 10.407,
+    "end": 10.627,
+    "word": "mga",
+    "probability": 0.9693285242812568
+  },
+  {
+    "start": 10.627,
+    "end": 11.027,
+    "word": "kuting",
+    "probability": 0.99
+  },
+  {
+    "start": 11.027,
+    "end": 11.227,
+    "word": "sa",
+    "probability": 0.9730863945735052
+  },
+  {
+    "start": 11.227,
+    "end": 11.688,
+    "word": "loob",
+    "probability": 0.99
+  },
+  {
+    "start": 11.688,
+    "end": 12.628,
+    "word": "upang",
+    "probability": 0.9852968737183408
+  },
+  {
+    "start": 12.628,
+    "end": 13.228,
+    "word": "paliguan",
+    "probability": 0.9614181357747061
+  },
+  {
+    "start": 13.228,
+    "end": 13.629,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 13.629,
+    "end": 13.909,
+    "word": "at",
+    "probability": 0.9799383594961714
+  },
+  {
+    "start": 13.909,
+    "end": 14.669,
+    "word": "bihisan",
+    "probability": 0.9742625653716483
+  },
+  {
+    "start": 14.669,
+    "end": 15.59,
+    "word": "bago",
+    "probability": 0.9798141305658853
+  },
+  {
+    "start": 15.59,
+    "end": 16.13,
+    "word": "dumating",
+    "probability": 0.99
+  },
+  {
+    "start": 16.13,
+    "end": 16.25,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 16.25,
+    "end": 16.631,
+    "word": "kanyang",
+    "probability": 0.9219121225709972
+  },
+  {
+    "start": 16.631,
+    "end": 16.871,
+    "word": "mga",
+    "probability": 0.9786830399622374
+  },
+  {
+    "start": 16.871,
+    "end": 17.511,
+    "word": "panauhin",
+    "probability": 0.99
+  }
+]

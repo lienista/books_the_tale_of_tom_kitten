@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.821,
+    "word": "Zastavili",
+    "probability": 0.9892543136678278
+  },
+  {
+    "start": 0.821,
+    "end": 1.122,
+    "word": "sa",
+    "probability": 0.9632761073323312
+  },
+  {
+    "start": 1.122,
+    "end": 1.743,
+    "word": "a",
+    "probability": 0.987740845032308
+  },
+  {
+    "start": 1.743,
+    "end": 2.244,
+    "word": "stáli",
+    "probability": 0.9803582339662242
+  },
+  {
+    "start": 2.244,
+    "end": 2.364,
+    "word": "v",
+    "probability": 0.8816405236826118
+  },
+  {
+    "start": 2.364,
+    "end": 2.765,
+    "word": "rade",
+    "probability": 0.9252498835893277
+  },
+  {
+    "start": 2.765,
+    "end": 4.368,
+    "word": "pozerajúc",
+    "probability": 0.99
+  },
+  {
+    "start": 4.368,
+    "end": 4.608,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 4.608,
+    "end": 5.029,
+    "word": "hore",
+    "probability": 0.982060972574636
+  },
+  {
+    "start": 5.029,
+    "end": 5.27,
+    "word": "na",
+    "probability": 0.982073120635394
+  },
+  {
+    "start": 5.27,
+    "end": 7.073,
+    "word": "mačiatka",
+    "probability": 0.9172123718919729
+  },
+  {
+    "start": 7.073,
+    "end": 7.273,
+    "word": "so",
+    "probability": 0.9507413400602646
+  },
+  {
+    "start": 7.273,
+    "end": 8.215,
+    "word": "širokými",
+    "probability": 0.9365367472301745
+  },
+  {
+    "start": 8.215,
+    "end": 9.798,
+    "word": "prekvapenými",
+    "probability": 0.9860769831653989
+  },
+  {
+    "start": 9.798,
+    "end": 10.359,
+    "word": "očami",
+    "probability": 0.9748135271778494
+  }
+]

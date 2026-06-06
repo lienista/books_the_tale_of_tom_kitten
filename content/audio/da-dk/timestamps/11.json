@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.22,
+    "word": "Tom",
+    "probability": 0.8163338122619436
+  },
+  {
+    "start": 0.22,
+    "end": 0.66,
+    "word": "Kitten",
+    "probability": 0.9711691135254115
+  },
+  {
+    "start": 0.66,
+    "end": 1.0,
+    "word": "kunne",
+    "probability": 0.9498086854282093
+  },
+  {
+    "start": 1.0,
+    "end": 1.34,
+    "word": "slet",
+    "probability": 0.967338097512287
+  },
+  {
+    "start": 1.34,
+    "end": 1.561,
+    "word": "ikke",
+    "probability": 0.9620567575086892
+  },
+  {
+    "start": 1.561,
+    "end": 2.021,
+    "word": "hoppe",
+    "probability": 0.99
+  },
+  {
+    "start": 2.021,
+    "end": 2.741,
+    "word": "mens",
+    "probability": 0.9890287820128817
+  },
+  {
+    "start": 2.741,
+    "end": 2.941,
+    "word": "han",
+    "probability": 0.99
+  },
+  {
+    "start": 2.941,
+    "end": 3.501,
+    "word": "forsøgte",
+    "probability": 0.99
+  },
+  {
+    "start": 3.501,
+    "end": 3.681,
+    "word": "at",
+    "probability": 0.988269530189058
+  },
+  {
+    "start": 3.681,
+    "end": 3.901,
+    "word": "gå",
+    "probability": 0.9893744245294687
+  },
+  {
+    "start": 3.901,
+    "end": 4.101,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 4.101,
+    "end": 4.421,
+    "word": "sine",
+    "probability": 0.9583407883826986
+  },
+  {
+    "start": 4.421,
+    "end": 4.982,
+    "word": "bagben",
+    "probability": 0.9649129565432943
+  },
+  {
+    "start": 4.982,
+    "end": 5.202,
+    "word": "i",
+    "probability": 0.973655231113037
+  },
+  {
+    "start": 5.202,
+    "end": 5.702,
+    "word": "bukser",
+    "probability": 0.9728339013799452
+  },
+  {
+    "start": 5.702,
+    "end": 7.503,
+    "word": "Han",
+    "probability": 0.99
+  },
+  {
+    "start": 7.503,
+    "end": 7.983,
+    "word": "kæmpede",
+    "probability": 0.9650901081133313
+  },
+  {
+    "start": 7.983,
+    "end": 8.223,
+    "word": "sig",
+    "probability": 0.9451364401306067
+  },
+  {
+    "start": 8.223,
+    "end": 8.483,
+    "word": "op",
+    "probability": 0.9791056838025726
+  },
+  {
+    "start": 8.483,
+    "end": 8.643,
+    "word": "ad",
+    "probability": 0.9054411226367796
+  },
+  {
+    "start": 8.643,
+    "end": 9.183,
+    "word": "klipperne",
+    "probability": 0.893954917668741
+  },
+  {
+    "start": 9.183,
+    "end": 9.463,
+    "word": "lidt",
+    "probability": 0.9641420706418921
+  },
+  {
+    "start": 9.463,
+    "end": 9.843,
+    "word": "efter",
+    "probability": 0.9497520908448106
+  },
+  {
+    "start": 9.843,
+    "end": 10.123,
+    "word": "lidt",
+    "probability": 0.888306973683641
+  },
+  {
+    "start": 10.123,
+    "end": 11.144,
+    "word": "knuste",
+    "probability": 0.9835222274806794
+  },
+  {
+    "start": 11.144,
+    "end": 11.784,
+    "word": "bregnerne",
+    "probability": 0.8773203845597384
+  },
+  {
+    "start": 11.784,
+    "end": 12.284,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 12.284,
+    "end": 12.784,
+    "word": "mistede",
+    "probability": 0.9558505601401366
+  },
+  {
+    "start": 12.784,
+    "end": 13.264,
+    "word": "knapper",
+    "probability": 0.9587925107890182
+  },
+  {
+    "start": 13.264,
+    "end": 13.505,
+    "word": "til",
+    "probability": 0.9858072995113686
+  },
+  {
+    "start": 13.505,
+    "end": 13.965,
+    "word": "højre",
+    "probability": 0.9805666853166394
+  },
+  {
+    "start": 13.965,
+    "end": 14.285,
+    "word": "og",
+    "probability": 0.9715670511595447
+  },
+  {
+    "start": 14.285,
+    "end": 14.765,
+    "word": "venstre",
+    "probability": 0.9856954120701967
+  }
+]

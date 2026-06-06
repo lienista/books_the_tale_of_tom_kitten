@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.661,
+    "word": "Poslala",
+    "probability": 0.9708366161426117
+  },
+  {
+    "start": 0.661,
+    "end": 0.961,
+    "word": "ich",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.402,
+    "word": "hore",
+    "probability": 0.9818510830404935
+  },
+  {
+    "start": 1.402,
+    "end": 2.203,
+    "word": "a",
+    "probability": 0.9687304891390556
+  },
+  {
+    "start": 2.203,
+    "end": 2.383,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 2.383,
+    "end": 2.543,
+    "word": "mi",
+    "probability": 0.9354580625821118
+  },
+  {
+    "start": 2.543,
+    "end": 3.144,
+    "word": "ľúto",
+    "probability": 0.962458436649691
+  },
+  {
+    "start": 3.144,
+    "end": 3.925,
+    "word": "povedať",
+    "probability": 0.9846670230635157
+  },
+  {
+    "start": 3.925,
+    "end": 4.666,
+    "word": "že",
+    "probability": 0.97534759265824
+  },
+  {
+    "start": 4.666,
+    "end": 5.227,
+    "word": "svojim",
+    "probability": 0.9449607456699523
+  },
+  {
+    "start": 5.227,
+    "end": 6.048,
+    "word": "priateľom",
+    "probability": 0.8761142365513653
+  },
+  {
+    "start": 6.048,
+    "end": 6.789,
+    "word": "povedala",
+    "probability": 0.9788994311017676
+  },
+  {
+    "start": 6.789,
+    "end": 7.77,
+    "word": "že",
+    "probability": 0.9748528619031351
+  },
+  {
+    "start": 7.77,
+    "end": 7.97,
+    "word": "sú",
+    "probability": 0.99
+  },
+  {
+    "start": 7.97,
+    "end": 8.09,
+    "word": "v",
+    "probability": 0.9852025352040723
+  },
+  {
+    "start": 8.09,
+    "end": 8.891,
+    "word": "posteli",
+    "probability": 0.99
+  },
+  {
+    "start": 8.891,
+    "end": 9.272,
+    "word": "s",
+    "probability": 0.9424418487787658
+  },
+  {
+    "start": 9.272,
+    "end": 10.554,
+    "word": "prechladnutím",
+    "probability": 0.9593324056644061
+  },
+  {
+    "start": 10.554,
+    "end": 11.255,
+    "word": "čo",
+    "probability": 0.99
+  },
+  {
+    "start": 11.255,
+    "end": 11.935,
+    "word": "nebola",
+    "probability": 0.9853844390459069
+  },
+  {
+    "start": 11.935,
+    "end": 12.456,
+    "word": "pravda",
+    "probability": 0.9617085963958497
+  }
+]

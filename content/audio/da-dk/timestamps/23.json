@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.101,
+    "end": 0.242,
+    "word": "Helt",
+    "probability": 0.9687951259587028
+  },
+  {
+    "start": 0.242,
+    "end": 0.644,
+    "word": "modsat",
+    "probability": 0.9660685328829326
+  },
+  {
+    "start": 0.644,
+    "end": 1.389,
+    "word": "de",
+    "probability": 0.9637298473661933
+  },
+  {
+    "start": 1.389,
+    "end": 1.55,
+    "word": "lå",
+    "probability": 0.9826457976314015
+  },
+  {
+    "start": 1.55,
+    "end": 1.832,
+    "word": "slet",
+    "probability": 0.99
+  },
+  {
+    "start": 1.832,
+    "end": 2.034,
+    "word": "ikke",
+    "probability": 0.967612795018961
+  },
+  {
+    "start": 2.034,
+    "end": 2.154,
+    "word": "i",
+    "probability": 0.9439500347349008
+  },
+  {
+    "start": 2.154,
+    "end": 2.456,
+    "word": "sengen",
+    "probability": 0.9802565492289831
+  }
+]

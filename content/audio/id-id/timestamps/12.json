@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.24,
+    "word": "Dia",
+    "probability": 0.9362470787356404
+  },
+  {
+    "start": 0.24,
+    "end": 0.721,
+    "word": "sudah",
+    "probability": 0.977338980226004
+  },
+  {
+    "start": 0.721,
+    "end": 1.482,
+    "word": "berantakan",
+    "probability": 0.9734815467456425
+  },
+  {
+    "start": 1.482,
+    "end": 1.983,
+    "word": "saat",
+    "probability": 0.99
+  },
+  {
+    "start": 1.983,
+    "end": 2.603,
+    "word": "mencapai",
+    "probability": 0.9867342555636329
+  },
+  {
+    "start": 2.603,
+    "end": 3.224,
+    "word": "puncak",
+    "probability": 0.9734135033688128
+  },
+  {
+    "start": 3.224,
+    "end": 3.805,
+    "word": "tembok",
+    "probability": 0.9608915206227406
+  },
+  {
+    "start": 3.805,
+    "end": 4.786,
+    "word": "Moppet",
+    "probability": 0.9580701049913691
+  },
+  {
+    "start": 4.786,
+    "end": 4.946,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 4.946,
+    "end": 5.487,
+    "word": "Mittens",
+    "probability": 0.9778061816574286
+  },
+  {
+    "start": 5.487,
+    "end": 6.048,
+    "word": "mencoba",
+    "probability": 0.98289942723609
+  },
+  {
+    "start": 6.048,
+    "end": 6.869,
+    "word": "memperbaiki",
+    "probability": 0.9744751297638415
+  },
+  {
+    "start": 6.869,
+    "end": 7.63,
+    "word": "pakaiannya",
+    "probability": 0.9526961402385777
+  },
+  {
+    "start": 7.63,
+    "end": 8.631,
+    "word": "tetapi",
+    "probability": 0.99
+  },
+  {
+    "start": 8.631,
+    "end": 9.172,
+    "word": "topinya",
+    "probability": 0.9773928874893507
+  },
+  {
+    "start": 9.172,
+    "end": 9.753,
+    "word": "jatuh",
+    "probability": 0.9818867802341796
+  },
+  {
+    "start": 9.753,
+    "end": 10.313,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 10.313,
+    "end": 10.934,
+    "word": "kancing",
+    "probability": 0.99
+  },
+  {
+    "start": 10.934,
+    "end": 11.615,
+    "word": "terakhirnya",
+    "probability": 0.99
+  },
+  {
+    "start": 11.615,
+    "end": 12.176,
+    "word": "terlepas",
+    "probability": 0.99
+  }
+]

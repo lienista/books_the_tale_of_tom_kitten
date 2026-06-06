@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.401,
+    "end": 0.616,
+    "word": "One",
+    "probability": 0.6489024296689084
+  },
+  {
+    "start": 0.616,
+    "end": 0.749,
+    "word": "day",
+    "probability": 0.2048414933685348
+  },
+  {
+    "start": 0.749,
+    "end": 1.527,
+    "word": "their",
+    "probability": 0.7495365575615727
+  },
+  {
+    "start": 1.527,
+    "end": 2.116,
+    "word": "motherMrs",
+    "probability": 0.3976331991320894
+  },
+  {
+    "start": 2.116,
+    "end": 2.972,
+    "word": "Tabitha",
+    "probability": 0.7292619811466182
+  },
+  {
+    "start": 2.972,
+    "end": 3.828,
+    "word": "Twitchitwas",
+    "probability": 0.5099152592638332
+  },
+  {
+    "start": 3.828,
+    "end": 4.525,
+    "word": "expecting",
+    "probability": 0.6151494331202603
+  },
+  {
+    "start": 4.525,
+    "end": 5.328,
+    "word": "friends",
+    "probability": 0.676938742648823
+  },
+  {
+    "start": 5.328,
+    "end": 5.569,
+    "word": "for",
+    "probability": 0.5954316595602369
+  },
+  {
+    "start": 5.569,
+    "end": 6.024,
+    "word": "tea",
+    "probability": 0.7080774890801694
+  },
+  {
+    "start": 6.024,
+    "end": 6.345,
+    "word": "She",
+    "probability": 0.5957302128545134
+  },
+  {
+    "start": 6.345,
+    "end": 6.987,
+    "word": "brought",
+    "probability": 0.3053596364815925
+  },
+  {
+    "start": 6.987,
+    "end": 7.23,
+    "word": "the",
+    "probability": 0.6665202824385686
+  },
+  {
+    "start": 7.23,
+    "end": 7.899,
+    "word": "kittens",
+    "probability": 0.6660547896491107
+  },
+  {
+    "start": 7.899,
+    "end": 9.264,
+    "word": "inside",
+    "probability": 0.880946114535657
+  },
+  {
+    "start": 9.264,
+    "end": 9.344,
+    "word": "to",
+    "probability": 0.13077024364833875
+  },
+  {
+    "start": 9.344,
+    "end": 9.611,
+    "word": "wash",
+    "probability": 0.29925344444118734
+  },
+  {
+    "start": 9.611,
+    "end": 9.799,
+    "word": "them",
+    "probability": 0.03871861368763422
+  },
+  {
+    "start": 9.799,
+    "end": 9.934,
+    "word": "and",
+    "probability": 0.2019598464071895
+  },
+  {
+    "start": 9.934,
+    "end": 10.416,
+    "word": "dress",
+    "probability": 0.5526458190884321
+  },
+  {
+    "start": 10.416,
+    "end": 10.63,
+    "word": "them",
+    "probability": 0.31457410259324603
+  },
+  {
+    "start": 10.63,
+    "end": 11.326,
+    "word": "before",
+    "probability": 0.7055347702980849
+  },
+  {
+    "start": 11.326,
+    "end": 11.593,
+    "word": "her",
+    "probability": 0.44889985874747496
+  },
+  {
+    "start": 11.593,
+    "end": 12.048,
+    "word": "guests",
+    "probability": 0.6426023497990859
+  },
+  {
+    "start": 12.048,
+    "end": 12.396,
+    "word": "arrived",
+    "probability": 0.5328319164477747
+  }
+]

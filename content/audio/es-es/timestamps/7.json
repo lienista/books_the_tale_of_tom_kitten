@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.24,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.721,
+    "word": "Kitten",
+    "probability": 0.9100019883785402
+  },
+  {
+    "start": 0.721,
+    "end": 1.162,
+    "word": "estaba",
+    "probability": 0.99
+  },
+  {
+    "start": 1.162,
+    "end": 1.823,
+    "word": "bastante",
+    "probability": 0.99
+  },
+  {
+    "start": 1.823,
+    "end": 2.444,
+    "word": "gordito",
+    "probability": 0.99
+  },
+  {
+    "start": 2.444,
+    "end": 2.884,
+    "word": "y",
+    "probability": 0.9786078841962772
+  },
+  {
+    "start": 2.884,
+    "end": 3.345,
+    "word": "había",
+    "probability": 0.99
+  },
+  {
+    "start": 3.345,
+    "end": 3.946,
+    "word": "crecido",
+    "probability": 0.99
+  },
+  {
+    "start": 3.946,
+    "end": 4.987,
+    "word": "varios",
+    "probability": 0.99
+  },
+  {
+    "start": 4.987,
+    "end": 5.528,
+    "word": "botones",
+    "probability": 0.9892821013167399
+  },
+  {
+    "start": 5.528,
+    "end": 5.668,
+    "word": "se",
+    "probability": 0.979399240925823
+  },
+  {
+    "start": 5.668,
+    "end": 6.309,
+    "word": "rompieron",
+    "probability": 0.99
+  },
+  {
+    "start": 6.309,
+    "end": 7.431,
+    "word": "inmediatamente",
+    "probability": 0.9874714012408049
+  },
+  {
+    "start": 7.431,
+    "end": 8.272,
+    "word": "Su",
+    "probability": 0.99
+  },
+  {
+    "start": 8.272,
+    "end": 8.633,
+    "word": "madre",
+    "probability": 0.99
+  },
+  {
+    "start": 8.633,
+    "end": 9.214,
+    "word": "suspiró",
+    "probability": 0.99
+  },
+  {
+    "start": 9.214,
+    "end": 9.734,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 9.734,
+    "end": 9.955,
+    "word": "los",
+    "probability": 0.99
+  },
+  {
+    "start": 9.955,
+    "end": 10.415,
+    "word": "cosió",
+    "probability": 0.9544771100981748
+  },
+  {
+    "start": 10.415,
+    "end": 10.616,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 10.616,
+    "end": 10.936,
+    "word": "nuevo",
+    "probability": 0.99
+  }
+]

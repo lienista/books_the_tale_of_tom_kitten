@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.28,
+    "word": "Tom",
+    "probability": 0.7692525796955437
+  },
+  {
+    "start": 0.28,
+    "end": 0.861,
+    "word": "Kitten",
+    "probability": 0.7676429740496844
+  },
+  {
+    "start": 0.861,
+    "end": 1.662,
+    "word": "ne",
+    "probability": 0.9509027269303267
+  },
+  {
+    "start": 1.662,
+    "end": 2.062,
+    "word": "pouvait",
+    "probability": 0.99
+  },
+  {
+    "start": 2.062,
+    "end": 2.243,
+    "word": "pas",
+    "probability": 0.99
+  },
+  {
+    "start": 2.243,
+    "end": 2.403,
+    "word": "du",
+    "probability": 0.99
+  },
+  {
+    "start": 2.403,
+    "end": 2.623,
+    "word": "tout",
+    "probability": 0.99
+  },
+  {
+    "start": 2.623,
+    "end": 3.184,
+    "word": "sauter",
+    "probability": 0.9789955557193775
+  },
+  {
+    "start": 3.184,
+    "end": 3.904,
+    "word": "en",
+    "probability": 0.9897660105610336
+  },
+  {
+    "start": 3.904,
+    "end": 4.525,
+    "word": "essayant",
+    "probability": 0.99
+  },
+  {
+    "start": 4.525,
+    "end": 4.685,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 4.685,
+    "end": 5.186,
+    "word": "marcher",
+    "probability": 0.9899350647421206
+  },
+  {
+    "start": 5.186,
+    "end": 5.446,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 5.446,
+    "end": 5.707,
+    "word": "ses",
+    "probability": 0.99
+  },
+  {
+    "start": 5.707,
+    "end": 6.107,
+    "word": "pattes",
+    "probability": 0.984863217882749
+  },
+  {
+    "start": 6.107,
+    "end": 6.788,
+    "word": "arrière",
+    "probability": 0.99
+  },
+  {
+    "start": 6.788,
+    "end": 7.208,
+    "word": "avec",
+    "probability": 0.9471247078640461
+  },
+  {
+    "start": 7.208,
+    "end": 7.368,
+    "word": "un",
+    "probability": 0.99
+  },
+  {
+    "start": 7.368,
+    "end": 8.009,
+    "word": "pantalon",
+    "probability": 0.99
+  },
+  {
+    "start": 8.009,
+    "end": 9.511,
+    "word": "Il",
+    "probability": 0.9876826130132068
+  },
+  {
+    "start": 9.511,
+    "end": 9.931,
+    "word": "lutta",
+    "probability": 0.9896799494828272
+  },
+  {
+    "start": 9.931,
+    "end": 10.212,
+    "word": "pour",
+    "probability": 0.99
+  },
+  {
+    "start": 10.212,
+    "end": 10.752,
+    "word": "grimper",
+    "probability": 0.99
+  },
+  {
+    "start": 10.752,
+    "end": 10.993,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 10.993,
+    "end": 11.193,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 11.193,
+    "end": 11.673,
+    "word": "rochers",
+    "probability": 0.9827862704247305
+  },
+  {
+    "start": 11.673,
+    "end": 12.334,
+    "word": "petit",
+    "probability": 0.9877955488454635
+  },
+  {
+    "start": 12.334,
+    "end": 12.534,
+    "word": "à",
+    "probability": 0.9688803698873585
+  },
+  {
+    "start": 12.534,
+    "end": 13.055,
+    "word": "petit",
+    "probability": 0.986355813015826
+  },
+  {
+    "start": 13.055,
+    "end": 14.637,
+    "word": "écrasant",
+    "probability": 0.9801759405007082
+  },
+  {
+    "start": 14.637,
+    "end": 14.837,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 14.837,
+    "end": 15.598,
+    "word": "fougères",
+    "probability": 0.99
+  },
+  {
+    "start": 15.598,
+    "end": 16.239,
+    "word": "et",
+    "probability": 0.9862618904302818
+  },
+  {
+    "start": 16.239,
+    "end": 16.699,
+    "word": "perdant",
+    "probability": 0.99
+  },
+  {
+    "start": 16.699,
+    "end": 16.899,
+    "word": "des",
+    "probability": 0.99
+  },
+  {
+    "start": 16.899,
+    "end": 17.44,
+    "word": "boutons",
+    "probability": 0.99
+  },
+  {
+    "start": 17.44,
+    "end": 17.9,
+    "word": "à",
+    "probability": 0.9884569150476864
+  },
+  {
+    "start": 17.9,
+    "end": 18.421,
+    "word": "gauche",
+    "probability": 0.99
+  },
+  {
+    "start": 18.421,
+    "end": 18.701,
+    "word": "et",
+    "probability": 0.9882762878197521
+  },
+  {
+    "start": 18.701,
+    "end": 18.821,
+    "word": "à",
+    "probability": 0.99
+  },
+  {
+    "start": 18.821,
+    "end": 19.302,
+    "word": "droite",
+    "probability": 0.9779899030385558
+  }
+]

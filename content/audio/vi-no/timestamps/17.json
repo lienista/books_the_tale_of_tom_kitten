@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "Ông",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.622,
+    "word": "Drake",
+    "probability": 0.8257742881190735
+  },
+  {
+    "start": 0.622,
+    "end": 1.404,
+    "word": "PuddleDuck",
+    "probability": 0.7066140215473973
+  },
+  {
+    "start": 1.404,
+    "end": 1.966,
+    "word": "lạch",
+    "probability": 0.9252733739088619
+  },
+  {
+    "start": 1.966,
+    "end": 2.206,
+    "word": "bạch",
+    "probability": 0.9790266775640106
+  },
+  {
+    "start": 2.206,
+    "end": 2.407,
+    "word": "đi",
+    "probability": 0.9194927651557481
+  },
+  {
+    "start": 2.407,
+    "end": 2.728,
+    "word": "tới",
+    "probability": 0.978348082679768
+  },
+  {
+    "start": 2.728,
+    "end": 2.989,
+    "word": "một",
+    "probability": 0.99
+  },
+  {
+    "start": 2.989,
+    "end": 3.209,
+    "word": "cách",
+    "probability": 0.99
+  },
+  {
+    "start": 3.209,
+    "end": 3.45,
+    "word": "chậm",
+    "probability": 0.7669411479397658
+  },
+  {
+    "start": 3.45,
+    "end": 3.771,
+    "word": "chạp",
+    "probability": 0.929618251116629
+  },
+  {
+    "start": 3.771,
+    "end": 4.413,
+    "word": "nghiêng",
+    "probability": 0.9106935151470037
+  },
+  {
+    "start": 4.413,
+    "end": 4.694,
+    "word": "ngả",
+    "probability": 0.875995997694116
+  },
+  {
+    "start": 4.694,
+    "end": 5.055,
+    "word": "và",
+    "probability": 0.9740016915293983
+  },
+  {
+    "start": 5.055,
+    "end": 5.255,
+    "word": "nhặt",
+    "probability": 0.9058864895572423
+  },
+  {
+    "start": 5.255,
+    "end": 5.496,
+    "word": "các",
+    "probability": 0.8940281461199359
+  },
+  {
+    "start": 5.496,
+    "end": 5.697,
+    "word": "món",
+    "probability": 0.9553545506801397
+  },
+  {
+    "start": 5.697,
+    "end": 5.957,
+    "word": "đồ",
+    "probability": 0.9856638505133872
+  },
+  {
+    "start": 5.957,
+    "end": 6.198,
+    "word": "khác",
+    "probability": 0.99
+  },
+  {
+    "start": 6.198,
+    "end": 6.419,
+    "word": "nhau",
+    "probability": 0.9786914264511779
+  },
+  {
+    "start": 6.419,
+    "end": 6.659,
+    "word": "lên",
+    "probability": 0.99
+  }
+]

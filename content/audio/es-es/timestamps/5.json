@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.541,
+    "word": "Luego",
+    "probability": 0.99
+  },
+  {
+    "start": 0.541,
+    "end": 0.801,
+    "word": "les",
+    "probability": 0.9679003838681896
+  },
+  {
+    "start": 0.801,
+    "end": 1.222,
+    "word": "peinó",
+    "probability": 0.9815989027374153
+  },
+  {
+    "start": 1.222,
+    "end": 1.482,
+    "word": "las",
+    "probability": 0.9706136187180692
+  },
+  {
+    "start": 1.482,
+    "end": 2.003,
+    "word": "colas",
+    "probability": 0.99
+  },
+  {
+    "start": 2.003,
+    "end": 2.123,
+    "word": "y",
+    "probability": 0.980815613722156
+  },
+  {
+    "start": 2.123,
+    "end": 2.323,
+    "word": "los",
+    "probability": 0.99
+  },
+  {
+    "start": 2.323,
+    "end": 2.964,
+    "word": "bigotes",
+    "probability": 0.99
+  },
+  {
+    "start": 2.964,
+    "end": 4.045,
+    "word": "este",
+    "probability": 0.99
+  },
+  {
+    "start": 4.045,
+    "end": 4.166,
+    "word": "es",
+    "probability": 0.6243917429796467
+  },
+  {
+    "start": 4.166,
+    "end": 4.466,
+    "word": "Tom",
+    "probability": 0.9856571898288088
+  },
+  {
+    "start": 4.466,
+    "end": 5.027,
+    "word": "Kitten",
+    "probability": 0.9616373183974395
+  },
+  {
+    "start": 5.027,
+    "end": 6.088,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 6.088,
+    "end": 6.609,
+    "word": "seguía",
+    "probability": 0.99
+  },
+  {
+    "start": 6.609,
+    "end": 7.37,
+    "word": "intentando",
+    "probability": 0.99
+  },
+  {
+    "start": 7.37,
+    "end": 8.071,
+    "word": "rascarse",
+    "probability": 0.9841184540167879
+  },
+  {
+    "start": 8.071,
+    "end": 8.291,
+    "word": "con",
+    "probability": 0.99
+  },
+  {
+    "start": 8.291,
+    "end": 8.431,
+    "word": "el",
+    "probability": 0.9818418145684106
+  },
+  {
+    "start": 8.431,
+    "end": 8.792,
+    "word": "peine",
+    "probability": 0.99
+  }
+]

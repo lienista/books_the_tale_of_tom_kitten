@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.801,
+    "word": "Pagkatapos",
+    "probability": 0.9727606773471295
+  },
+  {
+    "start": 0.801,
+    "end": 1.001,
+    "word": "ay",
+    "probability": 0.8402195861832956
+  },
+  {
+    "start": 1.001,
+    "end": 1.481,
+    "word": "kinuha",
+    "probability": 0.99
+  },
+  {
+    "start": 1.481,
+    "end": 1.681,
+    "word": "ng",
+    "probability": 0.83646806019787
+  },
+  {
+    "start": 1.681,
+    "end": 2.102,
+    "word": "dalawang",
+    "probability": 0.967867271080547
+  },
+  {
+    "start": 2.102,
+    "end": 2.622,
+    "word": "babaeng",
+    "probability": 0.99
+  },
+  {
+    "start": 2.622,
+    "end": 3.122,
+    "word": "pato",
+    "probability": 0.9861263176087813
+  },
+  {
+    "start": 3.122,
+    "end": 4.424,
+    "word": "sina",
+    "probability": 0.99
+  },
+  {
+    "start": 4.424,
+    "end": 5.084,
+    "word": "Rebeccah",
+    "probability": 0.8601191770305305
+  },
+  {
+    "start": 5.084,
+    "end": 5.544,
+    "word": "at",
+    "probability": 0.9540927521282477
+  },
+  {
+    "start": 5.544,
+    "end": 6.185,
+    "word": "Jemima",
+    "probability": 0.8833272511846804
+  },
+  {
+    "start": 6.185,
+    "end": 7.146,
+    "word": "PuddleDuck",
+    "probability": 0.8135121620587104
+  },
+  {
+    "start": 7.146,
+    "end": 7.926,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 7.926,
+    "end": 8.847,
+    "word": "sumbrero",
+    "probability": 0.9899812841733834
+  },
+  {
+    "start": 8.847,
+    "end": 9.147,
+    "word": "at",
+    "probability": 0.9636453695400992
+  },
+  {
+    "start": 9.147,
+    "end": 9.267,
+    "word": "ang",
+    "probability": 0.8074797904685643
+  },
+  {
+    "start": 9.267,
+    "end": 9.788,
+    "word": "kuwelyong",
+    "probability": 0.8536475145420017
+  },
+  {
+    "start": 9.788,
+    "end": 10.268,
+    "word": "lace",
+    "probability": 0.9096069701039441
+  },
+  {
+    "start": 10.268,
+    "end": 10.889,
+    "word": "at",
+    "probability": 0.9871414886445953
+  },
+  {
+    "start": 10.889,
+    "end": 11.689,
+    "word": "isinuot",
+    "probability": 0.9737626738167433
+  },
+  {
+    "start": 11.689,
+    "end": 11.809,
+    "word": "ang",
+    "probability": 0.7713563379934412
+  },
+  {
+    "start": 11.809,
+    "end": 12.03,
+    "word": "mga",
+    "probability": 0.9892435859483973
+  },
+  {
+    "start": 12.03,
+    "end": 12.27,
+    "word": "ito",
+    "probability": 0.978637744247742
+  }
+]

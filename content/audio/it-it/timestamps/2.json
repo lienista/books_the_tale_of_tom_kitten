@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "Un",
+    "probability": 0.9734984670863789
+  },
+  {
+    "start": 0.16,
+    "end": 0.541,
+    "word": "giorno",
+    "probability": 0.9809598514920703
+  },
+  {
+    "start": 0.541,
+    "end": 0.721,
+    "word": "la",
+    "probability": 0.950630984342694
+  },
+  {
+    "start": 0.721,
+    "end": 1.002,
+    "word": "loro",
+    "probability": 0.99
+  },
+  {
+    "start": 1.002,
+    "end": 2.103,
+    "word": "madrela",
+    "probability": 0.9552598102457699
+  },
+  {
+    "start": 2.103,
+    "end": 2.564,
+    "word": "signora",
+    "probability": 0.99
+  },
+  {
+    "start": 2.564,
+    "end": 3.225,
+    "word": "Tabitha",
+    "probability": 0.9337313292047251
+  },
+  {
+    "start": 3.225,
+    "end": 5.188,
+    "word": "Twitchitaspettava",
+    "probability": 0.937488588736977
+  },
+  {
+    "start": 5.188,
+    "end": 5.669,
+    "word": "amici",
+    "probability": 0.9816277790555857
+  },
+  {
+    "start": 5.669,
+    "end": 5.889,
+    "word": "per",
+    "probability": 0.9463317858353725
+  },
+  {
+    "start": 5.889,
+    "end": 6.05,
+    "word": "il",
+    "probability": 0.99
+  },
+  {
+    "start": 6.05,
+    "end": 6.31,
+    "word": "tè",
+    "probability": 0.99
+  },
+  {
+    "start": 6.31,
+    "end": 7.332,
+    "word": "Portò",
+    "probability": 0.9806398474836316
+  },
+  {
+    "start": 7.332,
+    "end": 7.432,
+    "word": "i",
+    "probability": 0.9847796928001611
+  },
+  {
+    "start": 7.432,
+    "end": 7.912,
+    "word": "gattini",
+    "probability": 0.989285011381351
+  },
+  {
+    "start": 7.912,
+    "end": 8.433,
+    "word": "dentro",
+    "probability": 0.99
+  },
+  {
+    "start": 8.433,
+    "end": 8.654,
+    "word": "per",
+    "probability": 0.9470916443255976
+  },
+  {
+    "start": 8.654,
+    "end": 9.154,
+    "word": "lavarli",
+    "probability": 0.9896346943408862
+  },
+  {
+    "start": 9.154,
+    "end": 9.235,
+    "word": "e",
+    "probability": 0.8239753662508391
+  },
+  {
+    "start": 9.235,
+    "end": 9.876,
+    "word": "vestirli",
+    "probability": 0.99
+  },
+  {
+    "start": 9.876,
+    "end": 10.256,
+    "word": "prima",
+    "probability": 0.99
+  },
+  {
+    "start": 10.256,
+    "end": 10.416,
+    "word": "che",
+    "probability": 0.8929047595192023
+  },
+  {
+    "start": 10.416,
+    "end": 11.017,
+    "word": "arrivassero",
+    "probability": 0.9785106778414635
+  },
+  {
+    "start": 11.017,
+    "end": 11.097,
+    "word": "i",
+    "probability": 0.8811888006886254
+  },
+  {
+    "start": 11.097,
+    "end": 11.338,
+    "word": "suoi",
+    "probability": 0.9794326584116894
+  },
+  {
+    "start": 11.338,
+    "end": 11.879,
+    "word": "ospiti",
+    "probability": 0.99
+  }
+]

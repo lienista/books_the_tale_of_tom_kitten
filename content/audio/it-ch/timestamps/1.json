@@ -1,0 +1,200 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.26,
+    "word": "Cera",
+    "probability": 0.7304812527023768
+  },
+  {
+    "start": 0.26,
+    "end": 0.44,
+    "word": "una",
+    "probability": 0.8721846181474942
+  },
+  {
+    "start": 0.44,
+    "end": 0.961,
+    "word": "volta",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.582,
+    "word": "cerano",
+    "probability": 0.9316390606327816
+  },
+  {
+    "start": 1.582,
+    "end": 1.802,
+    "word": "tre",
+    "probability": 0.9464549318423132
+  },
+  {
+    "start": 1.802,
+    "end": 2.302,
+    "word": "piccoli",
+    "probability": 0.9845160494450699
+  },
+  {
+    "start": 2.302,
+    "end": 2.903,
+    "word": "gattini",
+    "probability": 0.9655825718972451
+  },
+  {
+    "start": 2.903,
+    "end": 3.103,
+    "word": "di",
+    "probability": 0.9393868993532564
+  },
+  {
+    "start": 3.103,
+    "end": 3.423,
+    "word": "nome",
+    "probability": 0.99
+  },
+  {
+    "start": 3.423,
+    "end": 4.344,
+    "word": "Mittens",
+    "probability": 0.9668231841459601
+  },
+  {
+    "start": 4.344,
+    "end": 4.885,
+    "word": "Tom",
+    "probability": 0.942372867409164
+  },
+  {
+    "start": 4.885,
+    "end": 5.665,
+    "word": "Kitten",
+    "probability": 0.9308074684756474
+  },
+  {
+    "start": 5.665,
+    "end": 5.946,
+    "word": "e",
+    "probability": 0.9861854059098354
+  },
+  {
+    "start": 5.946,
+    "end": 6.767,
+    "word": "Moppet",
+    "probability": 0.9623802176986084
+  },
+  {
+    "start": 6.767,
+    "end": 7.707,
+    "word": "Avevano",
+    "probability": 0.99
+  },
+  {
+    "start": 7.707,
+    "end": 8.348,
+    "word": "bellissimi",
+    "probability": 0.976891048219105
+  },
+  {
+    "start": 8.348,
+    "end": 8.909,
+    "word": "mantelli",
+    "probability": 0.9791414985010743
+  },
+  {
+    "start": 8.909,
+    "end": 9.049,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 9.049,
+    "end": 9.729,
+    "word": "pelliccia",
+    "probability": 0.99
+  },
+  {
+    "start": 9.729,
+    "end": 10.05,
+    "word": "e",
+    "probability": 0.9813030416045235
+  },
+  {
+    "start": 10.05,
+    "end": 10.79,
+    "word": "passavano",
+    "probability": 0.9837236293123913
+  },
+  {
+    "start": 10.79,
+    "end": 10.971,
+    "word": "le",
+    "probability": 0.9666457067898252
+  },
+  {
+    "start": 10.971,
+    "end": 11.231,
+    "word": "loro",
+    "probability": 0.9672863742070791
+  },
+  {
+    "start": 11.231,
+    "end": 11.911,
+    "word": "giornate",
+    "probability": 0.9840763015657854
+  },
+  {
+    "start": 11.911,
+    "end": 12.072,
+    "word": "a",
+    "probability": 0.9522637279064349
+  },
+  {
+    "start": 12.072,
+    "end": 12.752,
+    "word": "rotolarsi",
+    "probability": 0.9807201968651699
+  },
+  {
+    "start": 12.752,
+    "end": 12.952,
+    "word": "sul",
+    "probability": 0.9838455527206873
+  },
+  {
+    "start": 12.952,
+    "end": 13.633,
+    "word": "portico",
+    "probability": 0.9714736371026885
+  },
+  {
+    "start": 13.633,
+    "end": 13.893,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 13.893,
+    "end": 14.054,
+    "word": "a",
+    "probability": 0.9461344946620287
+  },
+  {
+    "start": 14.054,
+    "end": 14.614,
+    "word": "giocare",
+    "probability": 0.99
+  },
+  {
+    "start": 14.614,
+    "end": 14.934,
+    "word": "nella",
+    "probability": 0.9684060067989928
+  },
+  {
+    "start": 14.934,
+    "end": 15.395,
+    "word": "terra",
+    "probability": 0.99
+  }
+]

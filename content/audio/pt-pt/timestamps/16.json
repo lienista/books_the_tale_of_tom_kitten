@@ -1,0 +1,254 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.12,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 0.12,
+    "end": 0.781,
+    "word": "Mittens",
+    "probability": 0.8483707355255329
+  },
+  {
+    "start": 0.781,
+    "end": 1.141,
+    "word": "riu",
+    "probability": 0.9246695886991432
+  },
+  {
+    "start": 1.141,
+    "end": 1.621,
+    "word": "tanto",
+    "probability": 0.9186137896754031
+  },
+  {
+    "start": 1.621,
+    "end": 1.821,
+    "word": "que",
+    "probability": 0.8989381841579467
+  },
+  {
+    "start": 1.821,
+    "end": 2.222,
+    "word": "caiu",
+    "probability": 0.9729159948763029
+  },
+  {
+    "start": 2.222,
+    "end": 2.362,
+    "word": "do",
+    "probability": 0.9756275510999249
+  },
+  {
+    "start": 2.362,
+    "end": 2.802,
+    "word": "muro",
+    "probability": 0.9701720477288639
+  },
+  {
+    "start": 2.802,
+    "end": 3.863,
+    "word": "A",
+    "probability": 0.9876110430061306
+  },
+  {
+    "start": 3.863,
+    "end": 4.443,
+    "word": "Moppet",
+    "probability": 0.954732273299112
+  },
+  {
+    "start": 4.443,
+    "end": 4.603,
+    "word": "e",
+    "probability": 0.9173179044556974
+  },
+  {
+    "start": 4.603,
+    "end": 4.683,
+    "word": "o",
+    "probability": 0.9727206530816609
+  },
+  {
+    "start": 4.683,
+    "end": 5.064,
+    "word": "Tom",
+    "probability": 0.95505365275501
+  },
+  {
+    "start": 5.064,
+    "end": 5.684,
+    "word": "desceram",
+    "probability": 0.9808838365276966
+  },
+  {
+    "start": 5.684,
+    "end": 6.104,
+    "word": "atrás",
+    "probability": 0.9250155316290846
+  },
+  {
+    "start": 6.104,
+    "end": 6.525,
+    "word": "dela",
+    "probability": 0.9119467452741197
+  },
+  {
+    "start": 6.525,
+    "end": 7.385,
+    "word": "os",
+    "probability": 0.99
+  },
+  {
+    "start": 7.385,
+    "end": 8.186,
+    "word": "vestidos",
+    "probability": 0.99
+  },
+  {
+    "start": 8.186,
+    "end": 8.386,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 8.386,
+    "end": 8.486,
+    "word": "o",
+    "probability": 0.8971034972560648
+  },
+  {
+    "start": 8.486,
+    "end": 8.926,
+    "word": "resto",
+    "probability": 0.9444998290223602
+  },
+  {
+    "start": 8.926,
+    "end": 9.167,
+    "word": "das",
+    "probability": 0.9513290455503989
+  },
+  {
+    "start": 9.167,
+    "end": 9.587,
+    "word": "roupas",
+    "probability": 0.9780404004403082
+  },
+  {
+    "start": 9.587,
+    "end": 9.767,
+    "word": "do",
+    "probability": 0.938175779911172
+  },
+  {
+    "start": 9.767,
+    "end": 10.127,
+    "word": "Tom",
+    "probability": 0.9680815761024256
+  },
+  {
+    "start": 10.127,
+    "end": 10.708,
+    "word": "caíram",
+    "probability": 0.9267745611976315
+  },
+  {
+    "start": 10.708,
+    "end": 11.008,
+    "word": "pelo",
+    "probability": 0.9641232607067387
+  },
+  {
+    "start": 11.008,
+    "end": 11.588,
+    "word": "caminho",
+    "probability": 0.9742794910774831
+  },
+  {
+    "start": 11.588,
+    "end": 13.309,
+    "word": "Senhor",
+    "probability": 0.9616299928746351
+  },
+  {
+    "start": 13.309,
+    "end": 13.87,
+    "word": "Drake",
+    "probability": 0.8824541169065975
+  },
+  {
+    "start": 13.87,
+    "end": 14.951,
+    "word": "PuddleDuck",
+    "probability": 0.8780655346289586
+  },
+  {
+    "start": 14.951,
+    "end": 15.711,
+    "word": "chamou",
+    "probability": 0.9647624338326977
+  },
+  {
+    "start": 15.711,
+    "end": 15.831,
+    "word": "a",
+    "probability": 0.9550288240357268
+  },
+  {
+    "start": 15.831,
+    "end": 16.432,
+    "word": "Moppet",
+    "probability": 0.9381403305428943
+  },
+  {
+    "start": 16.432,
+    "end": 17.332,
+    "word": "Venha",
+    "probability": 0.9701742638663667
+  },
+  {
+    "start": 17.332,
+    "end": 18.093,
+    "word": "ajudarnos",
+    "probability": 0.9455541666294385
+  },
+  {
+    "start": 18.093,
+    "end": 18.233,
+    "word": "a",
+    "probability": 0.9024613946025164
+  },
+  {
+    "start": 18.233,
+    "end": 18.913,
+    "word": "vestilo",
+    "probability": 0.9559974974241591
+  },
+  {
+    "start": 18.913,
+    "end": 19.714,
+    "word": "Venha",
+    "probability": 0.9764870750487764
+  },
+  {
+    "start": 19.714,
+    "end": 20.435,
+    "word": "abotoar",
+    "probability": 0.960298215436517
+  },
+  {
+    "start": 20.435,
+    "end": 20.535,
+    "word": "o",
+    "probability": 0.9748288825426918
+  },
+  {
+    "start": 20.535,
+    "end": 20.795,
+    "word": "Tom",
+    "probability": 0.9306380997922823
+  }
+]

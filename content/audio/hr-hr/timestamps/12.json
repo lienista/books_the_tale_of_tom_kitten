@@ -1,0 +1,170 @@
+[
+  {
+    "start": 6.785,
+    "end": 6.929,
+    "word": "Bio",
+    "probability": 0.33333270545209565
+  },
+  {
+    "start": 6.929,
+    "end": 7.073,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 7.073,
+    "end": 7.364,
+    "word": "u",
+    "probability": 0.6665826117497383
+  },
+  {
+    "start": 7.364,
+    "end": 8.325,
+    "word": "neredu",
+    "probability": 0.6370354232875607
+  },
+  {
+    "start": 8.325,
+    "end": 8.518,
+    "word": "kad",
+    "probability": 0.01
+  },
+  {
+    "start": 8.518,
+    "end": 8.662,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 8.662,
+    "end": 8.998,
+    "word": "stigao",
+    "probability": 0.01
+  },
+  {
+    "start": 8.998,
+    "end": 9.142,
+    "word": "na",
+    "probability": 0.01
+  },
+  {
+    "start": 9.142,
+    "end": 9.337,
+    "word": "vrh",
+    "probability": 0.01
+  },
+  {
+    "start": 9.337,
+    "end": 9.578,
+    "word": "zida",
+    "probability": 0.01
+  },
+  {
+    "start": 9.578,
+    "end": 9.914,
+    "word": "Moppet",
+    "probability": 0.01
+  },
+  {
+    "start": 9.914,
+    "end": 10.01,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 10.01,
+    "end": 10.395,
+    "word": "Mittens",
+    "probability": 0.01
+  },
+  {
+    "start": 10.395,
+    "end": 10.827,
+    "word": "pokušali",
+    "probability": 0.01
+  },
+  {
+    "start": 10.827,
+    "end": 10.971,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 10.971,
+    "end": 11.455,
+    "word": "popraviti",
+    "probability": 0.01
+  },
+  {
+    "start": 11.455,
+    "end": 11.839,
+    "word": "njegovu",
+    "probability": 0.01
+  },
+  {
+    "start": 11.839,
+    "end": 12.176,
+    "word": "odjeću",
+    "probability": 0.01
+  },
+  {
+    "start": 12.176,
+    "end": 12.368,
+    "word": "ali",
+    "probability": 0.01
+  },
+  {
+    "start": 12.368,
+    "end": 12.512,
+    "word": "mu",
+    "probability": 0.01
+  },
+  {
+    "start": 12.512,
+    "end": 12.656,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 12.656,
+    "end": 12.945,
+    "word": "šešir",
+    "probability": 0.01
+  },
+  {
+    "start": 12.945,
+    "end": 13.137,
+    "word": "pao",
+    "probability": 0.01
+  },
+  {
+    "start": 13.137,
+    "end": 13.185,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 13.137,
+    "end": 13.185,
+    "word": "posljednji",
+    "probability": 0.01
+  },
+  {
+    "start": 13.137,
+    "end": 13.185,
+    "word": "gumbi",
+    "probability": 0.01
+  },
+  {
+    "start": 13.137,
+    "end": 13.185,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 13.137,
+    "end": 13.185,
+    "word": "pukli",
+    "probability": 0.01
+  }
+]

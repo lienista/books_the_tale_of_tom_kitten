@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.521,
+    "word": "Dieron",
+    "probability": 0.99
+  },
+  {
+    "start": 0.521,
+    "end": 0.661,
+    "word": "la",
+    "probability": 0.99
+  },
+  {
+    "start": 0.661,
+    "end": 1.082,
+    "word": "vuelta",
+    "probability": 0.99
+  },
+  {
+    "start": 1.082,
+    "end": 1.262,
+    "word": "a",
+    "probability": 0.8747187557996481
+  },
+  {
+    "start": 1.262,
+    "end": 2.223,
+    "word": "sus",
+    "probability": 0.8712437176011273
+  },
+  {
+    "start": 2.223,
+    "end": 2.924,
+    "word": "vestidos",
+    "probability": 0.99
+  },
+  {
+    "start": 2.924,
+    "end": 3.245,
+    "word": "para",
+    "probability": 0.99
+  },
+  {
+    "start": 3.245,
+    "end": 3.625,
+    "word": "poder",
+    "probability": 0.9867833841801603
+  },
+  {
+    "start": 3.625,
+    "end": 4.226,
+    "word": "moverse",
+    "probability": 0.9849197118029944
+  },
+  {
+    "start": 4.226,
+    "end": 4.647,
+    "word": "mejor",
+    "probability": 0.99
+  },
+  {
+    "start": 4.647,
+    "end": 4.747,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 4.747,
+    "end": 5.448,
+    "word": "saltaron",
+    "probability": 0.99
+  },
+  {
+    "start": 5.448,
+    "end": 6.349,
+    "word": "el",
+    "probability": 0.9854435136813131
+  },
+  {
+    "start": 6.349,
+    "end": 6.75,
+    "word": "cuello",
+    "probability": 0.99
+  },
+  {
+    "start": 6.75,
+    "end": 6.87,
+    "word": "de",
+    "probability": 0.9152766212895075
+  },
+  {
+    "start": 6.87,
+    "end": 7.331,
+    "word": "encaje",
+    "probability": 0.99
+  },
+  {
+    "start": 7.331,
+    "end": 7.791,
+    "word": "blanco",
+    "probability": 0.99
+  },
+  {
+    "start": 7.791,
+    "end": 7.912,
+    "word": "de",
+    "probability": 0.9574574381543095
+  },
+  {
+    "start": 7.912,
+    "end": 8.352,
+    "word": "Moppet",
+    "probability": 0.937620628846702
+  },
+  {
+    "start": 8.352,
+    "end": 9.073,
+    "word": "cayó",
+    "probability": 0.99
+  },
+  {
+    "start": 9.073,
+    "end": 9.294,
+    "word": "al",
+    "probability": 0.99
+  },
+  {
+    "start": 9.294,
+    "end": 9.734,
+    "word": "camino",
+    "probability": 0.980046077061657
+  }
+]

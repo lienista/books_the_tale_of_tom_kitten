@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.16,
+    "word": "Si",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.52,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.52,
+    "end": 1.061,
+    "word": "Kitten",
+    "probability": 0.9193810247638998
+  },
+  {
+    "start": 1.061,
+    "end": 1.221,
+    "word": "ay",
+    "probability": 0.9700783107625526
+  },
+  {
+    "start": 1.221,
+    "end": 1.541,
+    "word": "medyo",
+    "probability": 0.99
+  },
+  {
+    "start": 1.541,
+    "end": 1.961,
+    "word": "mataba",
+    "probability": 0.9733192161870133
+  },
+  {
+    "start": 1.961,
+    "end": 2.522,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 2.522,
+    "end": 2.962,
+    "word": "lumaki",
+    "probability": 0.9898828038413263
+  },
+  {
+    "start": 2.962,
+    "end": 3.122,
+    "word": "na",
+    "probability": 0.8677708797779586
+  },
+  {
+    "start": 3.122,
+    "end": 4.403,
+    "word": "ilang",
+    "probability": 0.9833092483739672
+  },
+  {
+    "start": 4.403,
+    "end": 5.103,
+    "word": "butones",
+    "probability": 0.9488535079482996
+  },
+  {
+    "start": 5.103,
+    "end": 5.224,
+    "word": "ang",
+    "probability": 0.7794930768057693
+  },
+  {
+    "start": 5.224,
+    "end": 5.604,
+    "word": "agad",
+    "probability": 0.9750401397578476
+  },
+  {
+    "start": 5.604,
+    "end": 5.704,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 5.704,
+    "end": 6.424,
+    "word": "natanggal",
+    "probability": 0.9782090312735483
+  },
+  {
+    "start": 6.424,
+    "end": 8.326,
+    "word": "Nagbuntonghininga",
+    "probability": 0.9685862155471479
+  },
+  {
+    "start": 8.326,
+    "end": 8.646,
+    "word": "ang",
+    "probability": 0.9748136853138194
+  },
+  {
+    "start": 8.646,
+    "end": 9.046,
+    "word": "kanyang",
+    "probability": 0.9730622515666012
+  },
+  {
+    "start": 9.046,
+    "end": 9.326,
+    "word": "ina",
+    "probability": 0.99
+  },
+  {
+    "start": 9.326,
+    "end": 10.227,
+    "word": "at",
+    "probability": 0.9880756024275761
+  },
+  {
+    "start": 10.227,
+    "end": 10.727,
+    "word": "muling",
+    "probability": 0.99
+  },
+  {
+    "start": 10.727,
+    "end": 11.508,
+    "word": "itinahi",
+    "probability": 0.9897428464987931
+  },
+  {
+    "start": 11.508,
+    "end": 11.968,
+    "word": "ang",
+    "probability": 0.9793077705355542
+  },
+  {
+    "start": 11.968,
+    "end": 12.288,
+    "word": "mga",
+    "probability": 0.9499358134736258
+  },
+  {
+    "start": 12.288,
+    "end": 12.549,
+    "word": "ito",
+    "probability": 0.971298875162407
+  }
+]

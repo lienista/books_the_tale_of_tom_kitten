@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.481,
+    "end": 0.641,
+    "word": "Mitä",
+    "probability": 0.6243798865892032
+  },
+  {
+    "start": 0.641,
+    "end": 0.982,
+    "word": "tulee",
+    "probability": 0.7055577629610226
+  },
+  {
+    "start": 0.982,
+    "end": 1.844,
+    "word": "PuddleDuckseihinhe",
+    "probability": 0.5636560893174836
+  },
+  {
+    "start": 1.844,
+    "end": 2.465,
+    "word": "menivät",
+    "probability": 0.742236200126814
+  },
+  {
+    "start": 2.465,
+    "end": 2.746,
+    "word": "lampeen",
+    "probability": 0.3587795008227893
+  },
+  {
+    "start": 2.746,
+    "end": 3.347,
+    "word": "Vaatteet",
+    "probability": 0.6665797404758427
+  },
+  {
+    "start": 3.347,
+    "end": 4.49,
+    "word": "putosivat",
+    "probability": 0.8400824115236899
+  },
+  {
+    "start": 4.49,
+    "end": 4.81,
+    "word": "heti",
+    "probability": 0.7456742633362785
+  },
+  {
+    "start": 4.81,
+    "end": 4.95,
+    "word": "pois",
+    "probability": 0.32355148799837324
+  },
+  {
+    "start": 4.95,
+    "end": 5.151,
+    "word": "koska",
+    "probability": 0.32507500307437764
+  },
+  {
+    "start": 5.151,
+    "end": 5.271,
+    "word": "ei",
+    "probability": 0.6529685426794571
+  },
+  {
+    "start": 5.271,
+    "end": 5.472,
+    "word": "ollut",
+    "probability": 0.3994705628789517
+  },
+  {
+    "start": 5.472,
+    "end": 5.913,
+    "word": "nappeja",
+    "probability": 0.6356297173767878
+  },
+  {
+    "start": 5.913,
+    "end": 6.634,
+    "word": "pitämässä",
+    "probability": 0.7497538004294293
+  },
+  {
+    "start": 6.634,
+    "end": 6.814,
+    "word": "niitä",
+    "probability": 0.40275037829236227
+  },
+  {
+    "start": 6.814,
+    "end": 7.015,
+    "word": "yhdessä",
+    "probability": 0.3986038592974469
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.28,
+    "word": "Toen",
+    "probability": 0.7412112139659194
+  },
+  {
+    "start": 0.28,
+    "end": 0.901,
+    "word": "vertrokken",
+    "probability": 0.8287310271501901
+  },
+  {
+    "start": 0.901,
+    "end": 1.101,
+    "word": "hij",
+    "probability": 0.9120789229615713
+  },
+  {
+    "start": 1.101,
+    "end": 2.263,
+    "word": "Jemima",
+    "probability": 0.9563079512676498
+  },
+  {
+    "start": 2.263,
+    "end": 2.543,
+    "word": "en",
+    "probability": 0.9621625429076613
+  },
+  {
+    "start": 2.543,
+    "end": 3.144,
+    "word": "Rebeccah",
+    "probability": 0.9713907965158263
+  },
+  {
+    "start": 3.144,
+    "end": 3.865,
+    "word": "PuddleDuck",
+    "probability": 0.8367522972364352
+  },
+  {
+    "start": 3.865,
+    "end": 4.005,
+    "word": "de",
+    "probability": 0.8292457944652478
+  },
+  {
+    "start": 4.005,
+    "end": 4.266,
+    "word": "weg",
+    "probability": 0.867997757374086
+  },
+  {
+    "start": 4.266,
+    "end": 4.526,
+    "word": "op",
+    "probability": 0.9441130690414599
+  },
+  {
+    "start": 4.526,
+    "end": 5.347,
+    "word": "in",
+    "probability": 0.9795848602344497
+  },
+  {
+    "start": 5.347,
+    "end": 5.467,
+    "word": "de",
+    "probability": 0.9247806240801042
+  },
+  {
+    "start": 5.467,
+    "end": 5.788,
+    "word": "pas",
+    "probability": 0.9423425486946487
+  },
+  {
+    "start": 5.788,
+    "end": 7.77,
+    "word": "blijvendpitpat",
+    "probability": 0.9366859348806136
+  },
+  {
+    "start": 7.77,
+    "end": 8.711,
+    "word": "paddlepat",
+    "probability": 0.8624052986958487
+  },
+  {
+    "start": 8.711,
+    "end": 9.412,
+    "word": "pitpat",
+    "probability": 0.9132820118112205
+  },
+  {
+    "start": 9.412,
+    "end": 10.133,
+    "word": "waddlepat",
+    "probability": 0.8293769963308381
+  }
+]

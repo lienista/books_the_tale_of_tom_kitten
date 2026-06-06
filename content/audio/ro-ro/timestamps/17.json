@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.361,
+    "word": "Domnul",
+    "probability": 0.99
+  },
+  {
+    "start": 0.361,
+    "end": 0.781,
+    "word": "Drake",
+    "probability": 0.7706741568527788
+  },
+  {
+    "start": 0.781,
+    "end": 1.543,
+    "word": "PuddleDuck",
+    "probability": 0.7467539741325268
+  },
+  {
+    "start": 1.543,
+    "end": 1.703,
+    "word": "sa",
+    "probability": 0.8325212857049057
+  },
+  {
+    "start": 1.703,
+    "end": 2.124,
+    "word": "legănat",
+    "probability": 0.9036265910251383
+  },
+  {
+    "start": 2.124,
+    "end": 2.504,
+    "word": "încet",
+    "probability": 0.99
+  },
+  {
+    "start": 2.504,
+    "end": 3.065,
+    "word": "lateral",
+    "probability": 0.9560492754696942
+  },
+  {
+    "start": 3.065,
+    "end": 3.225,
+    "word": "și",
+    "probability": 0.9811827814984734
+  },
+  {
+    "start": 3.225,
+    "end": 3.285,
+    "word": "a",
+    "probability": 0.9395106686457891
+  },
+  {
+    "start": 3.285,
+    "end": 3.686,
+    "word": "ridicat",
+    "probability": 0.9685602874095917
+  },
+  {
+    "start": 3.686,
+    "end": 4.207,
+    "word": "diversele",
+    "probability": 0.9831679205559927
+  },
+  {
+    "start": 4.207,
+    "end": 4.608,
+    "word": "obiecte",
+    "probability": 0.9585037472609594
+  }
+]

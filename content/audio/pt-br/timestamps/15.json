@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.52,
+    "word": "Então",
+    "probability": 0.99
+  },
+  {
+    "start": 0.52,
+    "end": 0.881,
+    "word": "os",
+    "probability": 0.99
+  },
+  {
+    "start": 0.881,
+    "end": 1.201,
+    "word": "dois",
+    "probability": 0.9863871013672383
+  },
+  {
+    "start": 1.201,
+    "end": 1.701,
+    "word": "patos",
+    "probability": 0.972028129989408
+  },
+  {
+    "start": 1.701,
+    "end": 2.242,
+    "word": "fêmeas",
+    "probability": 0.9876308130106425
+  },
+  {
+    "start": 2.242,
+    "end": 3.263,
+    "word": "Rebeccah",
+    "probability": 0.9666050352804064
+  },
+  {
+    "start": 3.263,
+    "end": 3.683,
+    "word": "e",
+    "probability": 0.9516940530156233
+  },
+  {
+    "start": 3.683,
+    "end": 4.423,
+    "word": "Jemima",
+    "probability": 0.9320320099611529
+  },
+  {
+    "start": 4.423,
+    "end": 5.304,
+    "word": "PuddleDuck",
+    "probability": 0.800154684934438
+  },
+  {
+    "start": 5.304,
+    "end": 6.585,
+    "word": "pegaram",
+    "probability": 0.9547379596370588
+  },
+  {
+    "start": 6.585,
+    "end": 6.705,
+    "word": "no",
+    "probability": 0.9700355300624047
+  },
+  {
+    "start": 6.705,
+    "end": 7.306,
+    "word": "chapéu",
+    "probability": 0.99
+  },
+  {
+    "start": 7.306,
+    "end": 7.406,
+    "word": "e",
+    "probability": 0.8712137294930056
+  },
+  {
+    "start": 7.406,
+    "end": 7.526,
+    "word": "no",
+    "probability": 0.9845793359204486
+  },
+  {
+    "start": 7.526,
+    "end": 8.126,
+    "word": "colarinho",
+    "probability": 0.99
+  },
+  {
+    "start": 8.126,
+    "end": 8.226,
+    "word": "de",
+    "probability": 0.9775271099671616
+  },
+  {
+    "start": 8.226,
+    "end": 8.667,
+    "word": "renda",
+    "probability": 0.9726480056486172
+  },
+  {
+    "start": 8.667,
+    "end": 9.067,
+    "word": "e",
+    "probability": 0.973446154021324
+  },
+  {
+    "start": 9.067,
+    "end": 9.928,
+    "word": "colocaramnos",
+    "probability": 0.9718141709426403
+  }
+]

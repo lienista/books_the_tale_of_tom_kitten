@@ -1,0 +1,296 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.34,
+    "word": "Quando",
+    "probability": 0.6543838575201064
+  },
+  {
+    "start": 0.34,
+    "end": 0.46,
+    "word": "os",
+    "probability": 0.7782718951781536
+  },
+  {
+    "start": 0.46,
+    "end": 0.741,
+    "word": "três",
+    "probability": 0.9389932853765374
+  },
+  {
+    "start": 0.741,
+    "end": 1.221,
+    "word": "gatinhos",
+    "probability": 0.8268299990798614
+  },
+  {
+    "start": 1.221,
+    "end": 1.681,
+    "word": "estavam",
+    "probability": 0.9566860064138238
+  },
+  {
+    "start": 1.681,
+    "end": 2.242,
+    "word": "prontos",
+    "probability": 0.9366572386197252
+  },
+  {
+    "start": 2.242,
+    "end": 2.722,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 2.722,
+    "end": 3.042,
+    "word": "Dona",
+    "probability": 0.7809737984314064
+  },
+  {
+    "start": 3.042,
+    "end": 3.503,
+    "word": "Tabitha",
+    "probability": 0.8333701634010131
+  },
+  {
+    "start": 3.503,
+    "end": 4.023,
+    "word": "cometeu",
+    "probability": 0.8392021438502346
+  },
+  {
+    "start": 4.023,
+    "end": 4.183,
+    "word": "um",
+    "probability": 0.7144119008745402
+  },
+  {
+    "start": 4.183,
+    "end": 4.563,
+    "word": "erro",
+    "probability": 0.9011955211605754
+  },
+  {
+    "start": 4.563,
+    "end": 5.104,
+    "word": "e",
+    "probability": 0.9558604958895769
+  },
+  {
+    "start": 5.104,
+    "end": 5.724,
+    "word": "mandouos",
+    "probability": 0.936195564037269
+  },
+  {
+    "start": 5.724,
+    "end": 6.185,
+    "word": "para",
+    "probability": 0.9081879159919647
+  },
+  {
+    "start": 6.185,
+    "end": 6.225,
+    "word": "o",
+    "probability": 0.010076038984105862
+  },
+  {
+    "start": 6.225,
+    "end": 6.705,
+    "word": "jardim",
+    "probability": 0.925053330460293
+  },
+  {
+    "start": 6.705,
+    "end": 7.586,
+    "word": "enquanto",
+    "probability": 0.975822572395979
+  },
+  {
+    "start": 7.586,
+    "end": 7.946,
+    "word": "fazia",
+    "probability": 0.9416519983154006
+  },
+  {
+    "start": 7.946,
+    "end": 8.626,
+    "word": "torradas",
+    "probability": 0.9270472564089977
+  },
+  {
+    "start": 8.626,
+    "end": 9.067,
+    "word": "quentes",
+    "probability": 0.924628014360342
+  },
+  {
+    "start": 9.067,
+    "end": 9.247,
+    "word": "com",
+    "probability": 0.9426422280474522
+  },
+  {
+    "start": 9.247,
+    "end": 9.827,
+    "word": "manteiga",
+    "probability": 0.8977675910731008
+  },
+  {
+    "start": 9.827,
+    "end": 11.148,
+    "word": "Agora",
+    "probability": 0.99
+  },
+  {
+    "start": 11.148,
+    "end": 11.789,
+    "word": "mantenham",
+    "probability": 0.9239973874523856
+  },
+  {
+    "start": 11.789,
+    "end": 11.909,
+    "word": "as",
+    "probability": 0.8164983903660339
+  },
+  {
+    "start": 11.909,
+    "end": 12.269,
+    "word": "roupas",
+    "probability": 0.9818326982336715
+  },
+  {
+    "start": 12.269,
+    "end": 12.749,
+    "word": "limpas",
+    "probability": 0.9860702522046288
+  },
+  {
+    "start": 12.749,
+    "end": 13.45,
+    "word": "crianças",
+    "probability": 0.9567039237142897
+  },
+  {
+    "start": 13.45,
+    "end": 14.411,
+    "word": "Andem",
+    "probability": 0.9861377355824517
+  },
+  {
+    "start": 14.411,
+    "end": 14.591,
+    "word": "nas",
+    "probability": 0.8765514539675102
+  },
+  {
+    "start": 14.591,
+    "end": 15.031,
+    "word": "patas",
+    "probability": 0.9380453453773572
+  },
+  {
+    "start": 15.031,
+    "end": 15.191,
+    "word": "de",
+    "probability": 0.9265967402143002
+  },
+  {
+    "start": 15.191,
+    "end": 15.632,
+    "word": "trás",
+    "probability": 0.9630369877918874
+  },
+  {
+    "start": 15.632,
+    "end": 16.772,
+    "word": "Fiquem",
+    "probability": 0.946265807071186
+  },
+  {
+    "start": 16.772,
+    "end": 17.173,
+    "word": "longe",
+    "probability": 0.9817071599410226
+  },
+  {
+    "start": 17.173,
+    "end": 17.313,
+    "word": "do",
+    "probability": 0.9467078368148452
+  },
+  {
+    "start": 17.313,
+    "end": 17.813,
+    "word": "poço",
+    "probability": 0.962751087717209
+  },
+  {
+    "start": 17.813,
+    "end": 17.933,
+    "word": "de",
+    "probability": 0.9763677793129822
+  },
+  {
+    "start": 17.933,
+    "end": 18.394,
+    "word": "cinzas",
+    "probability": 0.9261157324369352
+  },
+  {
+    "start": 18.394,
+    "end": 19.194,
+    "word": "lamacento",
+    "probability": 0.9622135707489775
+  },
+  {
+    "start": 19.194,
+    "end": 19.855,
+    "word": "da",
+    "probability": 0.9813554221028217
+  },
+  {
+    "start": 19.855,
+    "end": 20.395,
+    "word": "Sally",
+    "probability": 0.883736221585132
+  },
+  {
+    "start": 20.395,
+    "end": 21.276,
+    "word": "HennyPenny",
+    "probability": 0.8599348836073585
+  },
+  {
+    "start": 21.276,
+    "end": 21.896,
+    "word": "do",
+    "probability": 0.9616318965085617
+  },
+  {
+    "start": 21.896,
+    "end": 22.717,
+    "word": "chiqueiro",
+    "probability": 0.9276485023231803
+  },
+  {
+    "start": 22.717,
+    "end": 23.177,
+    "word": "e",
+    "probability": 0.9692534020343048
+  },
+  {
+    "start": 23.177,
+    "end": 24.098,
+    "word": "daqueles",
+    "probability": 0.9166145897655784
+  },
+  {
+    "start": 24.098,
+    "end": 25.519,
+    "word": "PuddleDucks",
+    "probability": 0.8842328005321058
+  }
+]

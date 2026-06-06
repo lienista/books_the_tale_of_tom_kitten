@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.101,
+    "end": 0.422,
+    "word": "Först",
+    "probability": 0.99
+  },
+  {
+    "start": 0.422,
+    "end": 0.985,
+    "word": "skrubbade",
+    "probability": 0.99
+  },
+  {
+    "start": 0.985,
+    "end": 1.146,
+    "word": "hon",
+    "probability": 0.99
+  },
+  {
+    "start": 1.146,
+    "end": 1.428,
+    "word": "deras",
+    "probability": 0.99
+  },
+  {
+    "start": 1.428,
+    "end": 2.051,
+    "word": "ansikten",
+    "probability": 0.982597713188449
+  },
+  {
+    "start": 2.051,
+    "end": 2.493,
+    "word": "detta",
+    "probability": 0.99
+  },
+  {
+    "start": 2.493,
+    "end": 2.795,
+    "word": "är",
+    "probability": 0.9407538542788125
+  },
+  {
+    "start": 2.795,
+    "end": 3.258,
+    "word": "Moppet",
+    "probability": 0.99
+  }
+]

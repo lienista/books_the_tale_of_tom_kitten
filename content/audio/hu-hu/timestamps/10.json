@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.36,
+    "end": 0.76,
+    "word": "Hátrafelé",
+    "probability": 0.5640814266560565
+  },
+  {
+    "start": 0.76,
+    "end": 1.461,
+    "word": "fordították",
+    "probability": 0.6732032951323785
+  },
+  {
+    "start": 1.461,
+    "end": 1.601,
+    "word": "a",
+    "probability": 0.7142857903000986
+  },
+  {
+    "start": 1.601,
+    "end": 2.161,
+    "word": "ruháikat",
+    "probability": 0.739002373828836
+  },
+  {
+    "start": 2.161,
+    "end": 2.522,
+    "word": "hogy",
+    "probability": 0.6841996855459157
+  },
+  {
+    "start": 2.522,
+    "end": 3.362,
+    "word": "jobban",
+    "probability": 0.8558935289356122
+  },
+  {
+    "start": 3.362,
+    "end": 3.782,
+    "word": "tudjanak",
+    "probability": 0.6118707843888652
+  },
+  {
+    "start": 3.782,
+    "end": 4.163,
+    "word": "mozogni",
+    "probability": 0.5261727257032077
+  },
+  {
+    "start": 4.163,
+    "end": 4.383,
+    "word": "és",
+    "probability": 0.7272576724697802
+  },
+  {
+    "start": 4.383,
+    "end": 4.903,
+    "word": "felugrottak",
+    "probability": 0.5751637343593952
+  },
+  {
+    "start": 4.903,
+    "end": 5.684,
+    "word": "Moppet",
+    "probability": 0.8453712883948404
+  },
+  {
+    "start": 5.684,
+    "end": 5.944,
+    "word": "fehér",
+    "probability": 0.6139356030011288
+  },
+  {
+    "start": 5.944,
+    "end": 7.485,
+    "word": "csipkegallérja",
+    "probability": 0.7916937740396053
+  },
+  {
+    "start": 7.485,
+    "end": 7.905,
+    "word": "leesett",
+    "probability": 0.653641777710378
+  },
+  {
+    "start": 7.905,
+    "end": 8.045,
+    "word": "az",
+    "probability": 0.7114572011306526
+  },
+  {
+    "start": 8.045,
+    "end": 8.265,
+    "word": "útra",
+    "probability": 0.6363605751258693
+  }
+]

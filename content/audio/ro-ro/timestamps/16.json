@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.501,
+    "word": "Mittens",
+    "probability": 0.794548416848301
+  },
+  {
+    "start": 0.501,
+    "end": 0.601,
+    "word": "a",
+    "probability": 0.7305403596973372
+  },
+  {
+    "start": 0.601,
+    "end": 0.881,
+    "word": "râs",
+    "probability": 0.7864046358646158
+  },
+  {
+    "start": 0.881,
+    "end": 1.121,
+    "word": "atât",
+    "probability": 0.8706367421481226
+  },
+  {
+    "start": 1.121,
+    "end": 1.241,
+    "word": "de",
+    "probability": 0.7777508042702452
+  },
+  {
+    "start": 1.241,
+    "end": 1.582,
+    "word": "tare",
+    "probability": 0.99
+  },
+  {
+    "start": 1.582,
+    "end": 1.902,
+    "word": "încât",
+    "probability": 0.9680514612437809
+  },
+  {
+    "start": 1.902,
+    "end": 2.002,
+    "word": "a",
+    "probability": 0.9528089313697035
+  },
+  {
+    "start": 2.002,
+    "end": 2.322,
+    "word": "căzut",
+    "probability": 0.9735570595864269
+  },
+  {
+    "start": 2.322,
+    "end": 2.423,
+    "word": "de",
+    "probability": 0.9748549741307588
+  },
+  {
+    "start": 2.423,
+    "end": 2.583,
+    "word": "pe",
+    "probability": 0.99
+  },
+  {
+    "start": 2.583,
+    "end": 2.963,
+    "word": "zid",
+    "probability": 0.9871248796253778
+  },
+  {
+    "start": 2.963,
+    "end": 3.944,
+    "word": "Moppet",
+    "probability": 0.9558223443044465
+  },
+  {
+    "start": 3.944,
+    "end": 4.064,
+    "word": "și",
+    "probability": 0.9826524937526518
+  },
+  {
+    "start": 4.064,
+    "end": 4.465,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 4.465,
+    "end": 4.945,
+    "word": "au",
+    "probability": 0.9823522563603375
+  },
+  {
+    "start": 4.945,
+    "end": 5.406,
+    "word": "coborât",
+    "probability": 0.956644071908821
+  },
+  {
+    "start": 5.406,
+    "end": 5.666,
+    "word": "după",
+    "probability": 0.9130886460374169
+  },
+  {
+    "start": 5.666,
+    "end": 5.866,
+    "word": "ea",
+    "probability": 0.8750163958891802
+  },
+  {
+    "start": 5.866,
+    "end": 6.887,
+    "word": "rochițele",
+    "probability": 0.9673023238959162
+  },
+  {
+    "start": 6.887,
+    "end": 7.067,
+    "word": "și",
+    "probability": 0.8977412516031958
+  },
+  {
+    "start": 7.067,
+    "end": 7.488,
+    "word": "restul",
+    "probability": 0.9480445291631519
+  },
+  {
+    "start": 7.488,
+    "end": 8.068,
+    "word": "hainelor",
+    "probability": 0.9808231975853318
+  },
+  {
+    "start": 8.068,
+    "end": 8.249,
+    "word": "lui",
+    "probability": 0.9667849735673923
+  },
+  {
+    "start": 8.249,
+    "end": 8.609,
+    "word": "Tom",
+    "probability": 0.9798992882775645
+  },
+  {
+    "start": 8.609,
+    "end": 9.23,
+    "word": "au",
+    "probability": 0.99
+  },
+  {
+    "start": 9.23,
+    "end": 9.57,
+    "word": "căzut",
+    "probability": 0.960238011282213
+  },
+  {
+    "start": 9.57,
+    "end": 9.69,
+    "word": "pe",
+    "probability": 0.9413123105065996
+  },
+  {
+    "start": 9.69,
+    "end": 10.01,
+    "word": "drum",
+    "probability": 0.9899988794746801
+  },
+  {
+    "start": 10.01,
+    "end": 10.931,
+    "word": "Domnule",
+    "probability": 0.9820809681197119
+  },
+  {
+    "start": 10.931,
+    "end": 11.352,
+    "word": "Drake",
+    "probability": 0.8246237092421735
+  },
+  {
+    "start": 11.352,
+    "end": 12.233,
+    "word": "PuddleDuck",
+    "probability": 0.7591427752335588
+  },
+  {
+    "start": 12.233,
+    "end": 12.553,
+    "word": "a",
+    "probability": 0.9366623782999395
+  },
+  {
+    "start": 12.553,
+    "end": 13.034,
+    "word": "strigat",
+    "probability": 0.952095919395135
+  },
+  {
+    "start": 13.034,
+    "end": 13.454,
+    "word": "Moppet",
+    "probability": 0.9304025277077033
+  },
+  {
+    "start": 13.454,
+    "end": 14.255,
+    "word": "Vino",
+    "probability": 0.9857185935930655
+  },
+  {
+    "start": 14.255,
+    "end": 14.435,
+    "word": "și",
+    "probability": 0.8835773717191115
+  },
+  {
+    "start": 14.435,
+    "end": 14.895,
+    "word": "ajutăne",
+    "probability": 0.8900623439791416
+  },
+  {
+    "start": 14.895,
+    "end": 15.136,
+    "word": "săl",
+    "probability": 0.9016354140098097
+  },
+  {
+    "start": 15.136,
+    "end": 15.756,
+    "word": "îmbrăcăm",
+    "probability": 0.9846007136650683
+  },
+  {
+    "start": 15.756,
+    "end": 16.517,
+    "word": "Vino",
+    "probability": 0.99
+  },
+  {
+    "start": 16.517,
+    "end": 16.697,
+    "word": "și",
+    "probability": 0.954662875488852
+  },
+  {
+    "start": 16.697,
+    "end": 17.098,
+    "word": "încheiel",
+    "probability": 0.99
+  },
+  {
+    "start": 17.098,
+    "end": 17.258,
+    "word": "pe",
+    "probability": 0.9641515753674428
+  },
+  {
+    "start": 17.258,
+    "end": 17.498,
+    "word": "Tom",
+    "probability": 0.9841097468619265
+  }
+]

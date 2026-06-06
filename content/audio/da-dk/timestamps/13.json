@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.26,
+    "word": "Mens",
+    "probability": 0.99
+  },
+  {
+    "start": 0.26,
+    "end": 0.481,
+    "word": "de",
+    "probability": 0.9642657034088046
+  },
+  {
+    "start": 0.481,
+    "end": 1.021,
+    "word": "kæmpede",
+    "probability": 0.9716580424607499
+  },
+  {
+    "start": 1.021,
+    "end": 1.542,
+    "word": "hørte",
+    "probability": 0.9631716737060343
+  },
+  {
+    "start": 1.542,
+    "end": 1.722,
+    "word": "de",
+    "probability": 0.9609453288560306
+  },
+  {
+    "start": 1.722,
+    "end": 1.903,
+    "word": "et",
+    "probability": 0.909490991471738
+  },
+  {
+    "start": 1.903,
+    "end": 3.345,
+    "word": "pitpatpaddlepat",
+    "probability": 0.8586092969037927
+  },
+  {
+    "start": 3.345,
+    "end": 4.146,
+    "word": "De",
+    "probability": 0.974626016715629
+  },
+  {
+    "start": 4.146,
+    "end": 4.366,
+    "word": "tre",
+    "probability": 0.9563017892010475
+  },
+  {
+    "start": 4.366,
+    "end": 5.127,
+    "word": "PuddleDucks",
+    "probability": 0.8181610580574676
+  },
+  {
+    "start": 5.127,
+    "end": 5.367,
+    "word": "kom",
+    "probability": 0.8729482792324181
+  },
+  {
+    "start": 5.367,
+    "end": 6.028,
+    "word": "marcherende",
+    "probability": 0.8564319285103885
+  },
+  {
+    "start": 6.028,
+    "end": 6.289,
+    "word": "ned",
+    "probability": 0.930106412730162
+  },
+  {
+    "start": 6.289,
+    "end": 6.429,
+    "word": "ad",
+    "probability": 0.9297533543458024
+  },
+  {
+    "start": 6.429,
+    "end": 6.769,
+    "word": "vejen",
+    "probability": 0.9509380761912088
+  },
+  {
+    "start": 6.769,
+    "end": 6.91,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 6.91,
+    "end": 7.33,
+    "word": "enkelt",
+    "probability": 0.9736104327120687
+  },
+  {
+    "start": 7.33,
+    "end": 7.731,
+    "word": "række",
+    "probability": 0.9435472445380281
+  },
+  {
+    "start": 7.731,
+    "end": 8.392,
+    "word": "mens",
+    "probability": 0.9785708779827091
+  },
+  {
+    "start": 8.392,
+    "end": 8.632,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 8.632,
+    "end": 8.932,
+    "word": "gjorde",
+    "probability": 0.9720888501678986
+  },
+  {
+    "start": 8.932,
+    "end": 9.353,
+    "word": "deres",
+    "probability": 0.8609256505263267
+  },
+  {
+    "start": 9.353,
+    "end": 9.954,
+    "word": "rytmiske",
+    "probability": 0.9606917715682316
+  },
+  {
+    "start": 9.954,
+    "end": 11.977,
+    "word": "vraltenpitpatpaddlepat",
+    "probability": 0.8421735125273002
+  },
+  {
+    "start": 11.977,
+    "end": 13.258,
+    "word": "pitpatwaddlepat",
+    "probability": 0.7838750786017712
+  }
+]

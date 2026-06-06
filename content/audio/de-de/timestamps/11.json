@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.34,
+    "word": "Tom",
+    "probability": 0.827030574695933
+  },
+  {
+    "start": 0.34,
+    "end": 0.901,
+    "word": "Kitten",
+    "probability": 0.8488942143680823
+  },
+  {
+    "start": 0.901,
+    "end": 1.742,
+    "word": "konnte",
+    "probability": 0.961692447085211
+  },
+  {
+    "start": 1.742,
+    "end": 2.423,
+    "word": "überhaupt",
+    "probability": 0.9816341922807688
+  },
+  {
+    "start": 2.423,
+    "end": 2.684,
+    "word": "nicht",
+    "probability": 0.9571369871538331
+  },
+  {
+    "start": 2.684,
+    "end": 3.344,
+    "word": "springen",
+    "probability": 0.9856994488957894
+  },
+  {
+    "start": 3.344,
+    "end": 4.186,
+    "word": "während",
+    "probability": 0.9789431057821371
+  },
+  {
+    "start": 4.186,
+    "end": 4.346,
+    "word": "er",
+    "probability": 0.9594415513189966
+  },
+  {
+    "start": 4.346,
+    "end": 5.047,
+    "word": "versuchte",
+    "probability": 0.9814482581255409
+  },
+  {
+    "start": 5.047,
+    "end": 5.367,
+    "word": "auf",
+    "probability": 0.99
+  },
+  {
+    "start": 5.367,
+    "end": 5.808,
+    "word": "seinen",
+    "probability": 0.99
+  },
+  {
+    "start": 5.808,
+    "end": 6.729,
+    "word": "Hinterbeinen",
+    "probability": 0.99
+  },
+  {
+    "start": 6.729,
+    "end": 6.929,
+    "word": "in",
+    "probability": 0.9738969764973493
+  },
+  {
+    "start": 6.929,
+    "end": 7.43,
+    "word": "Hosen",
+    "probability": 0.9894765692490171
+  },
+  {
+    "start": 7.43,
+    "end": 7.63,
+    "word": "zu",
+    "probability": 0.976522969778555
+  },
+  {
+    "start": 7.63,
+    "end": 8.011,
+    "word": "gehen",
+    "probability": 0.966760658089167
+  },
+  {
+    "start": 8.011,
+    "end": 8.912,
+    "word": "Er",
+    "probability": 0.99
+  },
+  {
+    "start": 8.912,
+    "end": 9.392,
+    "word": "kämpfte",
+    "probability": 0.979924664558788
+  },
+  {
+    "start": 9.392,
+    "end": 9.653,
+    "word": "sich",
+    "probability": 0.9580189176021333
+  },
+  {
+    "start": 9.653,
+    "end": 10.033,
+    "word": "Stück",
+    "probability": 0.9734743533100235
+  },
+  {
+    "start": 10.033,
+    "end": 10.274,
+    "word": "für",
+    "probability": 0.9738426661257906
+  },
+  {
+    "start": 10.274,
+    "end": 10.654,
+    "word": "Stück",
+    "probability": 0.973821118433212
+  },
+  {
+    "start": 10.654,
+    "end": 10.834,
+    "word": "die",
+    "probability": 0.99
+  },
+  {
+    "start": 10.834,
+    "end": 11.395,
+    "word": "Felsen",
+    "probability": 0.9716915364339928
+  },
+  {
+    "start": 11.395,
+    "end": 12.016,
+    "word": "hinauf",
+    "probability": 0.9801826904440452
+  },
+  {
+    "start": 12.016,
+    "end": 13.278,
+    "word": "zerdrückte",
+    "probability": 0.9877409757576685
+  },
+  {
+    "start": 13.278,
+    "end": 13.458,
+    "word": "die",
+    "probability": 0.9565125747686947
+  },
+  {
+    "start": 13.458,
+    "end": 13.999,
+    "word": "Farne",
+    "probability": 0.9545436032014928
+  },
+  {
+    "start": 13.999,
+    "end": 14.299,
+    "word": "und",
+    "probability": 0.9868002147274134
+  },
+  {
+    "start": 14.299,
+    "end": 14.76,
+    "word": "verlor",
+    "probability": 0.9889831267966743
+  },
+  {
+    "start": 14.76,
+    "end": 15.38,
+    "word": "Knöpfe",
+    "probability": 0.99
+  },
+  {
+    "start": 15.38,
+    "end": 15.861,
+    "word": "links",
+    "probability": 0.9800373749032207
+  },
+  {
+    "start": 15.861,
+    "end": 16.161,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 16.161,
+    "end": 16.622,
+    "word": "rechts",
+    "probability": 0.9802460980207242
+  }
+]

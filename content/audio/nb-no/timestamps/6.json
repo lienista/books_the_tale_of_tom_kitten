@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.18,
+    "word": "Fru",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.781,
+    "word": "Tabitha",
+    "probability": 0.7025468404505225
+  },
+  {
+    "start": 0.781,
+    "end": 1.182,
+    "word": "kledde",
+    "probability": 0.8479107579934544
+  },
+  {
+    "start": 1.182,
+    "end": 1.562,
+    "word": "Moppet",
+    "probability": 0.8319396800306985
+  },
+  {
+    "start": 1.562,
+    "end": 1.722,
+    "word": "og",
+    "probability": 0.9782031057943208
+  },
+  {
+    "start": 1.722,
+    "end": 2.203,
+    "word": "Mittens",
+    "probability": 0.867979136580581
+  },
+  {
+    "start": 2.203,
+    "end": 2.403,
+    "word": "i",
+    "probability": 0.9260523572290934
+  },
+  {
+    "start": 2.403,
+    "end": 2.864,
+    "word": "rene",
+    "probability": 0.9529843013829037
+  },
+  {
+    "start": 2.864,
+    "end": 3.184,
+    "word": "små",
+    "probability": 0.9667111185253476
+  },
+  {
+    "start": 3.184,
+    "end": 3.785,
+    "word": "kjoler",
+    "probability": 0.989523133601664
+  },
+  {
+    "start": 3.785,
+    "end": 3.945,
+    "word": "og",
+    "probability": 0.9653958341656742
+  },
+  {
+    "start": 3.945,
+    "end": 4.746,
+    "word": "blondekrager",
+    "probability": 0.8450860229740952
+  },
+  {
+    "start": 4.746,
+    "end": 5.066,
+    "word": "Så",
+    "probability": 0.9368762882695402
+  },
+  {
+    "start": 5.066,
+    "end": 5.287,
+    "word": "dro",
+    "probability": 0.9842481109790899
+  },
+  {
+    "start": 5.287,
+    "end": 5.507,
+    "word": "hun",
+    "probability": 0.99
+  },
+  {
+    "start": 5.507,
+    "end": 5.888,
+    "word": "noen",
+    "probability": 0.9562220692697821
+  },
+  {
+    "start": 5.888,
+    "end": 6.408,
+    "word": "stive",
+    "probability": 0.9514966875158939
+  },
+  {
+    "start": 6.408,
+    "end": 6.969,
+    "word": "fine",
+    "probability": 0.9706274370728047
+  },
+  {
+    "start": 6.969,
+    "end": 7.349,
+    "word": "klær",
+    "probability": 0.9317512611988383
+  },
+  {
+    "start": 7.349,
+    "end": 7.63,
+    "word": "ut",
+    "probability": 0.8156476291250458
+  },
+  {
+    "start": 7.63,
+    "end": 7.95,
+    "word": "av",
+    "probability": 0.9234810524645847
+  },
+  {
+    "start": 7.95,
+    "end": 8.05,
+    "word": "en",
+    "probability": 0.6893561865353324
+  },
+  {
+    "start": 8.05,
+    "end": 8.391,
+    "word": "gammel",
+    "probability": 0.9889850449242141
+  },
+  {
+    "start": 8.391,
+    "end": 8.911,
+    "word": "kommode",
+    "probability": 0.9603339944263015
+  },
+  {
+    "start": 8.911,
+    "end": 9.232,
+    "word": "til",
+    "probability": 0.99
+  },
+  {
+    "start": 9.232,
+    "end": 9.452,
+    "word": "Tom",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.761,
+    "word": "Binaligtad",
+    "probability": 0.99
+  },
+  {
+    "start": 0.761,
+    "end": 1.041,
+    "word": "nila",
+    "probability": 0.9834334472665055
+  },
+  {
+    "start": 1.041,
+    "end": 1.261,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 1.261,
+    "end": 1.742,
+    "word": "kanilang",
+    "probability": 0.99
+  },
+  {
+    "start": 1.742,
+    "end": 2.002,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 2.002,
+    "end": 2.542,
+    "word": "damit",
+    "probability": 0.99
+  },
+  {
+    "start": 2.542,
+    "end": 3.263,
+    "word": "para",
+    "probability": 0.9633636081988133
+  },
+  {
+    "start": 3.263,
+    "end": 3.543,
+    "word": "mas",
+    "probability": 0.9366251307915332
+  },
+  {
+    "start": 3.543,
+    "end": 4.204,
+    "word": "makagalaw",
+    "probability": 0.9797883943775819
+  },
+  {
+    "start": 4.204,
+    "end": 4.584,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 4.584,
+    "end": 5.345,
+    "word": "at",
+    "probability": 0.9865406419611548
+  },
+  {
+    "start": 5.345,
+    "end": 5.925,
+    "word": "tumalon",
+    "probability": 0.9467261251188501
+  },
+  {
+    "start": 5.925,
+    "end": 6.866,
+    "word": "paitaas",
+    "probability": 0.99
+  },
+  {
+    "start": 6.866,
+    "end": 7.847,
+    "word": "ang",
+    "probability": 0.9879138959018144
+  },
+  {
+    "start": 7.847,
+    "end": 8.407,
+    "word": "puting",
+    "probability": 0.99
+  },
+  {
+    "start": 8.407,
+    "end": 9.028,
+    "word": "kuwelyong",
+    "probability": 0.8638985815643494
+  },
+  {
+    "start": 9.028,
+    "end": 9.528,
+    "word": "lace",
+    "probability": 0.9078051233743242
+  },
+  {
+    "start": 9.528,
+    "end": 9.628,
+    "word": "ni",
+    "probability": 0.99
+  },
+  {
+    "start": 9.628,
+    "end": 10.289,
+    "word": "Moppet",
+    "probability": 0.9240185373268922
+  },
+  {
+    "start": 10.289,
+    "end": 10.889,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 10.889,
+    "end": 11.51,
+    "word": "nahulog",
+    "probability": 0.99
+  },
+  {
+    "start": 11.51,
+    "end": 11.71,
+    "word": "sa",
+    "probability": 0.9677903152648982
+  },
+  {
+    "start": 11.71,
+    "end": 12.01,
+    "word": "daan",
+    "probability": 0.9686682384273421
+  }
+]

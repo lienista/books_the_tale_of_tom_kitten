@@ -1,0 +1,86 @@
+[
+  {
+    "start": 7.109,
+    "end": 7.249,
+    "word": "Zatim",
+    "probability": 0.43243192128906566
+  },
+  {
+    "start": 7.249,
+    "end": 7.57,
+    "word": "su",
+    "probability": 0.8116670365088843
+  },
+  {
+    "start": 7.57,
+    "end": 8.09,
+    "word": "on",
+    "probability": 0.8508094724992219
+  },
+  {
+    "start": 8.09,
+    "end": 8.371,
+    "word": "Jemima",
+    "probability": 0.5052003938719482
+  },
+  {
+    "start": 8.371,
+    "end": 8.491,
+    "word": "i",
+    "probability": 0.7879598785081534
+  },
+  {
+    "start": 8.491,
+    "end": 9.232,
+    "word": "Rebeccah",
+    "probability": 0.7274927656209379
+  },
+  {
+    "start": 9.232,
+    "end": 10.033,
+    "word": "PuddleDuck",
+    "probability": 0.7123085555919941
+  },
+  {
+    "start": 10.033,
+    "end": 10.353,
+    "word": "krenuli",
+    "probability": 0.5003307257391834
+  },
+  {
+    "start": 10.353,
+    "end": 10.493,
+    "word": "cestom",
+    "probability": 0.03896337152703215
+  },
+  {
+    "start": 10.493,
+    "end": 10.734,
+    "word": "držeći",
+    "probability": 0.35697013973424024
+  },
+  {
+    "start": 10.734,
+    "end": 11.214,
+    "word": "korakpitpat",
+    "probability": 0.49366374851267897
+  },
+  {
+    "start": 11.214,
+    "end": 11.815,
+    "word": "paddlepat",
+    "probability": 0.6666606619799123
+  },
+  {
+    "start": 11.815,
+    "end": 11.875,
+    "word": "pitpat",
+    "probability": 0.01
+  },
+  {
+    "start": 11.875,
+    "end": 11.895,
+    "word": "waddlepat",
+    "probability": 0.01
+  }
+]

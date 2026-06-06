@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.26,
+    "word": "Dia",
+    "probability": 0.99
+  },
+  {
+    "start": 0.26,
+    "end": 1.0,
+    "word": "kelihatan",
+    "probability": 0.9882198350653858
+  },
+  {
+    "start": 1.0,
+    "end": 1.641,
+    "word": "comot",
+    "probability": 0.9792581756817833
+  },
+  {
+    "start": 1.641,
+    "end": 2.581,
+    "word": "pada",
+    "probability": 0.9893771560210509
+  },
+  {
+    "start": 2.581,
+    "end": 2.941,
+    "word": "masa",
+    "probability": 0.9883444525219477
+  },
+  {
+    "start": 2.941,
+    "end": 3.181,
+    "word": "dia",
+    "probability": 0.9646314389446827
+  },
+  {
+    "start": 3.181,
+    "end": 3.682,
+    "word": "sampai",
+    "probability": 0.9731657256611698
+  },
+  {
+    "start": 3.682,
+    "end": 3.882,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 3.882,
+    "end": 4.462,
+    "word": "puncak",
+    "probability": 0.9665266130320564
+  },
+  {
+    "start": 4.462,
+    "end": 5.062,
+    "word": "tembok",
+    "probability": 0.9546322561145982
+  },
+  {
+    "start": 5.062,
+    "end": 6.283,
+    "word": "Moppet",
+    "probability": 0.9562279859792558
+  },
+  {
+    "start": 6.283,
+    "end": 6.703,
+    "word": "dan",
+    "probability": 0.9648703843859506
+  },
+  {
+    "start": 6.703,
+    "end": 7.343,
+    "word": "Mittens",
+    "probability": 0.8893171600943077
+  },
+  {
+    "start": 7.343,
+    "end": 7.863,
+    "word": "cuba",
+    "probability": 0.9829043381219811
+  },
+  {
+    "start": 7.863,
+    "end": 8.864,
+    "word": "membetulkan",
+    "probability": 0.99
+  },
+  {
+    "start": 8.864,
+    "end": 9.844,
+    "word": "pakaiannya",
+    "probability": 0.99
+  },
+  {
+    "start": 9.844,
+    "end": 11.085,
+    "word": "tetapi",
+    "probability": 0.99
+  },
+  {
+    "start": 11.085,
+    "end": 11.785,
+    "word": "topinya",
+    "probability": 0.99
+  },
+  {
+    "start": 11.785,
+    "end": 12.545,
+    "word": "terjatuh",
+    "probability": 0.9849090331897176
+  },
+  {
+    "start": 12.545,
+    "end": 13.005,
+    "word": "dan",
+    "probability": 0.9871695775166647
+  },
+  {
+    "start": 13.005,
+    "end": 13.706,
+    "word": "butang",
+    "probability": 0.99
+  },
+  {
+    "start": 13.706,
+    "end": 14.886,
+    "word": "terakhirnya",
+    "probability": 0.9790387131819044
+  },
+  {
+    "start": 14.886,
+    "end": 15.647,
+    "word": "tercabut",
+    "probability": 0.985251112241185
+  }
+]

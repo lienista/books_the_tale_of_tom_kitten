@@ -1,0 +1,176 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "La",
+    "probability": 0.9520890033151886
+  },
+  {
+    "start": 0.16,
+    "end": 0.701,
+    "word": "signora",
+    "probability": 0.9675102972042767
+  },
+  {
+    "start": 0.701,
+    "end": 1.361,
+    "word": "Tabitha",
+    "probability": 0.9482710018798769
+  },
+  {
+    "start": 1.361,
+    "end": 1.962,
+    "word": "vestì",
+    "probability": 0.9836071183838777
+  },
+  {
+    "start": 1.962,
+    "end": 2.662,
+    "word": "Moppet",
+    "probability": 0.9813854696286001
+  },
+  {
+    "start": 2.662,
+    "end": 2.743,
+    "word": "e",
+    "probability": 0.8680867473839373
+  },
+  {
+    "start": 2.743,
+    "end": 3.443,
+    "word": "Mittens",
+    "probability": 0.9584601970239593
+  },
+  {
+    "start": 3.443,
+    "end": 3.703,
+    "word": "con",
+    "probability": 0.9657448945385607
+  },
+  {
+    "start": 3.703,
+    "end": 4.224,
+    "word": "piccoli",
+    "probability": 0.9813718181596885
+  },
+  {
+    "start": 4.224,
+    "end": 4.764,
+    "word": "vestiti",
+    "probability": 0.99
+  },
+  {
+    "start": 4.764,
+    "end": 5.285,
+    "word": "puliti",
+    "probability": 0.9865122078506785
+  },
+  {
+    "start": 5.285,
+    "end": 5.365,
+    "word": "e",
+    "probability": 0.9106821741771878
+  },
+  {
+    "start": 5.365,
+    "end": 5.925,
+    "word": "colletti",
+    "probability": 0.9856792866851694
+  },
+  {
+    "start": 5.925,
+    "end": 6.086,
+    "word": "di",
+    "probability": 0.9180940654905587
+  },
+  {
+    "start": 6.086,
+    "end": 6.606,
+    "word": "pizzo",
+    "probability": 0.9743280993813141
+  },
+  {
+    "start": 6.606,
+    "end": 7.267,
+    "word": "Poi",
+    "probability": 0.9868353989737524
+  },
+  {
+    "start": 7.267,
+    "end": 7.547,
+    "word": "tirò",
+    "probability": 0.99
+  },
+  {
+    "start": 7.547,
+    "end": 7.867,
+    "word": "fuori",
+    "probability": 0.9654122588593355
+  },
+  {
+    "start": 7.867,
+    "end": 8.228,
+    "word": "alcuni",
+    "probability": 0.9839214319486319
+  },
+  {
+    "start": 8.228,
+    "end": 8.868,
+    "word": "vestiti",
+    "probability": 0.9864022722320893
+  },
+  {
+    "start": 8.868,
+    "end": 9.309,
+    "word": "rigidi",
+    "probability": 0.9846572049334882
+  },
+  {
+    "start": 9.309,
+    "end": 9.389,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 9.389,
+    "end": 10.049,
+    "word": "eleganti",
+    "probability": 0.9718060825502958
+  },
+  {
+    "start": 10.049,
+    "end": 10.189,
+    "word": "da",
+    "probability": 0.9120539201112623
+  },
+  {
+    "start": 10.189,
+    "end": 10.33,
+    "word": "un",
+    "probability": 0.9647623817398184
+  },
+  {
+    "start": 10.33,
+    "end": 10.77,
+    "word": "vecchio",
+    "probability": 0.9568140670367714
+  },
+  {
+    "start": 10.77,
+    "end": 11.511,
+    "word": "cassettone",
+    "probability": 0.99
+  },
+  {
+    "start": 11.511,
+    "end": 11.711,
+    "word": "per",
+    "probability": 0.9686993348477744
+  },
+  {
+    "start": 11.711,
+    "end": 11.971,
+    "word": "Tom",
+    "probability": 0.9889804430446638
+  }
+]

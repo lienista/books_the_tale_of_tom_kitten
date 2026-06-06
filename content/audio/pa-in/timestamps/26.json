@@ -1,0 +1,92 @@
+[
+  {
+    "start": 1.941,
+    "end": 2.049,
+    "word": "ਅਤ",
+    "probability": 0.6662878619743534
+  },
+  {
+    "start": 2.049,
+    "end": 2.228,
+    "word": "ਮਸਟਰ",
+    "probability": 0.20000154933569475
+  },
+  {
+    "start": 2.228,
+    "end": 2.587,
+    "word": "ਡਰਕ",
+    "probability": 0.795310201346109
+  },
+  {
+    "start": 2.587,
+    "end": 3.845,
+    "word": "ਪਡਲਡਕ",
+    "probability": 0.8546205880379206
+  },
+  {
+    "start": 3.845,
+    "end": 6.109,
+    "word": "ਜਮਮ",
+    "probability": 0.9466766993310227
+  },
+  {
+    "start": 6.109,
+    "end": 6.432,
+    "word": "ਅਤ",
+    "probability": 0.8888738081458513
+  },
+  {
+    "start": 6.432,
+    "end": 6.577,
+    "word": "ਰਬਕ",
+    "probability": 0.4994037863385593
+  },
+  {
+    "start": 6.577,
+    "end": 6.649,
+    "word": "ਉਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 6.649,
+    "end": 6.685,
+    "word": "ਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 6.685,
+    "end": 7.007,
+    "word": "ਉਨਹ",
+    "probability": 0.7777613182715537
+  },
+  {
+    "start": 7.007,
+    "end": 7.043,
+    "word": "ਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 7.043,
+    "end": 7.115,
+    "word": "ਭਲ",
+    "probability": 0.01
+  },
+  {
+    "start": 7.115,
+    "end": 7.475,
+    "word": "ਕਰ",
+    "probability": 0.777711111309226
+  },
+  {
+    "start": 7.475,
+    "end": 7.69,
+    "word": "ਰਹ",
+    "probability": 0.7892251324919792
+  },
+  {
+    "start": 7.69,
+    "end": 7.726,
+    "word": "ਹਨ",
+    "probability": 0.01
+  }
+]

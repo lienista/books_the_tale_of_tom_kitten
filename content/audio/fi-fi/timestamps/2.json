@@ -1,0 +1,116 @@
+[
+  {
+    "start": 2.702,
+    "end": 2.842,
+    "word": "Eräänä",
+    "probability": 0.28570303451856705
+  },
+  {
+    "start": 2.842,
+    "end": 3.023,
+    "word": "päivänä",
+    "probability": 0.13692936113139884
+  },
+  {
+    "start": 3.023,
+    "end": 3.323,
+    "word": "heidän",
+    "probability": 0.5336436054542926
+  },
+  {
+    "start": 3.323,
+    "end": 3.983,
+    "word": "äitinsärouva",
+    "probability": 0.6009620650115804
+  },
+  {
+    "start": 3.983,
+    "end": 4.864,
+    "word": "Tabitha",
+    "probability": 0.8036085399486201
+  },
+  {
+    "start": 4.864,
+    "end": 5.445,
+    "word": "Twitchitodotti",
+    "probability": 0.5171330137568388
+  },
+  {
+    "start": 5.445,
+    "end": 5.825,
+    "word": "ystäviä",
+    "probability": 0.631564409598538
+  },
+  {
+    "start": 5.825,
+    "end": 6.045,
+    "word": "teelle",
+    "probability": 0.36362644879606937
+  },
+  {
+    "start": 6.045,
+    "end": 6.746,
+    "word": "Hän",
+    "probability": 0.9112609772651029
+  },
+  {
+    "start": 6.746,
+    "end": 6.926,
+    "word": "toi",
+    "probability": 0.6433024732018099
+  },
+  {
+    "start": 6.926,
+    "end": 7.426,
+    "word": "kissanpennut",
+    "probability": 0.5198734097235949
+  },
+  {
+    "start": 7.426,
+    "end": 7.767,
+    "word": "sisälle",
+    "probability": 0.5876586979039251
+  },
+  {
+    "start": 7.767,
+    "end": 8.207,
+    "word": "pestäkseen",
+    "probability": 0.44438373891815547
+  },
+  {
+    "start": 8.207,
+    "end": 8.387,
+    "word": "ja",
+    "probability": 0.70226759591449
+  },
+  {
+    "start": 8.387,
+    "end": 9.028,
+    "word": "pukeakseen",
+    "probability": 0.6189066174809761
+  },
+  {
+    "start": 9.028,
+    "end": 9.608,
+    "word": "heidät",
+    "probability": 0.776436095156354
+  },
+  {
+    "start": 9.608,
+    "end": 9.869,
+    "word": "ennen",
+    "probability": 0.6153756021305941
+  },
+  {
+    "start": 9.869,
+    "end": 10.229,
+    "word": "vieraiden",
+    "probability": 0.43360649295062625
+  },
+  {
+    "start": 10.229,
+    "end": 10.509,
+    "word": "saapumista",
+    "probability": 0.3571079972222217
+  }
+]

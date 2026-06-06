@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.141,
+    "end": 0.394,
+    "word": "Tom",
+    "probability": 0.7777759301261665
+  },
+  {
+    "start": 0.394,
+    "end": 0.988,
+    "word": "Kitten",
+    "probability": 0.6965646215223747
+  },
+  {
+    "start": 0.988,
+    "end": 1.72,
+    "word": "egyáltalán",
+    "probability": 0.6083877108174007
+  },
+  {
+    "start": 1.72,
+    "end": 2.088,
+    "word": "nem",
+    "probability": 0.6916871003743771
+  },
+  {
+    "start": 2.088,
+    "end": 2.51,
+    "word": "tudott",
+    "probability": 0.5810358889722784
+  },
+  {
+    "start": 2.51,
+    "end": 3.047,
+    "word": "ugrani",
+    "probability": 0.5870402525419725
+  },
+  {
+    "start": 3.047,
+    "end": 3.808,
+    "word": "miközben",
+    "probability": 0.7126097793530493
+  },
+  {
+    "start": 3.808,
+    "end": 4.514,
+    "word": "próbált",
+    "probability": 0.6881037139387626
+  },
+  {
+    "start": 4.514,
+    "end": 4.598,
+    "word": "a",
+    "probability": 0.6508249642614287
+  },
+  {
+    "start": 4.598,
+    "end": 4.88,
+    "word": "hátsó",
+    "probability": 0.3229140887166472
+  },
+  {
+    "start": 4.88,
+    "end": 5.134,
+    "word": "lábain",
+    "probability": 0.22222206423616567
+  },
+  {
+    "start": 5.134,
+    "end": 6.037,
+    "word": "nadrágban",
+    "probability": 0.7074143703229544
+  },
+  {
+    "start": 6.037,
+    "end": 6.347,
+    "word": "járni",
+    "probability": 0.583251662370166
+  },
+  {
+    "start": 6.347,
+    "end": 7.278,
+    "word": "Darabonként",
+    "probability": 0.6351496696625776
+  },
+  {
+    "start": 7.278,
+    "end": 8.181,
+    "word": "küzdötte",
+    "probability": 0.7448386742618374
+  },
+  {
+    "start": 8.181,
+    "end": 8.632,
+    "word": "fel",
+    "probability": 0.8001650544555486
+  },
+  {
+    "start": 8.632,
+    "end": 9.225,
+    "word": "magát",
+    "probability": 0.6663022097180187
+  },
+  {
+    "start": 9.225,
+    "end": 9.309,
+    "word": "a",
+    "probability": 0.6660234119059666
+  },
+  {
+    "start": 9.309,
+    "end": 9.845,
+    "word": "köveken",
+    "probability": 0.5476658487500391
+  },
+  {
+    "start": 9.845,
+    "end": 11.763,
+    "word": "összetörve",
+    "probability": 0.8173964521114796
+  },
+  {
+    "start": 11.763,
+    "end": 11.82,
+    "word": "a",
+    "probability": 0.4999961279849267
+  },
+  {
+    "start": 11.82,
+    "end": 12.695,
+    "word": "páfrányokat",
+    "probability": 0.6367270669264593
+  },
+  {
+    "start": 12.695,
+    "end": 13.033,
+    "word": "és",
+    "probability": 0.7098433877572553
+  },
+  {
+    "start": 13.033,
+    "end": 13.908,
+    "word": "elveszítve",
+    "probability": 0.674253739098778
+  },
+  {
+    "start": 13.908,
+    "end": 14.02,
+    "word": "a",
+    "probability": 0.7498201851722794
+  },
+  {
+    "start": 14.02,
+    "end": 14.952,
+    "word": "gombokat",
+    "probability": 0.7175351610889695
+  },
+  {
+    "start": 14.952,
+    "end": 16.39,
+    "word": "jobbrabalra",
+    "probability": 0.7786851280194731
+  }
+]

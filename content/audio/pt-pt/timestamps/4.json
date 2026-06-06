@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.561,
+    "word": "Depois",
+    "probability": 0.99
+  },
+  {
+    "start": 0.561,
+    "end": 1.382,
+    "word": "escovoulhes",
+    "probability": 0.9441872057424111
+  },
+  {
+    "start": 1.382,
+    "end": 1.522,
+    "word": "a",
+    "probability": 0.9742526732520772
+  },
+  {
+    "start": 1.522,
+    "end": 2.083,
+    "word": "pele",
+    "probability": 0.9592752899954007
+  },
+  {
+    "start": 2.083,
+    "end": 2.724,
+    "word": "esta",
+    "probability": 0.9834289057417889
+  },
+  {
+    "start": 2.724,
+    "end": 2.924,
+    "word": "é",
+    "probability": 0.984314233428859
+  },
+  {
+    "start": 2.924,
+    "end": 3.024,
+    "word": "a",
+    "probability": 0.7398544995466713
+  },
+  {
+    "start": 3.024,
+    "end": 3.585,
+    "word": "Mittens",
+    "probability": 0.8922939116587927
+  }
+]

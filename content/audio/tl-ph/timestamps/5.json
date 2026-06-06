@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.1,
+    "end": 1.081,
+    "word": "Pagkatapos",
+    "probability": 0.9854997865886647
+  },
+  {
+    "start": 1.081,
+    "end": 1.421,
+    "word": "ay",
+    "probability": 0.9860859947888682
+  },
+  {
+    "start": 1.421,
+    "end": 2.042,
+    "word": "sinuklay",
+    "probability": 0.99
+  },
+  {
+    "start": 2.042,
+    "end": 2.242,
+    "word": "niya",
+    "probability": 0.99
+  },
+  {
+    "start": 2.242,
+    "end": 2.422,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 2.422,
+    "end": 2.923,
+    "word": "kanilang",
+    "probability": 0.962462522775563
+  },
+  {
+    "start": 2.923,
+    "end": 3.163,
+    "word": "mga",
+    "probability": 0.9899558070860097
+  },
+  {
+    "start": 3.163,
+    "end": 3.823,
+    "word": "buntot",
+    "probability": 0.99
+  },
+  {
+    "start": 3.823,
+    "end": 4.484,
+    "word": "at",
+    "probability": 0.9830536336677793
+  },
+  {
+    "start": 4.484,
+    "end": 5.104,
+    "word": "balbas",
+    "probability": 0.9693523673576547
+  },
+  {
+    "start": 5.104,
+    "end": 6.365,
+    "word": "ito",
+    "probability": 0.99
+  },
+  {
+    "start": 6.365,
+    "end": 6.686,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 6.686,
+    "end": 6.906,
+    "word": "si",
+    "probability": 0.99
+  },
+  {
+    "start": 6.906,
+    "end": 7.406,
+    "word": "Tom",
+    "probability": 0.9417221261956767
+  },
+  {
+    "start": 7.406,
+    "end": 8.207,
+    "word": "Kitten",
+    "probability": 0.9278583864689944
+  },
+  {
+    "start": 8.207,
+    "end": 9.488,
+    "word": "Patuloy",
+    "probability": 0.9565752746884689
+  },
+  {
+    "start": 9.488,
+    "end": 9.628,
+    "word": "na",
+    "probability": 0.8495507449313616
+  },
+  {
+    "start": 9.628,
+    "end": 10.409,
+    "word": "sinubukang",
+    "probability": 0.9819613693847281
+  },
+  {
+    "start": 10.409,
+    "end": 11.03,
+    "word": "kalmutin",
+    "probability": 0.9487693466083732
+  },
+  {
+    "start": 11.03,
+    "end": 11.11,
+    "word": "ni",
+    "probability": 0.7398348137517221
+  },
+  {
+    "start": 11.11,
+    "end": 11.47,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 11.47,
+    "end": 11.59,
+    "word": "ang",
+    "probability": 0.9685490824345754
+  },
+  {
+    "start": 11.59,
+    "end": 12.09,
+    "word": "suklay",
+    "probability": 0.99
+  }
+]

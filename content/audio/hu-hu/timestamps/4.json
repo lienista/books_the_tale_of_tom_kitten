@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.622,
+    "end": 0.923,
+    "word": "Aztán",
+    "probability": 0.6669561706586188
+  },
+  {
+    "start": 0.923,
+    "end": 1.425,
+    "word": "megfésülte",
+    "probability": 0.5602383832387204
+  },
+  {
+    "start": 1.425,
+    "end": 1.546,
+    "word": "a",
+    "probability": 0.8248348487357892
+  },
+  {
+    "start": 1.546,
+    "end": 2.429,
+    "word": "bundájukat",
+    "probability": 0.7334695769818953
+  },
+  {
+    "start": 2.429,
+    "end": 2.489,
+    "word": "ez",
+    "probability": 0.3155846337457693
+  },
+  {
+    "start": 2.489,
+    "end": 3.352,
+    "word": "itt",
+    "probability": 0.9101832886366175
+  },
+  {
+    "start": 3.352,
+    "end": 3.593,
+    "word": "Mittens",
+    "probability": 0.49380056938859246
+  }
+]

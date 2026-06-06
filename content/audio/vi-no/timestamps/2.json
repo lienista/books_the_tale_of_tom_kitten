@@ -1,0 +1,218 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.16,
+    "word": "Một",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.401,
+    "word": "ngày",
+    "probability": 0.9488002109761079
+  },
+  {
+    "start": 0.401,
+    "end": 0.681,
+    "word": "nọ",
+    "probability": 0.99
+  },
+  {
+    "start": 0.681,
+    "end": 1.362,
+    "word": "mẹ",
+    "probability": 0.99
+  },
+  {
+    "start": 1.362,
+    "end": 1.603,
+    "word": "của",
+    "probability": 0.99
+  },
+  {
+    "start": 1.603,
+    "end": 1.843,
+    "word": "chúng",
+    "probability": 0.99
+  },
+  {
+    "start": 1.843,
+    "end": 2.604,
+    "word": "Bà",
+    "probability": 0.9863737682459724
+  },
+  {
+    "start": 2.604,
+    "end": 3.325,
+    "word": "Tabitha",
+    "probability": 0.9101994562841573
+  },
+  {
+    "start": 3.325,
+    "end": 3.886,
+    "word": "Twitchit",
+    "probability": 0.7677804136094372
+  },
+  {
+    "start": 3.886,
+    "end": 4.668,
+    "word": "đang",
+    "probability": 0.9655778842763977
+  },
+  {
+    "start": 4.668,
+    "end": 4.908,
+    "word": "đợi",
+    "probability": 0.99
+  },
+  {
+    "start": 4.908,
+    "end": 5.128,
+    "word": "bạn",
+    "probability": 0.99
+  },
+  {
+    "start": 5.128,
+    "end": 5.429,
+    "word": "bè",
+    "probability": 0.99
+  },
+  {
+    "start": 5.429,
+    "end": 5.649,
+    "word": "đến",
+    "probability": 0.99
+  },
+  {
+    "start": 5.649,
+    "end": 5.87,
+    "word": "dùng",
+    "probability": 0.9590994590262967
+  },
+  {
+    "start": 5.87,
+    "end": 6.23,
+    "word": "trà",
+    "probability": 0.9657317070618396
+  },
+  {
+    "start": 6.23,
+    "end": 7.152,
+    "word": "Bà",
+    "probability": 0.99
+  },
+  {
+    "start": 7.152,
+    "end": 7.412,
+    "word": "đưa",
+    "probability": 0.99
+  },
+  {
+    "start": 7.412,
+    "end": 7.592,
+    "word": "các",
+    "probability": 0.9835604252186173
+  },
+  {
+    "start": 7.592,
+    "end": 7.793,
+    "word": "chú",
+    "probability": 0.99
+  },
+  {
+    "start": 7.793,
+    "end": 8.133,
+    "word": "mèo",
+    "probability": 0.99
+  },
+  {
+    "start": 8.133,
+    "end": 8.434,
+    "word": "vào",
+    "probability": 0.9823623705891669
+  },
+  {
+    "start": 8.434,
+    "end": 8.734,
+    "word": "trong",
+    "probability": 0.9876046068901824
+  },
+  {
+    "start": 8.734,
+    "end": 9.075,
+    "word": "để",
+    "probability": 0.99
+  },
+  {
+    "start": 9.075,
+    "end": 9.275,
+    "word": "tắm",
+    "probability": 0.99
+  },
+  {
+    "start": 9.275,
+    "end": 9.636,
+    "word": "rửa",
+    "probability": 0.9823997439138551
+  },
+  {
+    "start": 9.636,
+    "end": 9.996,
+    "word": "và",
+    "probability": 0.99
+  },
+  {
+    "start": 9.996,
+    "end": 10.156,
+    "word": "mặc",
+    "probability": 0.9761845236130063
+  },
+  {
+    "start": 10.156,
+    "end": 10.377,
+    "word": "quần",
+    "probability": 0.99
+  },
+  {
+    "start": 10.377,
+    "end": 10.657,
+    "word": "áo",
+    "probability": 0.9804282854922112
+  },
+  {
+    "start": 10.657,
+    "end": 10.898,
+    "word": "cho",
+    "probability": 0.99
+  },
+  {
+    "start": 10.898,
+    "end": 11.158,
+    "word": "chúng",
+    "probability": 0.9474172029217667
+  },
+  {
+    "start": 11.158,
+    "end": 11.519,
+    "word": "trước",
+    "probability": 0.9705199995365782
+  },
+  {
+    "start": 11.519,
+    "end": 11.739,
+    "word": "khi",
+    "probability": 0.9611832465819969
+  },
+  {
+    "start": 11.739,
+    "end": 11.939,
+    "word": "khách",
+    "probability": 0.9555629516691194
+  },
+  {
+    "start": 11.939,
+    "end": 12.18,
+    "word": "đến",
+    "probability": 0.9592379809469017
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.28,
+    "word": "Daha",
+    "probability": 0.99
+  },
+  {
+    "start": 0.28,
+    "end": 0.5,
+    "word": "iyi",
+    "probability": 0.8971701379044913
+  },
+  {
+    "start": 0.5,
+    "end": 1.061,
+    "word": "hareket",
+    "probability": 0.9871656535113039
+  },
+  {
+    "start": 1.061,
+    "end": 1.681,
+    "word": "edebilmek",
+    "probability": 0.9836117607850455
+  },
+  {
+    "start": 1.681,
+    "end": 2.021,
+    "word": "için",
+    "probability": 0.9675027351360077
+  },
+  {
+    "start": 2.021,
+    "end": 3.242,
+    "word": "elbiselerini",
+    "probability": 0.9847239924562777
+  },
+  {
+    "start": 3.242,
+    "end": 3.703,
+    "word": "ters",
+    "probability": 0.9613452337157617
+  },
+  {
+    "start": 3.703,
+    "end": 4.563,
+    "word": "çevirdiler",
+    "probability": 0.976866474502016
+  },
+  {
+    "start": 4.563,
+    "end": 5.003,
+    "word": "ve",
+    "probability": 0.9779422120569161
+  },
+  {
+    "start": 5.003,
+    "end": 5.944,
+    "word": "zıpladılar",
+    "probability": 0.980899354376273
+  },
+  {
+    "start": 5.944,
+    "end": 6.745,
+    "word": "Moppetin",
+    "probability": 0.9121269730912356
+  },
+  {
+    "start": 6.745,
+    "end": 7.285,
+    "word": "beyaz",
+    "probability": 0.9818579400874303
+  },
+  {
+    "start": 7.285,
+    "end": 7.865,
+    "word": "dantel",
+    "probability": 0.9797926463711487
+  },
+  {
+    "start": 7.865,
+    "end": 8.406,
+    "word": "yakası",
+    "probability": 0.9853049415886974
+  },
+  {
+    "start": 8.406,
+    "end": 8.766,
+    "word": "yola",
+    "probability": 0.9868531675891272
+  },
+  {
+    "start": 8.766,
+    "end": 9.146,
+    "word": "düştü",
+    "probability": 0.9837925579980983
+  }
+]

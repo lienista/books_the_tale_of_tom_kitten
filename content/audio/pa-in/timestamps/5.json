@@ -1,0 +1,134 @@
+[
+  {
+    "start": 3.349,
+    "end": 3.49,
+    "word": "ਫਰ",
+    "probability": 0.8571398213172925
+  },
+  {
+    "start": 3.49,
+    "end": 3.55,
+    "word": "ਉਸਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.55,
+    "end": 4.132,
+    "word": "ਉਹਨ",
+    "probability": 0.9248069666312969
+  },
+  {
+    "start": 4.132,
+    "end": 4.172,
+    "word": "ਦਆ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.172,
+    "end": 4.392,
+    "word": "ਪਛ",
+    "probability": 0.8181918037716194
+  },
+  {
+    "start": 4.392,
+    "end": 4.452,
+    "word": "ਅਤ",
+    "probability": 0.3333366428270417
+  },
+  {
+    "start": 4.452,
+    "end": 4.493,
+    "word": "ਮਛ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.493,
+    "end": 4.513,
+    "word": "ਨ",
+    "probability": 0.4999209238716459
+  },
+  {
+    "start": 4.513,
+    "end": 4.553,
+    "word": "ਕਘ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.553,
+    "end": 4.593,
+    "word": "ਕਤ",
+    "probability": 0.14058343390660638
+  },
+  {
+    "start": 4.593,
+    "end": 4.653,
+    "word": "ਇਹ",
+    "probability": 0.4999987130786437
+  },
+  {
+    "start": 4.653,
+    "end": 4.894,
+    "word": "ਟਮ",
+    "probability": 0.8448360360700465
+  },
+  {
+    "start": 4.894,
+    "end": 4.954,
+    "word": "ਕਟਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.954,
+    "end": 4.974,
+    "word": "ਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.974,
+    "end": 5.014,
+    "word": "ਟਮ",
+    "probability": 0.4999788868437658
+  },
+  {
+    "start": 5.014,
+    "end": 5.114,
+    "word": "ਕਘ",
+    "probability": 0.5999985600830394
+  },
+  {
+    "start": 5.114,
+    "end": 5.134,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 5.134,
+    "end": 5.917,
+    "word": "ਖਰਚਣ",
+    "probability": 0.897449641724885
+  },
+  {
+    "start": 5.917,
+    "end": 5.977,
+    "word": "ਦ",
+    "probability": 0.6666685228808115
+  },
+  {
+    "start": 5.977,
+    "end": 6.037,
+    "word": "ਕਸਸ",
+    "probability": 0.01
+  },
+  {
+    "start": 6.037,
+    "end": 6.177,
+    "word": "ਕਰਦ",
+    "probability": 0.7142703353107297
+  },
+  {
+    "start": 6.177,
+    "end": 6.197,
+    "word": "ਰਹ",
+    "probability": 0.01
+  }
+]

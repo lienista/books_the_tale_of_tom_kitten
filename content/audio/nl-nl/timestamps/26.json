@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.14,
+    "word": "En",
+    "probability": 0.6585389782933521
+  },
+  {
+    "start": 0.14,
+    "end": 0.502,
+    "word": "meneer",
+    "probability": 0.682155575545702
+  },
+  {
+    "start": 0.502,
+    "end": 0.923,
+    "word": "Drake",
+    "probability": 0.770812450631744
+  },
+  {
+    "start": 0.923,
+    "end": 1.565,
+    "word": "PuddleDuck",
+    "probability": 0.7862507327856202
+  },
+  {
+    "start": 1.565,
+    "end": 2.508,
+    "word": "Jemima",
+    "probability": 0.9318599458430267
+  },
+  {
+    "start": 2.508,
+    "end": 2.748,
+    "word": "en",
+    "probability": 0.9377062849020038
+  },
+  {
+    "start": 2.748,
+    "end": 3.33,
+    "word": "Rebeccah",
+    "probability": 0.9698633918028982
+  },
+  {
+    "start": 3.33,
+    "end": 3.852,
+    "word": "zijn",
+    "probability": 0.9201705081715394
+  },
+  {
+    "start": 3.852,
+    "end": 4.494,
+    "word": "sindsdien",
+    "probability": 0.9193453610740756
+  },
+  {
+    "start": 4.494,
+    "end": 4.774,
+    "word": "naar",
+    "probability": 0.9253030220122297
+  },
+  {
+    "start": 4.774,
+    "end": 4.915,
+    "word": "ze",
+    "probability": 0.7565132597773506
+  },
+  {
+    "start": 4.915,
+    "end": 5.075,
+    "word": "op",
+    "probability": 0.7259230701744338
+  },
+  {
+    "start": 5.075,
+    "end": 5.316,
+    "word": "zoek",
+    "probability": 0.8391223713321078
+  }
+]

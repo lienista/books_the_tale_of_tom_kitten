@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.241,
+    "word": "Poi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.241,
+    "end": 0.783,
+    "word": "Tabitha",
+    "probability": 0.9373501105918728
+  },
+  {
+    "start": 0.783,
+    "end": 1.466,
+    "word": "Twitchit",
+    "probability": 0.8586653577888902
+  },
+  {
+    "start": 1.466,
+    "end": 2.209,
+    "word": "scese",
+    "probability": 0.9557950943862518
+  },
+  {
+    "start": 2.209,
+    "end": 2.309,
+    "word": "in",
+    "probability": 0.9349967089484622
+  },
+  {
+    "start": 2.309,
+    "end": 2.771,
+    "word": "giardino",
+    "probability": 0.99
+  },
+  {
+    "start": 2.771,
+    "end": 2.831,
+    "word": "e",
+    "probability": 0.9834188266236512
+  },
+  {
+    "start": 2.831,
+    "end": 3.172,
+    "word": "trovò",
+    "probability": 0.964113023296905
+  },
+  {
+    "start": 3.172,
+    "end": 3.273,
+    "word": "i",
+    "probability": 0.8994037888343678
+  },
+  {
+    "start": 3.273,
+    "end": 3.474,
+    "word": "suoi",
+    "probability": 0.9754211884377479
+  },
+  {
+    "start": 3.474,
+    "end": 3.975,
+    "word": "gattini",
+    "probability": 0.9847811143036729
+  },
+  {
+    "start": 3.975,
+    "end": 4.196,
+    "word": "sul",
+    "probability": 0.9804105709540313
+  },
+  {
+    "start": 4.196,
+    "end": 4.498,
+    "word": "muro",
+    "probability": 0.9588665300244462
+  },
+  {
+    "start": 4.498,
+    "end": 4.919,
+    "word": "senza",
+    "probability": 0.99
+  },
+  {
+    "start": 4.919,
+    "end": 5.542,
+    "word": "vestiti",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.661,
+    "word": "Kemudian",
+    "probability": 0.99
+  },
+  {
+    "start": 0.661,
+    "end": 1.242,
+    "word": "Tabitha",
+    "probability": 0.9476135576233561
+  },
+  {
+    "start": 1.242,
+    "end": 1.883,
+    "word": "Twitchit",
+    "probability": 0.8811352167474942
+  },
+  {
+    "start": 1.883,
+    "end": 2.344,
+    "word": "datang",
+    "probability": 0.9535009108197852
+  },
+  {
+    "start": 2.344,
+    "end": 2.505,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 2.505,
+    "end": 3.046,
+    "word": "taman",
+    "probability": 0.9711169199984325
+  },
+  {
+    "start": 3.046,
+    "end": 3.727,
+    "word": "dan",
+    "probability": 0.9788813332708929
+  },
+  {
+    "start": 3.727,
+    "end": 4.408,
+    "word": "menemukan",
+    "probability": 0.99
+  },
+  {
+    "start": 4.408,
+    "end": 5.109,
+    "word": "anakanak",
+    "probability": 0.9635809170493908
+  },
+  {
+    "start": 5.109,
+    "end": 5.71,
+    "word": "kucingnya",
+    "probability": 0.9738861043888382
+  },
+  {
+    "start": 5.71,
+    "end": 6.071,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 6.071,
+    "end": 6.492,
+    "word": "atas",
+    "probability": 0.9856415956235731
+  },
+  {
+    "start": 6.492,
+    "end": 7.113,
+    "word": "tembok",
+    "probability": 0.9569449959949734
+  },
+  {
+    "start": 7.113,
+    "end": 7.814,
+    "word": "tanpa",
+    "probability": 0.9545540887499602
+  },
+  {
+    "start": 7.814,
+    "end": 8.596,
+    "word": "mengenakan",
+    "probability": 0.9844462286280004
+  },
+  {
+    "start": 8.596,
+    "end": 9.237,
+    "word": "pakaian",
+    "probability": 0.9786460160466154
+  }
+]

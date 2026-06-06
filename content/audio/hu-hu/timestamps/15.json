@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.901,
+    "end": 1.081,
+    "word": "Aztán",
+    "probability": 0.48981940394784995
+  },
+  {
+    "start": 1.081,
+    "end": 1.121,
+    "word": "a",
+    "probability": 0.47244194606817524
+  },
+  {
+    "start": 1.121,
+    "end": 1.222,
+    "word": "két",
+    "probability": 0.20196318472431937
+  },
+  {
+    "start": 1.222,
+    "end": 1.562,
+    "word": "nőstény",
+    "probability": 0.5213078062361546
+  },
+  {
+    "start": 1.562,
+    "end": 2.002,
+    "word": "kacsa",
+    "probability": 0.7196606727906857
+  },
+  {
+    "start": 2.002,
+    "end": 3.104,
+    "word": "Rebeccah",
+    "probability": 0.8489168538879988
+  },
+  {
+    "start": 3.104,
+    "end": 3.224,
+    "word": "és",
+    "probability": 0.5000013766448145
+  },
+  {
+    "start": 3.224,
+    "end": 3.544,
+    "word": "Jemima",
+    "probability": 0.6237169721302981
+  },
+  {
+    "start": 3.544,
+    "end": 4.065,
+    "word": "PuddleDuck",
+    "probability": 0.5695947348284732
+  },
+  {
+    "start": 4.065,
+    "end": 4.846,
+    "word": "felvették",
+    "probability": 0.7219840745535757
+  },
+  {
+    "start": 4.846,
+    "end": 4.886,
+    "word": "a",
+    "probability": 0.48827094105294944
+  },
+  {
+    "start": 4.886,
+    "end": 5.847,
+    "word": "kalapot",
+    "probability": 0.8516149387929044
+  },
+  {
+    "start": 5.847,
+    "end": 6.087,
+    "word": "és",
+    "probability": 0.7492781226036976
+  },
+  {
+    "start": 6.087,
+    "end": 6.268,
+    "word": "a",
+    "probability": 0.8886828443442177
+  },
+  {
+    "start": 6.268,
+    "end": 7.269,
+    "word": "csipkegallért",
+    "probability": 0.7165139398859957
+  },
+  {
+    "start": 7.269,
+    "end": 7.429,
+    "word": "és",
+    "probability": 0.7194726230878156
+  },
+  {
+    "start": 7.429,
+    "end": 8.07,
+    "word": "felöltötték",
+    "probability": 0.6658784797237307
+  }
+]

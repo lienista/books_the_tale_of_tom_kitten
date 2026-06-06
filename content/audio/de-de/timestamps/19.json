@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.341,
+    "word": "Dann",
+    "probability": 0.99
+  },
+  {
+    "start": 0.341,
+    "end": 0.882,
+    "word": "machten",
+    "probability": 0.982939316753099
+  },
+  {
+    "start": 0.882,
+    "end": 1.303,
+    "word": "er",
+    "probability": 0.9876016502888868
+  },
+  {
+    "start": 1.303,
+    "end": 2.445,
+    "word": "Jemima",
+    "probability": 0.9493174284476695
+  },
+  {
+    "start": 2.445,
+    "end": 2.705,
+    "word": "und",
+    "probability": 0.9301490421667385
+  },
+  {
+    "start": 2.705,
+    "end": 3.286,
+    "word": "Rebeccah",
+    "probability": 0.9242618747621485
+  },
+  {
+    "start": 3.286,
+    "end": 4.068,
+    "word": "PuddleDuck",
+    "probability": 0.8449050185945021
+  },
+  {
+    "start": 4.068,
+    "end": 4.328,
+    "word": "sich",
+    "probability": 0.9627491679637136
+  },
+  {
+    "start": 4.328,
+    "end": 4.549,
+    "word": "auf",
+    "probability": 0.99
+  },
+  {
+    "start": 4.549,
+    "end": 4.749,
+    "word": "den",
+    "probability": 0.99
+  },
+  {
+    "start": 4.749,
+    "end": 5.05,
+    "word": "Weg",
+    "probability": 0.9629205851037781
+  },
+  {
+    "start": 5.05,
+    "end": 5.23,
+    "word": "die",
+    "probability": 0.9886949767291096
+  },
+  {
+    "start": 5.23,
+    "end": 5.831,
+    "word": "Straße",
+    "probability": 0.9862737589046747
+  },
+  {
+    "start": 5.831,
+    "end": 6.472,
+    "word": "hinauf",
+    "probability": 0.9834268219821873
+  },
+  {
+    "start": 6.472,
+    "end": 6.993,
+    "word": "im",
+    "probability": 0.9850162859149515
+  },
+  {
+    "start": 6.993,
+    "end": 9.238,
+    "word": "Gleichschrittpitpat",
+    "probability": 0.9474873469951568
+  },
+  {
+    "start": 9.238,
+    "end": 10.32,
+    "word": "paddlepat",
+    "probability": 0.9005203560009476
+  },
+  {
+    "start": 10.32,
+    "end": 11.382,
+    "word": "pitpat",
+    "probability": 0.914043441717064
+  },
+  {
+    "start": 11.382,
+    "end": 12.103,
+    "word": "waddlepat",
+    "probability": 0.7766636486180712
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "start": 8.564,
+    "end": 8.624,
+    "word": "Ali",
+    "probability": 0.33332358256791034
+  },
+  {
+    "start": 8.624,
+    "end": 8.684,
+    "word": "ih",
+    "probability": 0.01
+  },
+  {
+    "start": 8.684,
+    "end": 8.744,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 8.744,
+    "end": 9.085,
+    "word": "stavio",
+    "probability": 0.5882398361075553
+  },
+  {
+    "start": 9.085,
+    "end": 9.265,
+    "word": "na",
+    "probability": 0.6200594163020905
+  },
+  {
+    "start": 9.265,
+    "end": 9.365,
+    "word": "sebe",
+    "probability": 0.16669371719409423
+  },
+  {
+    "start": 9.365,
+    "end": 9.705,
+    "word": "Stajali",
+    "probability": 0.5286130805868418
+  },
+  {
+    "start": 9.705,
+    "end": 9.765,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 9.765,
+    "end": 9.825,
+    "word": "mu",
+    "probability": 0.01
+  },
+  {
+    "start": 9.825,
+    "end": 9.965,
+    "word": "još",
+    "probability": 0.42794893701827436
+  },
+  {
+    "start": 9.965,
+    "end": 10.165,
+    "word": "gore",
+    "probability": 0.49664744422879803
+  },
+  {
+    "start": 10.165,
+    "end": 10.285,
+    "word": "nego",
+    "probability": 0.16665695562695176
+  },
+  {
+    "start": 10.285,
+    "end": 10.365,
+    "word": "Tom",
+    "probability": 0.01
+  },
+  {
+    "start": 10.365,
+    "end": 10.525,
+    "word": "Kittenu",
+    "probability": 0.01
+  },
+  {
+    "start": 10.525,
+    "end": 10.645,
+    "word": "Divno",
+    "probability": 0.01
+  },
+  {
+    "start": 10.645,
+    "end": 10.705,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 10.705,
+    "end": 10.825,
+    "word": "jutro",
+    "probability": 0.01
+  },
+  {
+    "start": 10.825,
+    "end": 10.946,
+    "word": "rekao",
+    "probability": 0.01
+  },
+  {
+    "start": 10.946,
+    "end": 11.006,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 11.006,
+    "end": 11.086,
+    "word": "gospodin",
+    "probability": 0.011785644170961694
+  },
+  {
+    "start": 11.086,
+    "end": 11.106,
+    "word": "Drake",
+    "probability": 0.02363221708396052
+  },
+  {
+    "start": 11.086,
+    "end": 11.106,
+    "word": "PuddleDuck",
+    "probability": 0.02363221708396052
+  }
+]

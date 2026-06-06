@@ -1,0 +1,224 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.58,
+    "word": "Moppet",
+    "probability": 0.9807434956644718
+  },
+  {
+    "start": 0.58,
+    "end": 0.74,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 0.74,
+    "end": 1.361,
+    "word": "Mittens",
+    "probability": 0.9816547704290834
+  },
+  {
+    "start": 1.361,
+    "end": 2.061,
+    "word": "vinglade",
+    "probability": 0.9836492315791099
+  },
+  {
+    "start": 2.061,
+    "end": 2.541,
+    "word": "nerför",
+    "probability": 0.9807844784055347
+  },
+  {
+    "start": 2.541,
+    "end": 3.662,
+    "word": "trädgårdsgången",
+    "probability": 0.977582297097766
+  },
+  {
+    "start": 3.662,
+    "end": 4.902,
+    "word": "Snart",
+    "probability": 0.99
+  },
+  {
+    "start": 4.902,
+    "end": 5.582,
+    "word": "snubblade",
+    "probability": 0.99
+  },
+  {
+    "start": 5.582,
+    "end": 5.742,
+    "word": "de",
+    "probability": 0.9041251284868677
+  },
+  {
+    "start": 5.742,
+    "end": 6.123,
+    "word": "över",
+    "probability": 0.99
+  },
+  {
+    "start": 6.123,
+    "end": 6.363,
+    "word": "sina",
+    "probability": 0.99
+  },
+  {
+    "start": 6.363,
+    "end": 7.003,
+    "word": "klänningar",
+    "probability": 0.9885526329201534
+  },
+  {
+    "start": 7.003,
+    "end": 7.683,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 7.683,
+    "end": 8.063,
+    "word": "föll",
+    "probability": 0.9593311632247201
+  },
+  {
+    "start": 8.063,
+    "end": 8.203,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 8.203,
+    "end": 8.484,
+    "word": "sina",
+    "probability": 0.9306987608807645
+  },
+  {
+    "start": 8.484,
+    "end": 9.144,
+    "word": "ansikten",
+    "probability": 0.99
+  },
+  {
+    "start": 9.144,
+    "end": 10.144,
+    "word": "När",
+    "probability": 0.99
+  },
+  {
+    "start": 10.144,
+    "end": 10.304,
+    "word": "de",
+    "probability": 0.9478746062345662
+  },
+  {
+    "start": 10.304,
+    "end": 10.885,
+    "word": "reste",
+    "probability": 0.99
+  },
+  {
+    "start": 10.885,
+    "end": 11.185,
+    "word": "sig",
+    "probability": 0.99
+  },
+  {
+    "start": 11.185,
+    "end": 11.505,
+    "word": "var",
+    "probability": 0.9886320387546603
+  },
+  {
+    "start": 11.505,
+    "end": 11.625,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 11.625,
+    "end": 12.385,
+    "word": "täckta",
+    "probability": 0.99
+  },
+  {
+    "start": 12.385,
+    "end": 12.605,
+    "word": "av",
+    "probability": 0.9539754562172548
+  },
+  {
+    "start": 12.605,
+    "end": 13.546,
+    "word": "gräsfläckar",
+    "probability": 0.9865216940730327
+  },
+  {
+    "start": 13.546,
+    "end": 14.666,
+    "word": "Låt",
+    "probability": 0.99
+  },
+  {
+    "start": 14.666,
+    "end": 14.806,
+    "word": "oss",
+    "probability": 0.9197508842992684
+  },
+  {
+    "start": 14.806,
+    "end": 15.306,
+    "word": "klättra",
+    "probability": 0.9683396258174387
+  },
+  {
+    "start": 15.306,
+    "end": 15.467,
+    "word": "på",
+    "probability": 0.944235433589466
+  },
+  {
+    "start": 15.467,
+    "end": 16.087,
+    "word": "stenarna",
+    "probability": 0.9640441123228589
+  },
+  {
+    "start": 16.087,
+    "end": 16.267,
+    "word": "och",
+    "probability": 0.9694422321476964
+  },
+  {
+    "start": 16.267,
+    "end": 16.587,
+    "word": "sitta",
+    "probability": 0.9702596435665133
+  },
+  {
+    "start": 16.587,
+    "end": 16.727,
+    "word": "på",
+    "probability": 0.9684323765863215
+  },
+  {
+    "start": 16.727,
+    "end": 17.928,
+    "word": "trädgårdsmuren",
+    "probability": 0.987971559117513
+  },
+  {
+    "start": 17.928,
+    "end": 19.128,
+    "word": "föreslog",
+    "probability": 0.99
+  },
+  {
+    "start": 19.128,
+    "end": 19.548,
+    "word": "Moppet",
+    "probability": 0.99
+  }
+]

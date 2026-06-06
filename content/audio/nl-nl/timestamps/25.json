@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.2,
+    "word": "Wat",
+    "probability": 0.8945400441798025
+  },
+  {
+    "start": 0.2,
+    "end": 0.721,
+    "word": "betreft",
+    "probability": 0.9133796714445837
+  },
+  {
+    "start": 0.721,
+    "end": 0.841,
+    "word": "de",
+    "probability": 0.7919488965951852
+  },
+  {
+    "start": 0.841,
+    "end": 2.423,
+    "word": "PuddleDucksze",
+    "probability": 0.9105329402401157
+  },
+  {
+    "start": 2.423,
+    "end": 2.804,
+    "word": "gingen",
+    "probability": 0.9671972850465685
+  },
+  {
+    "start": 2.804,
+    "end": 3.024,
+    "word": "een",
+    "probability": 0.9235963459184092
+  },
+  {
+    "start": 3.024,
+    "end": 3.545,
+    "word": "vijver",
+    "probability": 0.9659930016279351
+  },
+  {
+    "start": 3.545,
+    "end": 3.765,
+    "word": "in",
+    "probability": 0.9395021368413556
+  },
+  {
+    "start": 3.765,
+    "end": 4.947,
+    "word": "De",
+    "probability": 0.9651582159892774
+  },
+  {
+    "start": 4.947,
+    "end": 5.508,
+    "word": "kleren",
+    "probability": 0.9602047476779365
+  },
+  {
+    "start": 5.508,
+    "end": 5.848,
+    "word": "vielen",
+    "probability": 0.9593078982520917
+  },
+  {
+    "start": 5.848,
+    "end": 6.029,
+    "word": "er",
+    "probability": 0.9146315490654177
+  },
+  {
+    "start": 6.029,
+    "end": 6.569,
+    "word": "meteen",
+    "probability": 0.9772257114719657
+  },
+  {
+    "start": 6.569,
+    "end": 6.89,
+    "word": "af",
+    "probability": 0.9573343520760951
+  },
+  {
+    "start": 6.89,
+    "end": 7.851,
+    "word": "omdat",
+    "probability": 0.9803934225990925
+  },
+  {
+    "start": 7.851,
+    "end": 7.991,
+    "word": "er",
+    "probability": 0.9470296291481751
+  },
+  {
+    "start": 7.991,
+    "end": 8.192,
+    "word": "geen",
+    "probability": 0.961752309242072
+  },
+  {
+    "start": 8.192,
+    "end": 8.712,
+    "word": "knopen",
+    "probability": 0.9831192963179883
+  },
+  {
+    "start": 8.712,
+    "end": 8.933,
+    "word": "meer",
+    "probability": 0.9519962169498734
+  },
+  {
+    "start": 8.933,
+    "end": 9.353,
+    "word": "waren",
+    "probability": 0.9890329717206422
+  },
+  {
+    "start": 9.353,
+    "end": 9.734,
+    "word": "om",
+    "probability": 0.9835999333326058
+  },
+  {
+    "start": 9.734,
+    "end": 9.894,
+    "word": "ze",
+    "probability": 0.9852964465309727
+  },
+  {
+    "start": 9.894,
+    "end": 10.134,
+    "word": "bij",
+    "probability": 0.979873723609418
+  },
+  {
+    "start": 10.134,
+    "end": 10.555,
+    "word": "elkaar",
+    "probability": 0.9751460020886912
+  },
+  {
+    "start": 10.555,
+    "end": 10.715,
+    "word": "te",
+    "probability": 0.9138578298255209
+  },
+  {
+    "start": 10.715,
+    "end": 11.096,
+    "word": "houden",
+    "probability": 0.9871497298195993
+  }
+]

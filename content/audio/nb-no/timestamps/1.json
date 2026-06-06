@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.14,
+    "word": "Det",
+    "probability": 0.99
+  },
+  {
+    "start": 0.14,
+    "end": 0.24,
+    "word": "var",
+    "probability": 0.799972175170415
+  },
+  {
+    "start": 0.24,
+    "end": 0.38,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 0.38,
+    "end": 0.64,
+    "word": "gang",
+    "probability": 0.9593339680588081
+  },
+  {
+    "start": 0.64,
+    "end": 0.961,
+    "word": "tre",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.281,
+    "word": "små",
+    "probability": 0.9743388458374007
+  },
+  {
+    "start": 1.281,
+    "end": 1.901,
+    "word": "kattunger",
+    "probability": 0.9367419781723274
+  },
+  {
+    "start": 1.901,
+    "end": 2.061,
+    "word": "som",
+    "probability": 0.99
+  },
+  {
+    "start": 2.061,
+    "end": 2.261,
+    "word": "het",
+    "probability": 0.869554941583982
+  },
+  {
+    "start": 2.261,
+    "end": 2.782,
+    "word": "Mittens",
+    "probability": 0.8901716815302539
+  },
+  {
+    "start": 2.782,
+    "end": 3.142,
+    "word": "Tom",
+    "probability": 0.9776204796665091
+  },
+  {
+    "start": 3.142,
+    "end": 3.542,
+    "word": "Kitten",
+    "probability": 0.8435093553573203
+  },
+  {
+    "start": 3.542,
+    "end": 3.802,
+    "word": "og",
+    "probability": 0.9721023809885802
+  },
+  {
+    "start": 3.802,
+    "end": 4.263,
+    "word": "Moppet",
+    "probability": 0.8814432588751685
+  },
+  {
+    "start": 4.263,
+    "end": 4.643,
+    "word": "De",
+    "probability": 0.9769259142808635
+  },
+  {
+    "start": 4.643,
+    "end": 4.943,
+    "word": "hadde",
+    "probability": 0.8856468873617594
+  },
+  {
+    "start": 4.943,
+    "end": 5.343,
+    "word": "vakre",
+    "probability": 0.9352765910647853
+  },
+  {
+    "start": 5.343,
+    "end": 6.164,
+    "word": "pelsfrakker",
+    "probability": 0.9173688082782068
+  },
+  {
+    "start": 6.164,
+    "end": 6.384,
+    "word": "og",
+    "probability": 0.9814154595290187
+  },
+  {
+    "start": 6.384,
+    "end": 7.185,
+    "word": "tilbrakte",
+    "probability": 0.962986267738706
+  },
+  {
+    "start": 7.185,
+    "end": 7.725,
+    "word": "dagene",
+    "probability": 0.911406859711727
+  },
+  {
+    "start": 7.725,
+    "end": 7.905,
+    "word": "med",
+    "probability": 0.8862491692886354
+  },
+  {
+    "start": 7.905,
+    "end": 8.125,
+    "word": "å",
+    "probability": 0.9634762116915515
+  },
+  {
+    "start": 8.125,
+    "end": 8.666,
+    "word": "tumle",
+    "probability": 0.9096189618495545
+  },
+  {
+    "start": 8.666,
+    "end": 8.826,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 8.826,
+    "end": 9.466,
+    "word": "verandaen",
+    "probability": 0.8218969754948875
+  },
+  {
+    "start": 9.466,
+    "end": 9.706,
+    "word": "og",
+    "probability": 0.9824226885438254
+  },
+  {
+    "start": 9.706,
+    "end": 10.086,
+    "word": "leke",
+    "probability": 0.9362013915714393
+  },
+  {
+    "start": 10.086,
+    "end": 10.207,
+    "word": "i",
+    "probability": 0.9678765176649543
+  },
+  {
+    "start": 10.207,
+    "end": 10.567,
+    "word": "jorden",
+    "probability": 0.9786997812234374
+  }
+]

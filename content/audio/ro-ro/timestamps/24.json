@@ -1,0 +1,242 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.2,
+    "word": "În",
+    "probability": 0.9319231078318312
+  },
+  {
+    "start": 0.2,
+    "end": 0.581,
+    "word": "schimb",
+    "probability": 0.9668209846536227
+  },
+  {
+    "start": 0.581,
+    "end": 0.761,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 0.761,
+    "end": 1.081,
+    "word": "auzeau",
+    "probability": 0.8929316308697446
+  },
+  {
+    "start": 1.081,
+    "end": 1.602,
+    "word": "zgomote",
+    "probability": 0.9635344603930185
+  },
+  {
+    "start": 1.602,
+    "end": 2.002,
+    "word": "foarte",
+    "probability": 0.9643384598980734
+  },
+  {
+    "start": 2.002,
+    "end": 2.463,
+    "word": "ciudate",
+    "probability": 0.9587102663958155
+  },
+  {
+    "start": 2.463,
+    "end": 2.603,
+    "word": "de",
+    "probability": 0.8252527409205459
+  },
+  {
+    "start": 2.603,
+    "end": 2.963,
+    "word": "sus",
+    "probability": 0.964249964903959
+  },
+  {
+    "start": 2.963,
+    "end": 3.684,
+    "word": "care",
+    "probability": 0.9789619520324025
+  },
+  {
+    "start": 3.684,
+    "end": 3.784,
+    "word": "au",
+    "probability": 0.9314857125787597
+  },
+  {
+    "start": 3.784,
+    "end": 4.265,
+    "word": "stricat",
+    "probability": 0.9857827000608582
+  },
+  {
+    "start": 4.265,
+    "end": 4.925,
+    "word": "atmosfera",
+    "probability": 0.9311055445752392
+  },
+  {
+    "start": 4.925,
+    "end": 5.566,
+    "word": "liniștită",
+    "probability": 0.913018727995512
+  },
+  {
+    "start": 5.566,
+    "end": 5.606,
+    "word": "a",
+    "probability": 0.5011025185420297
+  },
+  {
+    "start": 5.606,
+    "end": 6.247,
+    "word": "petrecerii",
+    "probability": 0.9614136681578722
+  },
+  {
+    "start": 6.247,
+    "end": 6.427,
+    "word": "de",
+    "probability": 0.9188989500807203
+  },
+  {
+    "start": 6.427,
+    "end": 6.767,
+    "word": "ceai",
+    "probability": 0.9502222546772288
+  },
+  {
+    "start": 6.767,
+    "end": 7.388,
+    "word": "Și",
+    "probability": 0.9892909044936868
+  },
+  {
+    "start": 7.388,
+    "end": 7.648,
+    "word": "cred",
+    "probability": 0.95926061990506
+  },
+  {
+    "start": 7.648,
+    "end": 7.769,
+    "word": "că",
+    "probability": 0.99
+  },
+  {
+    "start": 7.769,
+    "end": 7.989,
+    "word": "întro",
+    "probability": 0.9661458636921784
+  },
+  {
+    "start": 7.989,
+    "end": 8.169,
+    "word": "zi",
+    "probability": 0.9090588902250576
+  },
+  {
+    "start": 8.169,
+    "end": 8.369,
+    "word": "va",
+    "probability": 0.9724954410649895
+  },
+  {
+    "start": 8.369,
+    "end": 8.75,
+    "word": "trebui",
+    "probability": 0.9570922617288409
+  },
+  {
+    "start": 8.75,
+    "end": 8.93,
+    "word": "să",
+    "probability": 0.99
+  },
+  {
+    "start": 8.93,
+    "end": 9.25,
+    "word": "scriu",
+    "probability": 0.9818213467055269
+  },
+  {
+    "start": 9.25,
+    "end": 9.31,
+    "word": "o",
+    "probability": 0.9812445843412867
+  },
+  {
+    "start": 9.31,
+    "end": 9.671,
+    "word": "carte",
+    "probability": 0.981569701012586
+  },
+  {
+    "start": 9.671,
+    "end": 9.891,
+    "word": "mai",
+    "probability": 0.9803787536973142
+  },
+  {
+    "start": 9.891,
+    "end": 10.291,
+    "word": "lungă",
+    "probability": 0.99
+  },
+  {
+    "start": 10.291,
+    "end": 10.472,
+    "word": "ca",
+    "probability": 0.9841038208061659
+  },
+  {
+    "start": 10.472,
+    "end": 10.632,
+    "word": "să",
+    "probability": 0.9381085362567388
+  },
+  {
+    "start": 10.632,
+    "end": 10.772,
+    "word": "vă",
+    "probability": 0.9606117456846148
+  },
+  {
+    "start": 10.772,
+    "end": 11.373,
+    "word": "povestesc",
+    "probability": 0.9469034423806063
+  },
+  {
+    "start": 11.373,
+    "end": 11.533,
+    "word": "mai",
+    "probability": 0.9585249532906717
+  },
+  {
+    "start": 11.533,
+    "end": 11.853,
+    "word": "multe",
+    "probability": 0.9788302484647919
+  },
+  {
+    "start": 11.853,
+    "end": 12.173,
+    "word": "despre",
+    "probability": 0.8733498019015099
+  },
+  {
+    "start": 12.173,
+    "end": 12.434,
+    "word": "Tom",
+    "probability": 0.9743210997947798
+  },
+  {
+    "start": 12.434,
+    "end": 12.794,
+    "word": "Kitten",
+    "probability": 0.8091514288673627
+  }
+]

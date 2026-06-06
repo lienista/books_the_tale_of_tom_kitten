@@ -1,0 +1,122 @@
+[
+  {
+    "start": 3.905,
+    "end": 4.346,
+    "word": "Felküldte",
+    "probability": 0.6340250264606839
+  },
+  {
+    "start": 4.346,
+    "end": 4.606,
+    "word": "őket",
+    "probability": 0.6913762828047355
+  },
+  {
+    "start": 4.606,
+    "end": 4.767,
+    "word": "az",
+    "probability": 0.5690820351224368
+  },
+  {
+    "start": 4.767,
+    "end": 5.247,
+    "word": "emeletre",
+    "probability": 0.6652214220785336
+  },
+  {
+    "start": 5.247,
+    "end": 5.347,
+    "word": "és",
+    "probability": 0.599926620273847
+  },
+  {
+    "start": 5.347,
+    "end": 6.569,
+    "word": "sajnálattal",
+    "probability": 0.7712288230782802
+  },
+  {
+    "start": 6.569,
+    "end": 6.93,
+    "word": "mondom",
+    "probability": 0.5896605652360462
+  },
+  {
+    "start": 6.93,
+    "end": 7.21,
+    "word": "hogy",
+    "probability": 0.7139391685516199
+  },
+  {
+    "start": 7.21,
+    "end": 7.41,
+    "word": "azt",
+    "probability": 0.6338368689167286
+  },
+  {
+    "start": 7.41,
+    "end": 8.091,
+    "word": "mondta",
+    "probability": 0.7927344608398643
+  },
+  {
+    "start": 8.091,
+    "end": 8.151,
+    "word": "a",
+    "probability": 0.6664263529307536
+  },
+  {
+    "start": 8.151,
+    "end": 9.313,
+    "word": "barátainak",
+    "probability": 0.8095455080584016
+  },
+  {
+    "start": 9.313,
+    "end": 9.633,
+    "word": "hogy",
+    "probability": 0.6774837910485928
+  },
+  {
+    "start": 9.633,
+    "end": 10.134,
+    "word": "ágyban",
+    "probability": 0.7097699133683926
+  },
+  {
+    "start": 10.134,
+    "end": 10.414,
+    "word": "vannak",
+    "probability": 0.5713842229656875
+  },
+  {
+    "start": 10.414,
+    "end": 11.015,
+    "word": "megfázással",
+    "probability": 0.6044137175095762
+  },
+  {
+    "start": 11.015,
+    "end": 11.195,
+    "word": "ami",
+    "probability": 0.4462388984309478
+  },
+  {
+    "start": 11.195,
+    "end": 12.197,
+    "word": "nem",
+    "probability": 0.935988049030719
+  },
+  {
+    "start": 12.197,
+    "end": 12.397,
+    "word": "volt",
+    "probability": 0.5001902645514986
+  },
+  {
+    "start": 12.397,
+    "end": 12.698,
+    "word": "igaz",
+    "probability": 0.7315568168632415
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.361,
+    "word": "然后",
+    "probability": 0.99
+  },
+  {
+    "start": 0.361,
+    "end": 1.845,
+    "word": "Rebeccah",
+    "probability": 0.8917786877220554
+  },
+  {
+    "start": 1.845,
+    "end": 1.925,
+    "word": "和",
+    "probability": 0.49995311523247266
+  },
+  {
+    "start": 1.925,
+    "end": 2.647,
+    "word": "Jemima",
+    "probability": 0.8333033777891277
+  },
+  {
+    "start": 2.647,
+    "end": 2.928,
+    "word": "Pudd",
+    "probability": 0.6429625261876843
+  },
+  {
+    "start": 2.928,
+    "end": 3.41,
+    "word": "leD",
+    "probability": 0.8333613324994659
+  },
+  {
+    "start": 3.41,
+    "end": 3.61,
+    "word": "uck",
+    "probability": 0.6051899158487842
+  },
+  {
+    "start": 3.61,
+    "end": 4.453,
+    "word": "捡起了帽",
+    "probability": 0.9265580805171864
+  },
+  {
+    "start": 4.453,
+    "end": 5.556,
+    "word": "子和蕾丝",
+    "probability": 0.9632291848247585
+  },
+  {
+    "start": 5.556,
+    "end": 6.518,
+    "word": "衣领并戴",
+    "probability": 0.8982102014338436
+  },
+  {
+    "start": 6.518,
+    "end": 6.879,
+    "word": "在身上",
+    "probability": 0.8714209021948744
+  }
+]

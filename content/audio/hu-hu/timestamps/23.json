@@ -1,0 +1,38 @@
+[
+  {
+    "start": 1.126,
+    "end": 1.307,
+    "word": "Épp",
+    "probability": 0.7774489880171083
+  },
+  {
+    "start": 1.307,
+    "end": 2.372,
+    "word": "ellenkezőleg",
+    "probability": 0.7712313841548418
+  },
+  {
+    "start": 2.372,
+    "end": 2.815,
+    "word": "egyáltalán",
+    "probability": 0.5454494790563081
+  },
+  {
+    "start": 2.815,
+    "end": 3.036,
+    "word": "nem",
+    "probability": 0.72328315575282
+  },
+  {
+    "start": 3.036,
+    "end": 3.538,
+    "word": "voltak",
+    "probability": 0.7127809750094876
+  },
+  {
+    "start": 3.538,
+    "end": 4.162,
+    "word": "ágyban",
+    "probability": 0.8366771578023561
+  }
+]

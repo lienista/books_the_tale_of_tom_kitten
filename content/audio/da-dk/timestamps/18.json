@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.12,
+    "word": "Men",
+    "probability": 0.9860288972198287
+  },
+  {
+    "start": 0.12,
+    "end": 0.38,
+    "word": "han",
+    "probability": 0.9725933674118774
+  },
+  {
+    "start": 0.38,
+    "end": 0.621,
+    "word": "tog",
+    "probability": 0.97021164891392
+  },
+  {
+    "start": 0.621,
+    "end": 0.841,
+    "word": "dem",
+    "probability": 0.9891770798158014
+  },
+  {
+    "start": 0.841,
+    "end": 1.061,
+    "word": "på",
+    "probability": 0.9510442306838066
+  },
+  {
+    "start": 1.061,
+    "end": 1.542,
+    "word": "selv",
+    "probability": 0.987712204930606
+  },
+  {
+    "start": 1.542,
+    "end": 2.603,
+    "word": "De",
+    "probability": 0.9886319544397687
+  },
+  {
+    "start": 2.603,
+    "end": 3.204,
+    "word": "passede",
+    "probability": 0.9751199608943526
+  },
+  {
+    "start": 3.204,
+    "end": 3.464,
+    "word": "ham",
+    "probability": 0.9216282602324982
+  },
+  {
+    "start": 3.464,
+    "end": 3.985,
+    "word": "endnu",
+    "probability": 0.9802403157798404
+  },
+  {
+    "start": 3.985,
+    "end": 4.566,
+    "word": "dårligere",
+    "probability": 0.9802653265829281
+  },
+  {
+    "start": 4.566,
+    "end": 4.906,
+    "word": "end",
+    "probability": 0.9780293799686464
+  },
+  {
+    "start": 4.906,
+    "end": 5.126,
+    "word": "de",
+    "probability": 0.9866999297436411
+  },
+  {
+    "start": 5.126,
+    "end": 5.687,
+    "word": "passede",
+    "probability": 0.9753864835926186
+  },
+  {
+    "start": 5.687,
+    "end": 6.107,
+    "word": "Tom",
+    "probability": 0.963046302763677
+  },
+  {
+    "start": 6.107,
+    "end": 6.608,
+    "word": "Kitten",
+    "probability": 0.8937085521235956
+  },
+  {
+    "start": 6.608,
+    "end": 8.15,
+    "word": "Det",
+    "probability": 0.99
+  },
+  {
+    "start": 8.15,
+    "end": 8.29,
+    "word": "er",
+    "probability": 0.9482307585189017
+  },
+  {
+    "start": 8.29,
+    "end": 8.49,
+    "word": "en",
+    "probability": 0.9823195248474764
+  },
+  {
+    "start": 8.49,
+    "end": 9.031,
+    "word": "dejlig",
+    "probability": 0.99
+  },
+  {
+    "start": 9.031,
+    "end": 9.552,
+    "word": "morgen",
+    "probability": 0.9370995316804607
+  },
+  {
+    "start": 9.552,
+    "end": 10.993,
+    "word": "sagde",
+    "probability": 0.9879766952561515
+  },
+  {
+    "start": 10.993,
+    "end": 11.494,
+    "word": "Mr",
+    "probability": 0.7869762981209134
+  },
+  {
+    "start": 11.494,
+    "end": 11.935,
+    "word": "Drake",
+    "probability": 0.8923862979452714
+  },
+  {
+    "start": 11.935,
+    "end": 12.555,
+    "word": "PuddleDuck",
+    "probability": 0.7795131082332732
+  }
+]

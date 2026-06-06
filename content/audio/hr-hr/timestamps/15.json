@@ -1,0 +1,110 @@
+[
+  {
+    "start": 3.647,
+    "end": 4.36,
+    "word": "Zatim",
+    "probability": 0.7909019044818286
+  },
+  {
+    "start": 4.36,
+    "end": 4.7,
+    "word": "su",
+    "probability": 0.6666431723934442
+  },
+  {
+    "start": 4.7,
+    "end": 5.451,
+    "word": "dvije",
+    "probability": 0.6996114532301949
+  },
+  {
+    "start": 5.451,
+    "end": 5.715,
+    "word": "patke",
+    "probability": 0.14284451591332195
+  },
+  {
+    "start": 5.715,
+    "end": 6.09,
+    "word": "Rebeccah",
+    "probability": 0.0929389665455219
+  },
+  {
+    "start": 6.09,
+    "end": 6.165,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 6.165,
+    "end": 6.616,
+    "word": "Jemima",
+    "probability": 0.41559288908473796
+  },
+  {
+    "start": 6.616,
+    "end": 7.518,
+    "word": "PuddleDuck",
+    "probability": 0.5615746556467194
+  },
+  {
+    "start": 7.518,
+    "end": 8.271,
+    "word": "podigle",
+    "probability": 0.5708536678526673
+  },
+  {
+    "start": 8.271,
+    "end": 8.723,
+    "word": "šešir",
+    "probability": 0.4980512339275898
+  },
+  {
+    "start": 8.723,
+    "end": 8.798,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 8.798,
+    "end": 9.323,
+    "word": "čipkasti",
+    "probability": 0.3331680432565088
+  },
+  {
+    "start": 9.323,
+    "end": 9.736,
+    "word": "ovratnik",
+    "probability": 0.18204803366137545
+  },
+  {
+    "start": 9.736,
+    "end": 9.813,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 9.813,
+    "end": 9.85,
+    "word": "stavile",
+    "probability": 0.023441205246432194
+  },
+  {
+    "start": 9.85,
+    "end": 9.888,
+    "word": "ih",
+    "probability": 0.01
+  },
+  {
+    "start": 9.85,
+    "end": 9.888,
+    "word": "na",
+    "probability": 0.01
+  },
+  {
+    "start": 9.85,
+    "end": 9.888,
+    "word": "sebe",
+    "probability": 0.01
+  }
+]

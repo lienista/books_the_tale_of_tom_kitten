@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.3,
+    "end": 0.34,
+    "word": "Mr",
+    "probability": 0.41147316308517806
+  },
+  {
+    "start": 0.34,
+    "end": 0.641,
+    "word": "Drake",
+    "probability": 0.7621462881197264
+  },
+  {
+    "start": 0.641,
+    "end": 1.302,
+    "word": "PuddleDuck",
+    "probability": 0.7947732909748451
+  },
+  {
+    "start": 1.302,
+    "end": 1.742,
+    "word": "berjalan",
+    "probability": 0.963266381799173
+  },
+  {
+    "start": 1.742,
+    "end": 2.183,
+    "word": "goyang",
+    "probability": 0.9736421158933471
+  },
+  {
+    "start": 2.183,
+    "end": 2.764,
+    "word": "mendekat",
+    "probability": 0.9779768362347562
+  },
+  {
+    "start": 2.764,
+    "end": 3.024,
+    "word": "dengan",
+    "probability": 0.99
+  },
+  {
+    "start": 3.024,
+    "end": 3.484,
+    "word": "lambat",
+    "probability": 0.99
+  },
+  {
+    "start": 3.484,
+    "end": 3.645,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 3.645,
+    "end": 4.406,
+    "word": "menyamping",
+    "probability": 0.9865669996144093
+  },
+  {
+    "start": 4.406,
+    "end": 5.006,
+    "word": "lalu",
+    "probability": 0.9830906479223603
+  },
+  {
+    "start": 5.006,
+    "end": 5.607,
+    "word": "mengambil",
+    "probability": 0.976379837790761
+  },
+  {
+    "start": 5.607,
+    "end": 6.108,
+    "word": "berbagai",
+    "probability": 0.9644241228938653
+  },
+  {
+    "start": 6.108,
+    "end": 6.508,
+    "word": "barang",
+    "probability": 0.970873001866949
+  },
+  {
+    "start": 6.508,
+    "end": 6.949,
+    "word": "tersebut",
+    "probability": 0.99
+  }
+]

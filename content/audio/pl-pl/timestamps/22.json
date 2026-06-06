@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.501,
+    "word": "Wysłała",
+    "probability": 0.99
+  },
+  {
+    "start": 0.501,
+    "end": 0.641,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 0.641,
+    "end": 0.782,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 0.782,
+    "end": 1.182,
+    "word": "górę",
+    "probability": 0.99
+  },
+  {
+    "start": 1.182,
+    "end": 1.623,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 1.623,
+    "end": 2.004,
+    "word": "przykro",
+    "probability": 0.9601505863067795
+  },
+  {
+    "start": 2.004,
+    "end": 2.124,
+    "word": "mi",
+    "probability": 0.99
+  },
+  {
+    "start": 2.124,
+    "end": 2.284,
+    "word": "to",
+    "probability": 0.9517208463488447
+  },
+  {
+    "start": 2.284,
+    "end": 2.745,
+    "word": "mówić",
+    "probability": 0.9876175495204088
+  },
+  {
+    "start": 2.745,
+    "end": 3.527,
+    "word": "powiedziała",
+    "probability": 0.976518050051508
+  },
+  {
+    "start": 3.527,
+    "end": 3.908,
+    "word": "swoim",
+    "probability": 0.99
+  },
+  {
+    "start": 3.908,
+    "end": 4.689,
+    "word": "przyjaciołom",
+    "probability": 0.99
+  },
+  {
+    "start": 4.689,
+    "end": 5.25,
+    "word": "że",
+    "probability": 0.99
+  },
+  {
+    "start": 5.25,
+    "end": 5.471,
+    "word": "są",
+    "probability": 0.9870601524739349
+  },
+  {
+    "start": 5.471,
+    "end": 5.631,
+    "word": "w",
+    "probability": 0.99
+  },
+  {
+    "start": 5.631,
+    "end": 6.032,
+    "word": "łóżku",
+    "probability": 0.9764900891353525
+  },
+  {
+    "start": 6.032,
+    "end": 6.172,
+    "word": "z",
+    "probability": 0.9619713107417247
+  },
+  {
+    "start": 6.172,
+    "end": 6.934,
+    "word": "przeziębieniem",
+    "probability": 0.99
+  },
+  {
+    "start": 6.934,
+    "end": 7.435,
+    "word": "co",
+    "probability": 0.99
+  },
+  {
+    "start": 7.435,
+    "end": 7.555,
+    "word": "nie",
+    "probability": 0.9651875529214323
+  },
+  {
+    "start": 7.555,
+    "end": 7.815,
+    "word": "było",
+    "probability": 0.99
+  },
+  {
+    "start": 7.815,
+    "end": 8.216,
+    "word": "prawdą",
+    "probability": 0.9884697245594115
+  }
+]

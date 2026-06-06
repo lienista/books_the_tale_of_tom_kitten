@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.34,
+    "word": "Apoi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.34,
+    "end": 0.58,
+    "word": "el",
+    "probability": 0.9619409348682564
+  },
+  {
+    "start": 0.58,
+    "end": 1.221,
+    "word": "Jemima",
+    "probability": 0.8877941189399484
+  },
+  {
+    "start": 1.221,
+    "end": 1.421,
+    "word": "și",
+    "probability": 0.9326462910550039
+  },
+  {
+    "start": 1.421,
+    "end": 1.961,
+    "word": "Rebeccah",
+    "probability": 0.8863258164843865
+  },
+  {
+    "start": 1.961,
+    "end": 2.742,
+    "word": "PuddleDuck",
+    "probability": 0.7750572352459496
+  },
+  {
+    "start": 2.742,
+    "end": 2.962,
+    "word": "au",
+    "probability": 0.873571736457153
+  },
+  {
+    "start": 2.962,
+    "end": 3.322,
+    "word": "pornit",
+    "probability": 0.9309201009624155
+  },
+  {
+    "start": 3.322,
+    "end": 3.462,
+    "word": "pe",
+    "probability": 0.8978775673463584
+  },
+  {
+    "start": 3.462,
+    "end": 3.802,
+    "word": "drum",
+    "probability": 0.99
+  },
+  {
+    "start": 3.802,
+    "end": 4.403,
+    "word": "păstrând",
+    "probability": 0.9738774600117461
+  },
+  {
+    "start": 4.403,
+    "end": 6.044,
+    "word": "ritmulpitpat",
+    "probability": 0.9231655084787879
+  },
+  {
+    "start": 6.044,
+    "end": 7.124,
+    "word": "paddlepat",
+    "probability": 0.8458518635305525
+  },
+  {
+    "start": 7.124,
+    "end": 8.205,
+    "word": "pitpat",
+    "probability": 0.8910000789313394
+  },
+  {
+    "start": 8.205,
+    "end": 9.046,
+    "word": "waddlepat",
+    "probability": 0.8943046323456185
+  }
+]

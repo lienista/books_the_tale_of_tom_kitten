@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "But",
+    "probability": 0.5999859341302413
+  },
+  {
+    "start": 0.18,
+    "end": 0.341,
+    "word": "he",
+    "probability": 0.65081669672646
+  },
+  {
+    "start": 0.341,
+    "end": 0.581,
+    "word": "put",
+    "probability": 0.6786611046524761
+  },
+  {
+    "start": 0.581,
+    "end": 0.762,
+    "word": "them",
+    "probability": 0.2599155108841191
+  },
+  {
+    "start": 0.762,
+    "end": 0.882,
+    "word": "on",
+    "probability": 0.6490444513096437
+  },
+  {
+    "start": 0.882,
+    "end": 1.483,
+    "word": "himself",
+    "probability": 0.6093750408119446
+  },
+  {
+    "start": 1.483,
+    "end": 2.285,
+    "word": "They",
+    "probability": 0.8980238689235052
+  },
+  {
+    "start": 2.285,
+    "end": 2.406,
+    "word": "fit",
+    "probability": 0.17477995530276377
+  },
+  {
+    "start": 2.406,
+    "end": 2.626,
+    "word": "him",
+    "probability": 0.6846599468982129
+  },
+  {
+    "start": 2.626,
+    "end": 2.847,
+    "word": "even",
+    "probability": 0.503572141141695
+  },
+  {
+    "start": 2.847,
+    "end": 3.268,
+    "word": "worse",
+    "probability": 0.7170782539728178
+  },
+  {
+    "start": 3.268,
+    "end": 3.508,
+    "word": "than",
+    "probability": 0.659894690720629
+  },
+  {
+    "start": 3.508,
+    "end": 3.689,
+    "word": "they",
+    "probability": 0.3239882164209899
+  },
+  {
+    "start": 3.689,
+    "end": 3.869,
+    "word": "fit",
+    "probability": 0.4340686474416322
+  },
+  {
+    "start": 3.869,
+    "end": 4.029,
+    "word": "Tom",
+    "probability": 0.49613432824860665
+  },
+  {
+    "start": 4.029,
+    "end": 4.37,
+    "word": "Kitten",
+    "probability": 0.5660269377146151
+  },
+  {
+    "start": 4.37,
+    "end": 4.651,
+    "word": "Its",
+    "probability": 0.7822060001436775
+  },
+  {
+    "start": 4.651,
+    "end": 4.731,
+    "word": "a",
+    "probability": 0.5628478837725562
+  },
+  {
+    "start": 4.731,
+    "end": 5.092,
+    "word": "lovely",
+    "probability": 0.5778752689536992
+  },
+  {
+    "start": 5.092,
+    "end": 5.934,
+    "word": "morning",
+    "probability": 0.7912109277426592
+  },
+  {
+    "start": 5.934,
+    "end": 6.074,
+    "word": "said",
+    "probability": 0.2699919578829224
+  },
+  {
+    "start": 6.074,
+    "end": 6.174,
+    "word": "Mr",
+    "probability": 0.5999156418939389
+  },
+  {
+    "start": 6.174,
+    "end": 6.495,
+    "word": "Drake",
+    "probability": 0.48470646298495434
+  },
+  {
+    "start": 6.495,
+    "end": 7.056,
+    "word": "PuddleDuck",
+    "probability": 0.5191391397782859
+  }
+]

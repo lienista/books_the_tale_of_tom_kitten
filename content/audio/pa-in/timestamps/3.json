@@ -1,0 +1,62 @@
+[
+  {
+    "start": 2.86,
+    "end": 2.948,
+    "word": "ਪਹਲ",
+    "probability": 0.33333290590732817
+  },
+  {
+    "start": 2.948,
+    "end": 3.149,
+    "word": "ਉਸ",
+    "probability": 0.7142842208942676
+  },
+  {
+    "start": 3.149,
+    "end": 3.178,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.178,
+    "end": 3.352,
+    "word": "ਉਨਹ",
+    "probability": 0.4999995838309232
+  },
+  {
+    "start": 3.352,
+    "end": 3.381,
+    "word": "ਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.381,
+    "end": 3.467,
+    "word": "ਚਹਰ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.467,
+    "end": 3.785,
+    "word": "ਰਗੜ",
+    "probability": 0.99
+  },
+  {
+    "start": 3.785,
+    "end": 3.988,
+    "word": "ਇਹ",
+    "probability": 0.7134007556659457
+  },
+  {
+    "start": 3.988,
+    "end": 4.189,
+    "word": "ਮਪਟ",
+    "probability": 0.42862233283135515
+  },
+  {
+    "start": 4.189,
+    "end": 4.218,
+    "word": "ਹ",
+    "probability": 0.01
+  }
+]

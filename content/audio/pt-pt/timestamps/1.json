@@ -1,0 +1,188 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.28,
+    "word": "Era",
+    "probability": 0.6975749901654046
+  },
+  {
+    "start": 0.28,
+    "end": 0.501,
+    "word": "uma",
+    "probability": 0.8124436395757924
+  },
+  {
+    "start": 0.501,
+    "end": 0.961,
+    "word": "vez",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.462,
+    "word": "havia",
+    "probability": 0.9768747279986311
+  },
+  {
+    "start": 1.462,
+    "end": 1.862,
+    "word": "três",
+    "probability": 0.8638488591537643
+  },
+  {
+    "start": 1.862,
+    "end": 2.503,
+    "word": "gatinhos",
+    "probability": 0.9082192177353445
+  },
+  {
+    "start": 2.503,
+    "end": 3.364,
+    "word": "chamados",
+    "probability": 0.99
+  },
+  {
+    "start": 3.364,
+    "end": 4.326,
+    "word": "Mittens",
+    "probability": 0.9431071573636597
+  },
+  {
+    "start": 4.326,
+    "end": 5.347,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 5.347,
+    "end": 5.928,
+    "word": "Kitten",
+    "probability": 0.8079850552642405
+  },
+  {
+    "start": 5.928,
+    "end": 6.328,
+    "word": "e",
+    "probability": 0.9726183367252427
+  },
+  {
+    "start": 6.328,
+    "end": 7.089,
+    "word": "Moppet",
+    "probability": 0.9443469412786749
+  },
+  {
+    "start": 7.089,
+    "end": 8.451,
+    "word": "Eles",
+    "probability": 0.9774039660323629
+  },
+  {
+    "start": 8.451,
+    "end": 8.872,
+    "word": "tinham",
+    "probability": 0.9801677815723048
+  },
+  {
+    "start": 8.872,
+    "end": 9.232,
+    "word": "lindos",
+    "probability": 0.9291798365417661
+  },
+  {
+    "start": 9.232,
+    "end": 9.873,
+    "word": "casacos",
+    "probability": 0.9834649297840862
+  },
+  {
+    "start": 9.873,
+    "end": 10.013,
+    "word": "de",
+    "probability": 0.856321460692128
+  },
+  {
+    "start": 10.013,
+    "end": 10.534,
+    "word": "pele",
+    "probability": 0.919743211110715
+  },
+  {
+    "start": 10.534,
+    "end": 11.275,
+    "word": "e",
+    "probability": 0.9682973824742658
+  },
+  {
+    "start": 11.275,
+    "end": 11.936,
+    "word": "passavam",
+    "probability": 0.9737370035589306
+  },
+  {
+    "start": 11.936,
+    "end": 12.076,
+    "word": "os",
+    "probability": 0.9017881349751178
+  },
+  {
+    "start": 12.076,
+    "end": 12.476,
+    "word": "dias",
+    "probability": 0.9887254725366705
+  },
+  {
+    "start": 12.476,
+    "end": 12.596,
+    "word": "a",
+    "probability": 0.9825098824593151
+  },
+  {
+    "start": 12.596,
+    "end": 13.337,
+    "word": "rebolar",
+    "probability": 0.933627656039727
+  },
+  {
+    "start": 13.337,
+    "end": 13.578,
+    "word": "na",
+    "probability": 0.9887144021970639
+  },
+  {
+    "start": 13.578,
+    "end": 14.159,
+    "word": "varanda",
+    "probability": 0.9452398316346582
+  },
+  {
+    "start": 14.159,
+    "end": 14.339,
+    "word": "e",
+    "probability": 0.9251076196378415
+  },
+  {
+    "start": 14.339,
+    "end": 14.419,
+    "word": "a",
+    "probability": 0.9704796531967045
+  },
+  {
+    "start": 14.419,
+    "end": 14.96,
+    "word": "brincar",
+    "probability": 0.9771118308154381
+  },
+  {
+    "start": 14.96,
+    "end": 15.14,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 15.14,
+    "end": 15.48,
+    "word": "terra",
+    "probability": 0.9789131471781611
+  }
+]

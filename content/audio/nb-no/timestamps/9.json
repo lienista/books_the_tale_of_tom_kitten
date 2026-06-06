@@ -1,0 +1,218 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.42,
+    "word": "Moppet",
+    "probability": 0.8799398860700246
+  },
+  {
+    "start": 0.42,
+    "end": 0.741,
+    "word": "og",
+    "probability": 0.9470461583236303
+  },
+  {
+    "start": 0.741,
+    "end": 1.621,
+    "word": "Mittens",
+    "probability": 0.9521544678329158
+  },
+  {
+    "start": 1.621,
+    "end": 2.322,
+    "word": "vaklet",
+    "probability": 0.9790769971955275
+  },
+  {
+    "start": 2.322,
+    "end": 3.043,
+    "word": "nedover",
+    "probability": 0.8850878266767889
+  },
+  {
+    "start": 3.043,
+    "end": 3.944,
+    "word": "hagegangen",
+    "probability": 0.9064419958986742
+  },
+  {
+    "start": 3.944,
+    "end": 4.644,
+    "word": "Snart",
+    "probability": 0.9517721889329875
+  },
+  {
+    "start": 4.644,
+    "end": 5.405,
+    "word": "snublet",
+    "probability": 0.99
+  },
+  {
+    "start": 5.405,
+    "end": 5.605,
+    "word": "de",
+    "probability": 0.9599816808508939
+  },
+  {
+    "start": 5.605,
+    "end": 5.765,
+    "word": "i",
+    "probability": 0.9469826068715985
+  },
+  {
+    "start": 5.765,
+    "end": 6.366,
+    "word": "kjolene",
+    "probability": 0.987228062039941
+  },
+  {
+    "start": 6.366,
+    "end": 6.806,
+    "word": "sine",
+    "probability": 0.99
+  },
+  {
+    "start": 6.806,
+    "end": 7.086,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 7.086,
+    "end": 7.527,
+    "word": "falt",
+    "probability": 0.910486021059176
+  },
+  {
+    "start": 7.527,
+    "end": 7.847,
+    "word": "på",
+    "probability": 0.9797536520064596
+  },
+  {
+    "start": 7.847,
+    "end": 8.608,
+    "word": "ansiktene",
+    "probability": 0.9473909426847105
+  },
+  {
+    "start": 8.608,
+    "end": 9.108,
+    "word": "Da",
+    "probability": 0.975539116756133
+  },
+  {
+    "start": 9.108,
+    "end": 9.268,
+    "word": "de",
+    "probability": 0.7408745785076851
+  },
+  {
+    "start": 9.268,
+    "end": 9.689,
+    "word": "reiste",
+    "probability": 0.9859609604129574
+  },
+  {
+    "start": 9.689,
+    "end": 9.989,
+    "word": "seg",
+    "probability": 0.9635319596157785
+  },
+  {
+    "start": 9.989,
+    "end": 10.489,
+    "word": "var",
+    "probability": 0.9585145950148276
+  },
+  {
+    "start": 10.489,
+    "end": 10.65,
+    "word": "de",
+    "probability": 0.9433009920744131
+  },
+  {
+    "start": 10.65,
+    "end": 11.17,
+    "word": "dekket",
+    "probability": 0.873158266527374
+  },
+  {
+    "start": 11.17,
+    "end": 11.53,
+    "word": "av",
+    "probability": 0.8777504077093661
+  },
+  {
+    "start": 11.53,
+    "end": 12.531,
+    "word": "gressflekker",
+    "probability": 0.9161364128438062
+  },
+  {
+    "start": 12.531,
+    "end": 12.892,
+    "word": "La",
+    "probability": 0.9318142041835747
+  },
+  {
+    "start": 12.892,
+    "end": 13.252,
+    "word": "oss",
+    "probability": 0.9092984580326843
+  },
+  {
+    "start": 13.252,
+    "end": 13.833,
+    "word": "klatre",
+    "probability": 0.9387419621011304
+  },
+  {
+    "start": 13.833,
+    "end": 14.013,
+    "word": "på",
+    "probability": 0.8784247373184442
+  },
+  {
+    "start": 14.013,
+    "end": 14.653,
+    "word": "steinene",
+    "probability": 0.984082275198289
+  },
+  {
+    "start": 14.653,
+    "end": 14.954,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 14.954,
+    "end": 15.334,
+    "word": "sitte",
+    "probability": 0.883025750177742
+  },
+  {
+    "start": 15.334,
+    "end": 15.494,
+    "word": "på",
+    "probability": 0.8842715102202892
+  },
+  {
+    "start": 15.494,
+    "end": 16.235,
+    "word": "hagemuren",
+    "probability": 0.8342987494180619
+  },
+  {
+    "start": 16.235,
+    "end": 17.376,
+    "word": "foreslo",
+    "probability": 0.99
+  },
+  {
+    "start": 17.376,
+    "end": 17.976,
+    "word": "Moppet",
+    "probability": 0.9244459260447913
+  }
+]

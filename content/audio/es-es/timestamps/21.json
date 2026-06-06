@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.221,
+    "word": "Los",
+    "probability": 0.99
+  },
+  {
+    "start": 0.221,
+    "end": 0.582,
+    "word": "bajó",
+    "probability": 0.988526198008296
+  },
+  {
+    "start": 0.582,
+    "end": 0.762,
+    "word": "de",
+    "probability": 0.9439011067632345
+  },
+  {
+    "start": 0.762,
+    "end": 0.883,
+    "word": "la",
+    "probability": 0.9277373100550363
+  },
+  {
+    "start": 0.883,
+    "end": 1.284,
+    "word": "pared",
+    "probability": 0.99
+  },
+  {
+    "start": 1.284,
+    "end": 1.946,
+    "word": "los",
+    "probability": 0.99
+  },
+  {
+    "start": 1.946,
+    "end": 2.568,
+    "word": "apresuró",
+    "probability": 0.99
+  },
+  {
+    "start": 2.568,
+    "end": 3.31,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 3.31,
+    "end": 3.531,
+    "word": "los",
+    "probability": 0.9679545219549247
+  },
+  {
+    "start": 3.531,
+    "end": 3.912,
+    "word": "llevó",
+    "probability": 0.9764673736383481
+  },
+  {
+    "start": 3.912,
+    "end": 4.092,
+    "word": "de",
+    "probability": 0.9769501611428828
+  },
+  {
+    "start": 4.092,
+    "end": 4.714,
+    "word": "regreso",
+    "probability": 0.99
+  },
+  {
+    "start": 4.714,
+    "end": 4.795,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 4.795,
+    "end": 4.915,
+    "word": "la",
+    "probability": 0.9845685128973959
+  },
+  {
+    "start": 4.915,
+    "end": 5.276,
+    "word": "casa",
+    "probability": 0.99
+  }
+]

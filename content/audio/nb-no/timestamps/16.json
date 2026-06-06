@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.461,
+    "word": "Mittens",
+    "probability": 0.8468770277310388
+  },
+  {
+    "start": 0.461,
+    "end": 0.581,
+    "word": "lo",
+    "probability": 0.7289357612765268
+  },
+  {
+    "start": 0.581,
+    "end": 0.781,
+    "word": "så",
+    "probability": 0.99
+  },
+  {
+    "start": 0.781,
+    "end": 1.142,
+    "word": "mye",
+    "probability": 0.8241627714631418
+  },
+  {
+    "start": 1.142,
+    "end": 1.342,
+    "word": "at",
+    "probability": 0.7742390039517224
+  },
+  {
+    "start": 1.342,
+    "end": 1.502,
+    "word": "hun",
+    "probability": 0.813127861470639
+  },
+  {
+    "start": 1.502,
+    "end": 2.023,
+    "word": "falt",
+    "probability": 0.8515421727512613
+  },
+  {
+    "start": 2.023,
+    "end": 2.183,
+    "word": "av",
+    "probability": 0.8667521119591748
+  },
+  {
+    "start": 2.183,
+    "end": 2.684,
+    "word": "muren",
+    "probability": 0.7572389508175804
+  },
+  {
+    "start": 2.684,
+    "end": 3.425,
+    "word": "Moppet",
+    "probability": 0.9200572750124455
+  },
+  {
+    "start": 3.425,
+    "end": 3.646,
+    "word": "og",
+    "probability": 0.899201362151248
+  },
+  {
+    "start": 3.646,
+    "end": 4.046,
+    "word": "Tom",
+    "probability": 0.9721572423698186
+  },
+  {
+    "start": 4.046,
+    "end": 4.587,
+    "word": "klatret",
+    "probability": 0.8546080640966501
+  },
+  {
+    "start": 4.587,
+    "end": 4.828,
+    "word": "ned",
+    "probability": 0.7749142225052209
+  },
+  {
+    "start": 4.828,
+    "end": 5.228,
+    "word": "etter",
+    "probability": 0.6821028781744988
+  },
+  {
+    "start": 5.228,
+    "end": 5.469,
+    "word": "henne",
+    "probability": 0.693515759283621
+  },
+  {
+    "start": 5.469,
+    "end": 6.11,
+    "word": "kjolene",
+    "probability": 0.9048122081850568
+  },
+  {
+    "start": 6.11,
+    "end": 6.31,
+    "word": "og",
+    "probability": 0.8866264580828622
+  },
+  {
+    "start": 6.31,
+    "end": 6.811,
+    "word": "resten",
+    "probability": 0.9613783723099335
+  },
+  {
+    "start": 6.811,
+    "end": 6.951,
+    "word": "av",
+    "probability": 0.9649213246123234
+  },
+  {
+    "start": 6.951,
+    "end": 7.392,
+    "word": "Toms",
+    "probability": 0.9812034953370816
+  },
+  {
+    "start": 7.392,
+    "end": 7.792,
+    "word": "klær",
+    "probability": 0.8443858143989695
+  },
+  {
+    "start": 7.792,
+    "end": 8.213,
+    "word": "falt",
+    "probability": 0.8277655754160642
+  },
+  {
+    "start": 8.213,
+    "end": 8.473,
+    "word": "av",
+    "probability": 0.887950358028139
+  },
+  {
+    "start": 8.473,
+    "end": 8.774,
+    "word": "på",
+    "probability": 0.9332861376853414
+  },
+  {
+    "start": 8.774,
+    "end": 8.974,
+    "word": "vei",
+    "probability": 0.99
+  },
+  {
+    "start": 8.974,
+    "end": 9.195,
+    "word": "ned",
+    "probability": 0.837326601380289
+  },
+  {
+    "start": 9.195,
+    "end": 9.655,
+    "word": "Mr",
+    "probability": 0.7919212102114727
+  },
+  {
+    "start": 9.655,
+    "end": 10.196,
+    "word": "Drake",
+    "probability": 0.8415326053362655
+  },
+  {
+    "start": 10.196,
+    "end": 10.877,
+    "word": "PuddleDuck",
+    "probability": 0.7718529100274847
+  },
+  {
+    "start": 10.877,
+    "end": 11.478,
+    "word": "ropte",
+    "probability": 0.9224538019552804
+  },
+  {
+    "start": 11.478,
+    "end": 11.919,
+    "word": "Moppet",
+    "probability": 0.8209139143106388
+  },
+  {
+    "start": 11.919,
+    "end": 12.299,
+    "word": "Kom",
+    "probability": 0.9430822516982975
+  },
+  {
+    "start": 12.299,
+    "end": 12.44,
+    "word": "og",
+    "probability": 0.7087973343451706
+  },
+  {
+    "start": 12.44,
+    "end": 12.72,
+    "word": "hjelp",
+    "probability": 0.861498241504111
+  },
+  {
+    "start": 12.72,
+    "end": 12.9,
+    "word": "oss",
+    "probability": 0.7553809196366035
+  },
+  {
+    "start": 12.9,
+    "end": 13.001,
+    "word": "å",
+    "probability": 0.8628145148494859
+  },
+  {
+    "start": 13.001,
+    "end": 13.321,
+    "word": "kle",
+    "probability": 0.8603954201285406
+  },
+  {
+    "start": 13.321,
+    "end": 13.582,
+    "word": "ham",
+    "probability": 0.9027608964692855
+  },
+  {
+    "start": 13.582,
+    "end": 13.962,
+    "word": "Kom",
+    "probability": 0.9839461328162052
+  },
+  {
+    "start": 13.962,
+    "end": 14.122,
+    "word": "og",
+    "probability": 0.7629809719279914
+  },
+  {
+    "start": 14.122,
+    "end": 14.483,
+    "word": "knepp",
+    "probability": 0.8412723383552163
+  },
+  {
+    "start": 14.483,
+    "end": 14.803,
+    "word": "Tom",
+    "probability": 0.9291888085749981
+  },
+  {
+    "start": 14.803,
+    "end": 15.104,
+    "word": "opp",
+    "probability": 0.99
+  }
+]

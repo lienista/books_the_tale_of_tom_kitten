@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.12,
+    "word": "O",
+    "probability": 0.99
+  },
+  {
+    "start": 0.12,
+    "end": 0.4,
+    "word": "Tom",
+    "probability": 0.8736472020203522
+  },
+  {
+    "start": 0.4,
+    "end": 0.981,
+    "word": "Kitten",
+    "probability": 0.8980401617106339
+  },
+  {
+    "start": 0.981,
+    "end": 1.502,
+    "word": "estava",
+    "probability": 0.9489564760777858
+  },
+  {
+    "start": 1.502,
+    "end": 2.182,
+    "word": "bastante",
+    "probability": 0.9780507693319772
+  },
+  {
+    "start": 2.182,
+    "end": 3.143,
+    "word": "rechonchudo",
+    "probability": 0.9822149280200954
+  },
+  {
+    "start": 3.143,
+    "end": 3.384,
+    "word": "e",
+    "probability": 0.9816279215167919
+  },
+  {
+    "start": 3.384,
+    "end": 3.684,
+    "word": "tinha",
+    "probability": 0.9760551083047825
+  },
+  {
+    "start": 3.684,
+    "end": 4.385,
+    "word": "crescido",
+    "probability": 0.9796813373683588
+  },
+  {
+    "start": 4.385,
+    "end": 5.506,
+    "word": "vários",
+    "probability": 0.99
+  },
+  {
+    "start": 5.506,
+    "end": 6.086,
+    "word": "botões",
+    "probability": 0.9890447070950058
+  },
+  {
+    "start": 6.086,
+    "end": 6.927,
+    "word": "saltaram",
+    "probability": 0.9793473100490789
+  },
+  {
+    "start": 6.927,
+    "end": 8.089,
+    "word": "imediatamente",
+    "probability": 0.9790211060916127
+  },
+  {
+    "start": 8.089,
+    "end": 9.03,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 9.03,
+    "end": 9.31,
+    "word": "mãe",
+    "probability": 0.9723335459378207
+  },
+  {
+    "start": 9.31,
+    "end": 10.111,
+    "word": "suspirou",
+    "probability": 0.985599549546076
+  },
+  {
+    "start": 10.111,
+    "end": 10.291,
+    "word": "e",
+    "probability": 0.9382670528115781
+  },
+  {
+    "start": 10.291,
+    "end": 10.912,
+    "word": "voltou",
+    "probability": 0.9671699454693465
+  },
+  {
+    "start": 10.912,
+    "end": 11.052,
+    "word": "a",
+    "probability": 0.9660378227604886
+  },
+  {
+    "start": 11.052,
+    "end": 11.672,
+    "word": "cosêlos",
+    "probability": 0.8354315014866978
+  }
+]

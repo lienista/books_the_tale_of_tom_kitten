@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.52,
+    "word": "Mientras",
+    "probability": 0.9785040604040394
+  },
+  {
+    "start": 0.52,
+    "end": 1.161,
+    "word": "luchaban",
+    "probability": 0.99
+  },
+  {
+    "start": 1.161,
+    "end": 2.422,
+    "word": "escucharon",
+    "probability": 0.99
+  },
+  {
+    "start": 2.422,
+    "end": 2.622,
+    "word": "un",
+    "probability": 0.9891153761638529
+  },
+  {
+    "start": 2.622,
+    "end": 4.203,
+    "word": "pitpatpaddlepat",
+    "probability": 0.940125076060447
+  },
+  {
+    "start": 4.203,
+    "end": 5.103,
+    "word": "Los",
+    "probability": 0.99
+  },
+  {
+    "start": 5.103,
+    "end": 5.443,
+    "word": "tres",
+    "probability": 0.9544147674224102
+  },
+  {
+    "start": 5.443,
+    "end": 6.304,
+    "word": "PuddleDucks",
+    "probability": 0.9165597411776787
+  },
+  {
+    "start": 6.304,
+    "end": 7.164,
+    "word": "venían",
+    "probability": 0.99
+  },
+  {
+    "start": 7.164,
+    "end": 7.845,
+    "word": "marchando",
+    "probability": 0.9891601186658351
+  },
+  {
+    "start": 7.845,
+    "end": 8.085,
+    "word": "por",
+    "probability": 0.9784359020036685
+  },
+  {
+    "start": 8.085,
+    "end": 8.245,
+    "word": "el",
+    "probability": 0.9863307394422222
+  },
+  {
+    "start": 8.245,
+    "end": 8.765,
+    "word": "camino",
+    "probability": 0.9589250540450506
+  },
+  {
+    "start": 8.765,
+    "end": 8.886,
+    "word": "en",
+    "probability": 0.9548297355783096
+  },
+  {
+    "start": 8.886,
+    "end": 9.306,
+    "word": "fila",
+    "probability": 0.99
+  },
+  {
+    "start": 9.306,
+    "end": 9.786,
+    "word": "india",
+    "probability": 0.9879947924556226
+  },
+  {
+    "start": 9.786,
+    "end": 10.867,
+    "word": "haciendo",
+    "probability": 0.99
+  },
+  {
+    "start": 10.867,
+    "end": 11.067,
+    "word": "su",
+    "probability": 0.9754933659860668
+  },
+  {
+    "start": 11.067,
+    "end": 11.707,
+    "word": "rítmico",
+    "probability": 0.9796623839530181
+  },
+  {
+    "start": 11.707,
+    "end": 14.469,
+    "word": "bamboleopitpatpaddlepat",
+    "probability": 0.9310200479870103
+  },
+  {
+    "start": 14.469,
+    "end": 16.33,
+    "word": "pitpatwaddlepat",
+    "probability": 0.9355714637378628
+  }
+]

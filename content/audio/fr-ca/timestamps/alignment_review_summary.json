@@ -1,0 +1,503 @@
+{
+  "folder": "/Users/lienne/Documents/github/arcontent/readclub/books_the_tale_of_tom_kitten/content/audio/fr-ca",
+  "language": "fr",
+  "reviewed_files": 26,
+  "flagged_files": 0,
+  "flagged_pages": [],
+  "all_pages": [
+    {
+      "audio_file": "1.mp3",
+      "output_file": "1.json",
+      "page": 1,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 13.282,
+        "first_word_start_s": 0.1,
+        "last_word_end_s": 12.701,
+        "gap_s": 0.581,
+        "coverage_ratio": 0.9563,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 35,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "10.mp3",
+      "output_file": "10.json",
+      "page": 10,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 8.591,
+        "first_word_start_s": 0.1,
+        "last_word_end_s": 8.131,
+        "gap_s": 0.46,
+        "coverage_ratio": 0.9464,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 22,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "11.mp3",
+      "output_file": "11.json",
+      "page": 11,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 14.629,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 14.208,
+        "gap_s": 0.421,
+        "coverage_ratio": 0.9713,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 41,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "12.mp3",
+      "output_file": "12.json",
+      "page": 12,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 11.61,
+        "first_word_start_s": 0.1,
+        "last_word_end_s": 11.13,
+        "gap_s": 0.48,
+        "coverage_ratio": 0.9587,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 28,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "13.mp3",
+      "output_file": "13.json",
+      "page": 13,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 16.533,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 15.912,
+        "gap_s": 0.621,
+        "coverage_ratio": 0.9625,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 25,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "14.mp3",
+      "output_file": "14.json",
+      "page": 14,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 5.898,
+        "first_word_start_s": 0.08,
+        "last_word_end_s": 5.517,
+        "gap_s": 0.381,
+        "coverage_ratio": 0.9354,
+        "max_relaxed_gap_s": 2.064,
+        "mismatch_kind": null,
+        "word_count": 15,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "15.mp3",
+      "output_file": "15.json",
+      "page": 15,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 8.731,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 8.27,
+        "gap_s": 0.461,
+        "coverage_ratio": 0.9472,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 19,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "16.mp3",
+      "output_file": "16.json",
+      "page": 16,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 18.576,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 17.995,
+        "gap_s": 0.581,
+        "coverage_ratio": 0.9687,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 39,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "17.mp3",
+      "output_file": "17.json",
+      "page": 17,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 5.991,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 5.71,
+        "gap_s": 0.281,
+        "coverage_ratio": 0.9531,
+        "max_relaxed_gap_s": 2.097,
+        "mismatch_kind": null,
+        "word_count": 13,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "18.mp3",
+      "output_file": "18.json",
+      "page": 18,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 10.635,
+        "first_word_start_s": 0.08,
+        "last_word_end_s": 10.214,
+        "gap_s": 0.421,
+        "coverage_ratio": 0.9604,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 23,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "19.mp3",
+      "output_file": "19.json",
+      "page": 19,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 11.378,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 10.697,
+        "gap_s": 0.681,
+        "coverage_ratio": 0.9402,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 17,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "2.mp3",
+      "output_file": "2.json",
+      "page": 2,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 11.471,
+        "first_word_start_s": 0.1,
+        "last_word_end_s": 11.09,
+        "gap_s": 0.381,
+        "coverage_ratio": 0.9668,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 27,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "20.mp3",
+      "output_file": "20.json",
+      "page": 20,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 5.898,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 5.537,
+        "gap_s": 0.361,
+        "coverage_ratio": 0.9388,
+        "max_relaxed_gap_s": 2.064,
+        "mismatch_kind": null,
+        "word_count": 15,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "21.mp3",
+      "output_file": "21.json",
+      "page": 21,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 4.133,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 3.591,
+        "gap_s": 0.542,
+        "coverage_ratio": 0.8688,
+        "max_relaxed_gap_s": 1.447,
+        "mismatch_kind": null,
+        "word_count": 13,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "22.mp3",
+      "output_file": "22.json",
+      "page": 22,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 8.545,
+        "first_word_start_s": 0.04,
+        "last_word_end_s": 8.145,
+        "gap_s": 0.4,
+        "coverage_ratio": 0.9532,
+        "max_relaxed_gap_s": 2.991,
+        "mismatch_kind": null,
+        "word_count": 28,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "23.mp3",
+      "output_file": "23.json",
+      "page": 23,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 3.158,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 2.836,
+        "gap_s": 0.322,
+        "coverage_ratio": 0.8981,
+        "max_relaxed_gap_s": 1.105,
+        "mismatch_kind": null,
+        "word_count": 10,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "24.mp3",
+      "output_file": "24.json",
+      "page": 24,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 15.372,
+        "first_word_start_s": 0.08,
+        "last_word_end_s": 14.671,
+        "gap_s": 0.701,
+        "coverage_ratio": 0.9544,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 44,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "25.mp3",
+      "output_file": "25.json",
+      "page": 25,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 8.359,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 7.898,
+        "gap_s": 0.461,
+        "coverage_ratio": 0.9448,
+        "max_relaxed_gap_s": 2.926,
+        "mismatch_kind": null,
+        "word_count": 21,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "26.mp3",
+      "output_file": "26.json",
+      "page": 26,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "relaxed",
+        "audio_duration_s": 5.294,
+        "first_word_start_s": 0.1,
+        "last_word_end_s": 4.472,
+        "gap_s": 0.822,
+        "coverage_ratio": 0.8447,
+        "max_relaxed_gap_s": 1.853,
+        "mismatch_kind": null,
+        "word_count": 10,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "3.mp3",
+      "output_file": "3.json",
+      "page": 3,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 4.69,
+        "first_word_start_s": 0.08,
+        "last_word_end_s": 3.989,
+        "gap_s": 0.701,
+        "coverage_ratio": 0.8505,
+        "max_relaxed_gap_s": 1.642,
+        "mismatch_kind": null,
+        "word_count": 9,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "4.mp3",
+      "output_file": "4.json",
+      "page": 4,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 3.669,
+        "first_word_start_s": 0.14,
+        "last_word_end_s": 3.308,
+        "gap_s": 0.361,
+        "coverage_ratio": 0.9017,
+        "max_relaxed_gap_s": 1.284,
+        "mismatch_kind": null,
+        "word_count": 8,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "5.mp3",
+      "output_file": "5.json",
+      "page": 5,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 8.266,
+        "first_word_start_s": 0.1,
+        "last_word_end_s": 7.826,
+        "gap_s": 0.44,
+        "coverage_ratio": 0.9467,
+        "max_relaxed_gap_s": 2.893,
+        "mismatch_kind": null,
+        "word_count": 19,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "6.mp3",
+      "output_file": "6.json",
+      "page": 6,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 12.771,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 12.09,
+        "gap_s": 0.681,
+        "coverage_ratio": 0.9467,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 29,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "7.mp3",
+      "output_file": "7.json",
+      "page": 7,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 8.499,
+        "first_word_start_s": 0.08,
+        "last_word_end_s": 8.198,
+        "gap_s": 0.301,
+        "coverage_ratio": 0.9646,
+        "max_relaxed_gap_s": 2.974,
+        "mismatch_kind": null,
+        "word_count": 18,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "8.mp3",
+      "output_file": "8.json",
+      "page": 8,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 23.081,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 22.58,
+        "gap_s": 0.501,
+        "coverage_ratio": 0.9783,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 52,
+        "error": null
+      }
+    },
+    {
+      "audio_file": "9.mp3",
+      "output_file": "9.json",
+      "page": 9,
+      "alignment_backend": "ctc",
+      "duration_check": {
+        "ok": true,
+        "ok_tier": "good",
+        "audio_duration_s": 20.341,
+        "first_word_start_s": 0.06,
+        "last_word_end_s": 19.6,
+        "gap_s": 0.741,
+        "coverage_ratio": 0.9636,
+        "max_relaxed_gap_s": 3.0,
+        "mismatch_kind": null,
+        "word_count": 43,
+        "error": null
+      }
+    }
+  ]
+}

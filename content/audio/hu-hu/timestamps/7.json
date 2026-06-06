@@ -1,0 +1,104 @@
+[
+  {
+    "start": 1.238,
+    "end": 1.406,
+    "word": "Tom",
+    "probability": 0.666625863868329
+  },
+  {
+    "start": 1.406,
+    "end": 2.193,
+    "word": "Kitten",
+    "probability": 0.7500363960465382
+  },
+  {
+    "start": 2.193,
+    "end": 2.924,
+    "word": "elég",
+    "probability": 0.8456363461096926
+  },
+  {
+    "start": 2.924,
+    "end": 3.796,
+    "word": "pufók",
+    "probability": 0.812587930852253
+  },
+  {
+    "start": 3.796,
+    "end": 4.358,
+    "word": "volt",
+    "probability": 0.7255388705950463
+  },
+  {
+    "start": 4.358,
+    "end": 4.948,
+    "word": "és",
+    "probability": 0.8084338713419815
+  },
+  {
+    "start": 4.948,
+    "end": 5.369,
+    "word": "megnőtt",
+    "probability": 0.529414649393582
+  },
+  {
+    "start": 5.369,
+    "end": 5.877,
+    "word": "több",
+    "probability": 0.705499513717209
+  },
+  {
+    "start": 5.877,
+    "end": 7.225,
+    "word": "gomb",
+    "probability": 0.9156453606758097
+  },
+  {
+    "start": 7.225,
+    "end": 7.815,
+    "word": "azonnal",
+    "probability": 0.6530409678423078
+  },
+  {
+    "start": 7.815,
+    "end": 8.575,
+    "word": "leszakadt",
+    "probability": 0.6634263780785701
+  },
+  {
+    "start": 8.575,
+    "end": 8.66,
+    "word": "Az",
+    "probability": 0.056679606324038435
+  },
+  {
+    "start": 8.66,
+    "end": 8.912,
+    "word": "anyja",
+    "probability": 0.4342268689115856
+  },
+  {
+    "start": 8.912,
+    "end": 9.727,
+    "word": "sóhajtott",
+    "probability": 0.6161058850999633
+  },
+  {
+    "start": 9.727,
+    "end": 9.84,
+    "word": "és",
+    "probability": 0.49459833149444776
+  },
+  {
+    "start": 9.84,
+    "end": 11.864,
+    "word": "visszavarrta",
+    "probability": 0.8078250221022656
+  },
+  {
+    "start": 11.864,
+    "end": 12.117,
+    "word": "őket",
+    "probability": 0.6839011807428703
+  }
+]

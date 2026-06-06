@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.18,
+    "word": "Era",
+    "probability": 0.9773663550836306
+  },
+  {
+    "start": 0.18,
+    "end": 0.3,
+    "word": "un",
+    "probability": 0.9820004287343534
+  },
+  {
+    "start": 0.3,
+    "end": 0.821,
+    "word": "disastro",
+    "probability": 0.9775058548239671
+  },
+  {
+    "start": 0.821,
+    "end": 1.181,
+    "word": "quando",
+    "probability": 0.99
+  },
+  {
+    "start": 1.181,
+    "end": 1.861,
+    "word": "raggiunse",
+    "probability": 0.9798267098747598
+  },
+  {
+    "start": 1.861,
+    "end": 2.042,
+    "word": "la",
+    "probability": 0.9426568487355443
+  },
+  {
+    "start": 2.042,
+    "end": 2.402,
+    "word": "cima",
+    "probability": 0.99
+  },
+  {
+    "start": 2.402,
+    "end": 2.602,
+    "word": "del",
+    "probability": 0.9894892671931361
+  },
+  {
+    "start": 2.602,
+    "end": 3.022,
+    "word": "muro",
+    "probability": 0.99
+  },
+  {
+    "start": 3.022,
+    "end": 4.123,
+    "word": "Moppet",
+    "probability": 0.9547137715348667
+  },
+  {
+    "start": 4.123,
+    "end": 4.243,
+    "word": "e",
+    "probability": 0.8963910121539004
+  },
+  {
+    "start": 4.243,
+    "end": 5.024,
+    "word": "Mittens",
+    "probability": 0.99
+  },
+  {
+    "start": 5.024,
+    "end": 5.904,
+    "word": "cercarono",
+    "probability": 0.9763448266906338
+  },
+  {
+    "start": 5.904,
+    "end": 6.084,
+    "word": "di",
+    "probability": 0.9602969387177391
+  },
+  {
+    "start": 6.084,
+    "end": 6.705,
+    "word": "sistemare",
+    "probability": 0.99
+  },
+  {
+    "start": 6.705,
+    "end": 6.805,
+    "word": "i",
+    "probability": 0.964598225898887
+  },
+  {
+    "start": 6.805,
+    "end": 7.025,
+    "word": "suoi",
+    "probability": 0.9795261806981028
+  },
+  {
+    "start": 7.025,
+    "end": 7.686,
+    "word": "vestiti",
+    "probability": 0.99
+  },
+  {
+    "start": 7.686,
+    "end": 7.866,
+    "word": "ma",
+    "probability": 0.9810772777077942
+  },
+  {
+    "start": 7.866,
+    "end": 7.986,
+    "word": "il",
+    "probability": 0.9671625992567744
+  },
+  {
+    "start": 7.986,
+    "end": 8.226,
+    "word": "suo",
+    "probability": 0.99
+  },
+  {
+    "start": 8.226,
+    "end": 8.927,
+    "word": "cappello",
+    "probability": 0.99
+  },
+  {
+    "start": 8.927,
+    "end": 9.487,
+    "word": "cadde",
+    "probability": 0.99
+  },
+  {
+    "start": 9.487,
+    "end": 9.687,
+    "word": "e",
+    "probability": 0.9740836164734267
+  },
+  {
+    "start": 9.687,
+    "end": 9.807,
+    "word": "i",
+    "probability": 0.9658964758666633
+  },
+  {
+    "start": 9.807,
+    "end": 10.087,
+    "word": "suoi",
+    "probability": 0.99
+  },
+  {
+    "start": 10.087,
+    "end": 10.688,
+    "word": "ultimi",
+    "probability": 0.99
+  },
+  {
+    "start": 10.688,
+    "end": 11.388,
+    "word": "bottoni",
+    "probability": 0.9895733684925393
+  },
+  {
+    "start": 11.388,
+    "end": 11.649,
+    "word": "si",
+    "probability": 0.9696996547780412
+  },
+  {
+    "start": 11.649,
+    "end": 12.469,
+    "word": "staccarono",
+    "probability": 0.9866332095227407
+  }
+]

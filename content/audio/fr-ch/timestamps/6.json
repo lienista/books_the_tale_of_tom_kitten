@@ -1,0 +1,176 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.401,
+    "word": "Mme",
+    "probability": 0.8721038863881421
+  },
+  {
+    "start": 0.401,
+    "end": 1.081,
+    "word": "Tabitha",
+    "probability": 0.8067877571600787
+  },
+  {
+    "start": 1.081,
+    "end": 2.263,
+    "word": "habilla",
+    "probability": 0.9341127519665644
+  },
+  {
+    "start": 2.263,
+    "end": 2.844,
+    "word": "Moppet",
+    "probability": 0.9381931091498642
+  },
+  {
+    "start": 2.844,
+    "end": 3.064,
+    "word": "et",
+    "probability": 0.9539339924814466
+  },
+  {
+    "start": 3.064,
+    "end": 3.765,
+    "word": "Mittens",
+    "probability": 0.9379779208695571
+  },
+  {
+    "start": 3.765,
+    "end": 4.847,
+    "word": "avec",
+    "probability": 0.9870448910409673
+  },
+  {
+    "start": 4.847,
+    "end": 5.047,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 5.047,
+    "end": 5.568,
+    "word": "petites",
+    "probability": 0.99
+  },
+  {
+    "start": 5.568,
+    "end": 6.008,
+    "word": "robes",
+    "probability": 0.9679533374042223
+  },
+  {
+    "start": 6.008,
+    "end": 6.789,
+    "word": "propres",
+    "probability": 0.978481843775693
+  },
+  {
+    "start": 6.789,
+    "end": 7.651,
+    "word": "et",
+    "probability": 0.9870261154964853
+  },
+  {
+    "start": 7.651,
+    "end": 7.831,
+    "word": "des",
+    "probability": 0.99
+  },
+  {
+    "start": 7.831,
+    "end": 8.372,
+    "word": "colliers",
+    "probability": 0.9897246856354899
+  },
+  {
+    "start": 8.372,
+    "end": 8.552,
+    "word": "en",
+    "probability": 0.980944460957336
+  },
+  {
+    "start": 8.552,
+    "end": 9.293,
+    "word": "dentelle",
+    "probability": 0.979026149621583
+  },
+  {
+    "start": 9.293,
+    "end": 10.795,
+    "word": "Puis",
+    "probability": 0.9787302828787531
+  },
+  {
+    "start": 10.795,
+    "end": 11.035,
+    "word": "elle",
+    "probability": 0.99
+  },
+  {
+    "start": 11.035,
+    "end": 11.496,
+    "word": "sortit",
+    "probability": 0.99
+  },
+  {
+    "start": 11.496,
+    "end": 11.656,
+    "word": "des",
+    "probability": 0.9633030770429428
+  },
+  {
+    "start": 11.656,
+    "end": 12.137,
+    "word": "vêtements",
+    "probability": 0.99
+  },
+  {
+    "start": 12.137,
+    "end": 12.798,
+    "word": "rigides",
+    "probability": 0.9821665241974544
+  },
+  {
+    "start": 12.798,
+    "end": 13.118,
+    "word": "et",
+    "probability": 0.9789689645003117
+  },
+  {
+    "start": 13.118,
+    "end": 13.739,
+    "word": "élégants",
+    "probability": 0.99
+  },
+  {
+    "start": 13.739,
+    "end": 14.72,
+    "word": "dune",
+    "probability": 0.9422554065684622
+  },
+  {
+    "start": 14.72,
+    "end": 15.161,
+    "word": "vieille",
+    "probability": 0.9872897799781462
+  },
+  {
+    "start": 15.161,
+    "end": 15.742,
+    "word": "commode",
+    "probability": 0.99
+  },
+  {
+    "start": 15.742,
+    "end": 16.002,
+    "word": "pour",
+    "probability": 0.9684142258276669
+  },
+  {
+    "start": 16.002,
+    "end": 16.343,
+    "word": "Tom",
+    "probability": 0.9772437819652211
+  }
+]

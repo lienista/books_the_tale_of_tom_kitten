@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.081,
+    "end": 0.651,
+    "word": "Gospođa",
+    "probability": 0.1428996999809187
+  },
+  {
+    "start": 0.651,
+    "end": 2.605,
+    "word": "Tabitha",
+    "probability": 0.665884303048586
+  },
+  {
+    "start": 2.605,
+    "end": 3.175,
+    "word": "obukla",
+    "probability": 0.01
+  },
+  {
+    "start": 3.175,
+    "end": 3.505,
+    "word": "je",
+    "probability": 0.24986254681699208
+  },
+  {
+    "start": 3.505,
+    "end": 4.075,
+    "word": "Moppet",
+    "probability": 0.01
+  },
+  {
+    "start": 4.075,
+    "end": 4.237,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 4.237,
+    "end": 4.889,
+    "word": "Mittens",
+    "probability": 0.01
+  },
+  {
+    "start": 4.889,
+    "end": 5.052,
+    "word": "u",
+    "probability": 0.01
+  },
+  {
+    "start": 5.052,
+    "end": 5.54,
+    "word": "čiste",
+    "probability": 0.01
+  },
+  {
+    "start": 5.54,
+    "end": 6.435,
+    "word": "male",
+    "probability": 0.5455368922120658
+  },
+  {
+    "start": 6.435,
+    "end": 7.819,
+    "word": "haljine",
+    "probability": 0.5253609600368024
+  },
+  {
+    "start": 7.819,
+    "end": 8.308,
+    "word": "i",
+    "probability": 0.6660720371179923
+  },
+  {
+    "start": 8.308,
+    "end": 9.203,
+    "word": "čipkaste",
+    "probability": 0.18179526620233066
+  },
+  {
+    "start": 9.203,
+    "end": 10.022,
+    "word": "ovratnike",
+    "probability": 0.01
+  },
+  {
+    "start": 10.022,
+    "end": 10.51,
+    "word": "Zatim",
+    "probability": 0.01
+  },
+  {
+    "start": 10.51,
+    "end": 10.754,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 10.754,
+    "end": 11.08,
+    "word": "iz",
+    "probability": 0.24942217491481602
+  },
+  {
+    "start": 11.08,
+    "end": 11.65,
+    "word": "starog",
+    "probability": 0.01
+  },
+  {
+    "start": 11.65,
+    "end": 12.22,
+    "word": "ormara",
+    "probability": 0.01
+  },
+  {
+    "start": 12.22,
+    "end": 12.871,
+    "word": "izvukla",
+    "probability": 0.01
+  },
+  {
+    "start": 12.871,
+    "end": 13.197,
+    "word": "krutu",
+    "probability": 0.01
+  },
+  {
+    "start": 13.197,
+    "end": 13.278,
+    "word": "otmjenu",
+    "probability": 0.01
+  },
+  {
+    "start": 13.197,
+    "end": 13.278,
+    "word": "odjeću",
+    "probability": 0.01
+  },
+  {
+    "start": 13.197,
+    "end": 13.278,
+    "word": "za",
+    "probability": 0.01
+  },
+  {
+    "start": 13.197,
+    "end": 13.278,
+    "word": "Toma",
+    "probability": 0.01
+  }
+]

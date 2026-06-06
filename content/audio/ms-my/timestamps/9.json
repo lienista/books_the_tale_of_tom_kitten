@@ -1,0 +1,236 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.44,
+    "word": "Moppet",
+    "probability": 0.9202505554634923
+  },
+  {
+    "start": 0.44,
+    "end": 0.841,
+    "word": "dan",
+    "probability": 0.9890951017302241
+  },
+  {
+    "start": 0.841,
+    "end": 1.401,
+    "word": "Mittens",
+    "probability": 0.8550963537089319
+  },
+  {
+    "start": 1.401,
+    "end": 2.463,
+    "word": "terhuyunghayang",
+    "probability": 0.9291848817176122
+  },
+  {
+    "start": 2.463,
+    "end": 3.063,
+    "word": "menuruni",
+    "probability": 0.9690111650299075
+  },
+  {
+    "start": 3.063,
+    "end": 3.484,
+    "word": "jalan",
+    "probability": 0.989817972016478
+  },
+  {
+    "start": 3.484,
+    "end": 3.904,
+    "word": "taman",
+    "probability": 0.99
+  },
+  {
+    "start": 3.904,
+    "end": 4.765,
+    "word": "Tidak",
+    "probability": 0.9899462538484588
+  },
+  {
+    "start": 4.765,
+    "end": 5.085,
+    "word": "lama",
+    "probability": 0.9876745328057162
+  },
+  {
+    "start": 5.085,
+    "end": 5.666,
+    "word": "kemudian",
+    "probability": 0.9690389579988021
+  },
+  {
+    "start": 5.666,
+    "end": 6.327,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 6.327,
+    "end": 7.007,
+    "word": "tersadung",
+    "probability": 0.9757047341127285
+  },
+  {
+    "start": 7.007,
+    "end": 7.328,
+    "word": "gaun",
+    "probability": 0.9151270136756542
+  },
+  {
+    "start": 7.328,
+    "end": 7.808,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 7.808,
+    "end": 8.289,
+    "word": "dan",
+    "probability": 0.9841759841936458
+  },
+  {
+    "start": 8.289,
+    "end": 8.769,
+    "word": "jatuh",
+    "probability": 0.99
+  },
+  {
+    "start": 8.769,
+    "end": 9.61,
+    "word": "tertelungkup",
+    "probability": 0.961423583419222
+  },
+  {
+    "start": 9.61,
+    "end": 11.372,
+    "word": "Apabila",
+    "probability": 0.99
+  },
+  {
+    "start": 11.372,
+    "end": 11.772,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 11.772,
+    "end": 12.313,
+    "word": "berdiri",
+    "probability": 0.99
+  },
+  {
+    "start": 12.313,
+    "end": 13.254,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 13.254,
+    "end": 13.834,
+    "word": "dipenuhi",
+    "probability": 0.98626390904332
+  },
+  {
+    "start": 13.834,
+    "end": 14.175,
+    "word": "dengan",
+    "probability": 0.9347875414411136
+  },
+  {
+    "start": 14.175,
+    "end": 14.595,
+    "word": "kesan",
+    "probability": 0.99
+  },
+  {
+    "start": 14.595,
+    "end": 15.136,
+    "word": "kotoran",
+    "probability": 0.9867187676306796
+  },
+  {
+    "start": 15.136,
+    "end": 16.016,
+    "word": "rumput",
+    "probability": 0.9883581447452235
+  },
+  {
+    "start": 16.016,
+    "end": 17.678,
+    "word": "Mari",
+    "probability": 0.99
+  },
+  {
+    "start": 17.678,
+    "end": 17.999,
+    "word": "kita",
+    "probability": 0.9830482579822433
+  },
+  {
+    "start": 17.999,
+    "end": 18.419,
+    "word": "panjat",
+    "probability": 0.988942583549727
+  },
+  {
+    "start": 18.419,
+    "end": 19.2,
+    "word": "batubatu",
+    "probability": 0.9466093438086958
+  },
+  {
+    "start": 19.2,
+    "end": 19.52,
+    "word": "itu",
+    "probability": 0.9883892036600284
+  },
+  {
+    "start": 19.52,
+    "end": 20.061,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 20.061,
+    "end": 20.441,
+    "word": "duduk",
+    "probability": 0.99
+  },
+  {
+    "start": 20.441,
+    "end": 20.621,
+    "word": "di",
+    "probability": 0.9784314929536693
+  },
+  {
+    "start": 20.621,
+    "end": 20.982,
+    "word": "atas",
+    "probability": 0.99
+  },
+  {
+    "start": 20.982,
+    "end": 21.382,
+    "word": "tembok",
+    "probability": 0.9871582481431865
+  },
+  {
+    "start": 21.382,
+    "end": 21.883,
+    "word": "taman",
+    "probability": 0.9893131699294611
+  },
+  {
+    "start": 21.883,
+    "end": 22.683,
+    "word": "cadang",
+    "probability": 0.99
+  },
+  {
+    "start": 22.683,
+    "end": 23.104,
+    "word": "Moppet",
+    "probability": 0.9241349351544398
+  }
+]

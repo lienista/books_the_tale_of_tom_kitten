@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.281,
+    "word": "Tom",
+    "probability": 0.9438028695300787
+  },
+  {
+    "start": 0.281,
+    "end": 0.962,
+    "word": "Kitten",
+    "probability": 0.9479069487439572
+  },
+  {
+    "start": 0.962,
+    "end": 1.624,
+    "word": "era",
+    "probability": 0.99
+  },
+  {
+    "start": 1.624,
+    "end": 2.325,
+    "word": "piuttosto",
+    "probability": 0.9786251929210599
+  },
+  {
+    "start": 2.325,
+    "end": 2.987,
+    "word": "paffuto",
+    "probability": 0.99
+  },
+  {
+    "start": 2.987,
+    "end": 3.047,
+    "word": "e",
+    "probability": 0.9660773023412389
+  },
+  {
+    "start": 3.047,
+    "end": 3.788,
+    "word": "cresciuto",
+    "probability": 0.99
+  },
+  {
+    "start": 3.788,
+    "end": 4.791,
+    "word": "diversi",
+    "probability": 0.9880828829395755
+  },
+  {
+    "start": 4.791,
+    "end": 5.332,
+    "word": "bottoni",
+    "probability": 0.9897674105340403
+  },
+  {
+    "start": 5.332,
+    "end": 5.512,
+    "word": "si",
+    "probability": 0.9853602601596179
+  },
+  {
+    "start": 5.512,
+    "end": 6.314,
+    "word": "staccarono",
+    "probability": 0.99
+  },
+  {
+    "start": 6.314,
+    "end": 7.517,
+    "word": "immediatamente",
+    "probability": 0.99
+  },
+  {
+    "start": 7.517,
+    "end": 8.258,
+    "word": "Sua",
+    "probability": 0.99
+  },
+  {
+    "start": 8.258,
+    "end": 8.739,
+    "word": "madre",
+    "probability": 0.99
+  },
+  {
+    "start": 8.739,
+    "end": 9.481,
+    "word": "sospirò",
+    "probability": 0.99
+  },
+  {
+    "start": 9.481,
+    "end": 9.681,
+    "word": "e",
+    "probability": 0.9873474153939323
+  },
+  {
+    "start": 9.681,
+    "end": 9.842,
+    "word": "li",
+    "probability": 0.8700933792060255
+  },
+  {
+    "start": 9.842,
+    "end": 10.183,
+    "word": "cucì",
+    "probability": 0.99
+  },
+  {
+    "start": 10.183,
+    "end": 10.343,
+    "word": "di",
+    "probability": 0.8737068527392926
+  },
+  {
+    "start": 10.343,
+    "end": 10.744,
+    "word": "nuovo",
+    "probability": 0.9863416706322956
+  }
+]

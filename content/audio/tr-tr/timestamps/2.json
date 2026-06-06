@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.26,
+    "word": "Bir",
+    "probability": 0.9489982934856105
+  },
+  {
+    "start": 0.26,
+    "end": 0.601,
+    "word": "gün",
+    "probability": 0.9600865863223904
+  },
+  {
+    "start": 0.601,
+    "end": 2.124,
+    "word": "anneleriBayan",
+    "probability": 0.9578868705483028
+  },
+  {
+    "start": 2.124,
+    "end": 2.645,
+    "word": "Tabitha",
+    "probability": 0.9091423253543377
+  },
+  {
+    "start": 2.645,
+    "end": 3.807,
+    "word": "Twitchitçay",
+    "probability": 0.8699037951208473
+  },
+  {
+    "start": 3.807,
+    "end": 4.127,
+    "word": "için",
+    "probability": 0.9203296364876026
+  },
+  {
+    "start": 4.127,
+    "end": 5.149,
+    "word": "arkadaşlarını",
+    "probability": 0.9892418044198072
+  },
+  {
+    "start": 5.149,
+    "end": 5.99,
+    "word": "bekliyordu",
+    "probability": 0.99
+  },
+  {
+    "start": 5.99,
+    "end": 7.072,
+    "word": "Misafirleri",
+    "probability": 0.9819128397029024
+  },
+  {
+    "start": 7.072,
+    "end": 7.753,
+    "word": "gelmeden",
+    "probability": 0.9888794605011855
+  },
+  {
+    "start": 7.753,
+    "end": 8.134,
+    "word": "önce",
+    "probability": 0.9838787476331752
+  },
+  {
+    "start": 8.134,
+    "end": 8.875,
+    "word": "onları",
+    "probability": 0.9878663631478302
+  },
+  {
+    "start": 8.875,
+    "end": 9.476,
+    "word": "yıkamak",
+    "probability": 0.99
+  },
+  {
+    "start": 9.476,
+    "end": 9.897,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 9.897,
+    "end": 10.638,
+    "word": "giydirmek",
+    "probability": 0.9585159097228807
+  },
+  {
+    "start": 10.638,
+    "end": 10.999,
+    "word": "için",
+    "probability": 0.9867954685623201
+  },
+  {
+    "start": 10.999,
+    "end": 11.74,
+    "word": "kedileri",
+    "probability": 0.987212970394721
+  },
+  {
+    "start": 11.74,
+    "end": 12.161,
+    "word": "içeri",
+    "probability": 0.99
+  },
+  {
+    "start": 12.161,
+    "end": 12.662,
+    "word": "getirdi",
+    "probability": 0.9788491035385501
+  }
+]

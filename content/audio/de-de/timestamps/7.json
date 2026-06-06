@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.321,
+    "word": "Tom",
+    "probability": 0.8101766980474073
+  },
+  {
+    "start": 0.321,
+    "end": 0.822,
+    "word": "Kitten",
+    "probability": 0.8558232959072543
+  },
+  {
+    "start": 0.822,
+    "end": 1.103,
+    "word": "war",
+    "probability": 0.8924060390387945
+  },
+  {
+    "start": 1.103,
+    "end": 1.604,
+    "word": "ziemlich",
+    "probability": 0.9843974996778394
+  },
+  {
+    "start": 1.604,
+    "end": 2.245,
+    "word": "pummelig",
+    "probability": 0.9628493413783435
+  },
+  {
+    "start": 2.245,
+    "end": 2.566,
+    "word": "und",
+    "probability": 0.9491110489775894
+  },
+  {
+    "start": 2.566,
+    "end": 3.228,
+    "word": "gewachsen",
+    "probability": 0.9732073667857629
+  },
+  {
+    "start": 3.228,
+    "end": 4.41,
+    "word": "mehrere",
+    "probability": 0.99
+  },
+  {
+    "start": 4.41,
+    "end": 4.972,
+    "word": "Knöpfe",
+    "probability": 0.9621724562460988
+  },
+  {
+    "start": 4.972,
+    "end": 5.513,
+    "word": "sprangen",
+    "probability": 0.9693069151257852
+  },
+  {
+    "start": 5.513,
+    "end": 6.034,
+    "word": "sofort",
+    "probability": 0.99
+  },
+  {
+    "start": 6.034,
+    "end": 6.315,
+    "word": "ab",
+    "probability": 0.9580227601585561
+  },
+  {
+    "start": 6.315,
+    "end": 7.117,
+    "word": "Seine",
+    "probability": 0.99
+  },
+  {
+    "start": 7.117,
+    "end": 7.478,
+    "word": "Mutter",
+    "probability": 0.9871785310801019
+  },
+  {
+    "start": 7.478,
+    "end": 8.199,
+    "word": "seufzte",
+    "probability": 0.99
+  },
+  {
+    "start": 8.199,
+    "end": 8.52,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 8.52,
+    "end": 8.881,
+    "word": "nähte",
+    "probability": 0.9896061368416693
+  },
+  {
+    "start": 8.881,
+    "end": 9.081,
+    "word": "sie",
+    "probability": 0.939453190777352
+  },
+  {
+    "start": 9.081,
+    "end": 9.382,
+    "word": "wieder",
+    "probability": 0.9691582502119936
+  },
+  {
+    "start": 9.382,
+    "end": 9.543,
+    "word": "an",
+    "probability": 0.957636187832647
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.24,
+    "word": "Pak",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.461,
+    "word": "dvě",
+    "probability": 0.99
+  },
+  {
+    "start": 0.461,
+    "end": 0.961,
+    "word": "kachny",
+    "probability": 0.9760799225949335
+  },
+  {
+    "start": 0.961,
+    "end": 2.103,
+    "word": "Rebeccah",
+    "probability": 0.9433285324683798
+  },
+  {
+    "start": 2.103,
+    "end": 2.383,
+    "word": "a",
+    "probability": 0.8956857148284771
+  },
+  {
+    "start": 2.383,
+    "end": 3.004,
+    "word": "Jemima",
+    "probability": 0.8196895757011201
+  },
+  {
+    "start": 3.004,
+    "end": 3.745,
+    "word": "PuddleDuck",
+    "probability": 0.7894624680545198
+  },
+  {
+    "start": 3.745,
+    "end": 4.526,
+    "word": "zvedly",
+    "probability": 0.9816682689804137
+  },
+  {
+    "start": 4.526,
+    "end": 5.147,
+    "word": "klobouk",
+    "probability": 0.955663573282128
+  },
+  {
+    "start": 5.147,
+    "end": 5.268,
+    "word": "a",
+    "probability": 0.9369175923507793
+  },
+  {
+    "start": 5.268,
+    "end": 5.828,
+    "word": "krajkový",
+    "probability": 0.9867228931089969
+  },
+  {
+    "start": 5.828,
+    "end": 6.63,
+    "word": "límeček",
+    "probability": 0.9796793561716945
+  },
+  {
+    "start": 6.63,
+    "end": 6.89,
+    "word": "a",
+    "probability": 0.969022945184633
+  },
+  {
+    "start": 6.89,
+    "end": 7.531,
+    "word": "nasadily",
+    "probability": 0.99
+  },
+  {
+    "start": 7.531,
+    "end": 7.771,
+    "word": "si",
+    "probability": 0.9258690933562005
+  },
+  {
+    "start": 7.771,
+    "end": 7.871,
+    "word": "je",
+    "probability": 0.9799951341478941
+  }
+]

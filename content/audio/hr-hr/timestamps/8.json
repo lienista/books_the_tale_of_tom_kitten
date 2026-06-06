@@ -1,0 +1,272 @@
+[
+  {
+    "start": 15.716,
+    "end": 15.776,
+    "word": "Kad",
+    "probability": 0.3329050173182299
+  },
+  {
+    "start": 15.776,
+    "end": 15.836,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 15.836,
+    "end": 16.117,
+    "word": "tri",
+    "probability": 0.7140643900873854
+  },
+  {
+    "start": 16.117,
+    "end": 16.337,
+    "word": "mačića",
+    "probability": 0.3635215866761693
+  },
+  {
+    "start": 16.337,
+    "end": 16.437,
+    "word": "bila",
+    "probability": 0.01
+  },
+  {
+    "start": 16.437,
+    "end": 16.757,
+    "word": "spremna",
+    "probability": 0.5001955950633902
+  },
+  {
+    "start": 16.757,
+    "end": 17.118,
+    "word": "gospođa",
+    "probability": 0.5876593613785395
+  },
+  {
+    "start": 17.118,
+    "end": 17.378,
+    "word": "Tabitha",
+    "probability": 0.3076582337738899
+  },
+  {
+    "start": 17.378,
+    "end": 17.838,
+    "word": "napravila",
+    "probability": 0.6044268261039051
+  },
+  {
+    "start": 17.838,
+    "end": 17.938,
+    "word": "je",
+    "probability": 0.28795420212606165
+  },
+  {
+    "start": 17.938,
+    "end": 18.299,
+    "word": "pogrešku",
+    "probability": 0.4995989830996172
+  },
+  {
+    "start": 18.299,
+    "end": 18.419,
+    "word": "i",
+    "probability": 0.6665042772173204
+  },
+  {
+    "start": 18.419,
+    "end": 18.839,
+    "word": "poslala",
+    "probability": 0.6161889994229858
+  },
+  {
+    "start": 18.839,
+    "end": 18.939,
+    "word": "ih",
+    "probability": 0.39992096370719
+  },
+  {
+    "start": 18.939,
+    "end": 18.98,
+    "word": "u",
+    "probability": 0.01
+  },
+  {
+    "start": 18.98,
+    "end": 19.28,
+    "word": "vrt",
+    "probability": 0.7335258767353502
+  },
+  {
+    "start": 19.28,
+    "end": 19.5,
+    "word": "dok",
+    "probability": 0.6378617703784446
+  },
+  {
+    "start": 19.5,
+    "end": 19.62,
+    "word": "je",
+    "probability": 0.46398745958450854
+  },
+  {
+    "start": 19.62,
+    "end": 19.981,
+    "word": "pripremala",
+    "probability": 0.38875634137367837
+  },
+  {
+    "start": 19.981,
+    "end": 20.181,
+    "word": "topli",
+    "probability": 0.3999810543394045
+  },
+  {
+    "start": 20.181,
+    "end": 20.501,
+    "word": "tost",
+    "probability": 0.6618266269044835
+  },
+  {
+    "start": 20.501,
+    "end": 20.541,
+    "word": "s",
+    "probability": 0.01
+  },
+  {
+    "start": 20.541,
+    "end": 20.801,
+    "word": "maslacem",
+    "probability": 0.3076855413539701
+  },
+  {
+    "start": 20.801,
+    "end": 21.062,
+    "word": "Sada",
+    "probability": 0.6185906170013596
+  },
+  {
+    "start": 21.062,
+    "end": 21.322,
+    "word": "držite",
+    "probability": 0.45571456580113445
+  },
+  {
+    "start": 21.322,
+    "end": 21.602,
+    "word": "svoju",
+    "probability": 0.5714004861033134
+  },
+  {
+    "start": 21.602,
+    "end": 21.742,
+    "word": "odjeću",
+    "probability": 0.01
+  },
+  {
+    "start": 21.742,
+    "end": 21.883,
+    "word": "čistom",
+    "probability": 0.01
+  },
+  {
+    "start": 21.883,
+    "end": 22.003,
+    "word": "djeco",
+    "probability": 0.01
+  },
+  {
+    "start": 22.003,
+    "end": 22.383,
+    "word": "Hodajte",
+    "probability": 0.5789037862895718
+  },
+  {
+    "start": 22.383,
+    "end": 22.523,
+    "word": "na",
+    "probability": 0.5713250709423929
+  },
+  {
+    "start": 22.523,
+    "end": 22.803,
+    "word": "stražnjim",
+    "probability": 0.285461493392344
+  },
+  {
+    "start": 22.803,
+    "end": 22.944,
+    "word": "nogama",
+    "probability": 0.01
+  },
+  {
+    "start": 22.944,
+    "end": 23.084,
+    "word": "Držite",
+    "probability": 0.01
+  },
+  {
+    "start": 23.084,
+    "end": 23.184,
+    "word": "se",
+    "probability": 0.4005377988943981
+  },
+  {
+    "start": 23.184,
+    "end": 23.344,
+    "word": "podalje",
+    "probability": 0.01
+  },
+  {
+    "start": 23.344,
+    "end": 23.404,
+    "word": "od",
+    "probability": 0.01
+  },
+  {
+    "start": 23.404,
+    "end": 23.544,
+    "word": "blatne",
+    "probability": 0.01
+  },
+  {
+    "start": 23.544,
+    "end": 23.624,
+    "word": "jame",
+    "probability": 0.01
+  },
+  {
+    "start": 23.624,
+    "end": 23.644,
+    "word": "Sally",
+    "probability": 0.01
+  },
+  {
+    "start": 23.624,
+    "end": 23.644,
+    "word": "HennyPenny",
+    "probability": 0.01
+  },
+  {
+    "start": 23.624,
+    "end": 23.644,
+    "word": "svinjca",
+    "probability": 0.01
+  },
+  {
+    "start": 23.624,
+    "end": 23.644,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 23.624,
+    "end": 23.644,
+    "word": "onih",
+    "probability": 0.01
+  },
+  {
+    "start": 23.624,
+    "end": 23.644,
+    "word": "PuddleDucks",
+    "probability": 0.01
+  }
+]

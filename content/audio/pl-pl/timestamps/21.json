@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.581,
+    "word": "Ściągnęła",
+    "probability": 0.9815210765424509
+  },
+  {
+    "start": 0.581,
+    "end": 0.721,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 0.721,
+    "end": 0.821,
+    "word": "z",
+    "probability": 0.9782934433486314
+  },
+  {
+    "start": 0.821,
+    "end": 1.222,
+    "word": "muru",
+    "probability": 0.980471941145673
+  },
+  {
+    "start": 1.222,
+    "end": 2.243,
+    "word": "pospieszyła",
+    "probability": 0.9885894457074974
+  },
+  {
+    "start": 2.243,
+    "end": 2.424,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 2.424,
+    "end": 2.944,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 2.944,
+    "end": 3.485,
+    "word": "zabrała",
+    "probability": 0.9878377714614722
+  },
+  {
+    "start": 3.485,
+    "end": 3.605,
+    "word": "z",
+    "probability": 0.9281018261150633
+  },
+  {
+    "start": 3.605,
+    "end": 4.126,
+    "word": "powrotem",
+    "probability": 0.99
+  },
+  {
+    "start": 4.126,
+    "end": 4.346,
+    "word": "do",
+    "probability": 0.9677169518014991
+  },
+  {
+    "start": 4.346,
+    "end": 4.687,
+    "word": "domu",
+    "probability": 0.99
+  }
+]

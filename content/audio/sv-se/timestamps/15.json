@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.381,
+    "word": "Sedan",
+    "probability": 0.99
+  },
+  {
+    "start": 0.381,
+    "end": 0.841,
+    "word": "plockade",
+    "probability": 0.99
+  },
+  {
+    "start": 0.841,
+    "end": 0.961,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.182,
+    "word": "två",
+    "probability": 0.99
+  },
+  {
+    "start": 1.182,
+    "end": 2.023,
+    "word": "honankorna",
+    "probability": 0.8910996159913774
+  },
+  {
+    "start": 2.023,
+    "end": 3.525,
+    "word": "Rebeccah",
+    "probability": 0.9747912131602707
+  },
+  {
+    "start": 3.525,
+    "end": 3.765,
+    "word": "och",
+    "probability": 0.9015379278538925
+  },
+  {
+    "start": 3.765,
+    "end": 4.326,
+    "word": "Jemima",
+    "probability": 0.9120726982697617
+  },
+  {
+    "start": 4.326,
+    "end": 5.127,
+    "word": "PuddleDuck",
+    "probability": 0.8509216918972872
+  },
+  {
+    "start": 5.127,
+    "end": 5.488,
+    "word": "upp",
+    "probability": 0.99
+  },
+  {
+    "start": 5.488,
+    "end": 5.929,
+    "word": "hatten",
+    "probability": 0.9651250673190997
+  },
+  {
+    "start": 5.929,
+    "end": 6.089,
+    "word": "och",
+    "probability": 0.9827381243353577
+  },
+  {
+    "start": 6.089,
+    "end": 6.93,
+    "word": "spetskragen",
+    "probability": 0.9865151072667067
+  },
+  {
+    "start": 6.93,
+    "end": 7.11,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 7.11,
+    "end": 7.371,
+    "word": "satte",
+    "probability": 0.9883913465882244
+  },
+  {
+    "start": 7.371,
+    "end": 7.551,
+    "word": "på",
+    "probability": 0.9259644633622719
+  },
+  {
+    "start": 7.551,
+    "end": 7.831,
+    "word": "sig",
+    "probability": 0.9705109883671698
+  },
+  {
+    "start": 7.831,
+    "end": 7.951,
+    "word": "dem",
+    "probability": 0.99
+  }
+]

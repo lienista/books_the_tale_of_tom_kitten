@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.801,
+    "word": "从那以后",
+    "probability": 0.9699897597601449
+  },
+  {
+    "start": 0.801,
+    "end": 1.441,
+    "word": "Drake",
+    "probability": 0.8436821869624002
+  },
+  {
+    "start": 1.441,
+    "end": 1.601,
+    "word": "Pudd",
+    "probability": 0.3750581251918467
+  },
+  {
+    "start": 1.601,
+    "end": 1.822,
+    "word": "leD",
+    "probability": 0.6363208153374922
+  },
+  {
+    "start": 1.822,
+    "end": 2.362,
+    "word": "uck",
+    "probability": 0.852202313132198
+  },
+  {
+    "start": 2.362,
+    "end": 2.722,
+    "word": "先生",
+    "probability": 0.8873101050439095
+  },
+  {
+    "start": 2.722,
+    "end": 3.483,
+    "word": "Jemi",
+    "probability": 0.8945160784076123
+  },
+  {
+    "start": 3.483,
+    "end": 4.284,
+    "word": "ma和R",
+    "probability": 0.8997873157894457
+  },
+  {
+    "start": 4.284,
+    "end": 4.604,
+    "word": "ebec",
+    "probability": 0.6874818362471905
+  },
+  {
+    "start": 4.604,
+    "end": 4.944,
+    "word": "cah就",
+    "probability": 0.6874967067356426
+  },
+  {
+    "start": 4.944,
+    "end": 5.665,
+    "word": "一直在寻",
+    "probability": 0.9689872704229483
+  },
+  {
+    "start": 5.665,
+    "end": 6.185,
+    "word": "找它们",
+    "probability": 0.9604796975837758
+  }
+]

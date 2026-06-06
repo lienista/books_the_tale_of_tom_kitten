@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.24,
+    "word": "Она",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.922,
+    "word": "отправила",
+    "probability": 0.9761687259206377
+  },
+  {
+    "start": 0.922,
+    "end": 1.102,
+    "word": "их",
+    "probability": 0.99
+  },
+  {
+    "start": 1.102,
+    "end": 1.683,
+    "word": "наверх",
+    "probability": 0.9867335244728909
+  },
+  {
+    "start": 1.683,
+    "end": 2.505,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 2.505,
+    "end": 2.685,
+    "word": "мне",
+    "probability": 0.99
+  },
+  {
+    "start": 2.685,
+    "end": 3.006,
+    "word": "жаль",
+    "probability": 0.99
+  },
+  {
+    "start": 3.006,
+    "end": 3.547,
+    "word": "говорить",
+    "probability": 0.99
+  },
+  {
+    "start": 3.547,
+    "end": 3.767,
+    "word": "что",
+    "probability": 0.99
+  },
+  {
+    "start": 3.767,
+    "end": 3.968,
+    "word": "она",
+    "probability": 0.9785338496994171
+  },
+  {
+    "start": 3.968,
+    "end": 4.589,
+    "word": "сказала",
+    "probability": 0.99
+  },
+  {
+    "start": 4.589,
+    "end": 5.01,
+    "word": "своим",
+    "probability": 0.9634168121294637
+  },
+  {
+    "start": 5.01,
+    "end": 5.651,
+    "word": "друзьям",
+    "probability": 0.9849235018540523
+  },
+  {
+    "start": 5.651,
+    "end": 6.553,
+    "word": "будто",
+    "probability": 0.99
+  },
+  {
+    "start": 6.553,
+    "end": 6.793,
+    "word": "они",
+    "probability": 0.99
+  },
+  {
+    "start": 6.793,
+    "end": 7.234,
+    "word": "лежат",
+    "probability": 0.99
+  },
+  {
+    "start": 7.234,
+    "end": 7.355,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 7.355,
+    "end": 7.936,
+    "word": "постели",
+    "probability": 0.9854021323141665
+  },
+  {
+    "start": 7.936,
+    "end": 8.056,
+    "word": "с",
+    "probability": 0.94333098570547
+  },
+  {
+    "start": 8.056,
+    "end": 8.797,
+    "word": "простудой",
+    "probability": 0.99
+  },
+  {
+    "start": 8.797,
+    "end": 9.238,
+    "word": "что",
+    "probability": 0.9782178609654715
+  },
+  {
+    "start": 9.238,
+    "end": 9.539,
+    "word": "было",
+    "probability": 0.99
+  },
+  {
+    "start": 9.539,
+    "end": 10.16,
+    "word": "неправдой",
+    "probability": 0.99
+  }
+]

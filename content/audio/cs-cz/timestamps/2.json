@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.481,
+    "word": "Jednoho",
+    "probability": 0.99
+  },
+  {
+    "start": 0.481,
+    "end": 0.701,
+    "word": "dne",
+    "probability": 0.9670142103170917
+  },
+  {
+    "start": 0.701,
+    "end": 1.222,
+    "word": "jejich",
+    "probability": 0.99
+  },
+  {
+    "start": 1.222,
+    "end": 2.424,
+    "word": "matkapaní",
+    "probability": 0.9650496857598895
+  },
+  {
+    "start": 2.424,
+    "end": 2.965,
+    "word": "Tabitha",
+    "probability": 0.9594674446924977
+  },
+  {
+    "start": 2.965,
+    "end": 4.788,
+    "word": "Twitchitočekávala",
+    "probability": 0.9326356365885735
+  },
+  {
+    "start": 4.788,
+    "end": 5.409,
+    "word": "přátele",
+    "probability": 0.99
+  },
+  {
+    "start": 5.409,
+    "end": 5.57,
+    "word": "na",
+    "probability": 0.9418702038587348
+  },
+  {
+    "start": 5.57,
+    "end": 5.93,
+    "word": "čaj",
+    "probability": 0.9437607486900598
+  },
+  {
+    "start": 5.93,
+    "end": 6.832,
+    "word": "Přivedla",
+    "probability": 0.9736007058067604
+  },
+  {
+    "start": 6.832,
+    "end": 7.473,
+    "word": "koťátka",
+    "probability": 0.99
+  },
+  {
+    "start": 7.473,
+    "end": 8.034,
+    "word": "dovnitř",
+    "probability": 0.9565600821633355
+  },
+  {
+    "start": 8.034,
+    "end": 8.394,
+    "word": "aby",
+    "probability": 0.9682333833171914
+  },
+  {
+    "start": 8.394,
+    "end": 8.535,
+    "word": "je",
+    "probability": 0.9335893613367173
+  },
+  {
+    "start": 8.535,
+    "end": 8.995,
+    "word": "umyla",
+    "probability": 0.9733332572784007
+  },
+  {
+    "start": 8.995,
+    "end": 9.196,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 9.196,
+    "end": 9.877,
+    "word": "oblékla",
+    "probability": 0.9851789868814137
+  },
+  {
+    "start": 9.877,
+    "end": 10.358,
+    "word": "než",
+    "probability": 0.9839643042440734
+  },
+  {
+    "start": 10.358,
+    "end": 10.618,
+    "word": "její",
+    "probability": 0.99
+  },
+  {
+    "start": 10.618,
+    "end": 11.039,
+    "word": "hosté",
+    "probability": 0.8487698444230961
+  },
+  {
+    "start": 11.039,
+    "end": 11.54,
+    "word": "dorazí",
+    "probability": 0.99
+  }
+]

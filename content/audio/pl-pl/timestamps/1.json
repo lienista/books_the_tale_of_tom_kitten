@@ -1,0 +1,176 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.581,
+    "word": "Dawno",
+    "probability": 0.9866193399700859
+  },
+  {
+    "start": 0.581,
+    "end": 1.101,
+    "word": "dawno",
+    "probability": 0.99
+  },
+  {
+    "start": 1.101,
+    "end": 1.481,
+    "word": "temu",
+    "probability": 0.99
+  },
+  {
+    "start": 1.481,
+    "end": 1.782,
+    "word": "były",
+    "probability": 0.9846545862144981
+  },
+  {
+    "start": 1.782,
+    "end": 2.102,
+    "word": "trzy",
+    "probability": 0.9869506453114392
+  },
+  {
+    "start": 2.102,
+    "end": 2.402,
+    "word": "małe",
+    "probability": 0.99
+  },
+  {
+    "start": 2.402,
+    "end": 2.923,
+    "word": "kotki",
+    "probability": 0.99
+  },
+  {
+    "start": 2.923,
+    "end": 3.183,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 3.183,
+    "end": 3.743,
+    "word": "imionach",
+    "probability": 0.9851144203830481
+  },
+  {
+    "start": 3.743,
+    "end": 4.444,
+    "word": "Mittens",
+    "probability": 0.9622538864731415
+  },
+  {
+    "start": 4.444,
+    "end": 4.864,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 4.864,
+    "end": 5.365,
+    "word": "Kitten",
+    "probability": 0.9238573718735733
+  },
+  {
+    "start": 5.365,
+    "end": 5.705,
+    "word": "i",
+    "probability": 0.9768859201941602
+  },
+  {
+    "start": 5.705,
+    "end": 6.246,
+    "word": "Moppet",
+    "probability": 0.9589865962640906
+  },
+  {
+    "start": 6.246,
+    "end": 7.167,
+    "word": "Miały",
+    "probability": 0.99
+  },
+  {
+    "start": 7.167,
+    "end": 7.627,
+    "word": "piękne",
+    "probability": 0.9749276894336525
+  },
+  {
+    "start": 7.627,
+    "end": 8.388,
+    "word": "futerka",
+    "probability": 0.99
+  },
+  {
+    "start": 8.388,
+    "end": 8.628,
+    "word": "i",
+    "probability": 0.97338528056917
+  },
+  {
+    "start": 8.628,
+    "end": 9.289,
+    "word": "spędzały",
+    "probability": 0.99
+  },
+  {
+    "start": 9.289,
+    "end": 9.569,
+    "word": "dni",
+    "probability": 0.99
+  },
+  {
+    "start": 9.569,
+    "end": 10.77,
+    "word": "turlając",
+    "probability": 0.99
+  },
+  {
+    "start": 10.77,
+    "end": 11.01,
+    "word": "się",
+    "probability": 0.99
+  },
+  {
+    "start": 11.01,
+    "end": 11.15,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 11.15,
+    "end": 11.831,
+    "word": "werandzie",
+    "probability": 0.976973878989961
+  },
+  {
+    "start": 11.831,
+    "end": 11.931,
+    "word": "i",
+    "probability": 0.9888572691018229
+  },
+  {
+    "start": 11.931,
+    "end": 12.532,
+    "word": "bawiąc",
+    "probability": 0.9866516611847761
+  },
+  {
+    "start": 12.532,
+    "end": 12.772,
+    "word": "się",
+    "probability": 0.9852805679322308
+  },
+  {
+    "start": 12.772,
+    "end": 12.852,
+    "word": "w",
+    "probability": 0.99
+  },
+  {
+    "start": 12.852,
+    "end": 13.212,
+    "word": "ziemi",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "start": 2.198,
+    "end": 2.234,
+    "word": "I",
+    "probability": 0.99
+  },
+  {
+    "start": 2.234,
+    "end": 3.064,
+    "word": "gospodin",
+    "probability": 0.6196949640713252
+  },
+  {
+    "start": 3.064,
+    "end": 3.352,
+    "word": "Drake",
+    "probability": 0.2498017331548252
+  },
+  {
+    "start": 3.352,
+    "end": 4.577,
+    "word": "PuddleDuck",
+    "probability": 0.6770700994110476
+  },
+  {
+    "start": 4.577,
+    "end": 5.191,
+    "word": "Jemima",
+    "probability": 0.5901712836903419
+  },
+  {
+    "start": 5.191,
+    "end": 5.443,
+    "word": "i",
+    "probability": 0.7141987405408182
+  },
+  {
+    "start": 5.443,
+    "end": 6.489,
+    "word": "Rebeccah",
+    "probability": 0.6890964384554817
+  },
+  {
+    "start": 6.489,
+    "end": 6.597,
+    "word": "ih",
+    "probability": 0.01
+  },
+  {
+    "start": 6.597,
+    "end": 6.741,
+    "word": "od",
+    "probability": 0.1860004650817872
+  },
+  {
+    "start": 6.741,
+    "end": 6.777,
+    "word": "tada",
+    "probability": 0.01
+  },
+  {
+    "start": 6.741,
+    "end": 6.777,
+    "word": "traže",
+    "probability": 0.01
+  }
+]

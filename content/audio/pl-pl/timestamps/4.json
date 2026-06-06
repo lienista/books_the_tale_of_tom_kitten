@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.462,
+    "word": "Potem",
+    "probability": 0.99
+  },
+  {
+    "start": 0.462,
+    "end": 1.425,
+    "word": "wyszczotkowała",
+    "probability": 0.9766505917274625
+  },
+  {
+    "start": 1.425,
+    "end": 1.666,
+    "word": "im",
+    "probability": 0.99
+  },
+  {
+    "start": 1.666,
+    "end": 2.53,
+    "word": "futerka",
+    "probability": 0.99
+  },
+  {
+    "start": 2.53,
+    "end": 3.072,
+    "word": "to",
+    "probability": 0.99
+  },
+  {
+    "start": 3.072,
+    "end": 3.373,
+    "word": "jest",
+    "probability": 0.99
+  },
+  {
+    "start": 3.373,
+    "end": 4.076,
+    "word": "Mittens",
+    "probability": 0.8587857019514203
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.442,
+    "word": "Potom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.442,
+    "end": 0.804,
+    "word": "im",
+    "probability": 0.9744708720176075
+  },
+  {
+    "start": 0.804,
+    "end": 1.708,
+    "word": "vyčesala",
+    "probability": 0.8651275355925403
+  },
+  {
+    "start": 1.708,
+    "end": 2.532,
+    "word": "kožuchy",
+    "probability": 0.888319661906426
+  },
+  {
+    "start": 2.532,
+    "end": 3.516,
+    "word": "toto",
+    "probability": 0.9675582140459231
+  },
+  {
+    "start": 3.516,
+    "end": 3.617,
+    "word": "je",
+    "probability": 0.9784006537318526
+  },
+  {
+    "start": 3.617,
+    "end": 4.199,
+    "word": "Mittens",
+    "probability": 0.8486231497594107
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.18,
+    "word": "Co",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.32,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 0.32,
+    "end": 0.741,
+    "word": "týče",
+    "probability": 0.99
+  },
+  {
+    "start": 0.741,
+    "end": 2.002,
+    "word": "PuddleDucksšli",
+    "probability": 0.8541252267090997
+  },
+  {
+    "start": 2.002,
+    "end": 2.202,
+    "word": "do",
+    "probability": 0.8712586720447808
+  },
+  {
+    "start": 2.202,
+    "end": 2.843,
+    "word": "rybníka",
+    "probability": 0.99
+  },
+  {
+    "start": 2.843,
+    "end": 4.124,
+    "word": "Oblečení",
+    "probability": 0.99
+  },
+  {
+    "start": 4.124,
+    "end": 4.625,
+    "word": "spadlo",
+    "probability": 0.99
+  },
+  {
+    "start": 4.625,
+    "end": 5.065,
+    "word": "hned",
+    "probability": 0.9856815975887072
+  },
+  {
+    "start": 5.065,
+    "end": 5.746,
+    "word": "protože",
+    "probability": 0.984615981094147
+  },
+  {
+    "start": 5.746,
+    "end": 6.286,
+    "word": "nezbyly",
+    "probability": 0.99
+  },
+  {
+    "start": 6.286,
+    "end": 6.807,
+    "word": "žádné",
+    "probability": 0.9754635201767219
+  },
+  {
+    "start": 6.807,
+    "end": 7.548,
+    "word": "knoflíky",
+    "probability": 0.99
+  },
+  {
+    "start": 7.548,
+    "end": 8.108,
+    "word": "které",
+    "probability": 0.9889776112249884
+  },
+  {
+    "start": 8.108,
+    "end": 8.308,
+    "word": "by",
+    "probability": 0.9678106526794078
+  },
+  {
+    "start": 8.308,
+    "end": 8.449,
+    "word": "je",
+    "probability": 0.985844267226474
+  },
+  {
+    "start": 8.449,
+    "end": 8.929,
+    "word": "držely",
+    "probability": 0.99
+  },
+  {
+    "start": 8.929,
+    "end": 9.59,
+    "word": "pohromadě",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.561,
+    "word": "Moppet",
+    "probability": 0.8149501487440802
+  },
+  {
+    "start": 0.561,
+    "end": 0.821,
+    "word": "i",
+    "probability": 0.8461672162491893
+  },
+  {
+    "start": 0.821,
+    "end": 1.382,
+    "word": "Mittens",
+    "probability": 0.8372983905990564
+  },
+  {
+    "start": 1.382,
+    "end": 1.782,
+    "word": "chwiały",
+    "probability": 0.9318953930484033
+  },
+  {
+    "start": 1.782,
+    "end": 1.962,
+    "word": "się",
+    "probability": 0.9849546342866962
+  },
+  {
+    "start": 1.962,
+    "end": 2.103,
+    "word": "po",
+    "probability": 0.99
+  },
+  {
+    "start": 2.103,
+    "end": 2.603,
+    "word": "ścieżce",
+    "probability": 0.9861634783436819
+  },
+  {
+    "start": 2.603,
+    "end": 3.264,
+    "word": "ogrodowej",
+    "probability": 0.99
+  },
+  {
+    "start": 3.264,
+    "end": 4.365,
+    "word": "Wkrótce",
+    "probability": 0.9844630840898617
+  },
+  {
+    "start": 4.365,
+    "end": 5.066,
+    "word": "potknęły",
+    "probability": 0.9850319407228818
+  },
+  {
+    "start": 5.066,
+    "end": 5.246,
+    "word": "się",
+    "probability": 0.9491231168363607
+  },
+  {
+    "start": 5.246,
+    "end": 5.326,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 5.326,
+    "end": 5.667,
+    "word": "swoje",
+    "probability": 0.9632437752370063
+  },
+  {
+    "start": 5.667,
+    "end": 6.368,
+    "word": "sukienki",
+    "probability": 0.99
+  },
+  {
+    "start": 6.368,
+    "end": 6.848,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 6.848,
+    "end": 7.429,
+    "word": "upadły",
+    "probability": 0.99
+  },
+  {
+    "start": 7.429,
+    "end": 7.589,
+    "word": "na",
+    "probability": 0.9550834010822851
+  },
+  {
+    "start": 7.589,
+    "end": 8.11,
+    "word": "twarze",
+    "probability": 0.99
+  },
+  {
+    "start": 8.11,
+    "end": 8.931,
+    "word": "Kiedy",
+    "probability": 0.99
+  },
+  {
+    "start": 8.931,
+    "end": 9.431,
+    "word": "wstały",
+    "probability": 0.9639132447276801
+  },
+  {
+    "start": 9.431,
+    "end": 10.112,
+    "word": "były",
+    "probability": 0.9854528776567429
+  },
+  {
+    "start": 10.112,
+    "end": 10.653,
+    "word": "pokryte",
+    "probability": 0.99
+  },
+  {
+    "start": 10.653,
+    "end": 11.173,
+    "word": "plamami",
+    "probability": 0.9880179090917375
+  },
+  {
+    "start": 11.173,
+    "end": 11.714,
+    "word": "trawy",
+    "probability": 0.99
+  },
+  {
+    "start": 11.714,
+    "end": 13.276,
+    "word": "Wspinajmy",
+    "probability": 0.99
+  },
+  {
+    "start": 13.276,
+    "end": 13.436,
+    "word": "się",
+    "probability": 0.9403925213974038
+  },
+  {
+    "start": 13.436,
+    "end": 13.576,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 13.576,
+    "end": 14.157,
+    "word": "skały",
+    "probability": 0.9839216080110516
+  },
+  {
+    "start": 14.157,
+    "end": 14.558,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 14.558,
+    "end": 15.238,
+    "word": "usiądźmy",
+    "probability": 0.9182878357184334
+  },
+  {
+    "start": 15.238,
+    "end": 15.379,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 15.379,
+    "end": 15.799,
+    "word": "murze",
+    "probability": 0.99
+  },
+  {
+    "start": 15.799,
+    "end": 16.56,
+    "word": "ogrodowym",
+    "probability": 0.99
+  },
+  {
+    "start": 16.56,
+    "end": 17.681,
+    "word": "zaproponowała",
+    "probability": 0.9872159560720782
+  },
+  {
+    "start": 17.681,
+    "end": 18.122,
+    "word": "Moppet",
+    "probability": 0.9213222249482168
+  }
+]

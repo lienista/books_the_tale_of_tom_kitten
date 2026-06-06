@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "Och",
+    "probability": 0.9377158483051911
+  },
+  {
+    "start": 0.16,
+    "end": 0.501,
+    "word": "herr",
+    "probability": 0.9400911409916235
+  },
+  {
+    "start": 0.501,
+    "end": 1.083,
+    "word": "Drake",
+    "probability": 0.8783099562809131
+  },
+  {
+    "start": 1.083,
+    "end": 1.804,
+    "word": "PuddleDuck",
+    "probability": 0.8064994721999966
+  },
+  {
+    "start": 1.804,
+    "end": 3.228,
+    "word": "Jemima",
+    "probability": 0.9630991429938689
+  },
+  {
+    "start": 3.228,
+    "end": 3.488,
+    "word": "och",
+    "probability": 0.9600582527449357
+  },
+  {
+    "start": 3.488,
+    "end": 4.21,
+    "word": "Rebeccah",
+    "probability": 0.9439319540979115
+  },
+  {
+    "start": 4.21,
+    "end": 4.39,
+    "word": "har",
+    "probability": 0.8886592977617683
+  },
+  {
+    "start": 4.39,
+    "end": 4.871,
+    "word": "letat",
+    "probability": 0.9820388133328688
+  },
+  {
+    "start": 4.871,
+    "end": 5.172,
+    "word": "efter",
+    "probability": 0.9734568202116002
+  },
+  {
+    "start": 5.172,
+    "end": 5.333,
+    "word": "dem",
+    "probability": 0.9833748312587832
+  },
+  {
+    "start": 5.333,
+    "end": 5.653,
+    "word": "sedan",
+    "probability": 0.99
+  },
+  {
+    "start": 5.653,
+    "end": 5.874,
+    "word": "dess",
+    "probability": 0.9861499547125895
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.48,
+    "word": "Mevrouw",
+    "probability": 0.812743380217137
+  },
+  {
+    "start": 0.48,
+    "end": 1.121,
+    "word": "Tabitha",
+    "probability": 0.8748463542191949
+  },
+  {
+    "start": 1.121,
+    "end": 1.901,
+    "word": "kleedde",
+    "probability": 0.9425444277987316
+  },
+  {
+    "start": 1.901,
+    "end": 2.381,
+    "word": "Moppet",
+    "probability": 0.9457473882339587
+  },
+  {
+    "start": 2.381,
+    "end": 2.581,
+    "word": "en",
+    "probability": 0.9499300748247089
+  },
+  {
+    "start": 2.581,
+    "end": 3.082,
+    "word": "Mittens",
+    "probability": 0.9214349252108052
+  },
+  {
+    "start": 3.082,
+    "end": 3.382,
+    "word": "in",
+    "probability": 0.9699907478949389
+  },
+  {
+    "start": 3.382,
+    "end": 3.922,
+    "word": "schone",
+    "probability": 0.964412099064199
+  },
+  {
+    "start": 3.922,
+    "end": 4.462,
+    "word": "jurkjes",
+    "probability": 0.9767049925880115
+  },
+  {
+    "start": 4.462,
+    "end": 4.663,
+    "word": "en",
+    "probability": 0.8918147751087394
+  },
+  {
+    "start": 4.663,
+    "end": 5.103,
+    "word": "kanten",
+    "probability": 0.9653141351920074
+  },
+  {
+    "start": 5.103,
+    "end": 5.603,
+    "word": "kragen",
+    "probability": 0.9408786215538651
+  },
+  {
+    "start": 5.603,
+    "end": 6.984,
+    "word": "Toen",
+    "probability": 0.9860335925473571
+  },
+  {
+    "start": 6.984,
+    "end": 7.424,
+    "word": "haalde",
+    "probability": 0.9836746936470143
+  },
+  {
+    "start": 7.424,
+    "end": 7.604,
+    "word": "ze",
+    "probability": 0.9116863524546132
+  },
+  {
+    "start": 7.604,
+    "end": 7.804,
+    "word": "wat",
+    "probability": 0.9665427528063434
+  },
+  {
+    "start": 7.804,
+    "end": 8.485,
+    "word": "stijve",
+    "probability": 0.9651888891228881
+  },
+  {
+    "start": 8.485,
+    "end": 8.985,
+    "word": "chique",
+    "probability": 0.8246547885656996
+  },
+  {
+    "start": 8.985,
+    "end": 9.525,
+    "word": "kleren",
+    "probability": 0.9573979723970053
+  },
+  {
+    "start": 9.525,
+    "end": 9.865,
+    "word": "uit",
+    "probability": 0.9575304938077702
+  },
+  {
+    "start": 9.865,
+    "end": 10.045,
+    "word": "een",
+    "probability": 0.8838933351680348
+  },
+  {
+    "start": 10.045,
+    "end": 10.486,
+    "word": "oude",
+    "probability": 0.9881553901909704
+  },
+  {
+    "start": 10.486,
+    "end": 11.266,
+    "word": "ladekast",
+    "probability": 0.9591754191484807
+  },
+  {
+    "start": 11.266,
+    "end": 11.466,
+    "word": "voor",
+    "probability": 0.9469501766930104
+  },
+  {
+    "start": 11.466,
+    "end": 11.686,
+    "word": "Tom",
+    "probability": 0.9620444808502122
+  }
+]

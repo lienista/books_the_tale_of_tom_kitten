@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.401,
+    "word": "Luego",
+    "probability": 0.9754851121221305
+  },
+  {
+    "start": 0.401,
+    "end": 1.002,
+    "word": "Tabitha",
+    "probability": 0.9491584740397916
+  },
+  {
+    "start": 1.002,
+    "end": 1.623,
+    "word": "Twitchit",
+    "probability": 0.9665269859955873
+  },
+  {
+    "start": 1.623,
+    "end": 2.344,
+    "word": "bajó",
+    "probability": 0.9775958173338269
+  },
+  {
+    "start": 2.344,
+    "end": 2.524,
+    "word": "al",
+    "probability": 0.9563673883852198
+  },
+  {
+    "start": 2.524,
+    "end": 3.065,
+    "word": "jardín",
+    "probability": 0.9659123215468512
+  },
+  {
+    "start": 3.065,
+    "end": 3.506,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 3.506,
+    "end": 4.127,
+    "word": "encontró",
+    "probability": 0.9876947786608515
+  },
+  {
+    "start": 4.127,
+    "end": 4.267,
+    "word": "a",
+    "probability": 0.9483163964657914
+  },
+  {
+    "start": 4.267,
+    "end": 4.507,
+    "word": "sus",
+    "probability": 0.99
+  },
+  {
+    "start": 4.507,
+    "end": 5.128,
+    "word": "gatitos",
+    "probability": 0.99
+  },
+  {
+    "start": 5.128,
+    "end": 5.309,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 5.309,
+    "end": 5.469,
+    "word": "la",
+    "probability": 0.99
+  },
+  {
+    "start": 5.469,
+    "end": 5.89,
+    "word": "pared",
+    "probability": 0.99
+  },
+  {
+    "start": 5.89,
+    "end": 6.25,
+    "word": "sin",
+    "probability": 0.99
+  },
+  {
+    "start": 6.25,
+    "end": 6.591,
+    "word": "ropa",
+    "probability": 0.9741902928204044
+  }
+]

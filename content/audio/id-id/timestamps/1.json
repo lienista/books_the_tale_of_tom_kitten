@@ -1,0 +1,176 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.4,
+    "word": "Dahulu",
+    "probability": 0.9374675657296738
+  },
+  {
+    "start": 0.4,
+    "end": 0.761,
+    "word": "kala",
+    "probability": 0.9443014053078205
+  },
+  {
+    "start": 0.761,
+    "end": 1.621,
+    "word": "ada",
+    "probability": 0.99
+  },
+  {
+    "start": 1.621,
+    "end": 1.981,
+    "word": "tiga",
+    "probability": 0.99
+  },
+  {
+    "start": 1.981,
+    "end": 2.442,
+    "word": "anak",
+    "probability": 0.987391498857181
+  },
+  {
+    "start": 2.442,
+    "end": 2.862,
+    "word": "kucing",
+    "probability": 0.9735854197577949
+  },
+  {
+    "start": 2.862,
+    "end": 3.362,
+    "word": "kecil",
+    "probability": 0.99
+  },
+  {
+    "start": 3.362,
+    "end": 4.183,
+    "word": "bernama",
+    "probability": 0.9764684662931759
+  },
+  {
+    "start": 4.183,
+    "end": 4.943,
+    "word": "Mittens",
+    "probability": 0.9600104722187167
+  },
+  {
+    "start": 4.943,
+    "end": 5.584,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 5.584,
+    "end": 6.064,
+    "word": "Kitten",
+    "probability": 0.9218150609458112
+  },
+  {
+    "start": 6.064,
+    "end": 6.925,
+    "word": "dan",
+    "probability": 0.9763586663730955
+  },
+  {
+    "start": 6.925,
+    "end": 7.825,
+    "word": "Moppet",
+    "probability": 0.9495682953881632
+  },
+  {
+    "start": 7.825,
+    "end": 8.886,
+    "word": "Mereka",
+    "probability": 0.9729074720693128
+  },
+  {
+    "start": 8.886,
+    "end": 9.486,
+    "word": "memiliki",
+    "probability": 0.9844050429037822
+  },
+  {
+    "start": 9.486,
+    "end": 9.807,
+    "word": "bulu",
+    "probability": 0.99
+  },
+  {
+    "start": 9.807,
+    "end": 10.107,
+    "word": "yang",
+    "probability": 0.9719293852881489
+  },
+  {
+    "start": 10.107,
+    "end": 10.647,
+    "word": "indah",
+    "probability": 0.99
+  },
+  {
+    "start": 10.647,
+    "end": 11.288,
+    "word": "dan",
+    "probability": 0.9696211335687301
+  },
+  {
+    "start": 11.288,
+    "end": 12.088,
+    "word": "menghabiskan",
+    "probability": 0.9746725481706535
+  },
+  {
+    "start": 12.088,
+    "end": 12.709,
+    "word": "harihari",
+    "probability": 0.9348859193647511
+  },
+  {
+    "start": 12.709,
+    "end": 13.129,
+    "word": "mereka",
+    "probability": 0.9606265797866598
+  },
+  {
+    "start": 13.129,
+    "end": 14.29,
+    "word": "bergulingguling",
+    "probability": 0.9529595148147109
+  },
+  {
+    "start": 14.29,
+    "end": 14.39,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 14.39,
+    "end": 14.87,
+    "word": "teras",
+    "probability": 0.99
+  },
+  {
+    "start": 14.87,
+    "end": 15.09,
+    "word": "dan",
+    "probability": 0.9428543859350043
+  },
+  {
+    "start": 15.09,
+    "end": 15.63,
+    "word": "bermain",
+    "probability": 0.9836843256731668
+  },
+  {
+    "start": 15.63,
+    "end": 15.771,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 15.771,
+    "end": 16.151,
+    "word": "tanah",
+    "probability": 0.9825703730430465
+  }
+]

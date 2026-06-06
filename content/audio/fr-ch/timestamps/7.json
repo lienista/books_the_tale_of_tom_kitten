@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.26,
+    "word": "Tom",
+    "probability": 0.7424566396434701
+  },
+  {
+    "start": 0.26,
+    "end": 0.801,
+    "word": "Kitten",
+    "probability": 0.7445171797155602
+  },
+  {
+    "start": 0.801,
+    "end": 1.742,
+    "word": "était",
+    "probability": 0.9488263306029989
+  },
+  {
+    "start": 1.742,
+    "end": 2.123,
+    "word": "assez",
+    "probability": 0.9883567933817388
+  },
+  {
+    "start": 2.123,
+    "end": 2.544,
+    "word": "dodu",
+    "probability": 0.9856476168427313
+  },
+  {
+    "start": 2.544,
+    "end": 3.325,
+    "word": "et",
+    "probability": 0.9836482867916362
+  },
+  {
+    "start": 3.325,
+    "end": 3.625,
+    "word": "avait",
+    "probability": 0.9495048770724114
+  },
+  {
+    "start": 3.625,
+    "end": 4.106,
+    "word": "grandi",
+    "probability": 0.99
+  },
+  {
+    "start": 4.106,
+    "end": 5.468,
+    "word": "plusieurs",
+    "probability": 0.99
+  },
+  {
+    "start": 5.468,
+    "end": 5.969,
+    "word": "boutons",
+    "probability": 0.9804626038302494
+  },
+  {
+    "start": 5.969,
+    "end": 6.77,
+    "word": "sautèrent",
+    "probability": 0.9865981916294814
+  },
+  {
+    "start": 6.77,
+    "end": 7.711,
+    "word": "immédiatement",
+    "probability": 0.99
+  },
+  {
+    "start": 7.711,
+    "end": 9.333,
+    "word": "Sa",
+    "probability": 0.9885560093085597
+  },
+  {
+    "start": 9.333,
+    "end": 9.694,
+    "word": "mère",
+    "probability": 0.99
+  },
+  {
+    "start": 9.694,
+    "end": 10.375,
+    "word": "soupira",
+    "probability": 0.9801227322847635
+  },
+  {
+    "start": 10.375,
+    "end": 11.296,
+    "word": "et",
+    "probability": 0.9830327804313749
+  },
+  {
+    "start": 11.296,
+    "end": 11.476,
+    "word": "les",
+    "probability": 0.9890093221772389
+  },
+  {
+    "start": 11.476,
+    "end": 12.097,
+    "word": "recousit",
+    "probability": 0.9105147731239468
+  }
+]

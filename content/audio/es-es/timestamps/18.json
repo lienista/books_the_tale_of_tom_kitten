@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.301,
+    "word": "Pero",
+    "probability": 0.9808275825977696
+  },
+  {
+    "start": 0.301,
+    "end": 0.481,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 0.481,
+    "end": 0.681,
+    "word": "los",
+    "probability": 0.971404639285588
+  },
+  {
+    "start": 0.681,
+    "end": 1.102,
+    "word": "puso",
+    "probability": 0.9804399916219831
+  },
+  {
+    "start": 1.102,
+    "end": 1.222,
+    "word": "él",
+    "probability": 0.794254618739185
+  },
+  {
+    "start": 1.222,
+    "end": 1.663,
+    "word": "mismo",
+    "probability": 0.99
+  },
+  {
+    "start": 1.663,
+    "end": 2.344,
+    "word": "Le",
+    "probability": 0.99
+  },
+  {
+    "start": 2.344,
+    "end": 2.885,
+    "word": "quedaban",
+    "probability": 0.9791808871427357
+  },
+  {
+    "start": 2.885,
+    "end": 3.446,
+    "word": "incluso",
+    "probability": 0.9843277232710614
+  },
+  {
+    "start": 3.446,
+    "end": 3.867,
+    "word": "peor",
+    "probability": 0.99
+  },
+  {
+    "start": 3.867,
+    "end": 4.047,
+    "word": "que",
+    "probability": 0.9158362426818413
+  },
+  {
+    "start": 4.047,
+    "end": 4.127,
+    "word": "a",
+    "probability": 0.9656449299784745
+  },
+  {
+    "start": 4.127,
+    "end": 4.428,
+    "word": "Tom",
+    "probability": 0.9752436763738797
+  },
+  {
+    "start": 4.428,
+    "end": 5.009,
+    "word": "Kitten",
+    "probability": 0.9282172616377081
+  },
+  {
+    "start": 5.009,
+    "end": 6.071,
+    "word": "Es",
+    "probability": 0.99
+  },
+  {
+    "start": 6.071,
+    "end": 6.311,
+    "word": "una",
+    "probability": 0.8793559866028245
+  },
+  {
+    "start": 6.311,
+    "end": 6.812,
+    "word": "mañana",
+    "probability": 0.9676885051250271
+  },
+  {
+    "start": 6.812,
+    "end": 7.634,
+    "word": "encantadora",
+    "probability": 0.99
+  },
+  {
+    "start": 7.634,
+    "end": 8.836,
+    "word": "dijo",
+    "probability": 0.99
+  },
+  {
+    "start": 8.836,
+    "end": 8.956,
+    "word": "el",
+    "probability": 0.9607229427862268
+  },
+  {
+    "start": 8.956,
+    "end": 9.297,
+    "word": "señor",
+    "probability": 0.99
+  },
+  {
+    "start": 9.297,
+    "end": 9.698,
+    "word": "Drake",
+    "probability": 0.979683756596019
+  },
+  {
+    "start": 9.698,
+    "end": 10.459,
+    "word": "PuddleDuck",
+    "probability": 0.9631939829068101
+  }
+]

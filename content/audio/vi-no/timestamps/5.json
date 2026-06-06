@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.221,
+    "word": "Rồi",
+    "probability": 0.954240270139419
+  },
+  {
+    "start": 0.221,
+    "end": 0.401,
+    "word": "bà",
+    "probability": 0.9827263365016103
+  },
+  {
+    "start": 0.401,
+    "end": 0.702,
+    "word": "chải",
+    "probability": 0.9400137121072567
+  },
+  {
+    "start": 0.702,
+    "end": 1.003,
+    "word": "đuôi",
+    "probability": 0.9483172519938348
+  },
+  {
+    "start": 1.003,
+    "end": 1.203,
+    "word": "và",
+    "probability": 0.9886395752973236
+  },
+  {
+    "start": 1.203,
+    "end": 1.444,
+    "word": "ria",
+    "probability": 0.886887648250054
+  },
+  {
+    "start": 1.444,
+    "end": 1.685,
+    "word": "mép",
+    "probability": 0.7873394401393692
+  },
+  {
+    "start": 1.685,
+    "end": 1.865,
+    "word": "cho",
+    "probability": 0.85059866237077
+  },
+  {
+    "start": 1.865,
+    "end": 2.126,
+    "word": "chúng",
+    "probability": 0.9706078313622953
+  },
+  {
+    "start": 2.126,
+    "end": 3.089,
+    "word": "đây",
+    "probability": 0.99
+  },
+  {
+    "start": 3.089,
+    "end": 3.309,
+    "word": "là",
+    "probability": 0.9697251274809413
+  },
+  {
+    "start": 3.309,
+    "end": 3.53,
+    "word": "Tom",
+    "probability": 0.8139135232865168
+  },
+  {
+    "start": 3.53,
+    "end": 3.991,
+    "word": "Kitten",
+    "probability": 0.7941196643547803
+  },
+  {
+    "start": 3.991,
+    "end": 4.974,
+    "word": "Tom",
+    "probability": 0.9526321896344694
+  },
+  {
+    "start": 4.974,
+    "end": 5.195,
+    "word": "cứ",
+    "probability": 0.950214480999919
+  },
+  {
+    "start": 5.195,
+    "end": 5.395,
+    "word": "liên",
+    "probability": 0.9613902465498926
+  },
+  {
+    "start": 5.395,
+    "end": 5.596,
+    "word": "tục",
+    "probability": 0.99
+  },
+  {
+    "start": 5.596,
+    "end": 5.877,
+    "word": "cố",
+    "probability": 0.99
+  },
+  {
+    "start": 5.877,
+    "end": 6.097,
+    "word": "gắng",
+    "probability": 0.9682498910793375
+  },
+  {
+    "start": 6.097,
+    "end": 6.438,
+    "word": "cào",
+    "probability": 0.934190383559617
+  },
+  {
+    "start": 6.438,
+    "end": 6.639,
+    "word": "vào",
+    "probability": 0.9625281727767016
+  },
+  {
+    "start": 6.639,
+    "end": 6.839,
+    "word": "chiếc",
+    "probability": 0.7772380635109594
+  },
+  {
+    "start": 6.839,
+    "end": 7.04,
+    "word": "lược",
+    "probability": 0.9053048476364205
+  }
+]

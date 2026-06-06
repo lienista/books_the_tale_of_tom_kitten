@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.42,
+    "word": "Mrs",
+    "probability": 0.8743660777462816
+  },
+  {
+    "start": 0.42,
+    "end": 0.941,
+    "word": "Tabitha",
+    "probability": 0.705189569659262
+  },
+  {
+    "start": 0.941,
+    "end": 1.382,
+    "word": "zog",
+    "probability": 0.8776211580188064
+  },
+  {
+    "start": 1.382,
+    "end": 2.022,
+    "word": "Moppet",
+    "probability": 0.8980268256156048
+  },
+  {
+    "start": 2.022,
+    "end": 2.223,
+    "word": "und",
+    "probability": 0.8762121469677865
+  },
+  {
+    "start": 2.223,
+    "end": 2.803,
+    "word": "Mittens",
+    "probability": 0.965639340608183
+  },
+  {
+    "start": 2.803,
+    "end": 3.624,
+    "word": "saubere",
+    "probability": 0.9808625306479621
+  },
+  {
+    "start": 3.624,
+    "end": 4.125,
+    "word": "kleine",
+    "probability": 0.9882226773244218
+  },
+  {
+    "start": 4.125,
+    "end": 4.665,
+    "word": "Kleider",
+    "probability": 0.9804500043763444
+  },
+  {
+    "start": 4.665,
+    "end": 4.826,
+    "word": "und",
+    "probability": 0.9533800702611706
+  },
+  {
+    "start": 4.826,
+    "end": 5.907,
+    "word": "Spitzenkragen",
+    "probability": 0.9896905743991363
+  },
+  {
+    "start": 5.907,
+    "end": 6.207,
+    "word": "an",
+    "probability": 0.9793944079417496
+  },
+  {
+    "start": 6.207,
+    "end": 7.929,
+    "word": "Dann",
+    "probability": 0.99
+  },
+  {
+    "start": 7.929,
+    "end": 8.21,
+    "word": "holte",
+    "probability": 0.9563304295277161
+  },
+  {
+    "start": 8.21,
+    "end": 8.41,
+    "word": "sie",
+    "probability": 0.9822161214712768
+  },
+  {
+    "start": 8.41,
+    "end": 8.61,
+    "word": "aus",
+    "probability": 0.9262357869065927
+  },
+  {
+    "start": 8.61,
+    "end": 8.81,
+    "word": "einer",
+    "probability": 0.9290339919566669
+  },
+  {
+    "start": 8.81,
+    "end": 9.251,
+    "word": "alten",
+    "probability": 0.9741815337083556
+  },
+  {
+    "start": 9.251,
+    "end": 9.791,
+    "word": "Kommode",
+    "probability": 0.9675518730357512
+  },
+  {
+    "start": 9.791,
+    "end": 10.372,
+    "word": "steife",
+    "probability": 0.980289651833949
+  },
+  {
+    "start": 10.372,
+    "end": 10.833,
+    "word": "schicke",
+    "probability": 0.9640882233930804
+  },
+  {
+    "start": 10.833,
+    "end": 11.493,
+    "word": "Kleidung",
+    "probability": 0.99
+  },
+  {
+    "start": 11.493,
+    "end": 11.774,
+    "word": "für",
+    "probability": 0.99
+  },
+  {
+    "start": 11.774,
+    "end": 12.154,
+    "word": "Tom",
+    "probability": 0.9766251227644522
+  },
+  {
+    "start": 12.154,
+    "end": 12.575,
+    "word": "heraus",
+    "probability": 0.9811938879619954
+  }
+]

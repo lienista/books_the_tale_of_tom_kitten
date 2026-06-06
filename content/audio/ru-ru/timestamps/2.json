@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.601,
+    "word": "Однажды",
+    "probability": 0.99
+  },
+  {
+    "start": 0.601,
+    "end": 0.801,
+    "word": "их",
+    "probability": 0.99
+  },
+  {
+    "start": 0.801,
+    "end": 1.221,
+    "word": "мама",
+    "probability": 0.99
+  },
+  {
+    "start": 1.221,
+    "end": 2.182,
+    "word": "миссис",
+    "probability": 0.9299214035207667
+  },
+  {
+    "start": 2.182,
+    "end": 2.663,
+    "word": "Табита",
+    "probability": 0.8920520193551493
+  },
+  {
+    "start": 2.663,
+    "end": 3.263,
+    "word": "Твитчит",
+    "probability": 0.8768184964221458
+  },
+  {
+    "start": 3.263,
+    "end": 4.084,
+    "word": "ждала",
+    "probability": 0.99
+  },
+  {
+    "start": 4.084,
+    "end": 4.585,
+    "word": "друзей",
+    "probability": 0.99
+  },
+  {
+    "start": 4.585,
+    "end": 4.725,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 4.725,
+    "end": 5.185,
+    "word": "чай",
+    "probability": 0.9605853517865405
+  },
+  {
+    "start": 5.185,
+    "end": 6.206,
+    "word": "Она",
+    "probability": 0.99
+  },
+  {
+    "start": 6.206,
+    "end": 6.747,
+    "word": "привела",
+    "probability": 0.99
+  },
+  {
+    "start": 6.747,
+    "end": 7.227,
+    "word": "котят",
+    "probability": 0.99
+  },
+  {
+    "start": 7.227,
+    "end": 7.347,
+    "word": "в",
+    "probability": 0.8445991812339221
+  },
+  {
+    "start": 7.347,
+    "end": 7.688,
+    "word": "дом",
+    "probability": 0.99
+  },
+  {
+    "start": 7.688,
+    "end": 8.148,
+    "word": "чтобы",
+    "probability": 0.99
+  },
+  {
+    "start": 8.148,
+    "end": 8.749,
+    "word": "умыть",
+    "probability": 0.9841722247099786
+  },
+  {
+    "start": 8.749,
+    "end": 8.969,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 8.969,
+    "end": 9.449,
+    "word": "одеть",
+    "probability": 0.9377584942726332
+  },
+  {
+    "start": 9.449,
+    "end": 9.57,
+    "word": "их",
+    "probability": 0.7984233073649072
+  },
+  {
+    "start": 9.57,
+    "end": 9.71,
+    "word": "до",
+    "probability": 0.99
+  },
+  {
+    "start": 9.71,
+    "end": 10.25,
+    "word": "прихода",
+    "probability": 0.9838004788918808
+  },
+  {
+    "start": 10.25,
+    "end": 10.691,
+    "word": "гостей",
+    "probability": 0.99
+  }
+]

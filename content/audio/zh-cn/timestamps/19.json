@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.541,
+    "word": "然后他",
+    "probability": 0.99
+  },
+  {
+    "start": 0.541,
+    "end": 1.863,
+    "word": "Jemi",
+    "probability": 0.9290750436811828
+  },
+  {
+    "start": 1.863,
+    "end": 2.103,
+    "word": "ma和R",
+    "probability": 0.6363086043801871
+  },
+  {
+    "start": 2.103,
+    "end": 2.483,
+    "word": "ebec",
+    "probability": 0.7500222235894765
+  },
+  {
+    "start": 2.483,
+    "end": 2.744,
+    "word": "cah",
+    "probability": 0.6925592278126733
+  },
+  {
+    "start": 2.744,
+    "end": 3.224,
+    "word": "Pudd",
+    "probability": 0.7916642040703931
+  },
+  {
+    "start": 3.224,
+    "end": 3.365,
+    "word": "leD",
+    "probability": 0.4285661487226062
+  },
+  {
+    "start": 3.365,
+    "end": 4.166,
+    "word": "uck出",
+    "probability": 0.8756028626992904
+  },
+  {
+    "start": 4.166,
+    "end": 5.027,
+    "word": "发上路了",
+    "probability": 0.9423457351576221
+  },
+  {
+    "start": 5.027,
+    "end": 6.249,
+    "word": "步调一致",
+    "probability": 0.951676841494079
+  },
+  {
+    "start": 6.249,
+    "end": 8.151,
+    "word": "啪嗒啪嗒",
+    "probability": 0.950564239624647
+  },
+  {
+    "start": 8.151,
+    "end": 9.874,
+    "word": "划水啪嗒",
+    "probability": 0.9439172044086411
+  },
+  {
+    "start": 9.874,
+    "end": 11.616,
+    "word": "啪嗒啪嗒",
+    "probability": 0.9456229444665885
+  },
+  {
+    "start": 11.616,
+    "end": 12.878,
+    "word": "摇摆啪嗒",
+    "probability": 0.9448605877797676
+  }
+]

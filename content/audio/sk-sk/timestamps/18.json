@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.3,
+    "word": "Ale",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 1.522,
+    "word": "obliekol",
+    "probability": 0.9499240483245424
+  },
+  {
+    "start": 1.522,
+    "end": 1.823,
+    "word": "si",
+    "probability": 0.9425730252354715
+  },
+  {
+    "start": 1.823,
+    "end": 2.143,
+    "word": "ich",
+    "probability": 0.9848559924736902
+  },
+  {
+    "start": 2.143,
+    "end": 2.664,
+    "word": "sám",
+    "probability": 0.9729328091749412
+  },
+  {
+    "start": 2.664,
+    "end": 3.845,
+    "word": "Sedeli",
+    "probability": 0.9642573027489736
+  },
+  {
+    "start": 3.845,
+    "end": 4.026,
+    "word": "mu",
+    "probability": 0.8453536899616938
+  },
+  {
+    "start": 4.026,
+    "end": 4.606,
+    "word": "ešte",
+    "probability": 0.9840747111116684
+  },
+  {
+    "start": 4.606,
+    "end": 5.327,
+    "word": "horšie",
+    "probability": 0.9712300348859192
+  },
+  {
+    "start": 5.327,
+    "end": 6.249,
+    "word": "ako",
+    "probability": 0.99
+  },
+  {
+    "start": 6.249,
+    "end": 6.789,
+    "word": "Tomovi",
+    "probability": 0.99
+  },
+  {
+    "start": 6.789,
+    "end": 7.611,
+    "word": "Kittenovi",
+    "probability": 0.8777883495760573
+  },
+  {
+    "start": 7.611,
+    "end": 8.772,
+    "word": "Je",
+    "probability": 0.9745233013198363
+  },
+  {
+    "start": 8.772,
+    "end": 8.972,
+    "word": "to",
+    "probability": 0.9329818891134405
+  },
+  {
+    "start": 8.972,
+    "end": 9.794,
+    "word": "krásne",
+    "probability": 0.9797169461708659
+  },
+  {
+    "start": 9.794,
+    "end": 10.354,
+    "word": "ráno",
+    "probability": 0.950041726009264
+  },
+  {
+    "start": 10.354,
+    "end": 11.496,
+    "word": "povedal",
+    "probability": 0.9814624928772706
+  },
+  {
+    "start": 11.496,
+    "end": 11.916,
+    "word": "pán",
+    "probability": 0.9568164081757503
+  },
+  {
+    "start": 11.916,
+    "end": 12.317,
+    "word": "Drake",
+    "probability": 0.8297733701142379
+  },
+  {
+    "start": 12.317,
+    "end": 13.178,
+    "word": "PuddleDuck",
+    "probability": 0.8625238092881335
+  }
+]

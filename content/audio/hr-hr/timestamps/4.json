@@ -1,0 +1,50 @@
+[
+  {
+    "start": 2.812,
+    "end": 2.952,
+    "word": "Zatim",
+    "probability": 0.4261001516342116
+  },
+  {
+    "start": 2.952,
+    "end": 3.173,
+    "word": "im",
+    "probability": 0.5730132980882497
+  },
+  {
+    "start": 3.173,
+    "end": 3.233,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 3.233,
+    "end": 3.876,
+    "word": "počešljala",
+    "probability": 0.6362263428883681
+  },
+  {
+    "start": 3.876,
+    "end": 4.177,
+    "word": "krzno",
+    "probability": 0.5996708144562862
+  },
+  {
+    "start": 4.177,
+    "end": 4.257,
+    "word": "ovo",
+    "probability": 0.01
+  },
+  {
+    "start": 4.257,
+    "end": 4.398,
+    "word": "je",
+    "probability": 0.5715464494530682
+  },
+  {
+    "start": 4.398,
+    "end": 4.418,
+    "word": "Mittens",
+    "probability": 0.01
+  }
+]

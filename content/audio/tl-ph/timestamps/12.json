@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.461,
+    "word": "Dugyot",
+    "probability": 0.99
+  },
+  {
+    "start": 0.461,
+    "end": 0.561,
+    "word": "na",
+    "probability": 0.9552473497970135
+  },
+  {
+    "start": 0.561,
+    "end": 0.821,
+    "word": "siya",
+    "probability": 0.9195815858502369
+  },
+  {
+    "start": 0.821,
+    "end": 1.082,
+    "word": "nang",
+    "probability": 0.8963606723685127
+  },
+  {
+    "start": 1.082,
+    "end": 1.562,
+    "word": "marating",
+    "probability": 0.942557336361407
+  },
+  {
+    "start": 1.562,
+    "end": 1.743,
+    "word": "niya",
+    "probability": 0.99
+  },
+  {
+    "start": 1.743,
+    "end": 1.963,
+    "word": "ang",
+    "probability": 0.9263607120854155
+  },
+  {
+    "start": 1.963,
+    "end": 2.544,
+    "word": "tuktok",
+    "probability": 0.99
+  },
+  {
+    "start": 2.544,
+    "end": 2.744,
+    "word": "ng",
+    "probability": 0.9682453103273515
+  },
+  {
+    "start": 2.744,
+    "end": 3.285,
+    "word": "pader",
+    "probability": 0.99
+  },
+  {
+    "start": 3.285,
+    "end": 4.847,
+    "word": "Sinubukan",
+    "probability": 0.9887569135798452
+  },
+  {
+    "start": 4.847,
+    "end": 5.067,
+    "word": "nina",
+    "probability": 0.8175049001257059
+  },
+  {
+    "start": 5.067,
+    "end": 5.688,
+    "word": "Moppet",
+    "probability": 0.873782471895251
+  },
+  {
+    "start": 5.688,
+    "end": 5.889,
+    "word": "at",
+    "probability": 0.9648729449784277
+  },
+  {
+    "start": 5.889,
+    "end": 6.57,
+    "word": "Mittens",
+    "probability": 0.9231884701162761
+  },
+  {
+    "start": 6.57,
+    "end": 6.69,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 6.69,
+    "end": 7.311,
+    "word": "ayusin",
+    "probability": 0.9732022627736527
+  },
+  {
+    "start": 7.311,
+    "end": 7.431,
+    "word": "ang",
+    "probability": 0.8332536658422907
+  },
+  {
+    "start": 7.431,
+    "end": 7.751,
+    "word": "kanyang",
+    "probability": 0.99
+  },
+  {
+    "start": 7.751,
+    "end": 7.952,
+    "word": "mga",
+    "probability": 0.9868284155062333
+  },
+  {
+    "start": 7.952,
+    "end": 8.432,
+    "word": "damit",
+    "probability": 0.99
+  },
+  {
+    "start": 8.432,
+    "end": 9.454,
+    "word": "ngunit",
+    "probability": 0.9877459257778639
+  },
+  {
+    "start": 9.454,
+    "end": 10.115,
+    "word": "nahulog",
+    "probability": 0.9152941777178232
+  },
+  {
+    "start": 10.115,
+    "end": 10.255,
+    "word": "ang",
+    "probability": 0.9573309760235345
+  },
+  {
+    "start": 10.255,
+    "end": 10.656,
+    "word": "kanyang",
+    "probability": 0.9890950605896005
+  },
+  {
+    "start": 10.656,
+    "end": 11.377,
+    "word": "sumbrero",
+    "probability": 0.9856248352520457
+  },
+  {
+    "start": 11.377,
+    "end": 12.258,
+    "word": "at",
+    "probability": 0.9874969749537542
+  },
+  {
+    "start": 12.258,
+    "end": 12.398,
+    "word": "ang",
+    "probability": 0.9817772472135197
+  },
+  {
+    "start": 12.398,
+    "end": 12.779,
+    "word": "kanyang",
+    "probability": 0.9666948029298335
+  },
+  {
+    "start": 12.779,
+    "end": 12.999,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 12.999,
+    "end": 13.42,
+    "word": "huling",
+    "probability": 0.9898392051792501
+  },
+  {
+    "start": 13.42,
+    "end": 14.181,
+    "word": "butones",
+    "probability": 0.9873020232686417
+  },
+  {
+    "start": 14.181,
+    "end": 14.361,
+    "word": "ay",
+    "probability": 0.946792574687459
+  },
+  {
+    "start": 14.361,
+    "end": 14.962,
+    "word": "natanggal",
+    "probability": 0.960864251489369
+  }
+]

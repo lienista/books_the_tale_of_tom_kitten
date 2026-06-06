@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.783,
+    "end": 0.903,
+    "word": "They",
+    "probability": 0.28197089050668017
+  },
+  {
+    "start": 0.903,
+    "end": 1.184,
+    "word": "stopped",
+    "probability": 0.3556409830222703
+  },
+  {
+    "start": 1.184,
+    "end": 1.264,
+    "word": "and",
+    "probability": 0.12096167234251676
+  },
+  {
+    "start": 1.264,
+    "end": 1.465,
+    "word": "stood",
+    "probability": 0.14558669339366712
+  },
+  {
+    "start": 1.465,
+    "end": 1.746,
+    "word": "in",
+    "probability": 0.8096714284847086
+  },
+  {
+    "start": 1.746,
+    "end": 1.786,
+    "word": "a",
+    "probability": 0.01
+  },
+  {
+    "start": 1.786,
+    "end": 1.887,
+    "word": "row",
+    "probability": 0.39910950636529374
+  },
+  {
+    "start": 1.887,
+    "end": 2.83,
+    "word": "staring",
+    "probability": 0.768570034110102
+  },
+  {
+    "start": 2.83,
+    "end": 3.011,
+    "word": "up",
+    "probability": 0.7427106075163356
+  },
+  {
+    "start": 3.011,
+    "end": 3.171,
+    "word": "at",
+    "probability": 0.6041975307828658
+  },
+  {
+    "start": 3.171,
+    "end": 3.312,
+    "word": "the",
+    "probability": 0.4250744898057066
+  },
+  {
+    "start": 3.312,
+    "end": 3.753,
+    "word": "kittens",
+    "probability": 0.6077001835354785
+  },
+  {
+    "start": 3.753,
+    "end": 4.094,
+    "word": "with",
+    "probability": 0.6955829672024655
+  },
+  {
+    "start": 4.094,
+    "end": 4.656,
+    "word": "wide",
+    "probability": 0.7621177302590819
+  },
+  {
+    "start": 4.656,
+    "end": 5.459,
+    "word": "surprised",
+    "probability": 0.6148148733563917
+  },
+  {
+    "start": 5.459,
+    "end": 5.74,
+    "word": "eyes",
+    "probability": 0.7855274824120057
+  }
+]

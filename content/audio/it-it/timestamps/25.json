@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.361,
+    "word": "Quanto",
+    "probability": 0.9491312551164731
+  },
+  {
+    "start": 0.361,
+    "end": 0.461,
+    "word": "ai",
+    "probability": 0.8964390701040486
+  },
+  {
+    "start": 0.461,
+    "end": 2.465,
+    "word": "PuddleDucksandarono",
+    "probability": 0.909903536426236
+  },
+  {
+    "start": 2.465,
+    "end": 2.585,
+    "word": "in",
+    "probability": 0.9643759610042721
+  },
+  {
+    "start": 2.585,
+    "end": 2.786,
+    "word": "uno",
+    "probability": 0.9759524863281615
+  },
+  {
+    "start": 2.786,
+    "end": 3.507,
+    "word": "stagno",
+    "probability": 0.99
+  },
+  {
+    "start": 3.507,
+    "end": 4.109,
+    "word": "I",
+    "probability": 0.9887277920897687
+  },
+  {
+    "start": 4.109,
+    "end": 4.57,
+    "word": "vestiti",
+    "probability": 0.9878171145894641
+  },
+  {
+    "start": 4.57,
+    "end": 5.011,
+    "word": "caddero",
+    "probability": 0.99
+  },
+  {
+    "start": 5.011,
+    "end": 5.492,
+    "word": "subito",
+    "probability": 0.9723405318502228
+  },
+  {
+    "start": 5.492,
+    "end": 5.812,
+    "word": "perché",
+    "probability": 0.9598019527216022
+  },
+  {
+    "start": 5.812,
+    "end": 5.973,
+    "word": "non",
+    "probability": 0.9862358637031763
+  },
+  {
+    "start": 5.973,
+    "end": 6.394,
+    "word": "cerano",
+    "probability": 0.9163142054433077
+  },
+  {
+    "start": 6.394,
+    "end": 6.955,
+    "word": "bottoni",
+    "probability": 0.9832382827805207
+  },
+  {
+    "start": 6.955,
+    "end": 7.616,
+    "word": "rimasti",
+    "probability": 0.99
+  },
+  {
+    "start": 7.616,
+    "end": 7.817,
+    "word": "per",
+    "probability": 0.980300901710166
+  },
+  {
+    "start": 7.817,
+    "end": 8.438,
+    "word": "tenerli",
+    "probability": 0.9791464817298705
+  },
+  {
+    "start": 8.438,
+    "end": 8.999,
+    "word": "insieme",
+    "probability": 0.99
+  }
+]

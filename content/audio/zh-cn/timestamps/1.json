@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.46,
+    "word": "从前",
+    "probability": 0.99
+  },
+  {
+    "start": 0.46,
+    "end": 2.262,
+    "word": "有三只小猫",
+    "probability": 0.9846323761887105
+  },
+  {
+    "start": 2.262,
+    "end": 3.923,
+    "word": "名字叫M",
+    "probability": 0.9748552242168257
+  },
+  {
+    "start": 3.923,
+    "end": 4.344,
+    "word": "itte",
+    "probability": 0.8077500014783843
+  },
+  {
+    "start": 4.344,
+    "end": 4.664,
+    "word": "ns",
+    "probability": 0.7502693936805345
+  },
+  {
+    "start": 4.664,
+    "end": 5.004,
+    "word": "Tom",
+    "probability": 0.7645630316900279
+  },
+  {
+    "start": 5.004,
+    "end": 5.765,
+    "word": "Kitt",
+    "probability": 0.8811479805287357
+  },
+  {
+    "start": 5.765,
+    "end": 6.265,
+    "word": "en和M",
+    "probability": 0.8397234746941655
+  },
+  {
+    "start": 6.265,
+    "end": 6.745,
+    "word": "oppe",
+    "probability": 0.7736504712224056
+  },
+  {
+    "start": 6.745,
+    "end": 6.785,
+    "word": "t",
+    "probability": 0.01
+  },
+  {
+    "start": 6.785,
+    "end": 8.627,
+    "word": "它们有着",
+    "probability": 0.9573936895095901
+  },
+  {
+    "start": 8.627,
+    "end": 9.428,
+    "word": "漂亮的毛",
+    "probability": 0.9736358483671221
+  },
+  {
+    "start": 9.428,
+    "end": 10.128,
+    "word": "皮大衣",
+    "probability": 0.9320409160524483
+  },
+  {
+    "start": 10.128,
+    "end": 11.669,
+    "word": "整天在门",
+    "probability": 0.9747600897470315
+  },
+  {
+    "start": 11.669,
+    "end": 12.67,
+    "word": "廊上翻滚",
+    "probability": 0.9437257433950791
+  },
+  {
+    "start": 12.67,
+    "end": 14.252,
+    "word": "在泥土里玩耍",
+    "probability": 0.9571962700944584
+  }
+]

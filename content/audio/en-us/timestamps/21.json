@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.181,
+    "end": 0.261,
+    "word": "She",
+    "probability": 0.4992402633241151
+  },
+  {
+    "start": 0.261,
+    "end": 0.542,
+    "word": "pulled",
+    "probability": 0.5241403241861556
+  },
+  {
+    "start": 0.542,
+    "end": 0.702,
+    "word": "them",
+    "probability": 0.23386741184343
+  },
+  {
+    "start": 0.702,
+    "end": 0.943,
+    "word": "off",
+    "probability": 0.6396450128799763
+  },
+  {
+    "start": 0.943,
+    "end": 1.083,
+    "word": "the",
+    "probability": 0.46761176961137757
+  },
+  {
+    "start": 1.083,
+    "end": 1.404,
+    "word": "wall",
+    "probability": 0.6306092201190867
+  },
+  {
+    "start": 1.404,
+    "end": 2.026,
+    "word": "hurried",
+    "probability": 0.6471704490720752
+  },
+  {
+    "start": 2.026,
+    "end": 2.186,
+    "word": "them",
+    "probability": 0.29177850140282696
+  },
+  {
+    "start": 2.186,
+    "end": 2.608,
+    "word": "along",
+    "probability": 0.6718857884830137
+  },
+  {
+    "start": 2.608,
+    "end": 3.189,
+    "word": "and",
+    "probability": 0.8376182375731109
+  },
+  {
+    "start": 3.189,
+    "end": 3.45,
+    "word": "took",
+    "probability": 0.5789428110263548
+  },
+  {
+    "start": 3.45,
+    "end": 3.651,
+    "word": "them",
+    "probability": 0.500182392966272
+  },
+  {
+    "start": 3.651,
+    "end": 3.911,
+    "word": "back",
+    "probability": 0.5331076041828232
+  },
+  {
+    "start": 3.911,
+    "end": 4.072,
+    "word": "to",
+    "probability": 0.6261842794090622
+  },
+  {
+    "start": 4.072,
+    "end": 4.212,
+    "word": "the",
+    "probability": 0.4296317125490422
+  },
+  {
+    "start": 4.212,
+    "end": 4.433,
+    "word": "house",
+    "probability": 0.5422549216347874
+  }
+]

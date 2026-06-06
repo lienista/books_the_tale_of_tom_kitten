@@ -1,0 +1,314 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.2,
+    "word": "Thay",
+    "probability": 0.8319226614452885
+  },
+  {
+    "start": 0.2,
+    "end": 0.341,
+    "word": "vào",
+    "probability": 0.9702345265276268
+  },
+  {
+    "start": 0.341,
+    "end": 0.581,
+    "word": "đó",
+    "probability": 0.9644103584349158
+  },
+  {
+    "start": 0.581,
+    "end": 0.861,
+    "word": "có",
+    "probability": 0.9607158590349326
+  },
+  {
+    "start": 0.861,
+    "end": 1.022,
+    "word": "những",
+    "probability": 0.9339126649425618
+  },
+  {
+    "start": 1.022,
+    "end": 1.202,
+    "word": "tiếng",
+    "probability": 0.99
+  },
+  {
+    "start": 1.202,
+    "end": 1.362,
+    "word": "động",
+    "probability": 0.8682886099471752
+  },
+  {
+    "start": 1.362,
+    "end": 1.562,
+    "word": "rất",
+    "probability": 0.8644944961895039
+  },
+  {
+    "start": 1.562,
+    "end": 1.923,
+    "word": "lạ",
+    "probability": 0.9779962190319755
+  },
+  {
+    "start": 1.923,
+    "end": 2.203,
+    "word": "phát",
+    "probability": 0.99
+  },
+  {
+    "start": 2.203,
+    "end": 2.344,
+    "word": "ra",
+    "probability": 0.9818355575919762
+  },
+  {
+    "start": 2.344,
+    "end": 2.504,
+    "word": "từ",
+    "probability": 0.9603293686346128
+  },
+  {
+    "start": 2.504,
+    "end": 2.664,
+    "word": "trên",
+    "probability": 0.9740483669341781
+  },
+  {
+    "start": 2.664,
+    "end": 2.904,
+    "word": "gác",
+    "probability": 0.9527072420488839
+  },
+  {
+    "start": 2.904,
+    "end": 3.545,
+    "word": "làm",
+    "probability": 0.975186341243329
+  },
+  {
+    "start": 3.545,
+    "end": 3.766,
+    "word": "hỏng",
+    "probability": 0.9722167331493317
+  },
+  {
+    "start": 3.766,
+    "end": 3.986,
+    "word": "bầu",
+    "probability": 0.9670325036565142
+  },
+  {
+    "start": 3.986,
+    "end": 4.166,
+    "word": "không",
+    "probability": 0.9704307704452569
+  },
+  {
+    "start": 4.166,
+    "end": 4.347,
+    "word": "khí",
+    "probability": 0.99
+  },
+  {
+    "start": 4.347,
+    "end": 4.547,
+    "word": "yên",
+    "probability": 0.99
+  },
+  {
+    "start": 4.547,
+    "end": 4.767,
+    "word": "tĩnh",
+    "probability": 0.9358102881786298
+  },
+  {
+    "start": 4.767,
+    "end": 4.887,
+    "word": "của",
+    "probability": 0.9095308119418996
+  },
+  {
+    "start": 4.887,
+    "end": 5.028,
+    "word": "buổi",
+    "probability": 0.8938457770405881
+  },
+  {
+    "start": 5.028,
+    "end": 5.188,
+    "word": "tiệc",
+    "probability": 0.9512362801794636
+  },
+  {
+    "start": 5.188,
+    "end": 5.448,
+    "word": "trà",
+    "probability": 0.919752494608479
+  },
+  {
+    "start": 5.448,
+    "end": 7.051,
+    "word": "Và",
+    "probability": 0.99
+  },
+  {
+    "start": 7.051,
+    "end": 7.211,
+    "word": "tôi",
+    "probability": 0.9733564586553283
+  },
+  {
+    "start": 7.211,
+    "end": 7.411,
+    "word": "nghĩ",
+    "probability": 0.9451751531976023
+  },
+  {
+    "start": 7.411,
+    "end": 7.932,
+    "word": "một",
+    "probability": 0.99
+  },
+  {
+    "start": 7.932,
+    "end": 8.112,
+    "word": "ngày",
+    "probability": 0.9635378037591098
+  },
+  {
+    "start": 8.112,
+    "end": 8.252,
+    "word": "nào",
+    "probability": 0.9183245311780187
+  },
+  {
+    "start": 8.252,
+    "end": 8.493,
+    "word": "đó",
+    "probability": 0.99
+  },
+  {
+    "start": 8.493,
+    "end": 8.873,
+    "word": "tôi",
+    "probability": 0.9862533853285612
+  },
+  {
+    "start": 8.873,
+    "end": 8.993,
+    "word": "sẽ",
+    "probability": 0.99
+  },
+  {
+    "start": 8.993,
+    "end": 9.154,
+    "word": "phải",
+    "probability": 0.99
+  },
+  {
+    "start": 9.154,
+    "end": 9.374,
+    "word": "viết",
+    "probability": 0.9765232832290986
+  },
+  {
+    "start": 9.374,
+    "end": 9.554,
+    "word": "một",
+    "probability": 0.9300772608138969
+  },
+  {
+    "start": 9.554,
+    "end": 9.695,
+    "word": "cuốn",
+    "probability": 0.9385865504516908
+  },
+  {
+    "start": 9.695,
+    "end": 9.875,
+    "word": "sách",
+    "probability": 0.99
+  },
+  {
+    "start": 9.875,
+    "end": 10.155,
+    "word": "dài",
+    "probability": 0.9621668884905693
+  },
+  {
+    "start": 10.155,
+    "end": 10.416,
+    "word": "hơn",
+    "probability": 0.9829640602848081
+  },
+  {
+    "start": 10.416,
+    "end": 10.836,
+    "word": "để",
+    "probability": 0.976046367536989
+  },
+  {
+    "start": 10.836,
+    "end": 11.057,
+    "word": "kể",
+    "probability": 0.9706637952145595
+  },
+  {
+    "start": 11.057,
+    "end": 11.177,
+    "word": "cho",
+    "probability": 0.99
+  },
+  {
+    "start": 11.177,
+    "end": 11.317,
+    "word": "các",
+    "probability": 0.9200729063275473
+  },
+  {
+    "start": 11.317,
+    "end": 11.457,
+    "word": "bạn",
+    "probability": 0.99
+  },
+  {
+    "start": 11.457,
+    "end": 11.657,
+    "word": "nghe",
+    "probability": 0.8863702178615138
+  },
+  {
+    "start": 11.657,
+    "end": 11.958,
+    "word": "nhiều",
+    "probability": 0.8674180496529214
+  },
+  {
+    "start": 11.958,
+    "end": 12.218,
+    "word": "hơn",
+    "probability": 0.98209534454286
+  },
+  {
+    "start": 12.218,
+    "end": 12.599,
+    "word": "về",
+    "probability": 0.9851382956364788
+  },
+  {
+    "start": 12.599,
+    "end": 12.879,
+    "word": "Tom",
+    "probability": 0.7804548235138132
+  },
+  {
+    "start": 12.879,
+    "end": 13.3,
+    "word": "Kitten",
+    "probability": 0.7909445586551838
+  }
+]

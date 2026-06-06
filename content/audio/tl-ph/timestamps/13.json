@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.44,
+    "word": "Habang",
+    "probability": 0.99
+  },
+  {
+    "start": 0.44,
+    "end": 1.32,
+    "word": "nahihirapan",
+    "probability": 0.9871339636525903
+  },
+  {
+    "start": 1.32,
+    "end": 1.7,
+    "word": "sila",
+    "probability": 0.9612528656505501
+  },
+  {
+    "start": 1.7,
+    "end": 3.001,
+    "word": "nakarinig",
+    "probability": 0.99
+  },
+  {
+    "start": 3.001,
+    "end": 3.301,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 3.301,
+    "end": 3.521,
+    "word": "ng",
+    "probability": 0.9820214508408138
+  },
+  {
+    "start": 3.521,
+    "end": 4.921,
+    "word": "pitpatpaddlepat",
+    "probability": 0.9374004294903132
+  },
+  {
+    "start": 4.921,
+    "end": 6.122,
+    "word": "Ang",
+    "probability": 0.9871968927461856
+  },
+  {
+    "start": 6.122,
+    "end": 6.702,
+    "word": "tatlong",
+    "probability": 0.9725373687743127
+  },
+  {
+    "start": 6.702,
+    "end": 7.642,
+    "word": "PuddleDucks",
+    "probability": 0.8848875013776031
+  },
+  {
+    "start": 7.642,
+    "end": 7.802,
+    "word": "ay",
+    "probability": 0.7495330808655106
+  },
+  {
+    "start": 7.802,
+    "end": 8.362,
+    "word": "dumating",
+    "probability": 0.9306361166293967
+  },
+  {
+    "start": 8.362,
+    "end": 8.482,
+    "word": "na",
+    "probability": 0.9838880304559133
+  },
+  {
+    "start": 8.482,
+    "end": 9.322,
+    "word": "nagmamartsa",
+    "probability": 0.9549979474001317
+  },
+  {
+    "start": 9.322,
+    "end": 10.183,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 10.183,
+    "end": 10.603,
+    "word": "daan",
+    "probability": 0.9459570515539487
+  },
+  {
+    "start": 10.603,
+    "end": 10.843,
+    "word": "nang",
+    "probability": 0.907650758207006
+  },
+  {
+    "start": 10.843,
+    "end": 11.583,
+    "word": "nakapila",
+    "probability": 0.99
+  },
+  {
+    "start": 11.583,
+    "end": 13.003,
+    "word": "ginagawa",
+    "probability": 0.9865329817314192
+  },
+  {
+    "start": 13.003,
+    "end": 13.223,
+    "word": "ang",
+    "probability": 0.9670799641916037
+  },
+  {
+    "start": 13.223,
+    "end": 13.723,
+    "word": "kanilang",
+    "probability": 0.99
+  },
+  {
+    "start": 13.723,
+    "end": 14.624,
+    "word": "maindayog",
+    "probability": 0.99
+  },
+  {
+    "start": 14.624,
+    "end": 15.124,
+    "word": "na",
+    "probability": 0.9652590652968419
+  },
+  {
+    "start": 15.124,
+    "end": 18.345,
+    "word": "paglakadpatopitpatpaddlepat",
+    "probability": 0.9456504126877348
+  },
+  {
+    "start": 18.345,
+    "end": 20.165,
+    "word": "pitpatwaddlepat",
+    "probability": 0.9270308041461962
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.46,
+    "word": "Moppet",
+    "probability": 0.7435781793123426
+  },
+  {
+    "start": 0.46,
+    "end": 0.62,
+    "word": "et",
+    "probability": 0.6455626851847733
+  },
+  {
+    "start": 0.62,
+    "end": 1.16,
+    "word": "Mittens",
+    "probability": 0.750574922583691
+  },
+  {
+    "start": 1.16,
+    "end": 2.181,
+    "word": "vacillèrent",
+    "probability": 0.9550511768923935
+  },
+  {
+    "start": 2.181,
+    "end": 2.361,
+    "word": "sur",
+    "probability": 0.9436507392772554
+  },
+  {
+    "start": 2.361,
+    "end": 2.521,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 2.521,
+    "end": 2.881,
+    "word": "chemin",
+    "probability": 0.9605248280910115
+  },
+  {
+    "start": 2.881,
+    "end": 3.061,
+    "word": "du",
+    "probability": 0.99
+  },
+  {
+    "start": 3.061,
+    "end": 3.461,
+    "word": "jardin",
+    "probability": 0.99
+  },
+  {
+    "start": 3.461,
+    "end": 4.602,
+    "word": "Bientôt",
+    "probability": 0.989763736737156
+  },
+  {
+    "start": 4.602,
+    "end": 5.202,
+    "word": "ils",
+    "probability": 0.9898644367493362
+  },
+  {
+    "start": 5.202,
+    "end": 5.942,
+    "word": "trébuchèrent",
+    "probability": 0.9872957458595013
+  },
+  {
+    "start": 5.942,
+    "end": 6.142,
+    "word": "sur",
+    "probability": 0.9896002827220993
+  },
+  {
+    "start": 6.142,
+    "end": 6.402,
+    "word": "leurs",
+    "probability": 0.99
+  },
+  {
+    "start": 6.402,
+    "end": 6.783,
+    "word": "robes",
+    "probability": 0.9615439309320671
+  },
+  {
+    "start": 6.783,
+    "end": 7.203,
+    "word": "et",
+    "probability": 0.9752107077837079
+  },
+  {
+    "start": 7.203,
+    "end": 7.863,
+    "word": "tombèrent",
+    "probability": 0.99
+  },
+  {
+    "start": 7.863,
+    "end": 8.083,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 8.083,
+    "end": 8.223,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 8.223,
+    "end": 8.863,
+    "word": "visage",
+    "probability": 0.9763071461220851
+  },
+  {
+    "start": 8.863,
+    "end": 9.584,
+    "word": "Quand",
+    "probability": 0.98837528672598
+  },
+  {
+    "start": 9.584,
+    "end": 9.884,
+    "word": "ils",
+    "probability": 0.9801319929577641
+  },
+  {
+    "start": 9.884,
+    "end": 10.084,
+    "word": "se",
+    "probability": 0.9844593825525703
+  },
+  {
+    "start": 10.084,
+    "end": 10.884,
+    "word": "relevèrent",
+    "probability": 0.9805990036771979
+  },
+  {
+    "start": 10.884,
+    "end": 11.464,
+    "word": "ils",
+    "probability": 0.9768093793742321
+  },
+  {
+    "start": 11.464,
+    "end": 11.805,
+    "word": "étaient",
+    "probability": 0.982599715118365
+  },
+  {
+    "start": 11.805,
+    "end": 12.445,
+    "word": "couverts",
+    "probability": 0.99
+  },
+  {
+    "start": 12.445,
+    "end": 12.585,
+    "word": "de",
+    "probability": 0.9251012141645221
+  },
+  {
+    "start": 12.585,
+    "end": 12.945,
+    "word": "taches",
+    "probability": 0.9674054586529793
+  },
+  {
+    "start": 12.945,
+    "end": 13.385,
+    "word": "dherbe",
+    "probability": 0.8642629583382097
+  },
+  {
+    "start": 13.385,
+    "end": 14.586,
+    "word": "Grimpons",
+    "probability": 0.9887614428174131
+  },
+  {
+    "start": 14.586,
+    "end": 14.846,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 14.846,
+    "end": 15.046,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 15.046,
+    "end": 15.506,
+    "word": "rochers",
+    "probability": 0.9675907377524365
+  },
+  {
+    "start": 15.506,
+    "end": 16.086,
+    "word": "et",
+    "probability": 0.9715512638618456
+  },
+  {
+    "start": 16.086,
+    "end": 16.847,
+    "word": "asseyonsnous",
+    "probability": 0.9659443934939942
+  },
+  {
+    "start": 16.847,
+    "end": 17.107,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 17.107,
+    "end": 17.267,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 17.267,
+    "end": 17.527,
+    "word": "mur",
+    "probability": 0.9594983649497961
+  },
+  {
+    "start": 17.527,
+    "end": 17.727,
+    "word": "du",
+    "probability": 0.99
+  },
+  {
+    "start": 17.727,
+    "end": 18.167,
+    "word": "jardin",
+    "probability": 0.99
+  },
+  {
+    "start": 18.167,
+    "end": 19.207,
+    "word": "suggéra",
+    "probability": 0.9471466451199936
+  },
+  {
+    "start": 19.207,
+    "end": 19.608,
+    "word": "Moppet",
+    "probability": 0.7804796155318428
+  }
+]

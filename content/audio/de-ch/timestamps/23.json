@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.421,
+    "word": "Ganz",
+    "probability": 0.8079789973794903
+  },
+  {
+    "start": 0.421,
+    "end": 0.562,
+    "word": "im",
+    "probability": 0.6960446291559093
+  },
+  {
+    "start": 0.562,
+    "end": 1.404,
+    "word": "Gegenteil",
+    "probability": 0.9732269125239509
+  },
+  {
+    "start": 1.404,
+    "end": 1.966,
+    "word": "sie",
+    "probability": 0.99
+  },
+  {
+    "start": 1.966,
+    "end": 2.427,
+    "word": "lagen",
+    "probability": 0.9855276618345019
+  },
+  {
+    "start": 2.427,
+    "end": 3.029,
+    "word": "überhaupt",
+    "probability": 0.9761219854400361
+  },
+  {
+    "start": 3.029,
+    "end": 3.33,
+    "word": "nicht",
+    "probability": 0.943429025678705
+  },
+  {
+    "start": 3.33,
+    "end": 3.47,
+    "word": "im",
+    "probability": 0.9452441257178805
+  },
+  {
+    "start": 3.47,
+    "end": 3.691,
+    "word": "Bett",
+    "probability": 0.9881678288629451
+  }
+]

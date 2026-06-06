@@ -1,0 +1,200 @@
+[
+  {
+    "start": 2.563,
+    "end": 2.763,
+    "word": "Once",
+    "probability": 0.6954894539980301
+  },
+  {
+    "start": 2.763,
+    "end": 2.943,
+    "word": "upon",
+    "probability": 0.3350376609390485
+  },
+  {
+    "start": 2.943,
+    "end": 2.983,
+    "word": "a",
+    "probability": 0.4195302488767577
+  },
+  {
+    "start": 2.983,
+    "end": 3.264,
+    "word": "time",
+    "probability": 0.6380070413746697
+  },
+  {
+    "start": 3.264,
+    "end": 3.404,
+    "word": "there",
+    "probability": 0.14189174735152918
+  },
+  {
+    "start": 3.404,
+    "end": 3.764,
+    "word": "were",
+    "probability": 0.7748337339120172
+  },
+  {
+    "start": 3.764,
+    "end": 4.025,
+    "word": "three",
+    "probability": 0.5261455121386015
+  },
+  {
+    "start": 4.025,
+    "end": 4.725,
+    "word": "little",
+    "probability": 0.8237411180565211
+  },
+  {
+    "start": 4.725,
+    "end": 5.126,
+    "word": "kittens",
+    "probability": 0.573085093603865
+  },
+  {
+    "start": 5.126,
+    "end": 5.667,
+    "word": "named",
+    "probability": 0.7526909588899428
+  },
+  {
+    "start": 5.667,
+    "end": 6.027,
+    "word": "Mittens",
+    "probability": 0.596733364642963
+  },
+  {
+    "start": 6.027,
+    "end": 6.187,
+    "word": "Tom",
+    "probability": 0.49660143731856554
+  },
+  {
+    "start": 6.187,
+    "end": 7.088,
+    "word": "Kitten",
+    "probability": 0.8026003198228505
+  },
+  {
+    "start": 7.088,
+    "end": 7.308,
+    "word": "and",
+    "probability": 0.6759568002617837
+  },
+  {
+    "start": 7.308,
+    "end": 7.629,
+    "word": "Moppet",
+    "probability": 0.4793374175402485
+  },
+  {
+    "start": 7.629,
+    "end": 7.949,
+    "word": "They",
+    "probability": 0.5529089509524034
+  },
+  {
+    "start": 7.949,
+    "end": 8.21,
+    "word": "had",
+    "probability": 0.692362521578584
+  },
+  {
+    "start": 8.21,
+    "end": 8.77,
+    "word": "beautiful",
+    "probability": 0.5709634298929277
+  },
+  {
+    "start": 8.77,
+    "end": 9.271,
+    "word": "fur",
+    "probability": 0.8742092810983206
+  },
+  {
+    "start": 9.271,
+    "end": 9.571,
+    "word": "coats",
+    "probability": 0.6104705872936548
+  },
+  {
+    "start": 9.571,
+    "end": 9.691,
+    "word": "and",
+    "probability": 0.3207993544935313
+  },
+  {
+    "start": 9.691,
+    "end": 9.871,
+    "word": "spent",
+    "probability": 0.30582891164758474
+  },
+  {
+    "start": 9.871,
+    "end": 10.172,
+    "word": "their",
+    "probability": 0.5914286287779211
+  },
+  {
+    "start": 10.172,
+    "end": 10.332,
+    "word": "days",
+    "probability": 0.4862137917442942
+  },
+  {
+    "start": 10.332,
+    "end": 10.833,
+    "word": "tumbling",
+    "probability": 0.4925561226397583
+  },
+  {
+    "start": 10.833,
+    "end": 10.933,
+    "word": "on",
+    "probability": 0.5963921094209852
+  },
+  {
+    "start": 10.933,
+    "end": 11.073,
+    "word": "the",
+    "probability": 0.4283918137027611
+  },
+  {
+    "start": 11.073,
+    "end": 11.473,
+    "word": "porch",
+    "probability": 0.5812570398737295
+  },
+  {
+    "start": 11.473,
+    "end": 11.794,
+    "word": "and",
+    "probability": 0.6511267864841059
+  },
+  {
+    "start": 11.794,
+    "end": 12.214,
+    "word": "playing",
+    "probability": 0.5748964571234525
+  },
+  {
+    "start": 12.214,
+    "end": 12.294,
+    "word": "in",
+    "probability": 0.49995032729768474
+  },
+  {
+    "start": 12.294,
+    "end": 12.414,
+    "word": "the",
+    "probability": 0.499332344946023
+  },
+  {
+    "start": 12.414,
+    "end": 12.495,
+    "word": "dirt",
+    "probability": 0.01
+  }
+]

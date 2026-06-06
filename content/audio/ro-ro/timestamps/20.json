@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.341,
+    "word": "Apoi",
+    "probability": 0.96821354022678
+  },
+  {
+    "start": 0.341,
+    "end": 0.842,
+    "word": "Tabitha",
+    "probability": 0.9106388559721313
+  },
+  {
+    "start": 0.842,
+    "end": 1.443,
+    "word": "Twitchit",
+    "probability": 0.8488312944213522
+  },
+  {
+    "start": 1.443,
+    "end": 1.523,
+    "word": "a",
+    "probability": 0.910267926230806
+  },
+  {
+    "start": 1.523,
+    "end": 2.004,
+    "word": "coborât",
+    "probability": 0.9702501539297878
+  },
+  {
+    "start": 2.004,
+    "end": 2.104,
+    "word": "în",
+    "probability": 0.99
+  },
+  {
+    "start": 2.104,
+    "end": 2.606,
+    "word": "grădină",
+    "probability": 0.9687144565187422
+  },
+  {
+    "start": 2.606,
+    "end": 2.806,
+    "word": "și",
+    "probability": 0.9378587687651075
+  },
+  {
+    "start": 2.806,
+    "end": 3.006,
+    "word": "șia",
+    "probability": 0.9361725669117547
+  },
+  {
+    "start": 3.006,
+    "end": 3.347,
+    "word": "găsit",
+    "probability": 0.96031964898724
+  },
+  {
+    "start": 3.347,
+    "end": 4.029,
+    "word": "pisicuțele",
+    "probability": 0.9811552614142653
+  },
+  {
+    "start": 4.029,
+    "end": 4.229,
+    "word": "pe",
+    "probability": 0.9894076601589316
+  },
+  {
+    "start": 4.229,
+    "end": 4.51,
+    "word": "zid",
+    "probability": 0.9399863382701196
+  },
+  {
+    "start": 4.51,
+    "end": 4.75,
+    "word": "fără",
+    "probability": 0.9877492463252066
+  },
+  {
+    "start": 4.75,
+    "end": 5.111,
+    "word": "haine",
+    "probability": 0.9529562780795116
+  }
+]

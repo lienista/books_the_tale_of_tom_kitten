@@ -1,0 +1,176 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.46,
+    "word": "Вместо",
+    "probability": 0.99
+  },
+  {
+    "start": 0.46,
+    "end": 0.8,
+    "word": "этого",
+    "probability": 0.99
+  },
+  {
+    "start": 0.8,
+    "end": 1.401,
+    "word": "сверху",
+    "probability": 0.99
+  },
+  {
+    "start": 1.401,
+    "end": 2.701,
+    "word": "доносились",
+    "probability": 0.99
+  },
+  {
+    "start": 2.701,
+    "end": 3.102,
+    "word": "очень",
+    "probability": 0.9680586804053164
+  },
+  {
+    "start": 3.102,
+    "end": 3.662,
+    "word": "странные",
+    "probability": 0.99
+  },
+  {
+    "start": 3.662,
+    "end": 4.202,
+    "word": "звуки",
+    "probability": 0.9873288660082223
+  },
+  {
+    "start": 4.202,
+    "end": 5.243,
+    "word": "которые",
+    "probability": 0.99
+  },
+  {
+    "start": 5.243,
+    "end": 5.883,
+    "word": "испортили",
+    "probability": 0.99
+  },
+  {
+    "start": 5.883,
+    "end": 6.543,
+    "word": "спокойную",
+    "probability": 0.99
+  },
+  {
+    "start": 6.543,
+    "end": 7.164,
+    "word": "атмосферу",
+    "probability": 0.99
+  },
+  {
+    "start": 7.164,
+    "end": 8.064,
+    "word": "чаепития",
+    "probability": 0.8750059399886229
+  },
+  {
+    "start": 8.064,
+    "end": 8.904,
+    "word": "И",
+    "probability": 0.9628132226187903
+  },
+  {
+    "start": 8.904,
+    "end": 9.024,
+    "word": "я",
+    "probability": 0.8343952601387915
+  },
+  {
+    "start": 9.024,
+    "end": 9.505,
+    "word": "думаю",
+    "probability": 0.99
+  },
+  {
+    "start": 9.505,
+    "end": 9.825,
+    "word": "что",
+    "probability": 0.99
+  },
+  {
+    "start": 9.825,
+    "end": 10.545,
+    "word": "однажды",
+    "probability": 0.99
+  },
+  {
+    "start": 10.545,
+    "end": 10.705,
+    "word": "мне",
+    "probability": 0.8802703273544916
+  },
+  {
+    "start": 10.705,
+    "end": 11.286,
+    "word": "придётся",
+    "probability": 0.9621634689224855
+  },
+  {
+    "start": 11.286,
+    "end": 11.886,
+    "word": "написать",
+    "probability": 0.99
+  },
+  {
+    "start": 11.886,
+    "end": 12.366,
+    "word": "книгу",
+    "probability": 0.99
+  },
+  {
+    "start": 12.366,
+    "end": 13.627,
+    "word": "подлиннее",
+    "probability": 0.99
+  },
+  {
+    "start": 13.627,
+    "end": 14.027,
+    "word": "чтобы",
+    "probability": 0.99
+  },
+  {
+    "start": 14.027,
+    "end": 14.607,
+    "word": "рассказать",
+    "probability": 0.9897437544337807
+  },
+  {
+    "start": 14.607,
+    "end": 14.787,
+    "word": "вам",
+    "probability": 0.99
+  },
+  {
+    "start": 14.787,
+    "end": 15.248,
+    "word": "больше",
+    "probability": 0.988479351716658
+  },
+  {
+    "start": 15.248,
+    "end": 15.888,
+    "word": "о",
+    "probability": 0.9898375412871399
+  },
+  {
+    "start": 15.888,
+    "end": 16.308,
+    "word": "Томе",
+    "probability": 0.8958115988044871
+  },
+  {
+    "start": 16.308,
+    "end": 16.808,
+    "word": "Киттене",
+    "probability": 0.8791770319128741
+  }
+]

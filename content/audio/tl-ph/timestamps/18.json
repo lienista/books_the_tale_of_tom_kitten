@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.4,
+    "word": "Ngunit",
+    "probability": 0.925078066789123
+  },
+  {
+    "start": 0.4,
+    "end": 1.021,
+    "word": "isinuot",
+    "probability": 0.9706672898437814
+  },
+  {
+    "start": 1.021,
+    "end": 1.261,
+    "word": "niya",
+    "probability": 0.947608523760255
+  },
+  {
+    "start": 1.261,
+    "end": 1.441,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 1.441,
+    "end": 1.681,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 1.681,
+    "end": 1.961,
+    "word": "ito",
+    "probability": 0.9830401799267905
+  },
+  {
+    "start": 1.961,
+    "end": 2.181,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 2.181,
+    "end": 2.582,
+    "word": "kanyang",
+    "probability": 0.9552035692085408
+  },
+  {
+    "start": 2.582,
+    "end": 3.082,
+    "word": "sarili",
+    "probability": 0.99
+  },
+  {
+    "start": 3.082,
+    "end": 4.263,
+    "word": "Mas",
+    "probability": 0.9823240439077141
+  },
+  {
+    "start": 4.263,
+    "end": 4.543,
+    "word": "hindi",
+    "probability": 0.9801892579757528
+  },
+  {
+    "start": 4.543,
+    "end": 4.843,
+    "word": "ito",
+    "probability": 0.99
+  },
+  {
+    "start": 4.843,
+    "end": 5.323,
+    "word": "kumasya",
+    "probability": 0.8638505989276063
+  },
+  {
+    "start": 5.323,
+    "end": 5.523,
+    "word": "sa",
+    "probability": 0.9736615048734126
+  },
+  {
+    "start": 5.523,
+    "end": 5.904,
+    "word": "kanya",
+    "probability": 0.9693273181400395
+  },
+  {
+    "start": 5.904,
+    "end": 6.844,
+    "word": "kaysa",
+    "probability": 0.9688531162782533
+  },
+  {
+    "start": 6.844,
+    "end": 7.084,
+    "word": "kay",
+    "probability": 0.873154152172742
+  },
+  {
+    "start": 7.084,
+    "end": 7.425,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 7.425,
+    "end": 8.105,
+    "word": "Kitten",
+    "probability": 0.9318817025709037
+  },
+  {
+    "start": 8.105,
+    "end": 9.646,
+    "word": "Napakagandang",
+    "probability": 0.9824939204729606
+  },
+  {
+    "start": 9.646,
+    "end": 10.126,
+    "word": "umaga",
+    "probability": 0.99
+  },
+  {
+    "start": 10.126,
+    "end": 11.147,
+    "word": "sabi",
+    "probability": 0.9878972112339967
+  },
+  {
+    "start": 11.147,
+    "end": 11.287,
+    "word": "ni",
+    "probability": 0.9871852953380573
+  },
+  {
+    "start": 11.287,
+    "end": 11.647,
+    "word": "Mr",
+    "probability": 0.774384274064098
+  },
+  {
+    "start": 11.647,
+    "end": 12.068,
+    "word": "Drake",
+    "probability": 0.9035758280162114
+  },
+  {
+    "start": 12.068,
+    "end": 12.808,
+    "word": "PuddleDuck",
+    "probability": 0.8492443039505202
+  }
+]

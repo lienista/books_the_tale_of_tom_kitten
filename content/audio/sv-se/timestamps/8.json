@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "När",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.3,
+    "word": "de",
+    "probability": 0.9374903001510586
+  },
+  {
+    "start": 0.3,
+    "end": 0.561,
+    "word": "tre",
+    "probability": 0.9661219240336294
+  },
+  {
+    "start": 0.561,
+    "end": 1.321,
+    "word": "kattungarna",
+    "probability": 0.9795832328334361
+  },
+  {
+    "start": 1.321,
+    "end": 1.461,
+    "word": "var",
+    "probability": 0.99
+  },
+  {
+    "start": 1.461,
+    "end": 1.822,
+    "word": "klara",
+    "probability": 0.9875285231488056
+  },
+  {
+    "start": 1.822,
+    "end": 2.182,
+    "word": "gjorde",
+    "probability": 0.99
+  },
+  {
+    "start": 2.182,
+    "end": 2.382,
+    "word": "fru",
+    "probability": 0.99
+  },
+  {
+    "start": 2.382,
+    "end": 2.923,
+    "word": "Tabitha",
+    "probability": 0.9056786383354885
+  },
+  {
+    "start": 2.923,
+    "end": 3.203,
+    "word": "ett",
+    "probability": 0.9769853681667983
+  },
+  {
+    "start": 3.203,
+    "end": 3.723,
+    "word": "misstag",
+    "probability": 0.9870106295496323
+  },
+  {
+    "start": 3.723,
+    "end": 4.684,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 4.684,
+    "end": 5.205,
+    "word": "skickade",
+    "probability": 0.9874871037331091
+  },
+  {
+    "start": 5.205,
+    "end": 5.425,
+    "word": "ut",
+    "probability": 0.9723840054369511
+  },
+  {
+    "start": 5.425,
+    "end": 5.565,
+    "word": "dem",
+    "probability": 0.99
+  },
+  {
+    "start": 5.565,
+    "end": 5.665,
+    "word": "i",
+    "probability": 0.9786277012659707
+  },
+  {
+    "start": 5.665,
+    "end": 6.246,
+    "word": "trädgården",
+    "probability": 0.9770532552041593
+  },
+  {
+    "start": 6.246,
+    "end": 6.626,
+    "word": "medan",
+    "probability": 0.9899226541049904
+  },
+  {
+    "start": 6.626,
+    "end": 6.806,
+    "word": "hon",
+    "probability": 0.9526460831138682
+  },
+  {
+    "start": 6.806,
+    "end": 7.046,
+    "word": "gjorde",
+    "probability": 0.9653910088675679
+  },
+  {
+    "start": 7.046,
+    "end": 7.387,
+    "word": "varm",
+    "probability": 0.99
+  },
+  {
+    "start": 7.387,
+    "end": 7.887,
+    "word": "smörad",
+    "probability": 0.9345821750372789
+  },
+  {
+    "start": 7.887,
+    "end": 8.327,
+    "word": "rostat",
+    "probability": 0.9696785300176365
+  },
+  {
+    "start": 8.327,
+    "end": 8.648,
+    "word": "bröd",
+    "probability": 0.99
+  },
+  {
+    "start": 8.648,
+    "end": 9.969,
+    "word": "Nu",
+    "probability": 0.99
+  },
+  {
+    "start": 9.969,
+    "end": 10.389,
+    "word": "håll",
+    "probability": 0.983832099406367
+  },
+  {
+    "start": 10.389,
+    "end": 10.61,
+    "word": "era",
+    "probability": 0.9351947294049977
+  },
+  {
+    "start": 10.61,
+    "end": 11.13,
+    "word": "kläder",
+    "probability": 0.99
+  },
+  {
+    "start": 11.13,
+    "end": 11.65,
+    "word": "rena",
+    "probability": 0.9622737417159856
+  },
+  {
+    "start": 11.65,
+    "end": 12.031,
+    "word": "barn",
+    "probability": 0.9655460781320407
+  },
+  {
+    "start": 12.031,
+    "end": 12.651,
+    "word": "Gå",
+    "probability": 0.99
+  },
+  {
+    "start": 12.651,
+    "end": 12.852,
+    "word": "på",
+    "probability": 0.9879514190865789
+  },
+  {
+    "start": 12.852,
+    "end": 13.112,
+    "word": "era",
+    "probability": 0.9760133532730081
+  },
+  {
+    "start": 13.112,
+    "end": 13.752,
+    "word": "bakben",
+    "probability": 0.9804420012686187
+  },
+  {
+    "start": 13.752,
+    "end": 14.413,
+    "word": "Håll",
+    "probability": 0.99
+  },
+  {
+    "start": 14.413,
+    "end": 14.533,
+    "word": "er",
+    "probability": 0.8995012296485602
+  },
+  {
+    "start": 14.533,
+    "end": 14.973,
+    "word": "borta",
+    "probability": 0.9881700800370844
+  },
+  {
+    "start": 14.973,
+    "end": 15.254,
+    "word": "från",
+    "probability": 0.9714748325151489
+  },
+  {
+    "start": 15.254,
+    "end": 15.414,
+    "word": "den",
+    "probability": 0.9349945650548656
+  },
+  {
+    "start": 15.414,
+    "end": 15.974,
+    "word": "leriga",
+    "probability": 0.9783643887260576
+  },
+  {
+    "start": 15.974,
+    "end": 16.655,
+    "word": "askhögen",
+    "probability": 0.9851832943022131
+  },
+  {
+    "start": 16.655,
+    "end": 17.636,
+    "word": "Sally",
+    "probability": 0.9394838121015627
+  },
+  {
+    "start": 17.636,
+    "end": 18.397,
+    "word": "HennyPenny",
+    "probability": 0.8534785299933775
+  },
+  {
+    "start": 18.397,
+    "end": 19.718,
+    "word": "svinstian",
+    "probability": 0.9690648957436376
+  },
+  {
+    "start": 19.718,
+    "end": 19.938,
+    "word": "och",
+    "probability": 0.9858595245089006
+  },
+  {
+    "start": 19.938,
+    "end": 20.078,
+    "word": "de",
+    "probability": 0.9373638894474228
+  },
+  {
+    "start": 20.078,
+    "end": 20.358,
+    "word": "där",
+    "probability": 0.9677366282980441
+  },
+  {
+    "start": 20.358,
+    "end": 21.259,
+    "word": "PuddleDucks",
+    "probability": 0.8571291151340474
+  }
+]

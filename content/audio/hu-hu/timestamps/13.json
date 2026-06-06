@@ -1,0 +1,110 @@
+[
+  {
+    "start": 4.444,
+    "end": 5.866,
+    "word": "Miközben",
+    "probability": 0.8952763851466948
+  },
+  {
+    "start": 5.866,
+    "end": 6.286,
+    "word": "küzdöttek",
+    "probability": 0.568985832239927
+  },
+  {
+    "start": 6.286,
+    "end": 6.987,
+    "word": "hallottak",
+    "probability": 0.6934423173836606
+  },
+  {
+    "start": 6.987,
+    "end": 7.287,
+    "word": "egy",
+    "probability": 0.7445071488032945
+  },
+  {
+    "start": 7.287,
+    "end": 7.948,
+    "word": "pitpatpaddlepat",
+    "probability": 0.4856141686815992
+  },
+  {
+    "start": 7.948,
+    "end": 7.988,
+    "word": "A",
+    "probability": 0.01
+  },
+  {
+    "start": 7.988,
+    "end": 8.148,
+    "word": "három",
+    "probability": 0.37499097374136364
+  },
+  {
+    "start": 8.148,
+    "end": 8.689,
+    "word": "PuddleDuck",
+    "probability": 0.5767993911453069
+  },
+  {
+    "start": 8.689,
+    "end": 8.949,
+    "word": "egyes",
+    "probability": 0.5607949737848573
+  },
+  {
+    "start": 8.949,
+    "end": 9.389,
+    "word": "sorban",
+    "probability": 0.6810551708219685
+  },
+  {
+    "start": 9.389,
+    "end": 10.711,
+    "word": "menetelt",
+    "probability": 0.8566616967120606
+  },
+  {
+    "start": 10.711,
+    "end": 10.891,
+    "word": "le",
+    "probability": 0.5584908927611811
+  },
+  {
+    "start": 10.891,
+    "end": 10.991,
+    "word": "az",
+    "probability": 0.3998949300769338
+  },
+  {
+    "start": 10.991,
+    "end": 11.291,
+    "word": "úton",
+    "probability": 0.7034613569447508
+  },
+  {
+    "start": 11.291,
+    "end": 11.752,
+    "word": "ritmikus",
+    "probability": 0.6219772497338588
+  },
+  {
+    "start": 11.752,
+    "end": 12.432,
+    "word": "totyogásukat",
+    "probability": 0.6464445301687323
+  },
+  {
+    "start": 12.432,
+    "end": 14.535,
+    "word": "végezvepitpatpaddlepat",
+    "probability": 0.7830370546965713
+  },
+  {
+    "start": 14.535,
+    "end": 16.196,
+    "word": "pitpatwaddlepat",
+    "probability": 0.8287622980338135
+  }
+]

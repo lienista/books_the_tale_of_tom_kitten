@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.42,
+    "word": "Moppet",
+    "probability": 0.8109174450787253
+  },
+  {
+    "start": 0.42,
+    "end": 0.6,
+    "word": "en",
+    "probability": 0.8173198713352006
+  },
+  {
+    "start": 0.6,
+    "end": 1.141,
+    "word": "Mittens",
+    "probability": 0.9047823024968719
+  },
+  {
+    "start": 1.141,
+    "end": 2.061,
+    "word": "waggelden",
+    "probability": 0.986368674464254
+  },
+  {
+    "start": 2.061,
+    "end": 2.241,
+    "word": "het",
+    "probability": 0.9354928760268064
+  },
+  {
+    "start": 2.241,
+    "end": 2.782,
+    "word": "tuinpad",
+    "probability": 0.9832345195411649
+  },
+  {
+    "start": 2.782,
+    "end": 3.042,
+    "word": "af",
+    "probability": 0.9529068292073579
+  },
+  {
+    "start": 3.042,
+    "end": 4.323,
+    "word": "Al",
+    "probability": 0.9865584592932406
+  },
+  {
+    "start": 4.323,
+    "end": 4.703,
+    "word": "snel",
+    "probability": 0.9608154451544927
+  },
+  {
+    "start": 4.703,
+    "end": 5.443,
+    "word": "struikelden",
+    "probability": 0.99
+  },
+  {
+    "start": 5.443,
+    "end": 5.584,
+    "word": "ze",
+    "probability": 0.9659669068004517
+  },
+  {
+    "start": 5.584,
+    "end": 5.984,
+    "word": "over",
+    "probability": 0.99
+  },
+  {
+    "start": 5.984,
+    "end": 6.164,
+    "word": "hun",
+    "probability": 0.9385282622909278
+  },
+  {
+    "start": 6.164,
+    "end": 6.724,
+    "word": "jurkjes",
+    "probability": 0.9724475287735117
+  },
+  {
+    "start": 6.724,
+    "end": 7.345,
+    "word": "en",
+    "probability": 0.9855479451779657
+  },
+  {
+    "start": 7.345,
+    "end": 7.905,
+    "word": "vielen",
+    "probability": 0.9571366829713703
+  },
+  {
+    "start": 7.905,
+    "end": 8.165,
+    "word": "op",
+    "probability": 0.9841970778256109
+  },
+  {
+    "start": 8.165,
+    "end": 8.365,
+    "word": "hun",
+    "probability": 0.9433579143352967
+  },
+  {
+    "start": 8.365,
+    "end": 9.006,
+    "word": "gezichten",
+    "probability": 0.96401771897648
+  },
+  {
+    "start": 9.006,
+    "end": 10.326,
+    "word": "Toen",
+    "probability": 0.9831883002857191
+  },
+  {
+    "start": 10.326,
+    "end": 10.487,
+    "word": "ze",
+    "probability": 0.9748993555546377
+  },
+  {
+    "start": 10.487,
+    "end": 11.287,
+    "word": "opstonden",
+    "probability": 0.9759252307765773
+  },
+  {
+    "start": 11.287,
+    "end": 12.308,
+    "word": "zaten",
+    "probability": 0.9851541320428008
+  },
+  {
+    "start": 12.308,
+    "end": 12.448,
+    "word": "ze",
+    "probability": 0.9225269023593012
+  },
+  {
+    "start": 12.448,
+    "end": 12.848,
+    "word": "onder",
+    "probability": 0.9766523234834306
+  },
+  {
+    "start": 12.848,
+    "end": 12.968,
+    "word": "de",
+    "probability": 0.9247209540752405
+  },
+  {
+    "start": 12.968,
+    "end": 13.749,
+    "word": "grasvlekken",
+    "probability": 0.9697343792528474
+  },
+  {
+    "start": 13.749,
+    "end": 15.23,
+    "word": "Laten",
+    "probability": 0.9777168633539698
+  },
+  {
+    "start": 15.23,
+    "end": 15.35,
+    "word": "we",
+    "probability": 0.8851884246241513
+  },
+  {
+    "start": 15.35,
+    "end": 15.57,
+    "word": "op",
+    "probability": 0.9492876010945793
+  },
+  {
+    "start": 15.57,
+    "end": 15.69,
+    "word": "de",
+    "probability": 0.8992917727220369
+  },
+  {
+    "start": 15.69,
+    "end": 16.13,
+    "word": "rotsen",
+    "probability": 0.9672547851590771
+  },
+  {
+    "start": 16.13,
+    "end": 16.59,
+    "word": "klimmen",
+    "probability": 0.9620131414495262
+  },
+  {
+    "start": 16.59,
+    "end": 16.911,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 16.911,
+    "end": 17.071,
+    "word": "op",
+    "probability": 0.9886087640890568
+  },
+  {
+    "start": 17.071,
+    "end": 17.211,
+    "word": "de",
+    "probability": 0.9672740992593251
+  },
+  {
+    "start": 17.211,
+    "end": 17.811,
+    "word": "tuinmuur",
+    "probability": 0.948474709503516
+  },
+  {
+    "start": 17.811,
+    "end": 18.231,
+    "word": "zitten",
+    "probability": 0.9611170604073488
+  },
+  {
+    "start": 18.231,
+    "end": 19.292,
+    "word": "stelde",
+    "probability": 0.99
+  },
+  {
+    "start": 19.292,
+    "end": 19.692,
+    "word": "Moppet",
+    "probability": 0.8817725237160996
+  },
+  {
+    "start": 19.692,
+    "end": 19.953,
+    "word": "voor",
+    "probability": 0.9605886294782016
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.441,
+    "word": "Затем",
+    "probability": 0.99
+  },
+  {
+    "start": 0.441,
+    "end": 0.862,
+    "word": "он",
+    "probability": 0.99
+  },
+  {
+    "start": 0.862,
+    "end": 1.703,
+    "word": "Джемайма",
+    "probability": 0.961370876046855
+  },
+  {
+    "start": 1.703,
+    "end": 2.004,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 2.004,
+    "end": 2.505,
+    "word": "Ребекка",
+    "probability": 0.9582822716533015
+  },
+  {
+    "start": 2.505,
+    "end": 3.266,
+    "word": "ПаддлДак",
+    "probability": 0.9472743772352631
+  },
+  {
+    "start": 3.266,
+    "end": 4.488,
+    "word": "отправились",
+    "probability": 0.99
+  },
+  {
+    "start": 4.488,
+    "end": 4.609,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 4.609,
+    "end": 4.909,
+    "word": "путь",
+    "probability": 0.9876298681940202
+  },
+  {
+    "start": 4.909,
+    "end": 5.069,
+    "word": "по",
+    "probability": 0.9573793304115876
+  },
+  {
+    "start": 5.069,
+    "end": 5.61,
+    "word": "дороге",
+    "probability": 0.99
+  },
+  {
+    "start": 5.61,
+    "end": 6.672,
+    "word": "шагая",
+    "probability": 0.99
+  },
+  {
+    "start": 6.672,
+    "end": 6.773,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 6.773,
+    "end": 7.193,
+    "word": "ногу",
+    "probability": 0.99
+  },
+  {
+    "start": 7.193,
+    "end": 8.716,
+    "word": "шлёпшлёп",
+    "probability": 0.9355283786349866
+  },
+  {
+    "start": 8.716,
+    "end": 9.958,
+    "word": "хлюпшлёп",
+    "probability": 0.9338531789654893
+  },
+  {
+    "start": 9.958,
+    "end": 11.221,
+    "word": "шлёпшлёп",
+    "probability": 0.9210908489625456
+  },
+  {
+    "start": 11.221,
+    "end": 12.183,
+    "word": "хлюпшлёп",
+    "probability": 0.9547357960273907
+  }
+]

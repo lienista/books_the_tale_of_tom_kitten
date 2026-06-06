@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.281,
+    "word": "Tam",
+    "probability": 0.99
+  },
+  {
+    "start": 0.281,
+    "end": 0.883,
+    "word": "tersi",
+    "probability": 0.9879914385559374
+  },
+  {
+    "start": 0.883,
+    "end": 1.445,
+    "word": "hiç",
+    "probability": 0.99
+  },
+  {
+    "start": 1.445,
+    "end": 2.047,
+    "word": "yatakta",
+    "probability": 0.9650650573453283
+  },
+  {
+    "start": 2.047,
+    "end": 2.809,
+    "word": "değillerdi",
+    "probability": 0.99
+  }
+]

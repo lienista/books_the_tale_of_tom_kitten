@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.381,
+    "word": "Mr",
+    "probability": 0.9282846166705699
+  },
+  {
+    "start": 0.381,
+    "end": 0.782,
+    "word": "Drake",
+    "probability": 0.7142664003053116
+  },
+  {
+    "start": 0.782,
+    "end": 1.645,
+    "word": "PuddleDuck",
+    "probability": 0.7630856831218198
+  },
+  {
+    "start": 1.645,
+    "end": 2.647,
+    "word": "watschelte",
+    "probability": 0.903791081117187
+  },
+  {
+    "start": 2.647,
+    "end": 3.309,
+    "word": "langsam",
+    "probability": 0.9802322990600253
+  },
+  {
+    "start": 3.309,
+    "end": 3.43,
+    "word": "und",
+    "probability": 0.9897167220600042
+  },
+  {
+    "start": 3.43,
+    "end": 4.031,
+    "word": "seitlich",
+    "probability": 0.9600322983760786
+  },
+  {
+    "start": 4.031,
+    "end": 4.593,
+    "word": "herüber",
+    "probability": 0.9783109893470238
+  },
+  {
+    "start": 4.593,
+    "end": 4.954,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 4.954,
+    "end": 5.295,
+    "word": "hob",
+    "probability": 0.99
+  },
+  {
+    "start": 5.295,
+    "end": 5.455,
+    "word": "die",
+    "probability": 0.9668084391718892
+  },
+  {
+    "start": 5.455,
+    "end": 6.177,
+    "word": "verschiedenen",
+    "probability": 0.9796627796946402
+  },
+  {
+    "start": 6.177,
+    "end": 6.96,
+    "word": "Gegenstände",
+    "probability": 0.99
+  },
+  {
+    "start": 6.96,
+    "end": 7.2,
+    "word": "auf",
+    "probability": 0.9834793370829353
+  }
+]

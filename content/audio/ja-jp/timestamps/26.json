@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.401,
+    "word": "そして",
+    "probability": 0.99
+  },
+  {
+    "start": 0.401,
+    "end": 1.283,
+    "word": "Drake",
+    "probability": 0.8863618762573933
+  },
+  {
+    "start": 1.283,
+    "end": 1.543,
+    "word": "Pudd",
+    "probability": 0.6153830619618559
+  },
+  {
+    "start": 1.543,
+    "end": 1.763,
+    "word": "leD",
+    "probability": 0.6363636415216753
+  },
+  {
+    "start": 1.763,
+    "end": 1.964,
+    "word": "uck",
+    "probability": 0.5999999860284
+  },
+  {
+    "start": 1.964,
+    "end": 2.124,
+    "word": "さん",
+    "probability": 0.7142165276296408
+  },
+  {
+    "start": 2.124,
+    "end": 2.305,
+    "word": "と",
+    "probability": 0.895607995164152
+  },
+  {
+    "start": 2.305,
+    "end": 2.785,
+    "word": "Jemima",
+    "probability": 0.7499998912698009
+  },
+  {
+    "start": 2.785,
+    "end": 4.449,
+    "word": "Rebeccah",
+    "probability": 0.8915568327261778
+  },
+  {
+    "start": 4.449,
+    "end": 4.589,
+    "word": "は",
+    "probability": 0.7142465222361439
+  },
+  {
+    "start": 4.589,
+    "end": 6.092,
+    "word": "それから",
+    "probability": 0.9866655540897826
+  },
+  {
+    "start": 6.092,
+    "end": 6.633,
+    "word": "ずっとそ",
+    "probability": 0.9480141796276377
+  },
+  {
+    "start": 6.633,
+    "end": 7.334,
+    "word": "の服を探",
+    "probability": 0.9714255573094879
+  },
+  {
+    "start": 7.334,
+    "end": 7.835,
+    "word": "している",
+    "probability": 0.9526073154984265
+  },
+  {
+    "start": 7.835,
+    "end": 8.116,
+    "word": "のです",
+    "probability": 0.9285710794625422
+  }
+]

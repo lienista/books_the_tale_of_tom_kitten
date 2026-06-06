@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.201,
+    "word": "Cât",
+    "probability": 0.9774063659858331
+  },
+  {
+    "start": 0.201,
+    "end": 0.501,
+    "word": "despre",
+    "probability": 0.9754990707540339
+  },
+  {
+    "start": 0.501,
+    "end": 0.943,
+    "word": "rațele",
+    "probability": 0.9830515355275244
+  },
+  {
+    "start": 0.943,
+    "end": 2.347,
+    "word": "PuddleDuckau",
+    "probability": 0.8340163596889012
+  },
+  {
+    "start": 2.347,
+    "end": 2.708,
+    "word": "intrat",
+    "probability": 0.987170646241019
+  },
+  {
+    "start": 2.708,
+    "end": 3.049,
+    "word": "întrun",
+    "probability": 0.9719425495294525
+  },
+  {
+    "start": 3.049,
+    "end": 3.43,
+    "word": "iaz",
+    "probability": 0.9367477190692352
+  },
+  {
+    "start": 3.43,
+    "end": 4.452,
+    "word": "Hainele",
+    "probability": 0.9793421739061701
+  },
+  {
+    "start": 4.452,
+    "end": 4.553,
+    "word": "au",
+    "probability": 0.9615847643416942
+  },
+  {
+    "start": 4.553,
+    "end": 4.934,
+    "word": "căzut",
+    "probability": 0.9495412364239026
+  },
+  {
+    "start": 4.934,
+    "end": 5.475,
+    "word": "imediat",
+    "probability": 0.9555492302257159
+  },
+  {
+    "start": 5.475,
+    "end": 5.776,
+    "word": "pentru",
+    "probability": 0.9727285535049356
+  },
+  {
+    "start": 5.776,
+    "end": 5.917,
+    "word": "că",
+    "probability": 0.901593979793966
+  },
+  {
+    "start": 5.917,
+    "end": 6.037,
+    "word": "nu",
+    "probability": 0.985934684663885
+  },
+  {
+    "start": 6.037,
+    "end": 6.197,
+    "word": "mai",
+    "probability": 0.9536894683241257
+  },
+  {
+    "start": 6.197,
+    "end": 6.418,
+    "word": "erau",
+    "probability": 0.99
+  },
+  {
+    "start": 6.418,
+    "end": 6.939,
+    "word": "nasturi",
+    "probability": 0.9705466556268599
+  },
+  {
+    "start": 6.939,
+    "end": 7.14,
+    "word": "care",
+    "probability": 0.9621556338381942
+  },
+  {
+    "start": 7.14,
+    "end": 7.28,
+    "word": "să",
+    "probability": 0.9656409576959925
+  },
+  {
+    "start": 7.28,
+    "end": 7.381,
+    "word": "le",
+    "probability": 0.964094540064044
+  },
+  {
+    "start": 7.381,
+    "end": 7.661,
+    "word": "țină",
+    "probability": 0.9601235920668852
+  },
+  {
+    "start": 7.661,
+    "end": 8.163,
+    "word": "împreună",
+    "probability": 0.9722225849093029
+  }
+]

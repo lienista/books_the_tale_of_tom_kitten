@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.72,
+    "word": "Mücadele",
+    "probability": 0.9888879943675646
+  },
+  {
+    "start": 0.72,
+    "end": 1.401,
+    "word": "ederken",
+    "probability": 0.9301589009336213
+  },
+  {
+    "start": 1.401,
+    "end": 3.142,
+    "word": "pitpatpaddlepat",
+    "probability": 0.8801833400630862
+  },
+  {
+    "start": 3.142,
+    "end": 3.922,
+    "word": "sesini",
+    "probability": 0.99
+  },
+  {
+    "start": 3.922,
+    "end": 4.663,
+    "word": "duydular",
+    "probability": 0.99
+  },
+  {
+    "start": 4.663,
+    "end": 5.123,
+    "word": "Üç",
+    "probability": 0.99
+  },
+  {
+    "start": 5.123,
+    "end": 6.043,
+    "word": "PuddleDucks",
+    "probability": 0.8570817658586571
+  },
+  {
+    "start": 6.043,
+    "end": 6.344,
+    "word": "tek",
+    "probability": 0.9350929502851989
+  },
+  {
+    "start": 6.344,
+    "end": 6.704,
+    "word": "sıra",
+    "probability": 0.9792683613111348
+  },
+  {
+    "start": 6.704,
+    "end": 7.324,
+    "word": "halinde",
+    "probability": 0.9868938334468037
+  },
+  {
+    "start": 7.324,
+    "end": 7.824,
+    "word": "yolda",
+    "probability": 0.9661807559995071
+  },
+  {
+    "start": 7.824,
+    "end": 8.545,
+    "word": "yürüyerek",
+    "probability": 0.9787430762605983
+  },
+  {
+    "start": 8.545,
+    "end": 9.345,
+    "word": "ritmik",
+    "probability": 0.9727260630820151
+  },
+  {
+    "start": 9.345,
+    "end": 9.605,
+    "word": "bir",
+    "probability": 0.99
+  },
+  {
+    "start": 9.605,
+    "end": 10.146,
+    "word": "şekilde",
+    "probability": 0.9526791187086069
+  },
+  {
+    "start": 10.146,
+    "end": 11.006,
+    "word": "sallanarak",
+    "probability": 0.9731577661207769
+  },
+  {
+    "start": 11.006,
+    "end": 13.868,
+    "word": "geliyorlardıpitpatpaddlepat",
+    "probability": 0.9257978875020678
+  },
+  {
+    "start": 13.868,
+    "end": 15.329,
+    "word": "pitpatwaddlepat",
+    "probability": 0.852271080356397
+  }
+]

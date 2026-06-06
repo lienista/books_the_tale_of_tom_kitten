@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.18,
+    "word": "Hvad",
+    "probability": 0.9269811574959623
+  },
+  {
+    "start": 0.18,
+    "end": 0.561,
+    "word": "angår",
+    "probability": 0.971105535936851
+  },
+  {
+    "start": 0.561,
+    "end": 1.422,
+    "word": "PuddleDucksde",
+    "probability": 0.7689616644237025
+  },
+  {
+    "start": 1.422,
+    "end": 2.083,
+    "word": "gik",
+    "probability": 0.9242775479828234
+  },
+  {
+    "start": 2.083,
+    "end": 2.303,
+    "word": "ind",
+    "probability": 0.963002938145613
+  },
+  {
+    "start": 2.303,
+    "end": 2.424,
+    "word": "i",
+    "probability": 0.9311807472320703
+  },
+  {
+    "start": 2.424,
+    "end": 2.584,
+    "word": "en",
+    "probability": 0.9839463267342283
+  },
+  {
+    "start": 2.584,
+    "end": 2.944,
+    "word": "dam",
+    "probability": 0.969405957963864
+  },
+  {
+    "start": 2.944,
+    "end": 4.146,
+    "word": "Tøjet",
+    "probability": 0.99
+  },
+  {
+    "start": 4.146,
+    "end": 4.507,
+    "word": "faldt",
+    "probability": 0.9855053239377942
+  },
+  {
+    "start": 4.507,
+    "end": 4.807,
+    "word": "lige",
+    "probability": 0.960988543084993
+  },
+  {
+    "start": 4.807,
+    "end": 5.047,
+    "word": "af",
+    "probability": 0.99
+  },
+  {
+    "start": 5.047,
+    "end": 5.969,
+    "word": "fordi",
+    "probability": 0.99
+  },
+  {
+    "start": 5.969,
+    "end": 6.149,
+    "word": "der",
+    "probability": 0.99
+  },
+  {
+    "start": 6.149,
+    "end": 6.369,
+    "word": "ikke",
+    "probability": 0.99
+  },
+  {
+    "start": 6.369,
+    "end": 6.57,
+    "word": "var",
+    "probability": 0.9420631907155567
+  },
+  {
+    "start": 6.57,
+    "end": 6.83,
+    "word": "nogen",
+    "probability": 0.961242313062429
+  },
+  {
+    "start": 6.83,
+    "end": 7.251,
+    "word": "knapper",
+    "probability": 0.9583358931634681
+  },
+  {
+    "start": 7.251,
+    "end": 7.691,
+    "word": "tilbage",
+    "probability": 0.9738232757926132
+  },
+  {
+    "start": 7.691,
+    "end": 7.992,
+    "word": "til",
+    "probability": 0.9705257237625609
+  },
+  {
+    "start": 7.992,
+    "end": 8.112,
+    "word": "at",
+    "probability": 0.9703274309031347
+  },
+  {
+    "start": 8.112,
+    "end": 8.372,
+    "word": "holde",
+    "probability": 0.99
+  },
+  {
+    "start": 8.372,
+    "end": 8.633,
+    "word": "det",
+    "probability": 0.864362895905001
+  },
+  {
+    "start": 8.633,
+    "end": 8.973,
+    "word": "sammen",
+    "probability": 0.9621140875659161
+  }
+]

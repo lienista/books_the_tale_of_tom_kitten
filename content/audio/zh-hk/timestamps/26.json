@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.561,
+    "end": 0.882,
+    "word": "由嗰陣開始",
+    "probability": 0.5889892531752894
+  },
+  {
+    "start": 0.882,
+    "end": 1.543,
+    "word": "Drake",
+    "probability": 0.8239460622181204
+  },
+  {
+    "start": 1.543,
+    "end": 2.044,
+    "word": "Pudd",
+    "probability": 0.7295756206543205
+  },
+  {
+    "start": 2.044,
+    "end": 2.464,
+    "word": "leD",
+    "probability": 0.7281372110133664
+  },
+  {
+    "start": 2.464,
+    "end": 3.146,
+    "word": "uck",
+    "probability": 0.8632557361219949
+  },
+  {
+    "start": 3.146,
+    "end": 3.446,
+    "word": "先生",
+    "probability": 0.7541438307488423
+  },
+  {
+    "start": 3.446,
+    "end": 4.167,
+    "word": "潔米瑪同",
+    "probability": 0.7516853001659699
+  },
+  {
+    "start": 4.167,
+    "end": 5.43,
+    "word": "Rebeccah",
+    "probability": 0.7615848660654939
+  },
+  {
+    "start": 5.43,
+    "end": 5.85,
+    "word": "就一直喺",
+    "probability": 0.6813818393145801
+  },
+  {
+    "start": 5.85,
+    "end": 6.211,
+    "word": "度搵緊嗰",
+    "probability": 0.7009423162313941
+  },
+  {
+    "start": 6.211,
+    "end": 6.431,
+    "word": "啲衫",
+    "probability": 0.8194388344395626
+  }
+]

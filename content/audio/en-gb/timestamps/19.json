@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "Then",
+    "probability": 0.4680317744078605
+  },
+  {
+    "start": 0.22,
+    "end": 0.6,
+    "word": "he",
+    "probability": 0.8901366133447817
+  },
+  {
+    "start": 0.6,
+    "end": 1.661,
+    "word": "Jemima",
+    "probability": 0.8671331950488829
+  },
+  {
+    "start": 1.661,
+    "end": 1.941,
+    "word": "and",
+    "probability": 0.7452281101630378
+  },
+  {
+    "start": 1.941,
+    "end": 2.482,
+    "word": "Rebeccah",
+    "probability": 0.6284686543284279
+  },
+  {
+    "start": 2.482,
+    "end": 3.182,
+    "word": "PuddleDuck",
+    "probability": 0.551059563212799
+  },
+  {
+    "start": 3.182,
+    "end": 3.802,
+    "word": "set",
+    "probability": 0.8699451522427637
+  },
+  {
+    "start": 3.802,
+    "end": 4.042,
+    "word": "off",
+    "probability": 0.7428187917223323
+  },
+  {
+    "start": 4.042,
+    "end": 4.203,
+    "word": "up",
+    "probability": 0.6819715390494219
+  },
+  {
+    "start": 4.203,
+    "end": 4.383,
+    "word": "the",
+    "probability": 0.5955332077002082
+  },
+  {
+    "start": 4.383,
+    "end": 4.663,
+    "word": "road",
+    "probability": 0.5256877661407249
+  },
+  {
+    "start": 4.663,
+    "end": 5.203,
+    "word": "keeping",
+    "probability": 0.673845791453415
+  },
+  {
+    "start": 5.203,
+    "end": 5.383,
+    "word": "in",
+    "probability": 0.5548803825532054
+  },
+  {
+    "start": 5.383,
+    "end": 6.564,
+    "word": "steppitpat",
+    "probability": 0.7646095557865442
+  },
+  {
+    "start": 6.564,
+    "end": 7.385,
+    "word": "paddlepat",
+    "probability": 0.6790551887754422
+  },
+  {
+    "start": 7.385,
+    "end": 8.045,
+    "word": "pitpat",
+    "probability": 0.6691110714181486
+  },
+  {
+    "start": 8.045,
+    "end": 8.685,
+    "word": "waddlepat",
+    "probability": 0.6826943694633499
+  }
+]

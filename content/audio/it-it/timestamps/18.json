@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.14,
+    "word": "Ma",
+    "probability": 0.741582662962789
+  },
+  {
+    "start": 0.14,
+    "end": 0.26,
+    "word": "li",
+    "probability": 0.6114820556778916
+  },
+  {
+    "start": 0.26,
+    "end": 0.681,
+    "word": "indossò",
+    "probability": 0.9047891294715352
+  },
+  {
+    "start": 0.681,
+    "end": 0.901,
+    "word": "lui",
+    "probability": 0.9644180333434693
+  },
+  {
+    "start": 0.901,
+    "end": 1.561,
+    "word": "stesso",
+    "probability": 0.9819564883804774
+  },
+  {
+    "start": 1.561,
+    "end": 2.202,
+    "word": "Gli",
+    "probability": 0.9858916594290706
+  },
+  {
+    "start": 2.202,
+    "end": 2.642,
+    "word": "stavano",
+    "probability": 0.9860765000825662
+  },
+  {
+    "start": 2.642,
+    "end": 2.963,
+    "word": "ancora",
+    "probability": 0.99
+  },
+  {
+    "start": 2.963,
+    "end": 3.343,
+    "word": "peggio",
+    "probability": 0.989763818827953
+  },
+  {
+    "start": 3.343,
+    "end": 3.483,
+    "word": "che",
+    "probability": 0.9252444235326909
+  },
+  {
+    "start": 3.483,
+    "end": 3.543,
+    "word": "a",
+    "probability": 0.9689830672561882
+  },
+  {
+    "start": 3.543,
+    "end": 3.804,
+    "word": "Tom",
+    "probability": 0.9435861957807993
+  },
+  {
+    "start": 3.804,
+    "end": 4.484,
+    "word": "Kitten",
+    "probability": 0.9433241458072946
+  },
+  {
+    "start": 4.484,
+    "end": 5.305,
+    "word": "È",
+    "probability": 0.99
+  },
+  {
+    "start": 5.305,
+    "end": 5.505,
+    "word": "una",
+    "probability": 0.9853575660972492
+  },
+  {
+    "start": 5.505,
+    "end": 5.986,
+    "word": "mattina",
+    "probability": 0.9819206607349832
+  },
+  {
+    "start": 5.986,
+    "end": 6.947,
+    "word": "incantevole",
+    "probability": 0.99
+  },
+  {
+    "start": 6.947,
+    "end": 7.867,
+    "word": "disse",
+    "probability": 0.99
+  },
+  {
+    "start": 7.867,
+    "end": 7.967,
+    "word": "il",
+    "probability": 0.9767215976538056
+  },
+  {
+    "start": 7.967,
+    "end": 8.388,
+    "word": "signor",
+    "probability": 0.99
+  },
+  {
+    "start": 8.388,
+    "end": 8.868,
+    "word": "Drake",
+    "probability": 0.9168709209795097
+  },
+  {
+    "start": 8.868,
+    "end": 9.869,
+    "word": "PuddleDuck",
+    "probability": 0.8807583289374771
+  }
+]

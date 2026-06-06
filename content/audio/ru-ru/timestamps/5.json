@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.461,
+    "word": "Затем",
+    "probability": 0.99
+  },
+  {
+    "start": 0.461,
+    "end": 0.661,
+    "word": "она",
+    "probability": 0.99
+  },
+  {
+    "start": 0.661,
+    "end": 1.362,
+    "word": "расчесала",
+    "probability": 0.970841582767043
+  },
+  {
+    "start": 1.362,
+    "end": 1.482,
+    "word": "им",
+    "probability": 0.99
+  },
+  {
+    "start": 1.482,
+    "end": 2.003,
+    "word": "хвосты",
+    "probability": 0.9514402528714017
+  },
+  {
+    "start": 2.003,
+    "end": 2.144,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 2.144,
+    "end": 2.524,
+    "word": "усы",
+    "probability": 0.99
+  },
+  {
+    "start": 2.524,
+    "end": 3.366,
+    "word": "это",
+    "probability": 0.99
+  },
+  {
+    "start": 3.366,
+    "end": 3.646,
+    "word": "Том",
+    "probability": 0.9738132186255694
+  },
+  {
+    "start": 3.646,
+    "end": 4.187,
+    "word": "Киттен",
+    "probability": 0.8923434678873637
+  },
+  {
+    "start": 4.187,
+    "end": 5.068,
+    "word": "Том",
+    "probability": 0.9696567147061932
+  },
+  {
+    "start": 5.068,
+    "end": 5.289,
+    "word": "всё",
+    "probability": 0.9870495872018855
+  },
+  {
+    "start": 5.289,
+    "end": 5.649,
+    "word": "время",
+    "probability": 0.964272541985771
+  },
+  {
+    "start": 5.649,
+    "end": 6.23,
+    "word": "пытался",
+    "probability": 0.99
+  },
+  {
+    "start": 6.23,
+    "end": 6.931,
+    "word": "поцарапать",
+    "probability": 0.967042025678721
+  },
+  {
+    "start": 6.931,
+    "end": 7.572,
+    "word": "расчёску",
+    "probability": 0.9294940330582011
+  }
+]

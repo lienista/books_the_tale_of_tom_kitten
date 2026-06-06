@@ -1,0 +1,278 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "Toen",
+    "probability": 0.6350028098154389
+  },
+  {
+    "start": 0.22,
+    "end": 0.34,
+    "word": "de",
+    "probability": 0.7490134757020384
+  },
+  {
+    "start": 0.34,
+    "end": 0.721,
+    "word": "drie",
+    "probability": 0.9427049723619669
+  },
+  {
+    "start": 0.721,
+    "end": 1.181,
+    "word": "kittens",
+    "probability": 0.9476134278691425
+  },
+  {
+    "start": 1.181,
+    "end": 1.642,
+    "word": "klaar",
+    "probability": 0.9709051908660205
+  },
+  {
+    "start": 1.642,
+    "end": 2.122,
+    "word": "waren",
+    "probability": 0.9804065886963239
+  },
+  {
+    "start": 2.122,
+    "end": 3.123,
+    "word": "maakte",
+    "probability": 0.9582569821933997
+  },
+  {
+    "start": 3.123,
+    "end": 3.584,
+    "word": "mevrouw",
+    "probability": 0.9608678093553082
+  },
+  {
+    "start": 3.584,
+    "end": 4.164,
+    "word": "Tabitha",
+    "probability": 0.9376527892676854
+  },
+  {
+    "start": 4.164,
+    "end": 4.405,
+    "word": "een",
+    "probability": 0.9223738124744347
+  },
+  {
+    "start": 4.405,
+    "end": 4.825,
+    "word": "fout",
+    "probability": 0.9560277578355154
+  },
+  {
+    "start": 4.825,
+    "end": 5.686,
+    "word": "en",
+    "probability": 0.9708629590848001
+  },
+  {
+    "start": 5.686,
+    "end": 6.286,
+    "word": "stuurde",
+    "probability": 0.9701701026099178
+  },
+  {
+    "start": 6.286,
+    "end": 6.467,
+    "word": "ze",
+    "probability": 0.9494297280632025
+  },
+  {
+    "start": 6.467,
+    "end": 6.627,
+    "word": "de",
+    "probability": 0.9182825439714544
+  },
+  {
+    "start": 6.627,
+    "end": 7.007,
+    "word": "tuin",
+    "probability": 0.9362981907227459
+  },
+  {
+    "start": 7.007,
+    "end": 7.267,
+    "word": "in",
+    "probability": 0.9876623729082564
+  },
+  {
+    "start": 7.267,
+    "end": 8.048,
+    "word": "terwijl",
+    "probability": 0.9857708600735052
+  },
+  {
+    "start": 8.048,
+    "end": 8.208,
+    "word": "ze",
+    "probability": 0.9818520500922367
+  },
+  {
+    "start": 8.208,
+    "end": 8.709,
+    "word": "warme",
+    "probability": 0.9873313141114104
+  },
+  {
+    "start": 8.709,
+    "end": 9.55,
+    "word": "boterhammen",
+    "probability": 0.9898828755386628
+  },
+  {
+    "start": 9.55,
+    "end": 9.99,
+    "word": "maakte",
+    "probability": 0.9805532916841383
+  },
+  {
+    "start": 9.99,
+    "end": 10.831,
+    "word": "Houd",
+    "probability": 0.972860397262501
+  },
+  {
+    "start": 10.831,
+    "end": 10.951,
+    "word": "je",
+    "probability": 0.8785833152333064
+  },
+  {
+    "start": 10.951,
+    "end": 11.492,
+    "word": "kleren",
+    "probability": 0.9653017749116339
+  },
+  {
+    "start": 11.492,
+    "end": 11.872,
+    "word": "schoon",
+    "probability": 0.9292572420089612
+  },
+  {
+    "start": 11.872,
+    "end": 12.433,
+    "word": "kinderen",
+    "probability": 0.9792658855544986
+  },
+  {
+    "start": 12.433,
+    "end": 13.314,
+    "word": "Loop",
+    "probability": 0.982830097296775
+  },
+  {
+    "start": 13.314,
+    "end": 13.554,
+    "word": "op",
+    "probability": 0.9860377718686667
+  },
+  {
+    "start": 13.554,
+    "end": 13.694,
+    "word": "je",
+    "probability": 0.9528348977080062
+  },
+  {
+    "start": 13.694,
+    "end": 14.615,
+    "word": "achterpoten",
+    "probability": 0.9721845556092188
+  },
+  {
+    "start": 14.615,
+    "end": 15.896,
+    "word": "Blijf",
+    "probability": 0.9665751021809583
+  },
+  {
+    "start": 15.896,
+    "end": 16.157,
+    "word": "uit",
+    "probability": 0.9679778660808995
+  },
+  {
+    "start": 16.157,
+    "end": 16.257,
+    "word": "de",
+    "probability": 0.9476630505565862
+  },
+  {
+    "start": 16.257,
+    "end": 16.617,
+    "word": "buurt",
+    "probability": 0.9326877418703143
+  },
+  {
+    "start": 16.617,
+    "end": 16.797,
+    "word": "van",
+    "probability": 0.9889492029016382
+  },
+  {
+    "start": 16.797,
+    "end": 16.897,
+    "word": "de",
+    "probability": 0.979575796856673
+  },
+  {
+    "start": 16.897,
+    "end": 17.538,
+    "word": "modderige",
+    "probability": 0.9499839209764891
+  },
+  {
+    "start": 17.538,
+    "end": 18.139,
+    "word": "asput",
+    "probability": 0.850578422813505
+  },
+  {
+    "start": 18.139,
+    "end": 19.2,
+    "word": "Sally",
+    "probability": 0.9688363934939797
+  },
+  {
+    "start": 19.2,
+    "end": 20.041,
+    "word": "HennyPenny",
+    "probability": 0.8927146406742297
+  },
+  {
+    "start": 20.041,
+    "end": 20.741,
+    "word": "het",
+    "probability": 0.9667105009042593
+  },
+  {
+    "start": 20.741,
+    "end": 21.542,
+    "word": "varkenshok",
+    "probability": 0.9803578551379438
+  },
+  {
+    "start": 21.542,
+    "end": 22.023,
+    "word": "en",
+    "probability": 0.9827088901133337
+  },
+  {
+    "start": 22.023,
+    "end": 22.263,
+    "word": "die",
+    "probability": 0.9474375050203756
+  },
+  {
+    "start": 22.263,
+    "end": 23.124,
+    "word": "PuddleDucks",
+    "probability": 0.809610191205564
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.08,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 0.08,
+    "end": 0.321,
+    "word": "fost",
+    "probability": 0.99
+  },
+  {
+    "start": 0.321,
+    "end": 0.701,
+    "word": "odată",
+    "probability": 0.9650907842750559
+  },
+  {
+    "start": 0.701,
+    "end": 0.841,
+    "word": "ca",
+    "probability": 0.99
+  },
+  {
+    "start": 0.841,
+    "end": 1.463,
+    "word": "niciodată",
+    "probability": 0.9650387280095047
+  },
+  {
+    "start": 1.463,
+    "end": 1.843,
+    "word": "trei",
+    "probability": 0.9329849574883828
+  },
+  {
+    "start": 1.843,
+    "end": 2.504,
+    "word": "pisicuțe",
+    "probability": 0.9849686919900962
+  },
+  {
+    "start": 2.504,
+    "end": 2.665,
+    "word": "pe",
+    "probability": 0.8456329021658657
+  },
+  {
+    "start": 2.665,
+    "end": 2.925,
+    "word": "nume",
+    "probability": 0.9532673489494656
+  },
+  {
+    "start": 2.925,
+    "end": 3.586,
+    "word": "Mittens",
+    "probability": 0.8070259331457661
+  },
+  {
+    "start": 3.586,
+    "end": 3.867,
+    "word": "Tom",
+    "probability": 0.9212208587256264
+  },
+  {
+    "start": 3.867,
+    "end": 4.327,
+    "word": "Kitten",
+    "probability": 0.677455710159127
+  },
+  {
+    "start": 4.327,
+    "end": 4.848,
+    "word": "și",
+    "probability": 0.9844941492289174
+  },
+  {
+    "start": 4.848,
+    "end": 5.389,
+    "word": "Moppet",
+    "probability": 0.8557402938620593
+  },
+  {
+    "start": 5.389,
+    "end": 6.351,
+    "word": "Aveau",
+    "probability": 0.9865659933170757
+  },
+  {
+    "start": 6.351,
+    "end": 6.812,
+    "word": "blănițe",
+    "probability": 0.9546029261669474
+  },
+  {
+    "start": 6.812,
+    "end": 7.433,
+    "word": "frumoase",
+    "probability": 0.9606212051815805
+  },
+  {
+    "start": 7.433,
+    "end": 7.593,
+    "word": "și",
+    "probability": 0.817257936853652
+  },
+  {
+    "start": 7.593,
+    "end": 7.713,
+    "word": "își",
+    "probability": 0.8076131959141174
+  },
+  {
+    "start": 7.713,
+    "end": 8.274,
+    "word": "petreceau",
+    "probability": 0.9362523322680031
+  },
+  {
+    "start": 8.274,
+    "end": 8.755,
+    "word": "zilele",
+    "probability": 0.9875572877452489
+  },
+  {
+    "start": 8.755,
+    "end": 9.396,
+    "word": "jucânduse",
+    "probability": 0.9721262999785588
+  },
+  {
+    "start": 9.396,
+    "end": 9.557,
+    "word": "pe",
+    "probability": 0.9648158613683478
+  },
+  {
+    "start": 9.557,
+    "end": 10.037,
+    "word": "verandă",
+    "probability": 0.9058596407839632
+  },
+  {
+    "start": 10.037,
+    "end": 10.178,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 10.178,
+    "end": 10.258,
+    "word": "în",
+    "probability": 0.7333301603339567
+  },
+  {
+    "start": 10.258,
+    "end": 10.538,
+    "word": "noroi",
+    "probability": 0.8155241452688572
+  }
+]

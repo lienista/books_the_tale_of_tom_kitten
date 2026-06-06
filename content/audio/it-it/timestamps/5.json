@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.241,
+    "word": "Poi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.241,
+    "end": 0.762,
+    "word": "pettinò",
+    "probability": 0.99
+  },
+  {
+    "start": 0.762,
+    "end": 0.942,
+    "word": "le",
+    "probability": 0.9776299099537386
+  },
+  {
+    "start": 0.942,
+    "end": 1.223,
+    "word": "loro",
+    "probability": 0.9551865480893028
+  },
+  {
+    "start": 1.223,
+    "end": 1.604,
+    "word": "code",
+    "probability": 0.9807406593142232
+  },
+  {
+    "start": 1.604,
+    "end": 1.664,
+    "word": "e",
+    "probability": 0.9638519041949754
+  },
+  {
+    "start": 1.664,
+    "end": 1.724,
+    "word": "i",
+    "probability": 0.6552472786107609
+  },
+  {
+    "start": 1.724,
+    "end": 2.305,
+    "word": "baffi",
+    "probability": 0.99
+  },
+  {
+    "start": 2.305,
+    "end": 2.987,
+    "word": "questo",
+    "probability": 0.977141234936893
+  },
+  {
+    "start": 2.987,
+    "end": 3.067,
+    "word": "è",
+    "probability": 0.9316142319845973
+  },
+  {
+    "start": 3.067,
+    "end": 3.348,
+    "word": "Tom",
+    "probability": 0.9742358783796939
+  },
+  {
+    "start": 3.348,
+    "end": 4.069,
+    "word": "Kitten",
+    "probability": 0.9187351059485788
+  },
+  {
+    "start": 4.069,
+    "end": 5.032,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 5.032,
+    "end": 5.633,
+    "word": "continuava",
+    "probability": 0.9703177530059925
+  },
+  {
+    "start": 5.633,
+    "end": 5.713,
+    "word": "a",
+    "probability": 0.928364999547438
+  },
+  {
+    "start": 5.713,
+    "end": 6.274,
+    "word": "cercare",
+    "probability": 0.9870411484615003
+  },
+  {
+    "start": 6.274,
+    "end": 6.475,
+    "word": "di",
+    "probability": 0.9009141090938579
+  },
+  {
+    "start": 6.475,
+    "end": 7.016,
+    "word": "graffiare",
+    "probability": 0.99
+  },
+  {
+    "start": 7.016,
+    "end": 7.136,
+    "word": "il",
+    "probability": 0.9847556848598802
+  },
+  {
+    "start": 7.136,
+    "end": 7.778,
+    "word": "pettine",
+    "probability": 0.9787523139752823
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.24,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.781,
+    "word": "Kitten",
+    "probability": 0.8968491646305705
+  },
+  {
+    "start": 0.781,
+    "end": 0.941,
+    "word": "no",
+    "probability": 0.8932507170130571
+  },
+  {
+    "start": 0.941,
+    "end": 1.322,
+    "word": "podía",
+    "probability": 0.9899098959930619
+  },
+  {
+    "start": 1.322,
+    "end": 1.782,
+    "word": "saltar",
+    "probability": 0.9778315753343156
+  },
+  {
+    "start": 1.782,
+    "end": 1.923,
+    "word": "en",
+    "probability": 0.8894210478923428
+  },
+  {
+    "start": 1.923,
+    "end": 2.524,
+    "word": "absoluto",
+    "probability": 0.9899096793373869
+  },
+  {
+    "start": 2.524,
+    "end": 3.004,
+    "word": "mientras",
+    "probability": 0.9281332447554128
+  },
+  {
+    "start": 3.004,
+    "end": 3.565,
+    "word": "intentaba",
+    "probability": 0.99
+  },
+  {
+    "start": 3.565,
+    "end": 4.106,
+    "word": "caminar",
+    "probability": 0.9788714211938837
+  },
+  {
+    "start": 4.106,
+    "end": 4.426,
+    "word": "sobre",
+    "probability": 0.9882573794512841
+  },
+  {
+    "start": 4.426,
+    "end": 4.626,
+    "word": "sus",
+    "probability": 0.9858737173609113
+  },
+  {
+    "start": 4.626,
+    "end": 5.027,
+    "word": "patas",
+    "probability": 0.9784670216610504
+  },
+  {
+    "start": 5.027,
+    "end": 5.588,
+    "word": "traseras",
+    "probability": 0.99
+  },
+  {
+    "start": 5.588,
+    "end": 5.828,
+    "word": "con",
+    "probability": 0.917480895734817
+  },
+  {
+    "start": 5.828,
+    "end": 6.569,
+    "word": "pantalones",
+    "probability": 0.97969953607694
+  },
+  {
+    "start": 6.569,
+    "end": 7.49,
+    "word": "Luchó",
+    "probability": 0.9839208116324673
+  },
+  {
+    "start": 7.49,
+    "end": 7.771,
+    "word": "para",
+    "probability": 0.973140980694187
+  },
+  {
+    "start": 7.771,
+    "end": 8.131,
+    "word": "subir",
+    "probability": 0.99
+  },
+  {
+    "start": 8.131,
+    "end": 8.312,
+    "word": "las",
+    "probability": 0.9877167102187074
+  },
+  {
+    "start": 8.312,
+    "end": 8.712,
+    "word": "rocas",
+    "probability": 0.99
+  },
+  {
+    "start": 8.712,
+    "end": 9.073,
+    "word": "poco",
+    "probability": 0.99
+  },
+  {
+    "start": 9.073,
+    "end": 9.153,
+    "word": "a",
+    "probability": 0.9259469320442433
+  },
+  {
+    "start": 9.153,
+    "end": 9.593,
+    "word": "poco",
+    "probability": 0.9871924909041057
+  },
+  {
+    "start": 9.593,
+    "end": 10.695,
+    "word": "aplastando",
+    "probability": 0.99
+  },
+  {
+    "start": 10.695,
+    "end": 10.875,
+    "word": "los",
+    "probability": 0.9346652398198211
+  },
+  {
+    "start": 10.875,
+    "end": 11.396,
+    "word": "helechos",
+    "probability": 0.99
+  },
+  {
+    "start": 11.396,
+    "end": 11.776,
+    "word": "y",
+    "probability": 0.9751490123300245
+  },
+  {
+    "start": 11.776,
+    "end": 12.397,
+    "word": "perdiendo",
+    "probability": 0.9750867079100186
+  },
+  {
+    "start": 12.397,
+    "end": 12.978,
+    "word": "botones",
+    "probability": 0.9824165998873956
+  },
+  {
+    "start": 12.978,
+    "end": 13.078,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 13.078,
+    "end": 13.579,
+    "word": "diestra",
+    "probability": 0.9711660324458797
+  },
+  {
+    "start": 13.579,
+    "end": 13.679,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 13.679,
+    "end": 14.28,
+    "word": "siniestra",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.901,
+    "word": "PuddleDucksa",
+    "probability": 0.7990388869327728
+  },
+  {
+    "start": 0.901,
+    "end": 1.943,
+    "word": "gelincebir",
+    "probability": 0.936689818076286
+  },
+  {
+    "start": 1.943,
+    "end": 2.563,
+    "word": "gölete",
+    "probability": 0.9746349402488705
+  },
+  {
+    "start": 2.563,
+    "end": 3.224,
+    "word": "girdiler",
+    "probability": 0.9710740188253413
+  },
+  {
+    "start": 3.224,
+    "end": 4.346,
+    "word": "Kıyafetler",
+    "probability": 0.99
+  },
+  {
+    "start": 4.346,
+    "end": 4.807,
+    "word": "hemen",
+    "probability": 0.99
+  },
+  {
+    "start": 4.807,
+    "end": 5.287,
+    "word": "düştü",
+    "probability": 0.99
+  },
+  {
+    "start": 5.287,
+    "end": 5.968,
+    "word": "çünkü",
+    "probability": 0.99
+  },
+  {
+    "start": 5.968,
+    "end": 6.649,
+    "word": "onları",
+    "probability": 0.9880274618979096
+  },
+  {
+    "start": 6.649,
+    "end": 6.929,
+    "word": "bir",
+    "probability": 0.99
+  },
+  {
+    "start": 6.929,
+    "end": 7.35,
+    "word": "arada",
+    "probability": 0.9418352949123191
+  },
+  {
+    "start": 7.35,
+    "end": 7.931,
+    "word": "tutacak",
+    "probability": 0.9644557477911276
+  },
+  {
+    "start": 7.931,
+    "end": 8.411,
+    "word": "düğme",
+    "probability": 0.99
+  },
+  {
+    "start": 8.411,
+    "end": 9.233,
+    "word": "kalmamıştı",
+    "probability": 0.9802782067349116
+  }
+]

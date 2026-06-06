@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.12,
+    "word": "O",
+    "probability": 0.99
+  },
+  {
+    "start": 0.12,
+    "end": 0.602,
+    "word": "Senhor",
+    "probability": 0.7585404429039094
+  },
+  {
+    "start": 0.602,
+    "end": 1.223,
+    "word": "Drake",
+    "probability": 0.8209210156824343
+  },
+  {
+    "start": 1.223,
+    "end": 2.085,
+    "word": "PuddleDuck",
+    "probability": 0.7811385260034472
+  },
+  {
+    "start": 2.085,
+    "end": 2.867,
+    "word": "caminhou",
+    "probability": 0.9369634252232368
+  },
+  {
+    "start": 2.867,
+    "end": 3.79,
+    "word": "lentamente",
+    "probability": 0.99
+  },
+  {
+    "start": 3.79,
+    "end": 3.99,
+    "word": "de",
+    "probability": 0.9624636040475252
+  },
+  {
+    "start": 3.99,
+    "end": 4.411,
+    "word": "lado",
+    "probability": 0.9891411247957341
+  },
+  {
+    "start": 4.411,
+    "end": 4.832,
+    "word": "e",
+    "probability": 0.9891681788761024
+  },
+  {
+    "start": 4.832,
+    "end": 5.414,
+    "word": "apanhou",
+    "probability": 0.99
+  },
+  {
+    "start": 5.414,
+    "end": 5.594,
+    "word": "os",
+    "probability": 0.9899350185763406
+  },
+  {
+    "start": 5.594,
+    "end": 6.136,
+    "word": "vários",
+    "probability": 0.9827411506518544
+  },
+  {
+    "start": 6.136,
+    "end": 6.557,
+    "word": "itens",
+    "probability": 0.9563255351351362
+  }
+]

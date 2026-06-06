@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.24,
+    "word": "Ale",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.961,
+    "word": "oblékl",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.141,
+    "word": "si",
+    "probability": 0.9398950582864715
+  },
+  {
+    "start": 1.141,
+    "end": 1.282,
+    "word": "je",
+    "probability": 0.9370179480819069
+  },
+  {
+    "start": 1.282,
+    "end": 1.842,
+    "word": "sám",
+    "probability": 0.98083483340624
+  },
+  {
+    "start": 1.842,
+    "end": 2.843,
+    "word": "Seděly",
+    "probability": 0.99
+  },
+  {
+    "start": 2.843,
+    "end": 3.004,
+    "word": "mu",
+    "probability": 0.85493007482653
+  },
+  {
+    "start": 3.004,
+    "end": 3.404,
+    "word": "ještě",
+    "probability": 0.9750508408966443
+  },
+  {
+    "start": 3.404,
+    "end": 3.885,
+    "word": "hůř",
+    "probability": 0.9835234178360871
+  },
+  {
+    "start": 3.885,
+    "end": 4.225,
+    "word": "než",
+    "probability": 0.99
+  },
+  {
+    "start": 4.225,
+    "end": 4.646,
+    "word": "Tomovi",
+    "probability": 0.9478173579207814
+  },
+  {
+    "start": 4.646,
+    "end": 5.326,
+    "word": "Kittenovi",
+    "probability": 0.9356697320254497
+  },
+  {
+    "start": 5.326,
+    "end": 6.287,
+    "word": "Je",
+    "probability": 0.99
+  },
+  {
+    "start": 6.287,
+    "end": 6.948,
+    "word": "krásné",
+    "probability": 0.99
+  },
+  {
+    "start": 6.948,
+    "end": 7.529,
+    "word": "ráno",
+    "probability": 0.99
+  },
+  {
+    "start": 7.529,
+    "end": 8.17,
+    "word": "řekl",
+    "probability": 0.99
+  },
+  {
+    "start": 8.17,
+    "end": 8.41,
+    "word": "pan",
+    "probability": 0.99
+  },
+  {
+    "start": 8.41,
+    "end": 8.79,
+    "word": "Drake",
+    "probability": 0.8486854586970574
+  },
+  {
+    "start": 8.79,
+    "end": 9.371,
+    "word": "PuddleDuck",
+    "probability": 0.7816561445717718
+  }
+]

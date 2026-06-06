@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.541,
+    "end": 0.601,
+    "word": "És",
+    "probability": 0.6666536770451682
+  },
+  {
+    "start": 0.601,
+    "end": 0.701,
+    "word": "Mr",
+    "probability": 0.3998688852338651
+  },
+  {
+    "start": 0.701,
+    "end": 0.941,
+    "word": "Drake",
+    "probability": 0.4827906832141477
+  },
+  {
+    "start": 0.941,
+    "end": 1.723,
+    "word": "PuddleDuck",
+    "probability": 0.742651002695542
+  },
+  {
+    "start": 1.723,
+    "end": 2.404,
+    "word": "Jemima",
+    "probability": 0.8187062513635104
+  },
+  {
+    "start": 2.404,
+    "end": 2.484,
+    "word": "és",
+    "probability": 0.250052007778481
+  },
+  {
+    "start": 2.484,
+    "end": 2.804,
+    "word": "Rebeccah",
+    "probability": 0.4374952822963183
+  },
+  {
+    "start": 2.804,
+    "end": 3.185,
+    "word": "azóta",
+    "probability": 0.7365338980088952
+  },
+  {
+    "start": 3.185,
+    "end": 3.245,
+    "word": "is",
+    "probability": 0.01
+  },
+  {
+    "start": 3.245,
+    "end": 4.086,
+    "word": "keresik",
+    "probability": 0.8323443362381214
+  },
+  {
+    "start": 4.086,
+    "end": 4.427,
+    "word": "őket",
+    "probability": 0.7889340055994294
+  }
+]

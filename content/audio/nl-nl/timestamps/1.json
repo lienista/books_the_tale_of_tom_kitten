@@ -1,0 +1,212 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "Er",
+    "probability": 0.7737740631615038
+  },
+  {
+    "start": 0.16,
+    "end": 0.46,
+    "word": "was",
+    "probability": 0.8210473369626695
+  },
+  {
+    "start": 0.46,
+    "end": 0.72,
+    "word": "eens",
+    "probability": 0.8122927120542864
+  },
+  {
+    "start": 0.72,
+    "end": 0.901,
+    "word": "een",
+    "probability": 0.785408551486712
+  },
+  {
+    "start": 0.901,
+    "end": 1.341,
+    "word": "tijd",
+    "probability": 0.9504115204531232
+  },
+  {
+    "start": 1.341,
+    "end": 2.442,
+    "word": "er",
+    "probability": 0.9833554242468299
+  },
+  {
+    "start": 2.442,
+    "end": 2.822,
+    "word": "waren",
+    "probability": 0.9568320322544703
+  },
+  {
+    "start": 2.822,
+    "end": 3.242,
+    "word": "drie",
+    "probability": 0.9896832404623859
+  },
+  {
+    "start": 3.242,
+    "end": 3.722,
+    "word": "kleine",
+    "probability": 0.9831788868874686
+  },
+  {
+    "start": 3.722,
+    "end": 4.223,
+    "word": "kittens",
+    "probability": 0.9691536829165284
+  },
+  {
+    "start": 4.223,
+    "end": 4.723,
+    "word": "genaamd",
+    "probability": 0.9718431589152762
+  },
+  {
+    "start": 4.723,
+    "end": 5.344,
+    "word": "Mittens",
+    "probability": 0.9615811761721981
+  },
+  {
+    "start": 5.344,
+    "end": 6.264,
+    "word": "Tom",
+    "probability": 0.9865209147242835
+  },
+  {
+    "start": 6.264,
+    "end": 6.785,
+    "word": "Kitten",
+    "probability": 0.9701396942862653
+  },
+  {
+    "start": 6.785,
+    "end": 7.165,
+    "word": "en",
+    "probability": 0.9842900619465066
+  },
+  {
+    "start": 7.165,
+    "end": 7.685,
+    "word": "Moppet",
+    "probability": 0.9453714997622117
+  },
+  {
+    "start": 7.685,
+    "end": 8.986,
+    "word": "Ze",
+    "probability": 0.9840598393932561
+  },
+  {
+    "start": 8.986,
+    "end": 9.266,
+    "word": "hadden",
+    "probability": 0.9646407591139552
+  },
+  {
+    "start": 9.266,
+    "end": 9.907,
+    "word": "prachtige",
+    "probability": 0.9637125213178042
+  },
+  {
+    "start": 9.907,
+    "end": 10.507,
+    "word": "vachtjes",
+    "probability": 0.9795495771079199
+  },
+  {
+    "start": 10.507,
+    "end": 11.348,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 11.348,
+    "end": 11.848,
+    "word": "brachten",
+    "probability": 0.9715909769033405
+  },
+  {
+    "start": 11.848,
+    "end": 12.028,
+    "word": "hun",
+    "probability": 0.923401242940778
+  },
+  {
+    "start": 12.028,
+    "end": 12.528,
+    "word": "dagen",
+    "probability": 0.99
+  },
+  {
+    "start": 12.528,
+    "end": 12.789,
+    "word": "door",
+    "probability": 0.9521150678131698
+  },
+  {
+    "start": 12.789,
+    "end": 13.109,
+    "word": "met",
+    "probability": 0.9614243278368633
+  },
+  {
+    "start": 13.109,
+    "end": 13.549,
+    "word": "rollen",
+    "probability": 0.9793680979505024
+  },
+  {
+    "start": 13.549,
+    "end": 13.789,
+    "word": "op",
+    "probability": 0.9833511843893606
+  },
+  {
+    "start": 13.789,
+    "end": 13.929,
+    "word": "de",
+    "probability": 0.9297362876004336
+  },
+  {
+    "start": 13.929,
+    "end": 14.51,
+    "word": "veranda",
+    "probability": 0.9892636402387744
+  },
+  {
+    "start": 14.51,
+    "end": 15.01,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 15.01,
+    "end": 15.57,
+    "word": "spelen",
+    "probability": 0.9742616838530861
+  },
+  {
+    "start": 15.57,
+    "end": 15.731,
+    "word": "in",
+    "probability": 0.9511447933022763
+  },
+  {
+    "start": 15.731,
+    "end": 15.891,
+    "word": "het",
+    "probability": 0.8789486663453998
+  },
+  {
+    "start": 15.891,
+    "end": 16.171,
+    "word": "vuil",
+    "probability": 0.971005534050205
+  }
+]

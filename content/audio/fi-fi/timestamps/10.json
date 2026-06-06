@@ -1,0 +1,98 @@
+[
+  {
+    "start": 2.945,
+    "end": 3.005,
+    "word": "He",
+    "probability": 0.666666666671441
+  },
+  {
+    "start": 3.005,
+    "end": 3.425,
+    "word": "käänsivät",
+    "probability": 0.5530359539455548
+  },
+  {
+    "start": 3.425,
+    "end": 3.746,
+    "word": "mekkonsa",
+    "probability": 0.4784760384146993
+  },
+  {
+    "start": 3.746,
+    "end": 4.046,
+    "word": "taaksepäin",
+    "probability": 0.26663703421093315
+  },
+  {
+    "start": 4.046,
+    "end": 4.347,
+    "word": "jotta",
+    "probability": 0.6666360996231305
+  },
+  {
+    "start": 4.347,
+    "end": 4.707,
+    "word": "voisivat",
+    "probability": 0.5528844814318072
+  },
+  {
+    "start": 4.707,
+    "end": 4.968,
+    "word": "liikkua",
+    "probability": 0.36558036339672895
+  },
+  {
+    "start": 4.968,
+    "end": 5.348,
+    "word": "paremmin",
+    "probability": 0.5754218014226639
+  },
+  {
+    "start": 5.348,
+    "end": 6.15,
+    "word": "ja",
+    "probability": 0.9441851111552385
+  },
+  {
+    "start": 6.15,
+    "end": 6.61,
+    "word": "hyppäsivät",
+    "probability": 0.5207412218091317
+  },
+  {
+    "start": 6.61,
+    "end": 6.791,
+    "word": "ylös",
+    "probability": 0.555458463050622
+  },
+  {
+    "start": 6.791,
+    "end": 7.191,
+    "word": "Moppetin",
+    "probability": 0.5493506334767344
+  },
+  {
+    "start": 7.191,
+    "end": 7.692,
+    "word": "valkoinen",
+    "probability": 0.6045610865552051
+  },
+  {
+    "start": 7.692,
+    "end": 8.193,
+    "word": "pitsikaulus",
+    "probability": 0.5137084111597967
+  },
+  {
+    "start": 8.193,
+    "end": 8.413,
+    "word": "putosi",
+    "probability": 0.3636316293826302
+  },
+  {
+    "start": 8.413,
+    "end": 8.693,
+    "word": "tielle",
+    "probability": 0.6420710136021622
+  }
+]

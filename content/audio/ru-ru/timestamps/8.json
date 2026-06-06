@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.3,
+    "word": "Когда",
+    "probability": 0.9660939671406161
+  },
+  {
+    "start": 0.3,
+    "end": 0.521,
+    "word": "три",
+    "probability": 0.99
+  },
+  {
+    "start": 0.521,
+    "end": 1.041,
+    "word": "котёнка",
+    "probability": 0.9465880204454071
+  },
+  {
+    "start": 1.041,
+    "end": 1.361,
+    "word": "были",
+    "probability": 0.9875509193258936
+  },
+  {
+    "start": 1.361,
+    "end": 2.002,
+    "word": "готовы",
+    "probability": 0.99
+  },
+  {
+    "start": 2.002,
+    "end": 3.003,
+    "word": "миссис",
+    "probability": 0.9817464556972375
+  },
+  {
+    "start": 3.003,
+    "end": 3.444,
+    "word": "Табита",
+    "probability": 0.9566035525404835
+  },
+  {
+    "start": 3.444,
+    "end": 4.124,
+    "word": "совершила",
+    "probability": 0.99
+  },
+  {
+    "start": 4.124,
+    "end": 4.665,
+    "word": "ошибку",
+    "probability": 0.99
+  },
+  {
+    "start": 4.665,
+    "end": 4.805,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 4.805,
+    "end": 5.386,
+    "word": "отправила",
+    "probability": 0.9883111575933647
+  },
+  {
+    "start": 5.386,
+    "end": 5.566,
+    "word": "их",
+    "probability": 0.99
+  },
+  {
+    "start": 5.566,
+    "end": 5.646,
+    "word": "в",
+    "probability": 0.9769843470591185
+  },
+  {
+    "start": 5.646,
+    "end": 6.006,
+    "word": "сад",
+    "probability": 0.99
+  },
+  {
+    "start": 6.006,
+    "end": 6.767,
+    "word": "пока",
+    "probability": 0.99
+  },
+  {
+    "start": 6.767,
+    "end": 7.107,
+    "word": "сама",
+    "probability": 0.99
+  },
+  {
+    "start": 7.107,
+    "end": 7.728,
+    "word": "готовила",
+    "probability": 0.9718309574046992
+  },
+  {
+    "start": 7.728,
+    "end": 8.309,
+    "word": "горячие",
+    "probability": 0.99
+  },
+  {
+    "start": 8.309,
+    "end": 8.689,
+    "word": "тосты",
+    "probability": 0.99
+  },
+  {
+    "start": 8.689,
+    "end": 8.829,
+    "word": "с",
+    "probability": 0.99
+  },
+  {
+    "start": 8.829,
+    "end": 9.35,
+    "word": "маслом",
+    "probability": 0.99
+  },
+  {
+    "start": 9.35,
+    "end": 10.571,
+    "word": "А",
+    "probability": 0.99
+  },
+  {
+    "start": 10.571,
+    "end": 10.931,
+    "word": "теперь",
+    "probability": 0.99
+  },
+  {
+    "start": 10.931,
+    "end": 11.472,
+    "word": "следите",
+    "probability": 0.9816276527528716
+  },
+  {
+    "start": 11.472,
+    "end": 11.632,
+    "word": "за",
+    "probability": 0.9728575061630369
+  },
+  {
+    "start": 11.632,
+    "end": 12.253,
+    "word": "чистотой",
+    "probability": 0.9755015688397535
+  },
+  {
+    "start": 12.253,
+    "end": 12.813,
+    "word": "одежды",
+    "probability": 0.9873721402637549
+  },
+  {
+    "start": 12.813,
+    "end": 13.214,
+    "word": "дети",
+    "probability": 0.99
+  },
+  {
+    "start": 13.214,
+    "end": 14.255,
+    "word": "Ходите",
+    "probability": 0.9867971330432409
+  },
+  {
+    "start": 14.255,
+    "end": 14.415,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 14.415,
+    "end": 14.895,
+    "word": "задних",
+    "probability": 0.99
+  },
+  {
+    "start": 14.895,
+    "end": 15.476,
+    "word": "лапках",
+    "probability": 0.978664777865883
+  },
+  {
+    "start": 15.476,
+    "end": 16.517,
+    "word": "Держитесь",
+    "probability": 0.99
+  },
+  {
+    "start": 16.517,
+    "end": 17.098,
+    "word": "подальше",
+    "probability": 0.9750842836736807
+  },
+  {
+    "start": 17.098,
+    "end": 17.278,
+    "word": "от",
+    "probability": 0.9848846417011465
+  },
+  {
+    "start": 17.278,
+    "end": 17.758,
+    "word": "грязной",
+    "probability": 0.99
+  },
+  {
+    "start": 17.758,
+    "end": 18.139,
+    "word": "ямы",
+    "probability": 0.9865474789771774
+  },
+  {
+    "start": 18.139,
+    "end": 18.239,
+    "word": "с",
+    "probability": 0.9896758747623704
+  },
+  {
+    "start": 18.239,
+    "end": 18.699,
+    "word": "золой",
+    "probability": 0.9496161087219945
+  },
+  {
+    "start": 18.699,
+    "end": 19.5,
+    "word": "Салли",
+    "probability": 0.9747611802923233
+  },
+  {
+    "start": 19.5,
+    "end": 20.341,
+    "word": "ХенниПенни",
+    "probability": 0.8774438023377394
+  },
+  {
+    "start": 20.341,
+    "end": 21.282,
+    "word": "свинарника",
+    "probability": 0.99
+  },
+  {
+    "start": 21.282,
+    "end": 21.822,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 21.822,
+    "end": 22.203,
+    "word": "этих",
+    "probability": 0.9515450489798536
+  },
+  {
+    "start": 22.203,
+    "end": 23.124,
+    "word": "ПаддлДакс",
+    "probability": 0.9296925811266455
+  }
+]

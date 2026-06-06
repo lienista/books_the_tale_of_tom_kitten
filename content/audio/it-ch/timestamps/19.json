@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.28,
+    "word": "Poi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.28,
+    "end": 0.601,
+    "word": "lui",
+    "probability": 0.9790839886310039
+  },
+  {
+    "start": 0.601,
+    "end": 1.542,
+    "word": "Jemima",
+    "probability": 0.9512337492395809
+  },
+  {
+    "start": 1.542,
+    "end": 1.803,
+    "word": "e",
+    "probability": 0.9779826108579375
+  },
+  {
+    "start": 1.803,
+    "end": 2.784,
+    "word": "Rebeccah",
+    "probability": 0.9279568860041689
+  },
+  {
+    "start": 2.784,
+    "end": 4.186,
+    "word": "PuddleDuck",
+    "probability": 0.9017729049086619
+  },
+  {
+    "start": 4.186,
+    "end": 4.867,
+    "word": "si",
+    "probability": 0.9699316632670969
+  },
+  {
+    "start": 4.867,
+    "end": 5.548,
+    "word": "avviarono",
+    "probability": 0.99
+  },
+  {
+    "start": 5.548,
+    "end": 5.829,
+    "word": "lungo",
+    "probability": 0.9860331308882186
+  },
+  {
+    "start": 5.829,
+    "end": 5.989,
+    "word": "la",
+    "probability": 0.9692533329111059
+  },
+  {
+    "start": 5.989,
+    "end": 6.47,
+    "word": "strada",
+    "probability": 0.974090784493001
+  },
+  {
+    "start": 6.47,
+    "end": 7.191,
+    "word": "mantenendo",
+    "probability": 0.99
+  },
+  {
+    "start": 7.191,
+    "end": 7.271,
+    "word": "il",
+    "probability": 0.9851347057980555
+  },
+  {
+    "start": 7.271,
+    "end": 8.994,
+    "word": "passopitpat",
+    "probability": 0.9371927375862535
+  },
+  {
+    "start": 8.994,
+    "end": 10.276,
+    "word": "paddlepat",
+    "probability": 0.9186231923080503
+  },
+  {
+    "start": 10.276,
+    "end": 11.658,
+    "word": "pitpat",
+    "probability": 0.9446154152858097
+  },
+  {
+    "start": 11.658,
+    "end": 12.799,
+    "word": "waddlepat",
+    "probability": 0.9027172351517138
+  }
+]

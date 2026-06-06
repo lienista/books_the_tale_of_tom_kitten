@@ -1,0 +1,128 @@
+[
+  {
+    "start": 3.365,
+    "end": 3.586,
+    "word": "Mrs",
+    "probability": 0.8181814396531777
+  },
+  {
+    "start": 3.586,
+    "end": 4.006,
+    "word": "Tabitha",
+    "probability": 0.6500965779031502
+  },
+  {
+    "start": 4.006,
+    "end": 4.387,
+    "word": "tiszta",
+    "probability": 0.6151079547609583
+  },
+  {
+    "start": 4.387,
+    "end": 5.288,
+    "word": "kis",
+    "probability": 0.9333165603965139
+  },
+  {
+    "start": 5.288,
+    "end": 5.829,
+    "word": "ruhákba",
+    "probability": 0.6748530535462143
+  },
+  {
+    "start": 5.829,
+    "end": 6.07,
+    "word": "és",
+    "probability": 0.7488969019379837
+  },
+  {
+    "start": 6.07,
+    "end": 7.151,
+    "word": "csipkegallérokba",
+    "probability": 0.699871813458617
+  },
+  {
+    "start": 7.151,
+    "end": 7.852,
+    "word": "öltöztette",
+    "probability": 0.7079692064297693
+  },
+  {
+    "start": 7.852,
+    "end": 9.054,
+    "word": "Moppetet",
+    "probability": 0.8510048758921059
+  },
+  {
+    "start": 9.054,
+    "end": 9.114,
+    "word": "és",
+    "probability": 0.01
+  },
+  {
+    "start": 9.114,
+    "end": 9.635,
+    "word": "Mittenst",
+    "probability": 0.6906112711369309
+  },
+  {
+    "start": 9.635,
+    "end": 9.856,
+    "word": "Aztán",
+    "probability": 0.5432218665602092
+  },
+  {
+    "start": 9.856,
+    "end": 10.216,
+    "word": "elővett",
+    "probability": 0.5555188728631187
+  },
+  {
+    "start": 10.216,
+    "end": 10.637,
+    "word": "néhány",
+    "probability": 0.7141420346243931
+  },
+  {
+    "start": 10.637,
+    "end": 11.638,
+    "word": "merev",
+    "probability": 0.8979755036782202
+  },
+  {
+    "start": 11.638,
+    "end": 11.859,
+    "word": "díszes",
+    "probability": 0.4129284158529132
+  },
+  {
+    "start": 11.859,
+    "end": 12.32,
+    "word": "ruhát",
+    "probability": 0.7387786691475711
+  },
+  {
+    "start": 12.32,
+    "end": 12.8,
+    "word": "egy",
+    "probability": 0.873210039633802
+  },
+  {
+    "start": 12.8,
+    "end": 13.161,
+    "word": "régi",
+    "probability": 0.6899110362006046
+  },
+  {
+    "start": 13.161,
+    "end": 14.363,
+    "word": "fiókból",
+    "probability": 0.8619390632365945
+  },
+  {
+    "start": 14.363,
+    "end": 14.844,
+    "word": "Tomnak",
+    "probability": 0.7492882730703387
+  }
+]

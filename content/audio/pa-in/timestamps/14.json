@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.879,
+    "end": 1.353,
+    "word": "ਉਹ",
+    "probability": 0.99
+  },
+  {
+    "start": 1.353,
+    "end": 1.623,
+    "word": "ਰਕ",
+    "probability": 0.7479599062423806
+  },
+  {
+    "start": 1.623,
+    "end": 2.032,
+    "word": "ਗਈਆ",
+    "probability": 0.4959926162873891
+  },
+  {
+    "start": 2.032,
+    "end": 2.167,
+    "word": "ਅਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.167,
+    "end": 2.303,
+    "word": "ਇਕ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.303,
+    "end": 2.573,
+    "word": "ਕਤਰ",
+    "probability": 0.7458289248060965
+  },
+  {
+    "start": 2.573,
+    "end": 2.709,
+    "word": "ਵਚ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.709,
+    "end": 3.588,
+    "word": "ਖੜਹਆ",
+    "probability": 0.6923069133050472
+  },
+  {
+    "start": 3.588,
+    "end": 3.655,
+    "word": "ਹ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.655,
+    "end": 3.858,
+    "word": "ਗਈਆ",
+    "probability": 0.019737285712047855
+  },
+  {
+    "start": 3.858,
+    "end": 4.061,
+    "word": "ਵਡਆ",
+    "probability": 0.33187796679802395
+  },
+  {
+    "start": 4.061,
+    "end": 4.264,
+    "word": "ਹਰਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.264,
+    "end": 4.467,
+    "word": "ਭਰਆ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.467,
+    "end": 6.093,
+    "word": "ਅਖ",
+    "probability": 0.9583166070243596
+  },
+  {
+    "start": 6.093,
+    "end": 6.499,
+    "word": "ਨਲ",
+    "probability": 0.6661858468669393
+  },
+  {
+    "start": 6.499,
+    "end": 7.175,
+    "word": "ਬਲਆ",
+    "probability": 0.6951305114354233
+  },
+  {
+    "start": 7.175,
+    "end": 7.716,
+    "word": "ਦ",
+    "probability": 0.8749976344927388
+  },
+  {
+    "start": 7.716,
+    "end": 8.596,
+    "word": "ਬਚਆ",
+    "probability": 0.7692272003640159
+  },
+  {
+    "start": 8.596,
+    "end": 8.734,
+    "word": "ਵਲ",
+    "probability": 0.01
+  },
+  {
+    "start": 8.734,
+    "end": 9.005,
+    "word": "ਵਖਦਆ",
+    "probability": 0.2499875867163239
+  },
+  {
+    "start": 9.005,
+    "end": 9.14,
+    "word": "ਰਹਆ",
+    "probability": 0.01
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "start": 11.526,
+    "end": 11.666,
+    "word": "Dok",
+    "probability": 0.7139586731749169
+  },
+  {
+    "start": 11.666,
+    "end": 11.886,
+    "word": "su",
+    "probability": 0.7272586004556719
+  },
+  {
+    "start": 11.886,
+    "end": 11.946,
+    "word": "se",
+    "probability": 0.046204593510923285
+  },
+  {
+    "start": 11.946,
+    "end": 12.306,
+    "word": "borili",
+    "probability": 0.6110467671064757
+  },
+  {
+    "start": 12.306,
+    "end": 12.626,
+    "word": "čuli",
+    "probability": 0.6877100476568692
+  },
+  {
+    "start": 12.626,
+    "end": 12.707,
+    "word": "su",
+    "probability": 0.25026097270318437
+  },
+  {
+    "start": 12.707,
+    "end": 13.587,
+    "word": "pitpatpaddlepat",
+    "probability": 0.6335758941601707
+  },
+  {
+    "start": 13.587,
+    "end": 13.667,
+    "word": "Tri",
+    "probability": 0.01
+  },
+  {
+    "start": 13.667,
+    "end": 13.987,
+    "word": "PuddleDucks",
+    "probability": 0.25103203164598076
+  },
+  {
+    "start": 13.987,
+    "end": 14.387,
+    "word": "marširala",
+    "probability": 0.5135628421918337
+  },
+  {
+    "start": 14.387,
+    "end": 14.467,
+    "word": "su",
+    "probability": 0.2531790425352919
+  },
+  {
+    "start": 14.467,
+    "end": 14.728,
+    "word": "niz",
+    "probability": 0.692113909138068
+  },
+  {
+    "start": 14.728,
+    "end": 14.848,
+    "word": "cestu",
+    "probability": 0.01
+  },
+  {
+    "start": 14.848,
+    "end": 14.888,
+    "word": "u",
+    "probability": 0.011457018545878394
+  },
+  {
+    "start": 14.888,
+    "end": 15.108,
+    "word": "jednom",
+    "probability": 0.36369313256355623
+  },
+  {
+    "start": 15.108,
+    "end": 15.208,
+    "word": "redu",
+    "probability": 0.01
+  },
+  {
+    "start": 15.208,
+    "end": 15.368,
+    "word": "radeći",
+    "probability": 0.12532380495415524
+  },
+  {
+    "start": 15.368,
+    "end": 15.488,
+    "word": "svoj",
+    "probability": 0.16674853087262664
+  },
+  {
+    "start": 15.488,
+    "end": 15.728,
+    "word": "ritmički",
+    "probability": 0.24939875279574597
+  },
+  {
+    "start": 15.728,
+    "end": 16.008,
+    "word": "hodpitpatpaddlepat",
+    "probability": 0.01
+  },
+  {
+    "start": 16.008,
+    "end": 16.028,
+    "word": "pitpatwaddlepat",
+    "probability": 0.01
+  }
+]

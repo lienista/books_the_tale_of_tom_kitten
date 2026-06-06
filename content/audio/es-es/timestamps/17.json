@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "El",
+    "probability": 0.9675308326804464
+  },
+  {
+    "start": 0.16,
+    "end": 0.642,
+    "word": "señor",
+    "probability": 0.8467132609626603
+  },
+  {
+    "start": 0.642,
+    "end": 1.103,
+    "word": "Drake",
+    "probability": 0.9445776335805257
+  },
+  {
+    "start": 1.103,
+    "end": 1.985,
+    "word": "PuddleDuck",
+    "probability": 0.9369359625463312
+  },
+  {
+    "start": 1.985,
+    "end": 2.587,
+    "word": "se",
+    "probability": 0.9827701185682758
+  },
+  {
+    "start": 2.587,
+    "end": 3.128,
+    "word": "acercó",
+    "probability": 0.99
+  },
+  {
+    "start": 3.128,
+    "end": 4.191,
+    "word": "bamboleándose",
+    "probability": 0.99
+  },
+  {
+    "start": 4.191,
+    "end": 4.331,
+    "word": "de",
+    "probability": 0.9657965999072824
+  },
+  {
+    "start": 4.331,
+    "end": 4.692,
+    "word": "lado",
+    "probability": 0.9338523127850079
+  },
+  {
+    "start": 4.692,
+    "end": 5.293,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 5.293,
+    "end": 5.935,
+    "word": "recogió",
+    "probability": 0.99
+  },
+  {
+    "start": 5.935,
+    "end": 6.156,
+    "word": "los",
+    "probability": 0.9873976975998118
+  },
+  {
+    "start": 6.156,
+    "end": 6.797,
+    "word": "diversos",
+    "probability": 0.99
+  },
+  {
+    "start": 6.797,
+    "end": 7.499,
+    "word": "artículos",
+    "probability": 0.99
+  }
+]

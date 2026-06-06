@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.14,
+    "word": "Và",
+    "probability": 0.99
+  },
+  {
+    "start": 0.14,
+    "end": 0.341,
+    "word": "ông",
+    "probability": 0.99
+  },
+  {
+    "start": 0.341,
+    "end": 0.682,
+    "word": "Drake",
+    "probability": 0.7211405079780044
+  },
+  {
+    "start": 0.682,
+    "end": 1.345,
+    "word": "PuddleDuck",
+    "probability": 0.6365775451737753
+  },
+  {
+    "start": 1.345,
+    "end": 2.669,
+    "word": "Jemima",
+    "probability": 0.901167926250862
+  },
+  {
+    "start": 2.669,
+    "end": 2.89,
+    "word": "và",
+    "probability": 0.955074883117674
+  },
+  {
+    "start": 2.89,
+    "end": 3.672,
+    "word": "Rebeccah",
+    "probability": 0.8605745427211562
+  },
+  {
+    "start": 3.672,
+    "end": 3.893,
+    "word": "vẫn",
+    "probability": 0.9086933900377328
+  },
+  {
+    "start": 3.893,
+    "end": 4.174,
+    "word": "luôn",
+    "probability": 0.9474426871168421
+  },
+  {
+    "start": 4.174,
+    "end": 4.455,
+    "word": "tìm",
+    "probability": 0.99
+  },
+  {
+    "start": 4.455,
+    "end": 4.716,
+    "word": "kiếm",
+    "probability": 0.9640891933336114
+  },
+  {
+    "start": 4.716,
+    "end": 4.977,
+    "word": "chúng",
+    "probability": 0.92353533264469
+  },
+  {
+    "start": 4.977,
+    "end": 5.258,
+    "word": "kể",
+    "probability": 0.99
+  },
+  {
+    "start": 5.258,
+    "end": 5.479,
+    "word": "từ",
+    "probability": 0.99
+  },
+  {
+    "start": 5.479,
+    "end": 5.559,
+    "word": "đó",
+    "probability": 0.9781964747720024
+  }
+]

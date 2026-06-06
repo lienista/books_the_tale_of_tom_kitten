@@ -1,0 +1,272 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.14,
+    "word": "Gdy",
+    "probability": 0.9198646723647107
+  },
+  {
+    "start": 0.14,
+    "end": 0.4,
+    "word": "trzy",
+    "probability": 0.9847541506669745
+  },
+  {
+    "start": 0.4,
+    "end": 0.78,
+    "word": "kotki",
+    "probability": 0.99
+  },
+  {
+    "start": 0.78,
+    "end": 1.061,
+    "word": "były",
+    "probability": 0.9356199537931358
+  },
+  {
+    "start": 1.061,
+    "end": 1.541,
+    "word": "gotowe",
+    "probability": 0.99
+  },
+  {
+    "start": 1.541,
+    "end": 2.121,
+    "word": "pani",
+    "probability": 0.99
+  },
+  {
+    "start": 2.121,
+    "end": 2.742,
+    "word": "Tabitha",
+    "probability": 0.9626666413734782
+  },
+  {
+    "start": 2.742,
+    "end": 3.402,
+    "word": "popełniła",
+    "probability": 0.99
+  },
+  {
+    "start": 3.402,
+    "end": 3.982,
+    "word": "błąd",
+    "probability": 0.982557460617516
+  },
+  {
+    "start": 3.982,
+    "end": 4.122,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 4.122,
+    "end": 4.643,
+    "word": "wysłała",
+    "probability": 0.9823346870887794
+  },
+  {
+    "start": 4.643,
+    "end": 4.763,
+    "word": "je",
+    "probability": 0.9267058998220898
+  },
+  {
+    "start": 4.763,
+    "end": 4.923,
+    "word": "do",
+    "probability": 0.99
+  },
+  {
+    "start": 4.923,
+    "end": 5.503,
+    "word": "ogrodu",
+    "probability": 0.99
+  },
+  {
+    "start": 5.503,
+    "end": 6.424,
+    "word": "podczas",
+    "probability": 0.99
+  },
+  {
+    "start": 6.424,
+    "end": 6.684,
+    "word": "gdy",
+    "probability": 0.9533057623218367
+  },
+  {
+    "start": 6.684,
+    "end": 7.184,
+    "word": "robiła",
+    "probability": 0.9877896907964134
+  },
+  {
+    "start": 7.184,
+    "end": 7.965,
+    "word": "gorące",
+    "probability": 0.99
+  },
+  {
+    "start": 7.965,
+    "end": 8.485,
+    "word": "tosty",
+    "probability": 0.99
+  },
+  {
+    "start": 8.485,
+    "end": 8.605,
+    "word": "z",
+    "probability": 0.9356139131116677
+  },
+  {
+    "start": 8.605,
+    "end": 9.206,
+    "word": "masłem",
+    "probability": 0.9802462870502404
+  },
+  {
+    "start": 9.206,
+    "end": 10.706,
+    "word": "Teraz",
+    "probability": 0.99
+  },
+  {
+    "start": 10.706,
+    "end": 11.547,
+    "word": "utrzymujcie",
+    "probability": 0.9888707509608332
+  },
+  {
+    "start": 11.547,
+    "end": 11.927,
+    "word": "swoje",
+    "probability": 0.99
+  },
+  {
+    "start": 11.927,
+    "end": 12.447,
+    "word": "ubrania",
+    "probability": 0.9877035707100428
+  },
+  {
+    "start": 12.447,
+    "end": 12.527,
+    "word": "w",
+    "probability": 0.99
+  },
+  {
+    "start": 12.527,
+    "end": 13.168,
+    "word": "czystości",
+    "probability": 0.9769308944825437
+  },
+  {
+    "start": 13.168,
+    "end": 13.828,
+    "word": "dzieci",
+    "probability": 0.9757859855153077
+  },
+  {
+    "start": 13.828,
+    "end": 15.149,
+    "word": "Chodźcie",
+    "probability": 0.9824870245101793
+  },
+  {
+    "start": 15.149,
+    "end": 15.289,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 15.289,
+    "end": 15.749,
+    "word": "tylnych",
+    "probability": 0.99
+  },
+  {
+    "start": 15.749,
+    "end": 16.41,
+    "word": "łapach",
+    "probability": 0.99
+  },
+  {
+    "start": 16.41,
+    "end": 17.591,
+    "word": "Trzymajcie",
+    "probability": 0.9871433621817851
+  },
+  {
+    "start": 17.591,
+    "end": 17.791,
+    "word": "się",
+    "probability": 0.9842331359512383
+  },
+  {
+    "start": 17.791,
+    "end": 17.911,
+    "word": "z",
+    "probability": 0.99
+  },
+  {
+    "start": 17.911,
+    "end": 18.231,
+    "word": "dala",
+    "probability": 0.9373108099789955
+  },
+  {
+    "start": 18.231,
+    "end": 18.431,
+    "word": "od",
+    "probability": 0.9837056411868492
+  },
+  {
+    "start": 18.431,
+    "end": 19.111,
+    "word": "błotnistego",
+    "probability": 0.9896131107167145
+  },
+  {
+    "start": 19.111,
+    "end": 19.792,
+    "word": "popiołu",
+    "probability": 0.99
+  },
+  {
+    "start": 19.792,
+    "end": 20.392,
+    "word": "Sally",
+    "probability": 0.9658173956875346
+  },
+  {
+    "start": 20.392,
+    "end": 21.253,
+    "word": "HennyPenny",
+    "probability": 0.8008918336310111
+  },
+  {
+    "start": 21.253,
+    "end": 22.133,
+    "word": "chlewika",
+    "probability": 0.99
+  },
+  {
+    "start": 22.133,
+    "end": 22.574,
+    "word": "i",
+    "probability": 0.9608956070274796
+  },
+  {
+    "start": 22.574,
+    "end": 22.814,
+    "word": "tych",
+    "probability": 0.99
+  },
+  {
+    "start": 22.814,
+    "end": 23.754,
+    "word": "PuddleDucks",
+    "probability": 0.8557657402759037
+  }
+]

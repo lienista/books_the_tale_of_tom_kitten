@@ -1,0 +1,236 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.48,
+    "word": "Moppet",
+    "probability": 0.7541305515803948
+  },
+  {
+    "start": 0.48,
+    "end": 0.56,
+    "word": "e",
+    "probability": 0.5175036364189398
+  },
+  {
+    "start": 0.56,
+    "end": 1.061,
+    "word": "Mittens",
+    "probability": 0.818968919848281
+  },
+  {
+    "start": 1.061,
+    "end": 1.901,
+    "word": "barcollarono",
+    "probability": 0.9636735109050045
+  },
+  {
+    "start": 1.901,
+    "end": 2.261,
+    "word": "lungo",
+    "probability": 0.983669898052977
+  },
+  {
+    "start": 2.261,
+    "end": 2.381,
+    "word": "il",
+    "probability": 0.9894400370859845
+  },
+  {
+    "start": 2.381,
+    "end": 2.902,
+    "word": "sentiero",
+    "probability": 0.99
+  },
+  {
+    "start": 2.902,
+    "end": 3.122,
+    "word": "del",
+    "probability": 0.9878547171337579
+  },
+  {
+    "start": 3.122,
+    "end": 3.722,
+    "word": "giardino",
+    "probability": 0.99
+  },
+  {
+    "start": 3.722,
+    "end": 4.522,
+    "word": "Presto",
+    "probability": 0.9895631100761939
+  },
+  {
+    "start": 4.522,
+    "end": 5.143,
+    "word": "inciampano",
+    "probability": 0.9834793614045815
+  },
+  {
+    "start": 5.143,
+    "end": 5.343,
+    "word": "nei",
+    "probability": 0.9602021978371902
+  },
+  {
+    "start": 5.343,
+    "end": 5.563,
+    "word": "loro",
+    "probability": 0.9891278441030977
+  },
+  {
+    "start": 5.563,
+    "end": 6.083,
+    "word": "vestiti",
+    "probability": 0.99
+  },
+  {
+    "start": 6.083,
+    "end": 6.143,
+    "word": "e",
+    "probability": 0.9886776282230065
+  },
+  {
+    "start": 6.143,
+    "end": 6.624,
+    "word": "caddero",
+    "probability": 0.99
+  },
+  {
+    "start": 6.624,
+    "end": 6.704,
+    "word": "a",
+    "probability": 0.986785657345747
+  },
+  {
+    "start": 6.704,
+    "end": 7.124,
+    "word": "faccia",
+    "probability": 0.99
+  },
+  {
+    "start": 7.124,
+    "end": 7.264,
+    "word": "in",
+    "probability": 0.9651814854536056
+  },
+  {
+    "start": 7.264,
+    "end": 7.444,
+    "word": "giù",
+    "probability": 0.9877524168593652
+  },
+  {
+    "start": 7.444,
+    "end": 8.124,
+    "word": "Quando",
+    "probability": 0.9698944035038174
+  },
+  {
+    "start": 8.124,
+    "end": 8.284,
+    "word": "si",
+    "probability": 0.9857914539645091
+  },
+  {
+    "start": 8.284,
+    "end": 8.925,
+    "word": "alzarono",
+    "probability": 0.9865865807939427
+  },
+  {
+    "start": 8.925,
+    "end": 9.585,
+    "word": "erano",
+    "probability": 0.99
+  },
+  {
+    "start": 9.585,
+    "end": 10.105,
+    "word": "coperti",
+    "probability": 0.9871151985908787
+  },
+  {
+    "start": 10.105,
+    "end": 10.286,
+    "word": "di",
+    "probability": 0.9724998921921821
+  },
+  {
+    "start": 10.286,
+    "end": 10.706,
+    "word": "macchie",
+    "probability": 0.9781002205713933
+  },
+  {
+    "start": 10.706,
+    "end": 11.226,
+    "word": "derba",
+    "probability": 0.9502503352636495
+  },
+  {
+    "start": 11.226,
+    "end": 12.307,
+    "word": "Saliamo",
+    "probability": 0.9899480748756971
+  },
+  {
+    "start": 12.307,
+    "end": 12.627,
+    "word": "sulle",
+    "probability": 0.9425147735319321
+  },
+  {
+    "start": 12.627,
+    "end": 12.947,
+    "word": "rocce",
+    "probability": 0.9854745239435018
+  },
+  {
+    "start": 12.947,
+    "end": 13.167,
+    "word": "e",
+    "probability": 0.8560568985253961
+  },
+  {
+    "start": 13.167,
+    "end": 14.128,
+    "word": "sediamoci",
+    "probability": 0.9546812575786499
+  },
+  {
+    "start": 14.128,
+    "end": 14.328,
+    "word": "sul",
+    "probability": 0.9438479378723267
+  },
+  {
+    "start": 14.328,
+    "end": 14.588,
+    "word": "muro",
+    "probability": 0.9865841750232491
+  },
+  {
+    "start": 14.588,
+    "end": 14.768,
+    "word": "del",
+    "probability": 0.9857459171032406
+  },
+  {
+    "start": 14.768,
+    "end": 15.348,
+    "word": "giardino",
+    "probability": 0.9843786918563279
+  },
+  {
+    "start": 15.348,
+    "end": 16.089,
+    "word": "suggerì",
+    "probability": 0.99
+  },
+  {
+    "start": 16.089,
+    "end": 16.569,
+    "word": "Moppet",
+    "probability": 0.9188403789549784
+  }
+]

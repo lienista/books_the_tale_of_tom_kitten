@@ -1,0 +1,242 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.14,
+    "word": "In",
+    "probability": 0.827192060101691
+  },
+  {
+    "start": 0.14,
+    "end": 0.5,
+    "word": "plaats",
+    "probability": 0.8601446497432534
+  },
+  {
+    "start": 0.5,
+    "end": 1.061,
+    "word": "daarvan",
+    "probability": 0.9745493686517573
+  },
+  {
+    "start": 1.061,
+    "end": 1.621,
+    "word": "kwamen",
+    "probability": 0.9810200282244503
+  },
+  {
+    "start": 1.621,
+    "end": 1.762,
+    "word": "er",
+    "probability": 0.9770282727469924
+  },
+  {
+    "start": 1.762,
+    "end": 2.382,
+    "word": "hele",
+    "probability": 0.9737925363614841
+  },
+  {
+    "start": 2.382,
+    "end": 2.943,
+    "word": "vreemde",
+    "probability": 0.9793103795714639
+  },
+  {
+    "start": 2.943,
+    "end": 3.563,
+    "word": "geluiden",
+    "probability": 0.9762123765161036
+  },
+  {
+    "start": 3.563,
+    "end": 3.743,
+    "word": "van",
+    "probability": 0.9841391248747036
+  },
+  {
+    "start": 3.743,
+    "end": 4.224,
+    "word": "boven",
+    "probability": 0.9491599356296835
+  },
+  {
+    "start": 4.224,
+    "end": 5.084,
+    "word": "die",
+    "probability": 0.9750075360172805
+  },
+  {
+    "start": 5.084,
+    "end": 5.224,
+    "word": "de",
+    "probability": 0.9553877537759076
+  },
+  {
+    "start": 5.224,
+    "end": 5.805,
+    "word": "rustige",
+    "probability": 0.9711675728737668
+  },
+  {
+    "start": 5.805,
+    "end": 6.185,
+    "word": "sfeer",
+    "probability": 0.9784831407954272
+  },
+  {
+    "start": 6.185,
+    "end": 6.386,
+    "word": "van",
+    "probability": 0.9667058076351431
+  },
+  {
+    "start": 6.386,
+    "end": 6.546,
+    "word": "het",
+    "probability": 0.8857078364892829
+  },
+  {
+    "start": 6.546,
+    "end": 7.306,
+    "word": "theekransje",
+    "probability": 0.9611797179944295
+  },
+  {
+    "start": 7.306,
+    "end": 7.987,
+    "word": "verstoorden",
+    "probability": 0.9749551205874546
+  },
+  {
+    "start": 7.987,
+    "end": 9.308,
+    "word": "En",
+    "probability": 0.9754797330445893
+  },
+  {
+    "start": 9.308,
+    "end": 9.468,
+    "word": "ik",
+    "probability": 0.9669983104881894
+  },
+  {
+    "start": 9.468,
+    "end": 9.848,
+    "word": "denk",
+    "probability": 0.9808949274095177
+  },
+  {
+    "start": 9.848,
+    "end": 10.569,
+    "word": "dat",
+    "probability": 0.99
+  },
+  {
+    "start": 10.569,
+    "end": 10.729,
+    "word": "ik",
+    "probability": 0.9391086051997919
+  },
+  {
+    "start": 10.729,
+    "end": 10.889,
+    "word": "op",
+    "probability": 0.9425567792861554
+  },
+  {
+    "start": 10.889,
+    "end": 11.07,
+    "word": "een",
+    "probability": 0.9615322327816366
+  },
+  {
+    "start": 11.07,
+    "end": 11.47,
+    "word": "dag",
+    "probability": 0.9883592433546615
+  },
+  {
+    "start": 11.47,
+    "end": 11.81,
+    "word": "een",
+    "probability": 0.9776954910521335
+  },
+  {
+    "start": 11.81,
+    "end": 12.291,
+    "word": "langer",
+    "probability": 0.9561074665498303
+  },
+  {
+    "start": 12.291,
+    "end": 12.611,
+    "word": "boek",
+    "probability": 0.9543676919325005
+  },
+  {
+    "start": 12.611,
+    "end": 12.811,
+    "word": "zal",
+    "probability": 0.9761247616831839
+  },
+  {
+    "start": 12.811,
+    "end": 13.151,
+    "word": "moeten",
+    "probability": 0.9585204177752132
+  },
+  {
+    "start": 13.151,
+    "end": 13.712,
+    "word": "schrijven",
+    "probability": 0.9677119247383255
+  },
+  {
+    "start": 13.712,
+    "end": 14.452,
+    "word": "om",
+    "probability": 0.9894627091109964
+  },
+  {
+    "start": 14.452,
+    "end": 14.613,
+    "word": "je",
+    "probability": 0.9244861776164528
+  },
+  {
+    "start": 14.613,
+    "end": 14.973,
+    "word": "meer",
+    "probability": 0.9834475216968832
+  },
+  {
+    "start": 14.973,
+    "end": 15.153,
+    "word": "te",
+    "probability": 0.9347471195344362
+  },
+  {
+    "start": 15.153,
+    "end": 15.714,
+    "word": "vertellen",
+    "probability": 0.9884595838150032
+  },
+  {
+    "start": 15.714,
+    "end": 16.114,
+    "word": "over",
+    "probability": 0.9669439806409613
+  },
+  {
+    "start": 16.114,
+    "end": 16.434,
+    "word": "Tom",
+    "probability": 0.9651970460843079
+  },
+  {
+    "start": 16.434,
+    "end": 16.875,
+    "word": "Kitten",
+    "probability": 0.9133025040528658
+  }
+]

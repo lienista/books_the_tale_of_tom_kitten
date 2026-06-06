@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.26,
+    "word": "Quant",
+    "probability": 0.5933146383645035
+  },
+  {
+    "start": 0.26,
+    "end": 0.441,
+    "word": "aux",
+    "probability": 0.5648982853673026
+  },
+  {
+    "start": 0.441,
+    "end": 2.343,
+    "word": "PuddleDucksils",
+    "probability": 0.8607182980656055
+  },
+  {
+    "start": 2.343,
+    "end": 2.804,
+    "word": "allèrent",
+    "probability": 0.9804542001238244
+  },
+  {
+    "start": 2.804,
+    "end": 2.984,
+    "word": "dans",
+    "probability": 0.99
+  },
+  {
+    "start": 2.984,
+    "end": 3.124,
+    "word": "un",
+    "probability": 0.9644950396161853
+  },
+  {
+    "start": 3.124,
+    "end": 3.625,
+    "word": "étang",
+    "probability": 0.9037680216610018
+  },
+  {
+    "start": 3.625,
+    "end": 4.767,
+    "word": "Les",
+    "probability": 0.9682296495282542
+  },
+  {
+    "start": 4.767,
+    "end": 5.307,
+    "word": "vêtements",
+    "probability": 0.981974543747696
+  },
+  {
+    "start": 5.307,
+    "end": 6.028,
+    "word": "tombèrent",
+    "probability": 0.9811764414381291
+  },
+  {
+    "start": 6.028,
+    "end": 6.729,
+    "word": "car",
+    "probability": 0.9840280329627433
+  },
+  {
+    "start": 6.729,
+    "end": 6.91,
+    "word": "il",
+    "probability": 0.99
+  },
+  {
+    "start": 6.91,
+    "end": 7.03,
+    "word": "ny",
+    "probability": 0.7931142191646349
+  },
+  {
+    "start": 7.03,
+    "end": 7.29,
+    "word": "avait",
+    "probability": 0.9712697656203387
+  },
+  {
+    "start": 7.29,
+    "end": 7.51,
+    "word": "plus",
+    "probability": 0.99
+  },
+  {
+    "start": 7.51,
+    "end": 7.631,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 7.631,
+    "end": 8.111,
+    "word": "boutons",
+    "probability": 0.99
+  },
+  {
+    "start": 8.111,
+    "end": 8.552,
+    "word": "pour",
+    "probability": 0.9616989809181418
+  },
+  {
+    "start": 8.552,
+    "end": 8.772,
+    "word": "les",
+    "probability": 0.9836209390085809
+  },
+  {
+    "start": 8.772,
+    "end": 9.333,
+    "word": "maintenir",
+    "probability": 0.99
+  },
+  {
+    "start": 9.333,
+    "end": 10.114,
+    "word": "ensemble",
+    "probability": 0.99
+  }
+]

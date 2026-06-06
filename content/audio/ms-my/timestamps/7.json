@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.26,
+    "word": "Tom",
+    "probability": 0.9558401432675707
+  },
+  {
+    "start": 0.26,
+    "end": 0.801,
+    "word": "Kitten",
+    "probability": 0.9243310903873931
+  },
+  {
+    "start": 0.801,
+    "end": 1.262,
+    "word": "agak",
+    "probability": 0.9739989602802318
+  },
+  {
+    "start": 1.262,
+    "end": 1.823,
+    "word": "gempal",
+    "probability": 0.99
+  },
+  {
+    "start": 1.823,
+    "end": 2.143,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 2.143,
+    "end": 2.564,
+    "word": "telah",
+    "probability": 0.9887475630623876
+  },
+  {
+    "start": 2.564,
+    "end": 3.245,
+    "word": "membesar",
+    "probability": 0.9819768502969837
+  },
+  {
+    "start": 3.245,
+    "end": 4.888,
+    "word": "beberapa",
+    "probability": 0.99
+  },
+  {
+    "start": 4.888,
+    "end": 5.368,
+    "word": "butang",
+    "probability": 0.9827703422685182
+  },
+  {
+    "start": 5.368,
+    "end": 6.049,
+    "word": "tercabut",
+    "probability": 0.99
+  },
+  {
+    "start": 6.049,
+    "end": 6.971,
+    "word": "sertamerta",
+    "probability": 0.9682743113104718
+  },
+  {
+    "start": 6.971,
+    "end": 8.493,
+    "word": "Ibunya",
+    "probability": 0.99
+  },
+  {
+    "start": 8.493,
+    "end": 9.134,
+    "word": "mengeluh",
+    "probability": 0.9870166895065212
+  },
+  {
+    "start": 9.134,
+    "end": 9.415,
+    "word": "dan",
+    "probability": 0.9782938830444419
+  },
+  {
+    "start": 9.415,
+    "end": 10.256,
+    "word": "menjahitnya",
+    "probability": 0.9823514739878992
+  },
+  {
+    "start": 10.256,
+    "end": 10.717,
+    "word": "semula",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.201,
+    "word": "Mai",
+    "probability": 0.9872334850568166
+  },
+  {
+    "start": 0.201,
+    "end": 0.502,
+    "word": "întâi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.502,
+    "end": 0.723,
+    "word": "lea",
+    "probability": 0.8038436088063389
+  },
+  {
+    "start": 0.723,
+    "end": 1.145,
+    "word": "frecat",
+    "probability": 0.9530352685176704
+  },
+  {
+    "start": 1.145,
+    "end": 1.607,
+    "word": "fețele",
+    "probability": 0.99
+  },
+  {
+    "start": 1.607,
+    "end": 2.33,
+    "word": "aceasta",
+    "probability": 0.9899459529804897
+  },
+  {
+    "start": 2.33,
+    "end": 2.592,
+    "word": "este",
+    "probability": 0.9300861485335439
+  },
+  {
+    "start": 2.592,
+    "end": 2.953,
+    "word": "Moppet",
+    "probability": 0.912194132335429
+  }
+]

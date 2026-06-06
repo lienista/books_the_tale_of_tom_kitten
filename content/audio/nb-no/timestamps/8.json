@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0.049,
+    "end": 0.124,
+    "word": "Da",
+    "probability": 0.99
+  },
+  {
+    "start": 0.124,
+    "end": 0.42,
+    "word": "de",
+    "probability": 0.8084665504593315
+  },
+  {
+    "start": 0.42,
+    "end": 0.667,
+    "word": "tre",
+    "probability": 0.99
+  },
+  {
+    "start": 0.667,
+    "end": 1.459,
+    "word": "kattungene",
+    "probability": 0.8990958954741801
+  },
+  {
+    "start": 1.459,
+    "end": 1.607,
+    "word": "var",
+    "probability": 0.8625868548107165
+  },
+  {
+    "start": 1.607,
+    "end": 2.126,
+    "word": "klare",
+    "probability": 0.9378945156401313
+  },
+  {
+    "start": 2.126,
+    "end": 2.622,
+    "word": "gjorde",
+    "probability": 0.9440858665156895
+  },
+  {
+    "start": 2.622,
+    "end": 2.894,
+    "word": "fru",
+    "probability": 0.6626585351909562
+  },
+  {
+    "start": 2.894,
+    "end": 3.536,
+    "word": "Tabitha",
+    "probability": 0.7552067237268699
+  },
+  {
+    "start": 3.536,
+    "end": 3.808,
+    "word": "en",
+    "probability": 0.8095979972045505
+  },
+  {
+    "start": 3.808,
+    "end": 4.353,
+    "word": "feil",
+    "probability": 0.9555207960252762
+  },
+  {
+    "start": 4.353,
+    "end": 4.649,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 4.649,
+    "end": 5.292,
+    "word": "sendte",
+    "probability": 0.9037524276117366
+  },
+  {
+    "start": 5.292,
+    "end": 5.539,
+    "word": "dem",
+    "probability": 0.8836224449486759
+  },
+  {
+    "start": 5.539,
+    "end": 5.786,
+    "word": "ut",
+    "probability": 0.7979260535250986
+  },
+  {
+    "start": 5.786,
+    "end": 5.936,
+    "word": "i",
+    "probability": 0.7970979496114595
+  },
+  {
+    "start": 5.936,
+    "end": 6.356,
+    "word": "hagen",
+    "probability": 0.8628340981428619
+  },
+  {
+    "start": 6.356,
+    "end": 6.949,
+    "word": "mens",
+    "probability": 0.9711243131139659
+  },
+  {
+    "start": 6.949,
+    "end": 7.122,
+    "word": "hun",
+    "probability": 0.9497732293147045
+  },
+  {
+    "start": 7.122,
+    "end": 7.568,
+    "word": "laget",
+    "probability": 0.8236002817766498
+  },
+  {
+    "start": 7.568,
+    "end": 7.988,
+    "word": "varm",
+    "probability": 0.930563089097386
+  },
+  {
+    "start": 7.988,
+    "end": 8.927,
+    "word": "smørbrød",
+    "probability": 0.9109695497807181
+  },
+  {
+    "start": 8.927,
+    "end": 9.373,
+    "word": "Nå",
+    "probability": 0.99
+  },
+  {
+    "start": 9.373,
+    "end": 9.546,
+    "word": "må",
+    "probability": 0.9826272870779837
+  },
+  {
+    "start": 9.546,
+    "end": 9.842,
+    "word": "dere",
+    "probability": 0.9366725180145775
+  },
+  {
+    "start": 9.842,
+    "end": 10.114,
+    "word": "holde",
+    "probability": 0.9791658014682246
+  },
+  {
+    "start": 10.114,
+    "end": 10.584,
+    "word": "klærne",
+    "probability": 0.9651200780941304
+  },
+  {
+    "start": 10.584,
+    "end": 11.055,
+    "word": "rene",
+    "probability": 0.9235194209433131
+  },
+  {
+    "start": 11.055,
+    "end": 11.45,
+    "word": "barn",
+    "probability": 0.863708829885309
+  },
+  {
+    "start": 11.45,
+    "end": 11.672,
+    "word": "Gå",
+    "probability": 0.9807951238165256
+  },
+  {
+    "start": 11.672,
+    "end": 11.87,
+    "word": "på",
+    "probability": 0.9451400183729967
+  },
+  {
+    "start": 11.87,
+    "end": 12.662,
+    "word": "bakbeina",
+    "probability": 0.9680054246572042
+  },
+  {
+    "start": 12.662,
+    "end": 13.181,
+    "word": "Hold",
+    "probability": 0.8870517768571918
+  },
+  {
+    "start": 13.181,
+    "end": 13.527,
+    "word": "dere",
+    "probability": 0.6798273656519745
+  },
+  {
+    "start": 13.527,
+    "end": 13.873,
+    "word": "unna",
+    "probability": 0.8244011053820914
+  },
+  {
+    "start": 13.873,
+    "end": 14.095,
+    "word": "den",
+    "probability": 0.6971799976529631
+  },
+  {
+    "start": 14.095,
+    "end": 14.937,
+    "word": "gjørmete",
+    "probability": 0.8483229653125698
+  },
+  {
+    "start": 14.937,
+    "end": 15.926,
+    "word": "askegropen",
+    "probability": 0.8989508688954473
+  },
+  {
+    "start": 15.926,
+    "end": 16.692,
+    "word": "Sally",
+    "probability": 0.8932653340478843
+  },
+  {
+    "start": 16.692,
+    "end": 17.559,
+    "word": "HennyPenny",
+    "probability": 0.8579238181307579
+  },
+  {
+    "start": 17.559,
+    "end": 18.646,
+    "word": "grisebingen",
+    "probability": 0.9108874453069046
+  },
+  {
+    "start": 18.646,
+    "end": 18.942,
+    "word": "og",
+    "probability": 0.9264458298690497
+  },
+  {
+    "start": 18.942,
+    "end": 19.091,
+    "word": "de",
+    "probability": 0.8081559343309913
+  },
+  {
+    "start": 19.091,
+    "end": 20.105,
+    "word": "PuddleDucks",
+    "probability": 0.8399756915570714
+  }
+]

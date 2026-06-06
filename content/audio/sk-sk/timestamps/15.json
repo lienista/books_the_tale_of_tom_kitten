@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.401,
+    "word": "Potom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.401,
+    "end": 0.721,
+    "word": "dve",
+    "probability": 0.9824609907609023
+  },
+  {
+    "start": 0.721,
+    "end": 1.362,
+    "word": "kačky",
+    "probability": 0.9588365244242287
+  },
+  {
+    "start": 1.362,
+    "end": 2.885,
+    "word": "Rebeccah",
+    "probability": 0.9612603265996315
+  },
+  {
+    "start": 2.885,
+    "end": 3.626,
+    "word": "a",
+    "probability": 0.9729711764342123
+  },
+  {
+    "start": 3.626,
+    "end": 4.547,
+    "word": "Jemima",
+    "probability": 0.9210663974294222
+  },
+  {
+    "start": 4.547,
+    "end": 5.489,
+    "word": "PuddleDuck",
+    "probability": 0.8795579963702365
+  },
+  {
+    "start": 5.489,
+    "end": 6.691,
+    "word": "zdvihli",
+    "probability": 0.9530571771451036
+  },
+  {
+    "start": 6.691,
+    "end": 7.532,
+    "word": "klobúk",
+    "probability": 0.9475123403283154
+  },
+  {
+    "start": 7.532,
+    "end": 7.732,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 7.732,
+    "end": 8.553,
+    "word": "čipkovaný",
+    "probability": 0.99
+  },
+  {
+    "start": 8.553,
+    "end": 9.154,
+    "word": "golier",
+    "probability": 0.99
+  },
+  {
+    "start": 9.154,
+    "end": 9.936,
+    "word": "a",
+    "probability": 0.9687907558250191
+  },
+  {
+    "start": 9.936,
+    "end": 10.677,
+    "word": "nasadili",
+    "probability": 0.9729616718772366
+  },
+  {
+    "start": 10.677,
+    "end": 10.957,
+    "word": "si",
+    "probability": 0.9440964887212727
+  },
+  {
+    "start": 10.957,
+    "end": 11.779,
+    "word": "ich",
+    "probability": 0.9697685690364108
+  }
+]

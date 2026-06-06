@@ -1,0 +1,230 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.46,
+    "word": "Moppet",
+    "probability": 0.8472569728605135
+  },
+  {
+    "start": 0.46,
+    "end": 0.881,
+    "word": "og",
+    "probability": 0.9664035075302861
+  },
+  {
+    "start": 0.881,
+    "end": 1.421,
+    "word": "Mittens",
+    "probability": 0.9416096825228003
+  },
+  {
+    "start": 1.421,
+    "end": 2.162,
+    "word": "vaklede",
+    "probability": 0.9678145696401225
+  },
+  {
+    "start": 2.162,
+    "end": 2.422,
+    "word": "ned",
+    "probability": 0.971876574520671
+  },
+  {
+    "start": 2.422,
+    "end": 2.662,
+    "word": "ad",
+    "probability": 0.9579319057968939
+  },
+  {
+    "start": 2.662,
+    "end": 3.342,
+    "word": "havegangen",
+    "probability": 0.9553743743280381
+  },
+  {
+    "start": 3.342,
+    "end": 5.044,
+    "word": "Snart",
+    "probability": 0.9894822474516803
+  },
+  {
+    "start": 5.044,
+    "end": 5.924,
+    "word": "snublede",
+    "probability": 0.9862989889841053
+  },
+  {
+    "start": 5.924,
+    "end": 6.125,
+    "word": "de",
+    "probability": 0.9634183611380976
+  },
+  {
+    "start": 6.125,
+    "end": 6.385,
+    "word": "over",
+    "probability": 0.9813446396396398
+  },
+  {
+    "start": 6.385,
+    "end": 6.685,
+    "word": "deres",
+    "probability": 0.9720506881614213
+  },
+  {
+    "start": 6.685,
+    "end": 7.165,
+    "word": "kjoler",
+    "probability": 0.9578541750345195
+  },
+  {
+    "start": 7.165,
+    "end": 7.406,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 7.406,
+    "end": 7.726,
+    "word": "faldt",
+    "probability": 0.952341621877514
+  },
+  {
+    "start": 7.726,
+    "end": 7.906,
+    "word": "på",
+    "probability": 0.9560687836718057
+  },
+  {
+    "start": 7.906,
+    "end": 8.186,
+    "word": "deres",
+    "probability": 0.972285546868423
+  },
+  {
+    "start": 8.186,
+    "end": 8.867,
+    "word": "ansigter",
+    "probability": 0.9885974440179527
+  },
+  {
+    "start": 8.867,
+    "end": 10.628,
+    "word": "Da",
+    "probability": 0.99
+  },
+  {
+    "start": 10.628,
+    "end": 10.828,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 10.828,
+    "end": 11.328,
+    "word": "rejste",
+    "probability": 0.9776654790039175
+  },
+  {
+    "start": 11.328,
+    "end": 11.589,
+    "word": "sig",
+    "probability": 0.9380810832389547
+  },
+  {
+    "start": 11.589,
+    "end": 12.229,
+    "word": "var",
+    "probability": 0.99
+  },
+  {
+    "start": 12.229,
+    "end": 12.409,
+    "word": "de",
+    "probability": 0.9738044533166179
+  },
+  {
+    "start": 12.409,
+    "end": 12.85,
+    "word": "dækket",
+    "probability": 0.9858984031257981
+  },
+  {
+    "start": 12.85,
+    "end": 13.15,
+    "word": "af",
+    "probability": 0.9696976497819869
+  },
+  {
+    "start": 13.15,
+    "end": 13.95,
+    "word": "græspletter",
+    "probability": 0.99
+  },
+  {
+    "start": 13.95,
+    "end": 15.952,
+    "word": "Lad",
+    "probability": 0.99
+  },
+  {
+    "start": 15.952,
+    "end": 16.132,
+    "word": "os",
+    "probability": 0.9321744516529683
+  },
+  {
+    "start": 16.132,
+    "end": 16.672,
+    "word": "klatre",
+    "probability": 0.9648363968632218
+  },
+  {
+    "start": 16.672,
+    "end": 16.893,
+    "word": "på",
+    "probability": 0.9526574455316376
+  },
+  {
+    "start": 16.893,
+    "end": 17.373,
+    "word": "klipperne",
+    "probability": 0.9646479982294308
+  },
+  {
+    "start": 17.373,
+    "end": 17.813,
+    "word": "og",
+    "probability": 0.9684699515887636
+  },
+  {
+    "start": 17.813,
+    "end": 18.154,
+    "word": "sidde",
+    "probability": 0.981481711663642
+  },
+  {
+    "start": 18.154,
+    "end": 18.354,
+    "word": "på",
+    "probability": 0.922977549810087
+  },
+  {
+    "start": 18.354,
+    "end": 19.054,
+    "word": "havemuren",
+    "probability": 0.9632558295266134
+  },
+  {
+    "start": 19.054,
+    "end": 20.355,
+    "word": "foreslog",
+    "probability": 0.9813482212395751
+  },
+  {
+    "start": 20.355,
+    "end": 20.796,
+    "word": "Moppet",
+    "probability": 0.8815810692080135
+  }
+]

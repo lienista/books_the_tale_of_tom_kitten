@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.542,
+    "word": "Dabord",
+    "probability": 0.9171961098442392
+  },
+  {
+    "start": 0.542,
+    "end": 0.904,
+    "word": "elle",
+    "probability": 0.9800651788216954
+  },
+  {
+    "start": 0.904,
+    "end": 1.085,
+    "word": "leur",
+    "probability": 0.9627141419750063
+  },
+  {
+    "start": 1.085,
+    "end": 1.587,
+    "word": "frotta",
+    "probability": 0.99
+  },
+  {
+    "start": 1.587,
+    "end": 1.748,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 1.748,
+    "end": 2.41,
+    "word": "visage",
+    "probability": 0.9880740360757305
+  },
+  {
+    "start": 2.41,
+    "end": 3.636,
+    "word": "celuici",
+    "probability": 0.9693646112849331
+  },
+  {
+    "start": 3.636,
+    "end": 3.837,
+    "word": "est",
+    "probability": 0.9756497547837606
+  },
+  {
+    "start": 3.837,
+    "end": 4.279,
+    "word": "Moppet",
+    "probability": 0.911569914354579
+  }
+]

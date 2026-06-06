@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.38,
+    "word": "Bagi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.38,
+    "end": 1.221,
+    "word": "PuddleDucks",
+    "probability": 0.7992301397341779
+  },
+  {
+    "start": 1.221,
+    "end": 3.103,
+    "word": "pulamereka",
+    "probability": 0.9735963603785729
+  },
+  {
+    "start": 3.103,
+    "end": 3.544,
+    "word": "pergi",
+    "probability": 0.99
+  },
+  {
+    "start": 3.544,
+    "end": 3.784,
+    "word": "ke",
+    "probability": 0.9862111247429503
+  },
+  {
+    "start": 3.784,
+    "end": 4.264,
+    "word": "sebuah",
+    "probability": 0.9837738260875897
+  },
+  {
+    "start": 4.264,
+    "end": 4.745,
+    "word": "kolam",
+    "probability": 0.99
+  },
+  {
+    "start": 4.745,
+    "end": 6.667,
+    "word": "Pakaian",
+    "probability": 0.99
+  },
+  {
+    "start": 6.667,
+    "end": 7.127,
+    "word": "itu",
+    "probability": 0.99
+  },
+  {
+    "start": 7.127,
+    "end": 7.848,
+    "word": "terjatuh",
+    "probability": 0.99
+  },
+  {
+    "start": 7.848,
+    "end": 8.389,
+    "word": "begitu",
+    "probability": 0.9781924847688066
+  },
+  {
+    "start": 8.389,
+    "end": 9.129,
+    "word": "sahaja",
+    "probability": 0.9814823537153236
+  },
+  {
+    "start": 9.129,
+    "end": 10.03,
+    "word": "kerana",
+    "probability": 0.9873466230611558
+  },
+  {
+    "start": 10.03,
+    "end": 10.551,
+    "word": "tiada",
+    "probability": 0.9812060214089923
+  },
+  {
+    "start": 10.551,
+    "end": 11.171,
+    "word": "butang",
+    "probability": 0.9794895164832271
+  },
+  {
+    "start": 11.171,
+    "end": 11.612,
+    "word": "yang",
+    "probability": 0.9836691998894973
+  },
+  {
+    "start": 11.612,
+    "end": 12.253,
+    "word": "tinggal",
+    "probability": 0.9778402602165945
+  },
+  {
+    "start": 12.253,
+    "end": 12.813,
+    "word": "untuk",
+    "probability": 0.99
+  },
+  {
+    "start": 12.813,
+    "end": 14.014,
+    "word": "mencantumkannya",
+    "probability": 0.9888300031755575
+  }
+]

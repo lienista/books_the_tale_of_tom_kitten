@@ -1,0 +1,224 @@
+[
+  {
+    "start": 3.644,
+    "end": 3.964,
+    "word": "Instead",
+    "probability": 0.5092415836269675
+  },
+  {
+    "start": 3.964,
+    "end": 4.224,
+    "word": "there",
+    "probability": 0.5974448625775597
+  },
+  {
+    "start": 4.224,
+    "end": 4.564,
+    "word": "were",
+    "probability": 0.6971848137712966
+  },
+  {
+    "start": 4.564,
+    "end": 4.925,
+    "word": "very",
+    "probability": 0.6385355153905398
+  },
+  {
+    "start": 4.925,
+    "end": 5.585,
+    "word": "strange",
+    "probability": 0.6870558672294573
+  },
+  {
+    "start": 5.585,
+    "end": 6.126,
+    "word": "noises",
+    "probability": 0.7008011466365567
+  },
+  {
+    "start": 6.126,
+    "end": 6.366,
+    "word": "coming",
+    "probability": 0.30985749237792837
+  },
+  {
+    "start": 6.366,
+    "end": 6.526,
+    "word": "from",
+    "probability": 0.3964304729175642
+  },
+  {
+    "start": 6.526,
+    "end": 7.007,
+    "word": "upstairs",
+    "probability": 0.5902023318453965
+  },
+  {
+    "start": 7.007,
+    "end": 7.367,
+    "word": "which",
+    "probability": 0.6565644427129622
+  },
+  {
+    "start": 7.367,
+    "end": 7.567,
+    "word": "ruined",
+    "probability": 0.2259572420624639
+  },
+  {
+    "start": 7.567,
+    "end": 7.667,
+    "word": "the",
+    "probability": 0.2399496702612912
+  },
+  {
+    "start": 7.667,
+    "end": 7.968,
+    "word": "quiet",
+    "probability": 0.6185200155584376
+  },
+  {
+    "start": 7.968,
+    "end": 8.468,
+    "word": "mood",
+    "probability": 0.6771336716340091
+  },
+  {
+    "start": 8.468,
+    "end": 8.568,
+    "word": "of",
+    "probability": 0.363111140367456
+  },
+  {
+    "start": 8.568,
+    "end": 9.709,
+    "word": "the",
+    "probability": 0.9298754497743217
+  },
+  {
+    "start": 9.709,
+    "end": 9.869,
+    "word": "tea",
+    "probability": 0.6242025642749247
+  },
+  {
+    "start": 9.869,
+    "end": 10.33,
+    "word": "party",
+    "probability": 0.7151248312171351
+  },
+  {
+    "start": 10.33,
+    "end": 10.77,
+    "word": "And",
+    "probability": 0.8174380663154692
+  },
+  {
+    "start": 10.77,
+    "end": 10.83,
+    "word": "I",
+    "probability": 0.3678734165879174
+  },
+  {
+    "start": 10.83,
+    "end": 11.151,
+    "word": "think",
+    "probability": 0.683070474073594
+  },
+  {
+    "start": 11.151,
+    "end": 11.231,
+    "word": "one",
+    "probability": 0.249994516506299
+  },
+  {
+    "start": 11.231,
+    "end": 11.511,
+    "word": "day",
+    "probability": 0.7847813969427777
+  },
+  {
+    "start": 11.511,
+    "end": 11.631,
+    "word": "Ill",
+    "probability": 0.20534439414458103
+  },
+  {
+    "start": 11.631,
+    "end": 11.811,
+    "word": "have",
+    "probability": 0.2809977963904179
+  },
+  {
+    "start": 11.811,
+    "end": 11.952,
+    "word": "to",
+    "probability": 0.6060018380065685
+  },
+  {
+    "start": 11.952,
+    "end": 12.292,
+    "word": "write",
+    "probability": 0.4967212051847932
+  },
+  {
+    "start": 12.292,
+    "end": 12.412,
+    "word": "a",
+    "probability": 0.7651997735765149
+  },
+  {
+    "start": 12.412,
+    "end": 12.832,
+    "word": "longer",
+    "probability": 0.5953323794171645
+  },
+  {
+    "start": 12.832,
+    "end": 13.133,
+    "word": "book",
+    "probability": 0.5435089352066614
+  },
+  {
+    "start": 13.133,
+    "end": 13.413,
+    "word": "to",
+    "probability": 0.7870311045999185
+  },
+  {
+    "start": 13.413,
+    "end": 13.693,
+    "word": "tell",
+    "probability": 0.5532371259848432
+  },
+  {
+    "start": 13.693,
+    "end": 13.833,
+    "word": "you",
+    "probability": 0.4283165378683399
+  },
+  {
+    "start": 13.833,
+    "end": 14.154,
+    "word": "more",
+    "probability": 0.5137277263301512
+  },
+  {
+    "start": 14.154,
+    "end": 14.474,
+    "word": "about",
+    "probability": 0.6248758015664961
+  },
+  {
+    "start": 14.474,
+    "end": 14.854,
+    "word": "Tom",
+    "probability": 0.7602949079509257
+  },
+  {
+    "start": 14.854,
+    "end": 15.395,
+    "word": "Kitten",
+    "probability": 0.7159954664245703
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.26,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.26,
+    "end": 0.76,
+    "word": "Kitten",
+    "probability": 0.9327164677845721
+  },
+  {
+    "start": 0.76,
+    "end": 1.0,
+    "word": "kunde",
+    "probability": 0.9823460370556693
+  },
+  {
+    "start": 1.0,
+    "end": 1.541,
+    "word": "inte",
+    "probability": 0.99
+  },
+  {
+    "start": 1.541,
+    "end": 1.941,
+    "word": "hoppa",
+    "probability": 0.9764482417583829
+  },
+  {
+    "start": 1.941,
+    "end": 2.321,
+    "word": "alls",
+    "probability": 0.9602402278615229
+  },
+  {
+    "start": 2.321,
+    "end": 2.681,
+    "word": "medan",
+    "probability": 0.9750676747689094
+  },
+  {
+    "start": 2.681,
+    "end": 2.861,
+    "word": "han",
+    "probability": 0.953817050824081
+  },
+  {
+    "start": 2.861,
+    "end": 3.321,
+    "word": "försökte",
+    "probability": 0.9875073454869268
+  },
+  {
+    "start": 3.321,
+    "end": 3.482,
+    "word": "gå",
+    "probability": 0.99
+  },
+  {
+    "start": 3.482,
+    "end": 3.682,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 3.682,
+    "end": 3.922,
+    "word": "sina",
+    "probability": 0.9841818928470253
+  },
+  {
+    "start": 3.922,
+    "end": 4.522,
+    "word": "bakben",
+    "probability": 0.99
+  },
+  {
+    "start": 4.522,
+    "end": 4.622,
+    "word": "i",
+    "probability": 0.836782028429357
+  },
+  {
+    "start": 4.622,
+    "end": 5.142,
+    "word": "byxor",
+    "probability": 0.99
+  },
+  {
+    "start": 5.142,
+    "end": 6.023,
+    "word": "Han",
+    "probability": 0.99
+  },
+  {
+    "start": 6.023,
+    "end": 6.643,
+    "word": "kämpade",
+    "probability": 0.99
+  },
+  {
+    "start": 6.643,
+    "end": 6.883,
+    "word": "sig",
+    "probability": 0.947152820788153
+  },
+  {
+    "start": 6.883,
+    "end": 7.363,
+    "word": "uppför",
+    "probability": 0.99
+  },
+  {
+    "start": 7.363,
+    "end": 8.023,
+    "word": "stenarna",
+    "probability": 0.9624170883904297
+  },
+  {
+    "start": 8.023,
+    "end": 8.404,
+    "word": "bit",
+    "probability": 0.99
+  },
+  {
+    "start": 8.404,
+    "end": 8.604,
+    "word": "för",
+    "probability": 0.9660702076327361
+  },
+  {
+    "start": 8.604,
+    "end": 8.984,
+    "word": "bit",
+    "probability": 0.9733771264424267
+  },
+  {
+    "start": 8.984,
+    "end": 10.204,
+    "word": "krossade",
+    "probability": 0.99
+  },
+  {
+    "start": 10.204,
+    "end": 11.185,
+    "word": "ormbunkarna",
+    "probability": 0.99
+  },
+  {
+    "start": 11.185,
+    "end": 11.865,
+    "word": "och",
+    "probability": 0.99
+  },
+  {
+    "start": 11.865,
+    "end": 12.385,
+    "word": "tappade",
+    "probability": 0.9894644361439325
+  },
+  {
+    "start": 12.385,
+    "end": 12.986,
+    "word": "knappar",
+    "probability": 0.99
+  },
+  {
+    "start": 12.986,
+    "end": 13.286,
+    "word": "till",
+    "probability": 0.9860608787970596
+  },
+  {
+    "start": 13.286,
+    "end": 13.766,
+    "word": "höger",
+    "probability": 0.977535205266558
+  },
+  {
+    "start": 13.766,
+    "end": 13.986,
+    "word": "och",
+    "probability": 0.9687249514395823
+  },
+  {
+    "start": 13.986,
+    "end": 14.466,
+    "word": "vänster",
+    "probability": 0.987152160203674
+  }
+]

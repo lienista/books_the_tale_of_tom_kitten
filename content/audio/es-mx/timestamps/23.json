@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.081,
+    "end": 0.262,
+    "word": "Todo",
+    "probability": 0.99
+  },
+  {
+    "start": 0.262,
+    "end": 0.403,
+    "word": "lo",
+    "probability": 0.9899407816573854
+  },
+  {
+    "start": 0.403,
+    "end": 1.067,
+    "word": "contrario",
+    "probability": 0.99
+  },
+  {
+    "start": 1.067,
+    "end": 1.228,
+    "word": "no",
+    "probability": 0.9565980796620002
+  },
+  {
+    "start": 1.228,
+    "end": 1.651,
+    "word": "estaban",
+    "probability": 0.9807707572472586
+  },
+  {
+    "start": 1.651,
+    "end": 1.772,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 1.772,
+    "end": 1.892,
+    "word": "la",
+    "probability": 0.9375179549776326
+  },
+  {
+    "start": 1.892,
+    "end": 2.235,
+    "word": "cama",
+    "probability": 0.99
+  },
+  {
+    "start": 2.235,
+    "end": 2.335,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 2.335,
+    "end": 2.899,
+    "word": "absoluto",
+    "probability": 0.99
+  }
+]

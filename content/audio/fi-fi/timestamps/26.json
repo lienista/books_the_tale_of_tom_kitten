@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.279,
+    "end": 0.358,
+    "word": "Ja",
+    "probability": 0.01
+  },
+  {
+    "start": 0.358,
+    "end": 0.599,
+    "word": "herra",
+    "probability": 0.1612237988785869
+  },
+  {
+    "start": 0.599,
+    "end": 0.957,
+    "word": "Drake",
+    "probability": 0.3333336926495445
+  },
+  {
+    "start": 0.957,
+    "end": 1.395,
+    "word": "PuddleDuck",
+    "probability": 0.01
+  },
+  {
+    "start": 1.395,
+    "end": 1.755,
+    "word": "Jemima",
+    "probability": 0.22222205579566093
+  },
+  {
+    "start": 1.755,
+    "end": 2.074,
+    "word": "ja",
+    "probability": 0.7499272726873286
+  },
+  {
+    "start": 2.074,
+    "end": 2.751,
+    "word": "Rebeccah",
+    "probability": 0.4705877252938078
+  },
+  {
+    "start": 2.751,
+    "end": 3.23,
+    "word": "ovat",
+    "probability": 0.5212245308471819
+  },
+  {
+    "start": 3.23,
+    "end": 4.466,
+    "word": "etsineet",
+    "probability": 0.7332734851293328
+  },
+  {
+    "start": 4.466,
+    "end": 4.864,
+    "word": "niitä",
+    "probability": 0.4545440956482299
+  },
+  {
+    "start": 4.864,
+    "end": 5.424,
+    "word": "siitä",
+    "probability": 0.6428568789026219
+  },
+  {
+    "start": 5.424,
+    "end": 5.941,
+    "word": "lähtien",
+    "probability": 0.5098982166753944
+  }
+]

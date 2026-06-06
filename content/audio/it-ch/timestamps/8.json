@@ -1,0 +1,290 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.38,
+    "word": "Quando",
+    "probability": 0.99
+  },
+  {
+    "start": 0.38,
+    "end": 0.46,
+    "word": "i",
+    "probability": 0.9618086414833403
+  },
+  {
+    "start": 0.46,
+    "end": 0.64,
+    "word": "tre",
+    "probability": 0.9890825977976717
+  },
+  {
+    "start": 0.64,
+    "end": 1.321,
+    "word": "gattini",
+    "probability": 0.9816982263715225
+  },
+  {
+    "start": 1.321,
+    "end": 1.761,
+    "word": "furono",
+    "probability": 0.9842155960317225
+  },
+  {
+    "start": 1.761,
+    "end": 2.382,
+    "word": "pronti",
+    "probability": 0.9886439682817711
+  },
+  {
+    "start": 2.382,
+    "end": 2.662,
+    "word": "la",
+    "probability": 0.9627912976165668
+  },
+  {
+    "start": 2.662,
+    "end": 3.082,
+    "word": "signora",
+    "probability": 0.99
+  },
+  {
+    "start": 3.082,
+    "end": 3.683,
+    "word": "Tabitha",
+    "probability": 0.9572714142918828
+  },
+  {
+    "start": 3.683,
+    "end": 4.463,
+    "word": "fece",
+    "probability": 0.99
+  },
+  {
+    "start": 4.463,
+    "end": 4.603,
+    "word": "un",
+    "probability": 0.8867346285693885
+  },
+  {
+    "start": 4.603,
+    "end": 5.164,
+    "word": "errore",
+    "probability": 0.99
+  },
+  {
+    "start": 5.164,
+    "end": 5.324,
+    "word": "e",
+    "probability": 0.9221728210139395
+  },
+  {
+    "start": 5.324,
+    "end": 5.484,
+    "word": "li",
+    "probability": 0.9736040875516738
+  },
+  {
+    "start": 5.484,
+    "end": 5.844,
+    "word": "mandò",
+    "probability": 0.9771516345647151
+  },
+  {
+    "start": 5.844,
+    "end": 5.964,
+    "word": "in",
+    "probability": 0.9669335589916782
+  },
+  {
+    "start": 5.964,
+    "end": 6.525,
+    "word": "giardino",
+    "probability": 0.9698785603644177
+  },
+  {
+    "start": 6.525,
+    "end": 7.225,
+    "word": "mentre",
+    "probability": 0.98045962296048
+  },
+  {
+    "start": 7.225,
+    "end": 7.845,
+    "word": "preparava",
+    "probability": 0.99
+  },
+  {
+    "start": 7.845,
+    "end": 8.206,
+    "word": "pane",
+    "probability": 0.9853641546750045
+  },
+  {
+    "start": 8.206,
+    "end": 8.926,
+    "word": "tostato",
+    "probability": 0.9750333236453746
+  },
+  {
+    "start": 8.926,
+    "end": 9.367,
+    "word": "caldo",
+    "probability": 0.99
+  },
+  {
+    "start": 9.367,
+    "end": 10.187,
+    "word": "imburrato",
+    "probability": 0.9710597132269113
+  },
+  {
+    "start": 10.187,
+    "end": 10.968,
+    "word": "Ora",
+    "probability": 0.99
+  },
+  {
+    "start": 10.968,
+    "end": 11.408,
+    "word": "tenete",
+    "probability": 0.99
+  },
+  {
+    "start": 11.408,
+    "end": 11.488,
+    "word": "i",
+    "probability": 0.9641167603938237
+  },
+  {
+    "start": 11.488,
+    "end": 11.888,
+    "word": "vostri",
+    "probability": 0.9831839447804981
+  },
+  {
+    "start": 11.888,
+    "end": 12.389,
+    "word": "vestiti",
+    "probability": 0.9855361678826937
+  },
+  {
+    "start": 12.389,
+    "end": 12.929,
+    "word": "puliti",
+    "probability": 0.99
+  },
+  {
+    "start": 12.929,
+    "end": 13.61,
+    "word": "bambini",
+    "probability": 0.99
+  },
+  {
+    "start": 13.61,
+    "end": 14.57,
+    "word": "Camminate",
+    "probability": 0.99
+  },
+  {
+    "start": 14.57,
+    "end": 14.89,
+    "word": "sulle",
+    "probability": 0.900939876617614
+  },
+  {
+    "start": 14.89,
+    "end": 15.311,
+    "word": "zampe",
+    "probability": 0.99
+  },
+  {
+    "start": 15.311,
+    "end": 16.171,
+    "word": "posteriori",
+    "probability": 0.9834237628667677
+  },
+  {
+    "start": 16.171,
+    "end": 16.952,
+    "word": "State",
+    "probability": 0.99
+  },
+  {
+    "start": 16.952,
+    "end": 17.572,
+    "word": "lontani",
+    "probability": 0.9799756548151229
+  },
+  {
+    "start": 17.572,
+    "end": 17.853,
+    "word": "dalla",
+    "probability": 0.9834367825499878
+  },
+  {
+    "start": 17.853,
+    "end": 18.313,
+    "word": "fossa",
+    "probability": 0.9730166472650673
+  },
+  {
+    "start": 18.313,
+    "end": 18.493,
+    "word": "di",
+    "probability": 0.9164496640118102
+  },
+  {
+    "start": 18.493,
+    "end": 18.953,
+    "word": "cenere",
+    "probability": 0.99
+  },
+  {
+    "start": 18.953,
+    "end": 19.754,
+    "word": "fangosa",
+    "probability": 0.9769026964715299
+  },
+  {
+    "start": 19.754,
+    "end": 20.755,
+    "word": "Sally",
+    "probability": 0.9815645525070953
+  },
+  {
+    "start": 20.755,
+    "end": 21.835,
+    "word": "HennyPenny",
+    "probability": 0.9091198787587506
+  },
+  {
+    "start": 21.835,
+    "end": 22.035,
+    "word": "il",
+    "probability": 0.868203432880656
+  },
+  {
+    "start": 22.035,
+    "end": 22.856,
+    "word": "porcile",
+    "probability": 0.99
+  },
+  {
+    "start": 22.856,
+    "end": 23.036,
+    "word": "e",
+    "probability": 0.9709243139869742
+  },
+  {
+    "start": 23.036,
+    "end": 23.436,
+    "word": "quelle",
+    "probability": 0.983770144095593
+  },
+  {
+    "start": 23.436,
+    "end": 24.477,
+    "word": "PuddleDucks",
+    "probability": 0.88852552458612
+  }
+]

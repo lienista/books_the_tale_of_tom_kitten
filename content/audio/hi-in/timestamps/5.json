@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.482,
+    "end": 0.967,
+    "word": "फर",
+    "probability": 0.9433596786888957
+  },
+  {
+    "start": 0.967,
+    "end": 1.931,
+    "word": "उसन",
+    "probability": 0.8684913486252804
+  },
+  {
+    "start": 1.931,
+    "end": 2.172,
+    "word": "उनक",
+    "probability": 0.33198886815727185
+  },
+  {
+    "start": 2.172,
+    "end": 2.332,
+    "word": "पछ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.332,
+    "end": 2.493,
+    "word": "और",
+    "probability": 0.01
+  },
+  {
+    "start": 2.493,
+    "end": 2.818,
+    "word": "मछ",
+    "probability": 0.5010993950646012
+  },
+  {
+    "start": 2.818,
+    "end": 2.978,
+    "word": "सफ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.978,
+    "end": 3.299,
+    "word": "क",
+    "probability": 0.7498613378867529
+  },
+  {
+    "start": 3.299,
+    "end": 3.38,
+    "word": "य",
+    "probability": 0.99
+  },
+  {
+    "start": 3.38,
+    "end": 3.621,
+    "word": "टम",
+    "probability": 0.3332031282569667
+  },
+  {
+    "start": 3.621,
+    "end": 4.263,
+    "word": "कटन",
+    "probability": 0.6249370851490387
+  },
+  {
+    "start": 4.263,
+    "end": 4.343,
+    "word": "ह",
+    "probability": 0.01
+  },
+  {
+    "start": 4.343,
+    "end": 4.989,
+    "word": "टम",
+    "probability": 0.7499058883696351
+  },
+  {
+    "start": 4.989,
+    "end": 5.471,
+    "word": "कघ",
+    "probability": 0.644669553650617
+  },
+  {
+    "start": 5.471,
+    "end": 5.712,
+    "word": "क",
+    "probability": 0.6665981631185329
+  },
+  {
+    "start": 5.712,
+    "end": 6.599,
+    "word": "खरचन",
+    "probability": 0.6788484142255012
+  },
+  {
+    "start": 6.599,
+    "end": 6.759,
+    "word": "क",
+    "probability": 0.4831903140226207
+  },
+  {
+    "start": 6.759,
+    "end": 7.883,
+    "word": "कशश",
+    "probability": 0.7864595282569677
+  },
+  {
+    "start": 7.883,
+    "end": 8.851,
+    "word": "करत",
+    "probability": 0.8178805030453655
+  },
+  {
+    "start": 8.851,
+    "end": 8.931,
+    "word": "रह",
+    "probability": 0.01
+  }
+]

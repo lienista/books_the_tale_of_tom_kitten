@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.661,
+    "word": "Zastavily",
+    "probability": 0.9819513755467375
+  },
+  {
+    "start": 0.661,
+    "end": 0.861,
+    "word": "se",
+    "probability": 0.9236427940132665
+  },
+  {
+    "start": 0.861,
+    "end": 1.101,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 1.101,
+    "end": 1.541,
+    "word": "stály",
+    "probability": 0.99
+  },
+  {
+    "start": 1.541,
+    "end": 1.661,
+    "word": "v",
+    "probability": 0.8881579256666994
+  },
+  {
+    "start": 1.661,
+    "end": 1.982,
+    "word": "řadě",
+    "probability": 0.9720005385214487
+  },
+  {
+    "start": 1.982,
+    "end": 2.963,
+    "word": "zíraly",
+    "probability": 0.99
+  },
+  {
+    "start": 2.963,
+    "end": 3.123,
+    "word": "na",
+    "probability": 0.9221277142996186
+  },
+  {
+    "start": 3.123,
+    "end": 3.823,
+    "word": "koťátka",
+    "probability": 0.99
+  },
+  {
+    "start": 3.823,
+    "end": 3.963,
+    "word": "s",
+    "probability": 0.99
+  },
+  {
+    "start": 3.963,
+    "end": 4.784,
+    "word": "širokýma",
+    "probability": 0.99
+  },
+  {
+    "start": 4.784,
+    "end": 5.925,
+    "word": "překvapenýma",
+    "probability": 0.9868777746496631
+  },
+  {
+    "start": 5.925,
+    "end": 6.406,
+    "word": "očima",
+    "probability": 0.9572587373385638
+  }
+]

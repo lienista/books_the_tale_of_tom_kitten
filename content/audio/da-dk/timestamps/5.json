@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.561,
+    "word": "Derefter",
+    "probability": 0.9765820879637676
+  },
+  {
+    "start": 0.561,
+    "end": 1.162,
+    "word": "kæmmede",
+    "probability": 0.9422912709247935
+  },
+  {
+    "start": 1.162,
+    "end": 1.383,
+    "word": "hun",
+    "probability": 0.9110034511944355
+  },
+  {
+    "start": 1.383,
+    "end": 1.704,
+    "word": "deres",
+    "probability": 0.9544418890369286
+  },
+  {
+    "start": 1.704,
+    "end": 2.104,
+    "word": "haler",
+    "probability": 0.99
+  },
+  {
+    "start": 2.104,
+    "end": 2.365,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 2.365,
+    "end": 2.886,
+    "word": "knurhår",
+    "probability": 0.8424636553178029
+  },
+  {
+    "start": 2.886,
+    "end": 3.648,
+    "word": "dette",
+    "probability": 0.965103814017345
+  },
+  {
+    "start": 3.648,
+    "end": 3.928,
+    "word": "er",
+    "probability": 0.9802062782614975
+  },
+  {
+    "start": 3.928,
+    "end": 4.169,
+    "word": "Tom",
+    "probability": 0.9202653358788724
+  },
+  {
+    "start": 4.169,
+    "end": 4.569,
+    "word": "Kitten",
+    "probability": 0.8606639395519506
+  },
+  {
+    "start": 4.569,
+    "end": 5.752,
+    "word": "Tom",
+    "probability": 0.9894581053614422
+  },
+  {
+    "start": 5.752,
+    "end": 6.012,
+    "word": "blev",
+    "probability": 0.9822726585464122
+  },
+  {
+    "start": 6.012,
+    "end": 6.253,
+    "word": "ved",
+    "probability": 0.99
+  },
+  {
+    "start": 6.253,
+    "end": 6.433,
+    "word": "med",
+    "probability": 0.9745825901020321
+  },
+  {
+    "start": 6.433,
+    "end": 6.554,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 6.554,
+    "end": 7.035,
+    "word": "forsøge",
+    "probability": 0.9797858091029603
+  },
+  {
+    "start": 7.035,
+    "end": 7.295,
+    "word": "at",
+    "probability": 0.9594857206396047
+  },
+  {
+    "start": 7.295,
+    "end": 7.736,
+    "word": "kradse",
+    "probability": 0.9690236585847454
+  },
+  {
+    "start": 7.736,
+    "end": 8.117,
+    "word": "kammen",
+    "probability": 0.9332072062436657
+  }
+]

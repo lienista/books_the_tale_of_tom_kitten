@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.2,
+    "word": "Mais",
+    "probability": 0.7529301312544104
+  },
+  {
+    "start": 0.2,
+    "end": 0.381,
+    "word": "il",
+    "probability": 0.8161207522925543
+  },
+  {
+    "start": 0.381,
+    "end": 0.561,
+    "word": "les",
+    "probability": 0.8472530436742625
+  },
+  {
+    "start": 0.561,
+    "end": 0.722,
+    "word": "mit",
+    "probability": 0.9603967979578102
+  },
+  {
+    "start": 0.722,
+    "end": 0.922,
+    "word": "sur",
+    "probability": 0.9282167990728876
+  },
+  {
+    "start": 0.922,
+    "end": 1.483,
+    "word": "luimême",
+    "probability": 0.9522756203028752
+  },
+  {
+    "start": 1.483,
+    "end": 2.185,
+    "word": "Ils",
+    "probability": 0.9894042473940012
+  },
+  {
+    "start": 2.185,
+    "end": 2.305,
+    "word": "lui",
+    "probability": 0.8243330572141948
+  },
+  {
+    "start": 2.305,
+    "end": 2.586,
+    "word": "allaient",
+    "probability": 0.8451861089743204
+  },
+  {
+    "start": 2.586,
+    "end": 3.007,
+    "word": "encore",
+    "probability": 0.99
+  },
+  {
+    "start": 3.007,
+    "end": 3.328,
+    "word": "moins",
+    "probability": 0.9882920591392459
+  },
+  {
+    "start": 3.328,
+    "end": 3.568,
+    "word": "bien",
+    "probability": 0.9718601741179409
+  },
+  {
+    "start": 3.568,
+    "end": 3.789,
+    "word": "quà",
+    "probability": 0.8748120369408446
+  },
+  {
+    "start": 3.789,
+    "end": 4.029,
+    "word": "Tom",
+    "probability": 0.9282034685534616
+  },
+  {
+    "start": 4.029,
+    "end": 4.571,
+    "word": "Kitten",
+    "probability": 0.8409802870556784
+  },
+  {
+    "start": 4.571,
+    "end": 5.352,
+    "word": "Cest",
+    "probability": 0.922140365145217
+  },
+  {
+    "start": 5.352,
+    "end": 5.633,
+    "word": "une",
+    "probability": 0.99
+  },
+  {
+    "start": 5.633,
+    "end": 5.954,
+    "word": "belle",
+    "probability": 0.9717392855142536
+  },
+  {
+    "start": 5.954,
+    "end": 6.535,
+    "word": "matinée",
+    "probability": 0.9867880381087907
+  },
+  {
+    "start": 6.535,
+    "end": 7.317,
+    "word": "dit",
+    "probability": 0.972252265531946
+  },
+  {
+    "start": 7.317,
+    "end": 7.377,
+    "word": "M",
+    "probability": 0.9828100630243325
+  },
+  {
+    "start": 7.377,
+    "end": 8.059,
+    "word": "Drake",
+    "probability": 0.8968968269908908
+  },
+  {
+    "start": 8.059,
+    "end": 8.76,
+    "word": "PuddleDuck",
+    "probability": 0.7315744635431217
+  }
+]

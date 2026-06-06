@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.381,
+    "word": "Potom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.381,
+    "end": 0.582,
+    "word": "jim",
+    "probability": 0.9739141914816882
+  },
+  {
+    "start": 0.582,
+    "end": 1.184,
+    "word": "vyčesala",
+    "probability": 0.99
+  },
+  {
+    "start": 1.184,
+    "end": 1.927,
+    "word": "kožíšky",
+    "probability": 0.9685363932513905
+  },
+  {
+    "start": 1.927,
+    "end": 2.57,
+    "word": "toto",
+    "probability": 0.99
+  },
+  {
+    "start": 2.57,
+    "end": 2.71,
+    "word": "je",
+    "probability": 0.9630553847401355
+  },
+  {
+    "start": 2.71,
+    "end": 3.272,
+    "word": "Mittens",
+    "probability": 0.8969218626169099
+  }
+]

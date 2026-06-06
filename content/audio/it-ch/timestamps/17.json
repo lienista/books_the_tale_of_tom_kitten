@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.16,
+    "word": "Il",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.54,
+    "word": "signor",
+    "probability": 0.99
+  },
+  {
+    "start": 0.54,
+    "end": 0.961,
+    "word": "Drake",
+    "probability": 0.8581093443353632
+  },
+  {
+    "start": 0.961,
+    "end": 1.842,
+    "word": "PuddleDuck",
+    "probability": 0.8581577066442136
+  },
+  {
+    "start": 1.842,
+    "end": 2.142,
+    "word": "si",
+    "probability": 0.9248010540166234
+  },
+  {
+    "start": 2.142,
+    "end": 2.642,
+    "word": "avvicinò",
+    "probability": 0.99
+  },
+  {
+    "start": 2.642,
+    "end": 2.802,
+    "word": "in",
+    "probability": 0.9230931989091988
+  },
+  {
+    "start": 2.802,
+    "end": 3.063,
+    "word": "modo",
+    "probability": 0.9873431747555614
+  },
+  {
+    "start": 3.063,
+    "end": 3.543,
+    "word": "lento",
+    "probability": 0.99
+  },
+  {
+    "start": 3.543,
+    "end": 3.603,
+    "word": "e",
+    "probability": 0.9832666525065298
+  },
+  {
+    "start": 3.603,
+    "end": 4.284,
+    "word": "laterale",
+    "probability": 0.99
+  },
+  {
+    "start": 4.284,
+    "end": 4.744,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 4.744,
+    "end": 5.345,
+    "word": "raccolse",
+    "probability": 0.978336046214401
+  },
+  {
+    "start": 5.345,
+    "end": 5.425,
+    "word": "i",
+    "probability": 0.9736167627382948
+  },
+  {
+    "start": 5.425,
+    "end": 5.685,
+    "word": "vari",
+    "probability": 0.9393267506964595
+  },
+  {
+    "start": 5.685,
+    "end": 6.365,
+    "word": "oggetti",
+    "probability": 0.9680611212652385
+  }
+]

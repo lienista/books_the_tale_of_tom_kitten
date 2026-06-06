@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 1.082,
+    "word": "Naglakadpato",
+    "probability": 0.9582829613711634
+  },
+  {
+    "start": 1.082,
+    "end": 1.343,
+    "word": "si",
+    "probability": 0.99
+  },
+  {
+    "start": 1.343,
+    "end": 1.703,
+    "word": "Mr",
+    "probability": 0.757294567577314
+  },
+  {
+    "start": 1.703,
+    "end": 2.184,
+    "word": "Drake",
+    "probability": 0.8957910606240014
+  },
+  {
+    "start": 2.184,
+    "end": 3.106,
+    "word": "PuddleDuck",
+    "probability": 0.8718421250926464
+  },
+  {
+    "start": 3.106,
+    "end": 3.767,
+    "word": "nang",
+    "probability": 0.9676719439353358
+  },
+  {
+    "start": 3.767,
+    "end": 4.469,
+    "word": "mabagal",
+    "probability": 0.99
+  },
+  {
+    "start": 4.469,
+    "end": 4.789,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 4.789,
+    "end": 5.531,
+    "word": "patagilid",
+    "probability": 0.9784612613295709
+  },
+  {
+    "start": 5.531,
+    "end": 6.212,
+    "word": "at",
+    "probability": 0.985949656081703
+  },
+  {
+    "start": 6.212,
+    "end": 6.893,
+    "word": "pinulot",
+    "probability": 0.9767479416837617
+  },
+  {
+    "start": 6.893,
+    "end": 7.054,
+    "word": "ang",
+    "probability": 0.9234347607474325
+  },
+  {
+    "start": 7.054,
+    "end": 7.435,
+    "word": "ibat",
+    "probability": 0.99
+  },
+  {
+    "start": 7.435,
+    "end": 7.755,
+    "word": "ibang",
+    "probability": 0.99
+  },
+  {
+    "start": 7.755,
+    "end": 8.156,
+    "word": "gamit",
+    "probability": 0.9723440319238763
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.22,
+    "word": "Los",
+    "probability": 0.99
+  },
+  {
+    "start": 0.22,
+    "end": 0.721,
+    "word": "envió",
+    "probability": 0.99
+  },
+  {
+    "start": 0.721,
+    "end": 1.261,
+    "word": "arriba",
+    "probability": 0.99
+  },
+  {
+    "start": 1.261,
+    "end": 1.881,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 1.881,
+    "end": 2.402,
+    "word": "lamento",
+    "probability": 0.99
+  },
+  {
+    "start": 2.402,
+    "end": 2.822,
+    "word": "decir",
+    "probability": 0.9678609385122966
+  },
+  {
+    "start": 2.822,
+    "end": 3.002,
+    "word": "que",
+    "probability": 0.942650870732758
+  },
+  {
+    "start": 3.002,
+    "end": 3.182,
+    "word": "les",
+    "probability": 0.9445882659354687
+  },
+  {
+    "start": 3.182,
+    "end": 3.503,
+    "word": "dijo",
+    "probability": 0.9792466889412397
+  },
+  {
+    "start": 3.503,
+    "end": 3.583,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 3.583,
+    "end": 3.783,
+    "word": "sus",
+    "probability": 0.99
+  },
+  {
+    "start": 3.783,
+    "end": 4.283,
+    "word": "amigos",
+    "probability": 0.99
+  },
+  {
+    "start": 4.283,
+    "end": 4.443,
+    "word": "que",
+    "probability": 0.8792448810386638
+  },
+  {
+    "start": 4.443,
+    "end": 4.924,
+    "word": "estaban",
+    "probability": 0.99
+  },
+  {
+    "start": 4.924,
+    "end": 5.084,
+    "word": "en",
+    "probability": 0.919302877803605
+  },
+  {
+    "start": 5.084,
+    "end": 5.224,
+    "word": "la",
+    "probability": 0.9842423663180476
+  },
+  {
+    "start": 5.224,
+    "end": 5.624,
+    "word": "cama",
+    "probability": 0.989183211916497
+  },
+  {
+    "start": 5.624,
+    "end": 5.885,
+    "word": "con",
+    "probability": 0.9833570479752441
+  },
+  {
+    "start": 5.885,
+    "end": 6.025,
+    "word": "un",
+    "probability": 0.973471251506984
+  },
+  {
+    "start": 6.025,
+    "end": 6.765,
+    "word": "resfriado",
+    "probability": 0.9879179714961491
+  },
+  {
+    "start": 6.765,
+    "end": 7.566,
+    "word": "lo",
+    "probability": 0.99
+  },
+  {
+    "start": 7.566,
+    "end": 7.886,
+    "word": "cual",
+    "probability": 0.9516232171637045
+  },
+  {
+    "start": 7.886,
+    "end": 8.086,
+    "word": "no",
+    "probability": 0.99
+  },
+  {
+    "start": 8.086,
+    "end": 8.387,
+    "word": "era",
+    "probability": 0.99
+  },
+  {
+    "start": 8.387,
+    "end": 8.847,
+    "word": "cierto",
+    "probability": 0.99
+  }
+]

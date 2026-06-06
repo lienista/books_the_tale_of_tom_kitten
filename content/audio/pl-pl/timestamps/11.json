@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.3,
+    "word": "Tom",
+    "probability": 0.9458422433186957
+  },
+  {
+    "start": 0.3,
+    "end": 0.861,
+    "word": "Kitten",
+    "probability": 0.9219675267878716
+  },
+  {
+    "start": 0.861,
+    "end": 1.422,
+    "word": "nie",
+    "probability": 0.99
+  },
+  {
+    "start": 1.422,
+    "end": 1.702,
+    "word": "mógł",
+    "probability": 0.9579368743063928
+  },
+  {
+    "start": 1.702,
+    "end": 1.802,
+    "word": "w",
+    "probability": 0.9290436268192257
+  },
+  {
+    "start": 1.802,
+    "end": 2.123,
+    "word": "ogóle",
+    "probability": 0.9869383228205755
+  },
+  {
+    "start": 2.123,
+    "end": 2.643,
+    "word": "skakać",
+    "probability": 0.9756774252990593
+  },
+  {
+    "start": 2.643,
+    "end": 3.224,
+    "word": "próbując",
+    "probability": 0.99
+  },
+  {
+    "start": 3.224,
+    "end": 3.685,
+    "word": "chodzić",
+    "probability": 0.9636723144619602
+  },
+  {
+    "start": 3.685,
+    "end": 3.885,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 3.885,
+    "end": 4.305,
+    "word": "tylnych",
+    "probability": 0.99
+  },
+  {
+    "start": 4.305,
+    "end": 4.746,
+    "word": "łapach",
+    "probability": 0.9754625221654121
+  },
+  {
+    "start": 4.746,
+    "end": 4.826,
+    "word": "w",
+    "probability": 0.99
+  },
+  {
+    "start": 4.826,
+    "end": 5.527,
+    "word": "spodniach",
+    "probability": 0.9823073222237471
+  },
+  {
+    "start": 5.527,
+    "end": 6.508,
+    "word": "Wspinał",
+    "probability": 0.99
+  },
+  {
+    "start": 6.508,
+    "end": 6.668,
+    "word": "się",
+    "probability": 0.985681283319171
+  },
+  {
+    "start": 6.668,
+    "end": 6.828,
+    "word": "po",
+    "probability": 0.99
+  },
+  {
+    "start": 6.828,
+    "end": 7.429,
+    "word": "skałach",
+    "probability": 0.99
+  },
+  {
+    "start": 7.429,
+    "end": 8.05,
+    "word": "kawałek",
+    "probability": 0.9784948735788296
+  },
+  {
+    "start": 8.05,
+    "end": 8.27,
+    "word": "po",
+    "probability": 0.99
+  },
+  {
+    "start": 8.27,
+    "end": 8.891,
+    "word": "kawałku",
+    "probability": 0.9781493061124068
+  },
+  {
+    "start": 8.891,
+    "end": 9.732,
+    "word": "miażdżąc",
+    "probability": 0.99
+  },
+  {
+    "start": 9.732,
+    "end": 10.413,
+    "word": "paprocie",
+    "probability": 0.9541068019847601
+  },
+  {
+    "start": 10.413,
+    "end": 10.493,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 10.493,
+    "end": 10.893,
+    "word": "gubiąc",
+    "probability": 0.99
+  },
+  {
+    "start": 10.893,
+    "end": 11.474,
+    "word": "guziki",
+    "probability": 0.9843536299980733
+  },
+  {
+    "start": 11.474,
+    "end": 11.614,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 11.614,
+    "end": 12.075,
+    "word": "prawo",
+    "probability": 0.99
+  },
+  {
+    "start": 12.075,
+    "end": 12.195,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 12.195,
+    "end": 12.535,
+    "word": "lewo",
+    "probability": 0.99
+  }
+]

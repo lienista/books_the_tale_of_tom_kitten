@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.14,
+    "word": "Și",
+    "probability": 0.99
+  },
+  {
+    "start": 0.14,
+    "end": 0.541,
+    "word": "domnul",
+    "probability": 0.9691647610028712
+  },
+  {
+    "start": 0.541,
+    "end": 1.002,
+    "word": "Drake",
+    "probability": 0.7503557012314365
+  },
+  {
+    "start": 1.002,
+    "end": 1.744,
+    "word": "PuddleDuck",
+    "probability": 0.7611392894316342
+  },
+  {
+    "start": 1.744,
+    "end": 2.245,
+    "word": "Jemima",
+    "probability": 0.8260582925564698
+  },
+  {
+    "start": 2.245,
+    "end": 2.426,
+    "word": "și",
+    "probability": 0.9584702407863495
+  },
+  {
+    "start": 2.426,
+    "end": 3.047,
+    "word": "Rebeccah",
+    "probability": 0.8491560017582271
+  },
+  {
+    "start": 3.047,
+    "end": 3.228,
+    "word": "le",
+    "probability": 0.8543292691093664
+  },
+  {
+    "start": 3.228,
+    "end": 3.629,
+    "word": "caută",
+    "probability": 0.9417206188873324
+  },
+  {
+    "start": 3.629,
+    "end": 3.749,
+    "word": "de",
+    "probability": 0.9307977520884115
+  },
+  {
+    "start": 3.749,
+    "end": 4.13,
+    "word": "atunci",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.381,
+    "word": "Onları",
+    "probability": 0.9770209119447144
+  },
+  {
+    "start": 0.381,
+    "end": 0.982,
+    "word": "duvardan",
+    "probability": 0.9822707233870392
+  },
+  {
+    "start": 0.982,
+    "end": 1.463,
+    "word": "çekti",
+    "probability": 0.99
+  },
+  {
+    "start": 1.463,
+    "end": 2.566,
+    "word": "aceleyle",
+    "probability": 0.9801836661478169
+  },
+  {
+    "start": 2.566,
+    "end": 3.147,
+    "word": "götürdü",
+    "probability": 0.9684836044777179
+  },
+  {
+    "start": 3.147,
+    "end": 3.608,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 3.608,
+    "end": 4.23,
+    "word": "eve",
+    "probability": 0.9890758935336842
+  },
+  {
+    "start": 4.23,
+    "end": 4.591,
+    "word": "geri",
+    "probability": 0.9781986048567349
+  },
+  {
+    "start": 4.591,
+    "end": 5.172,
+    "word": "götürdü",
+    "probability": 0.9824886141276126
+  }
+]

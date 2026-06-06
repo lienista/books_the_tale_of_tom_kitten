@@ -1,0 +1,224 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.12,
+    "word": "O",
+    "probability": 0.99
+  },
+  {
+    "start": 0.12,
+    "end": 0.34,
+    "word": "Tom",
+    "probability": 0.9224261830927296
+  },
+  {
+    "start": 0.34,
+    "end": 0.821,
+    "word": "Kitten",
+    "probability": 0.8563676029074564
+  },
+  {
+    "start": 0.821,
+    "end": 1.101,
+    "word": "não",
+    "probability": 0.9573737092686524
+  },
+  {
+    "start": 1.101,
+    "end": 1.682,
+    "word": "conseguia",
+    "probability": 0.9840677885197435
+  },
+  {
+    "start": 1.682,
+    "end": 2.343,
+    "word": "saltar",
+    "probability": 0.9769490937727349
+  },
+  {
+    "start": 2.343,
+    "end": 2.523,
+    "word": "de",
+    "probability": 0.9304881394369018
+  },
+  {
+    "start": 2.523,
+    "end": 3.063,
+    "word": "todo",
+    "probability": 0.9613873893070254
+  },
+  {
+    "start": 3.063,
+    "end": 3.684,
+    "word": "enquanto",
+    "probability": 0.979253597388552
+  },
+  {
+    "start": 3.684,
+    "end": 4.365,
+    "word": "tentava",
+    "probability": 0.9523776505032034
+  },
+  {
+    "start": 4.365,
+    "end": 4.805,
+    "word": "andar",
+    "probability": 0.9690170033450322
+  },
+  {
+    "start": 4.805,
+    "end": 5.086,
+    "word": "nas",
+    "probability": 0.9297188258535588
+  },
+  {
+    "start": 5.086,
+    "end": 5.586,
+    "word": "patas",
+    "probability": 0.9889569674818466
+  },
+  {
+    "start": 5.586,
+    "end": 5.746,
+    "word": "de",
+    "probability": 0.9733231717862143
+  },
+  {
+    "start": 5.746,
+    "end": 6.147,
+    "word": "trás",
+    "probability": 0.8474462748906376
+  },
+  {
+    "start": 6.147,
+    "end": 6.327,
+    "word": "com",
+    "probability": 0.9201277409836902
+  },
+  {
+    "start": 6.327,
+    "end": 6.888,
+    "word": "calças",
+    "probability": 0.9568285859266409
+  },
+  {
+    "start": 6.888,
+    "end": 8.029,
+    "word": "Ele",
+    "probability": 0.99
+  },
+  {
+    "start": 8.029,
+    "end": 8.99,
+    "word": "esforçouse",
+    "probability": 0.9699338903183751
+  },
+  {
+    "start": 8.99,
+    "end": 9.27,
+    "word": "para",
+    "probability": 0.9388989878730192
+  },
+  {
+    "start": 9.27,
+    "end": 9.691,
+    "word": "subir",
+    "probability": 0.953414359513207
+  },
+  {
+    "start": 9.691,
+    "end": 9.851,
+    "word": "as",
+    "probability": 0.9207662702285931
+  },
+  {
+    "start": 9.851,
+    "end": 10.412,
+    "word": "pedras",
+    "probability": 0.973672398155238
+  },
+  {
+    "start": 10.412,
+    "end": 10.952,
+    "word": "pouco",
+    "probability": 0.99
+  },
+  {
+    "start": 10.952,
+    "end": 11.052,
+    "word": "a",
+    "probability": 0.9073870001786706
+  },
+  {
+    "start": 11.052,
+    "end": 11.513,
+    "word": "pouco",
+    "probability": 0.9840745080132592
+  },
+  {
+    "start": 11.513,
+    "end": 12.814,
+    "word": "esmagando",
+    "probability": 0.9879595082448084
+  },
+  {
+    "start": 12.814,
+    "end": 12.935,
+    "word": "as",
+    "probability": 0.8942731224373275
+  },
+  {
+    "start": 12.935,
+    "end": 13.836,
+    "word": "samambaias",
+    "probability": 0.99
+  },
+  {
+    "start": 13.836,
+    "end": 14.156,
+    "word": "e",
+    "probability": 0.9736941057230588
+  },
+  {
+    "start": 14.156,
+    "end": 14.897,
+    "word": "perdendo",
+    "probability": 0.9870080378439062
+  },
+  {
+    "start": 14.897,
+    "end": 15.457,
+    "word": "botões",
+    "probability": 0.9642837001846567
+  },
+  {
+    "start": 15.457,
+    "end": 15.578,
+    "word": "à",
+    "probability": 0.99
+  },
+  {
+    "start": 15.578,
+    "end": 16.218,
+    "word": "esquerda",
+    "probability": 0.9805815661069852
+  },
+  {
+    "start": 16.218,
+    "end": 16.519,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 16.519,
+    "end": 16.639,
+    "word": "à",
+    "probability": 0.9519463005823086
+  },
+  {
+    "start": 16.639,
+    "end": 17.139,
+    "word": "direita",
+    "probability": 0.99
+  }
+]

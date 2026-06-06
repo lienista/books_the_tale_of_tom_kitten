@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.22,
+    "word": "Ela",
+    "probability": 0.6944689992804234
+  },
+  {
+    "start": 0.22,
+    "end": 0.881,
+    "word": "mandouos",
+    "probability": 0.914422595447382
+  },
+  {
+    "start": 0.881,
+    "end": 1.181,
+    "word": "para",
+    "probability": 0.9875527746088069
+  },
+  {
+    "start": 1.181,
+    "end": 1.261,
+    "word": "o",
+    "probability": 0.967988147597271
+  },
+  {
+    "start": 1.261,
+    "end": 1.621,
+    "word": "andar",
+    "probability": 0.9792439938245094
+  },
+  {
+    "start": 1.621,
+    "end": 1.761,
+    "word": "de",
+    "probability": 0.9623805795337788
+  },
+  {
+    "start": 1.761,
+    "end": 2.201,
+    "word": "cima",
+    "probability": 0.99
+  },
+  {
+    "start": 2.201,
+    "end": 2.742,
+    "word": "e",
+    "probability": 0.9888852158965661
+  },
+  {
+    "start": 2.742,
+    "end": 3.282,
+    "word": "lamento",
+    "probability": 0.9841123294429855
+  },
+  {
+    "start": 3.282,
+    "end": 3.782,
+    "word": "dizer",
+    "probability": 0.9358551722994326
+  },
+  {
+    "start": 3.782,
+    "end": 4.003,
+    "word": "que",
+    "probability": 0.9042772586096862
+  },
+  {
+    "start": 4.003,
+    "end": 4.463,
+    "word": "disse",
+    "probability": 0.9743907754343816
+  },
+  {
+    "start": 4.463,
+    "end": 4.643,
+    "word": "aos",
+    "probability": 0.978647560731188
+  },
+  {
+    "start": 4.643,
+    "end": 4.923,
+    "word": "seus",
+    "probability": 0.9712362598056773
+  },
+  {
+    "start": 4.923,
+    "end": 5.524,
+    "word": "amigos",
+    "probability": 0.99
+  },
+  {
+    "start": 5.524,
+    "end": 5.864,
+    "word": "que",
+    "probability": 0.99
+  },
+  {
+    "start": 5.864,
+    "end": 6.524,
+    "word": "estavam",
+    "probability": 0.9809908475266663
+  },
+  {
+    "start": 6.524,
+    "end": 6.704,
+    "word": "na",
+    "probability": 0.9606734658807048
+  },
+  {
+    "start": 6.704,
+    "end": 7.165,
+    "word": "cama",
+    "probability": 0.99
+  },
+  {
+    "start": 7.165,
+    "end": 7.625,
+    "word": "com",
+    "probability": 0.99
+  },
+  {
+    "start": 7.625,
+    "end": 7.785,
+    "word": "um",
+    "probability": 0.9479534455708675
+  },
+  {
+    "start": 7.785,
+    "end": 8.525,
+    "word": "resfriado",
+    "probability": 0.9873881364367518
+  },
+  {
+    "start": 8.525,
+    "end": 9.106,
+    "word": "o",
+    "probability": 0.9857707505825084
+  },
+  {
+    "start": 9.106,
+    "end": 9.266,
+    "word": "que",
+    "probability": 0.9300902860341732
+  },
+  {
+    "start": 9.266,
+    "end": 9.466,
+    "word": "não",
+    "probability": 0.8938510318884411
+  },
+  {
+    "start": 9.466,
+    "end": 9.726,
+    "word": "era",
+    "probability": 0.9806870220871119
+  },
+  {
+    "start": 9.726,
+    "end": 10.307,
+    "word": "verdade",
+    "probability": 0.9794988443895714
+  }
+]

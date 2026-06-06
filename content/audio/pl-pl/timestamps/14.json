@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.762,
+    "word": "Zatrzymały",
+    "probability": 0.99
+  },
+  {
+    "start": 0.762,
+    "end": 1.022,
+    "word": "się",
+    "probability": 0.9483065049375844
+  },
+  {
+    "start": 1.022,
+    "end": 1.122,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 1.122,
+    "end": 1.723,
+    "word": "stanęły",
+    "probability": 0.99
+  },
+  {
+    "start": 1.723,
+    "end": 1.824,
+    "word": "w",
+    "probability": 0.99
+  },
+  {
+    "start": 1.824,
+    "end": 2.405,
+    "word": "rzędzie",
+    "probability": 0.9585747728105705
+  },
+  {
+    "start": 2.405,
+    "end": 3.447,
+    "word": "patrząc",
+    "probability": 0.99
+  },
+  {
+    "start": 3.447,
+    "end": 3.687,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 3.687,
+    "end": 4.349,
+    "word": "kotki",
+    "probability": 0.9892548802775024
+  },
+  {
+    "start": 4.349,
+    "end": 4.87,
+    "word": "szeroko",
+    "probability": 0.99
+  },
+  {
+    "start": 4.87,
+    "end": 5.631,
+    "word": "otwartymi",
+    "probability": 0.9613423003804586
+  },
+  {
+    "start": 5.631,
+    "end": 6.693,
+    "word": "zdziwionymi",
+    "probability": 0.9748537190408552
+  },
+  {
+    "start": 6.693,
+    "end": 7.275,
+    "word": "oczami",
+    "probability": 0.99
+  }
+]

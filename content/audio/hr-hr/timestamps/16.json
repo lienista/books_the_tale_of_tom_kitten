@@ -1,0 +1,254 @@
+[
+  {
+    "start": 12.827,
+    "end": 13.067,
+    "word": "Mittens",
+    "probability": 0.5002435504643276
+  },
+  {
+    "start": 13.067,
+    "end": 13.287,
+    "word": "se",
+    "probability": 0.6638030852286909
+  },
+  {
+    "start": 13.287,
+    "end": 13.487,
+    "word": "toliko",
+    "probability": 0.285804250009582
+  },
+  {
+    "start": 13.487,
+    "end": 13.707,
+    "word": "smijala",
+    "probability": 0.2723569361790161
+  },
+  {
+    "start": 13.707,
+    "end": 13.767,
+    "word": "da",
+    "probability": 0.01
+  },
+  {
+    "start": 13.767,
+    "end": 14.007,
+    "word": "je",
+    "probability": 0.7492558907795172
+  },
+  {
+    "start": 14.007,
+    "end": 14.147,
+    "word": "pala",
+    "probability": 0.28561827228344955
+  },
+  {
+    "start": 14.147,
+    "end": 14.227,
+    "word": "sa",
+    "probability": 0.24993451550815482
+  },
+  {
+    "start": 14.227,
+    "end": 14.327,
+    "word": "zida",
+    "probability": 0.01
+  },
+  {
+    "start": 14.327,
+    "end": 14.848,
+    "word": "Moppet",
+    "probability": 0.7296773787346389
+  },
+  {
+    "start": 14.848,
+    "end": 14.888,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 14.888,
+    "end": 14.988,
+    "word": "Tom",
+    "probability": 0.19304824124593234
+  },
+  {
+    "start": 14.988,
+    "end": 15.108,
+    "word": "sišli",
+    "probability": 0.01
+  },
+  {
+    "start": 15.108,
+    "end": 15.168,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 15.168,
+    "end": 15.408,
+    "word": "za",
+    "probability": 0.7498170546580253
+  },
+  {
+    "start": 15.408,
+    "end": 15.788,
+    "word": "njom",
+    "probability": 0.7225125583911443
+  },
+  {
+    "start": 15.788,
+    "end": 16.188,
+    "word": "haljine",
+    "probability": 0.601278230381741
+  },
+  {
+    "start": 16.188,
+    "end": 16.489,
+    "word": "i",
+    "probability": 0.8660810280479488
+  },
+  {
+    "start": 16.489,
+    "end": 16.749,
+    "word": "ostatak",
+    "probability": 0.3846242765000004
+  },
+  {
+    "start": 16.749,
+    "end": 17.229,
+    "word": "Tomove",
+    "probability": 0.7047422933819799
+  },
+  {
+    "start": 17.229,
+    "end": 17.489,
+    "word": "odjeće",
+    "probability": 0.4156380815306209
+  },
+  {
+    "start": 17.489,
+    "end": 17.649,
+    "word": "pali",
+    "probability": 0.4444033770248015
+  },
+  {
+    "start": 17.649,
+    "end": 17.769,
+    "word": "su",
+    "probability": 0.4998078284781744
+  },
+  {
+    "start": 17.769,
+    "end": 17.969,
+    "word": "na",
+    "probability": 0.6954389925982253
+  },
+  {
+    "start": 17.969,
+    "end": 18.37,
+    "word": "putu",
+    "probability": 0.745808321389928
+  },
+  {
+    "start": 18.37,
+    "end": 18.79,
+    "word": "dolje",
+    "probability": 0.7146956126465602
+  },
+  {
+    "start": 18.79,
+    "end": 19.45,
+    "word": "Gospodine",
+    "probability": 0.6937195990035908
+  },
+  {
+    "start": 19.45,
+    "end": 19.79,
+    "word": "Drake",
+    "probability": 0.6465793280931844
+  },
+  {
+    "start": 19.79,
+    "end": 20.25,
+    "word": "PuddleDuck",
+    "probability": 0.5216654615882255
+  },
+  {
+    "start": 20.25,
+    "end": 20.611,
+    "word": "zvala",
+    "probability": 0.6655871362148671
+  },
+  {
+    "start": 20.611,
+    "end": 20.671,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 20.671,
+    "end": 20.811,
+    "word": "Moppet",
+    "probability": 0.01
+  },
+  {
+    "start": 20.811,
+    "end": 20.911,
+    "word": "Dođi",
+    "probability": 0.01
+  },
+  {
+    "start": 20.911,
+    "end": 20.931,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "pomozi",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "nam",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "ga",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "obući",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "Dođi",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "zakopčaj",
+    "probability": 0.01
+  },
+  {
+    "start": 20.931,
+    "end": 20.951,
+    "word": "Toma",
+    "probability": 0.01
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.121,
+    "end": 0.241,
+    "word": "Hoàn",
+    "probability": 0.99
+  },
+  {
+    "start": 0.241,
+    "end": 0.483,
+    "word": "toàn",
+    "probability": 0.99
+  },
+  {
+    "start": 0.483,
+    "end": 0.724,
+    "word": "ngược",
+    "probability": 0.9654338806981927
+  },
+  {
+    "start": 0.724,
+    "end": 0.966,
+    "word": "lại",
+    "probability": 0.99
+  },
+  {
+    "start": 0.966,
+    "end": 1.75,
+    "word": "chúng",
+    "probability": 0.99
+  },
+  {
+    "start": 1.75,
+    "end": 2.052,
+    "word": "chẳng",
+    "probability": 0.9663748085223479
+  },
+  {
+    "start": 2.052,
+    "end": 2.253,
+    "word": "nằm",
+    "probability": 0.9771825232136668
+  },
+  {
+    "start": 2.253,
+    "end": 2.495,
+    "word": "trên",
+    "probability": 0.99
+  },
+  {
+    "start": 2.495,
+    "end": 2.736,
+    "word": "giường",
+    "probability": 0.9688536962366813
+  },
+  {
+    "start": 2.736,
+    "end": 2.997,
+    "word": "chút",
+    "probability": 0.9612904605494147
+  },
+  {
+    "start": 2.997,
+    "end": 3.259,
+    "word": "nào",
+    "probability": 0.99
+  }
+]

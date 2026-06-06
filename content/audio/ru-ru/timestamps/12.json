@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.1,
+    "word": "К",
+    "probability": 0.99
+  },
+  {
+    "start": 0.1,
+    "end": 0.361,
+    "word": "тому",
+    "probability": 0.9875468046057284
+  },
+  {
+    "start": 0.361,
+    "end": 0.921,
+    "word": "времени",
+    "probability": 0.99
+  },
+  {
+    "start": 0.921,
+    "end": 1.222,
+    "word": "как",
+    "probability": 0.9499157367239034
+  },
+  {
+    "start": 1.222,
+    "end": 1.382,
+    "word": "он",
+    "probability": 0.99
+  },
+  {
+    "start": 1.382,
+    "end": 1.943,
+    "word": "добрался",
+    "probability": 0.99
+  },
+  {
+    "start": 1.943,
+    "end": 2.103,
+    "word": "до",
+    "probability": 0.99
+  },
+  {
+    "start": 2.103,
+    "end": 2.504,
+    "word": "верха",
+    "probability": 0.9254673300760882
+  },
+  {
+    "start": 2.504,
+    "end": 2.904,
+    "word": "стены",
+    "probability": 0.904500483883443
+  },
+  {
+    "start": 2.904,
+    "end": 3.525,
+    "word": "он",
+    "probability": 0.99
+  },
+  {
+    "start": 3.525,
+    "end": 4.106,
+    "word": "выглядел",
+    "probability": 0.99
+  },
+  {
+    "start": 4.106,
+    "end": 4.767,
+    "word": "ужасно",
+    "probability": 0.99
+  },
+  {
+    "start": 4.767,
+    "end": 5.889,
+    "word": "Моппет",
+    "probability": 0.9820961430231007
+  },
+  {
+    "start": 5.889,
+    "end": 6.009,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 6.009,
+    "end": 6.529,
+    "word": "Миттенс",
+    "probability": 0.8517483738615641
+  },
+  {
+    "start": 6.529,
+    "end": 7.07,
+    "word": "пытались",
+    "probability": 0.9624210259027595
+  },
+  {
+    "start": 7.07,
+    "end": 7.671,
+    "word": "поправить",
+    "probability": 0.9858525245001089
+  },
+  {
+    "start": 7.671,
+    "end": 7.891,
+    "word": "его",
+    "probability": 0.989882466943389
+  },
+  {
+    "start": 7.891,
+    "end": 8.492,
+    "word": "одежду",
+    "probability": 0.99
+  },
+  {
+    "start": 8.492,
+    "end": 9.113,
+    "word": "но",
+    "probability": 0.989538912605911
+  },
+  {
+    "start": 9.113,
+    "end": 9.374,
+    "word": "его",
+    "probability": 0.99
+  },
+  {
+    "start": 9.374,
+    "end": 9.834,
+    "word": "шляпа",
+    "probability": 0.99
+  },
+  {
+    "start": 9.834,
+    "end": 10.555,
+    "word": "свалилась",
+    "probability": 0.9763702642964491
+  },
+  {
+    "start": 10.555,
+    "end": 11.196,
+    "word": "а",
+    "probability": 0.99
+  },
+  {
+    "start": 11.196,
+    "end": 11.857,
+    "word": "последние",
+    "probability": 0.987829188406012
+  },
+  {
+    "start": 11.857,
+    "end": 12.498,
+    "word": "пуговицы",
+    "probability": 0.99
+  },
+  {
+    "start": 12.498,
+    "end": 13.139,
+    "word": "отлетели",
+    "probability": 0.99
+  }
+]

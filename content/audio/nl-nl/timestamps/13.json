@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.381,
+    "word": "Terwijl",
+    "probability": 0.8014401008431431
+  },
+  {
+    "start": 0.381,
+    "end": 0.541,
+    "word": "ze",
+    "probability": 0.8926589314294807
+  },
+  {
+    "start": 0.541,
+    "end": 0.761,
+    "word": "aan",
+    "probability": 0.9192970939077839
+  },
+  {
+    "start": 0.761,
+    "end": 0.901,
+    "word": "het",
+    "probability": 0.7729806497380898
+  },
+  {
+    "start": 0.901,
+    "end": 1.482,
+    "word": "worstelen",
+    "probability": 0.9736989960161277
+  },
+  {
+    "start": 1.482,
+    "end": 1.903,
+    "word": "waren",
+    "probability": 0.983344623706744
+  },
+  {
+    "start": 1.903,
+    "end": 2.784,
+    "word": "hoorden",
+    "probability": 0.9745985019473853
+  },
+  {
+    "start": 2.784,
+    "end": 2.904,
+    "word": "ze",
+    "probability": 0.848878886397828
+  },
+  {
+    "start": 2.904,
+    "end": 3.124,
+    "word": "een",
+    "probability": 0.9357861823558415
+  },
+  {
+    "start": 3.124,
+    "end": 4.486,
+    "word": "pitpatpaddlepat",
+    "probability": 0.8851280184332725
+  },
+  {
+    "start": 4.486,
+    "end": 5.688,
+    "word": "De",
+    "probability": 0.9643426888990406
+  },
+  {
+    "start": 5.688,
+    "end": 5.989,
+    "word": "drie",
+    "probability": 0.9640049804587214
+  },
+  {
+    "start": 5.989,
+    "end": 6.97,
+    "word": "PuddleDucks",
+    "probability": 0.9030247054155923
+  },
+  {
+    "start": 6.97,
+    "end": 7.451,
+    "word": "kwamen",
+    "probability": 0.9798026009059256
+  },
+  {
+    "start": 7.451,
+    "end": 7.611,
+    "word": "in",
+    "probability": 0.9821644209551367
+  },
+  {
+    "start": 7.611,
+    "end": 7.791,
+    "word": "een",
+    "probability": 0.8968764577412467
+  },
+  {
+    "start": 7.791,
+    "end": 8.172,
+    "word": "rij",
+    "probability": 0.912419494562058
+  },
+  {
+    "start": 8.172,
+    "end": 8.592,
+    "word": "over",
+    "probability": 0.9525714569706267
+  },
+  {
+    "start": 8.592,
+    "end": 8.712,
+    "word": "de",
+    "probability": 0.9616725562874243
+  },
+  {
+    "start": 8.712,
+    "end": 9.033,
+    "word": "weg",
+    "probability": 0.9149208154626703
+  },
+  {
+    "start": 9.033,
+    "end": 9.794,
+    "word": "marcheren",
+    "probability": 0.9608095030348525
+  },
+  {
+    "start": 9.794,
+    "end": 10.976,
+    "word": "hun",
+    "probability": 0.9859206877437701
+  },
+  {
+    "start": 10.976,
+    "end": 11.657,
+    "word": "ritmische",
+    "probability": 0.933955666872523
+  },
+  {
+    "start": 11.657,
+    "end": 14.561,
+    "word": "waggelendpitpatpaddlepat",
+    "probability": 0.9224324699383691
+  },
+  {
+    "start": 14.561,
+    "end": 16.283,
+    "word": "pitpatwaddlepat",
+    "probability": 0.8797561101081188
+  }
+]

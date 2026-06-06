@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.26,
+    "word": "Bay",
+    "probability": 0.9028213770452929
+  },
+  {
+    "start": 0.26,
+    "end": 0.661,
+    "word": "Drake",
+    "probability": 0.8353073316660202
+  },
+  {
+    "start": 0.661,
+    "end": 1.462,
+    "word": "PuddleDuck",
+    "probability": 0.8103685068171902
+  },
+  {
+    "start": 1.462,
+    "end": 2.363,
+    "word": "yavaşça",
+    "probability": 0.9724587995595325
+  },
+  {
+    "start": 2.363,
+    "end": 2.924,
+    "word": "yan",
+    "probability": 0.9729470399405796
+  },
+  {
+    "start": 2.924,
+    "end": 3.245,
+    "word": "yan",
+    "probability": 0.8795278845705142
+  },
+  {
+    "start": 3.245,
+    "end": 4.046,
+    "word": "sallanarak",
+    "probability": 0.9879538034700571
+  },
+  {
+    "start": 4.046,
+    "end": 4.606,
+    "word": "geldi",
+    "probability": 0.9833991383021029
+  },
+  {
+    "start": 4.606,
+    "end": 5.067,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 5.067,
+    "end": 5.708,
+    "word": "çeşitli",
+    "probability": 0.99
+  },
+  {
+    "start": 5.708,
+    "end": 6.409,
+    "word": "eşyaları",
+    "probability": 0.9424459963577817
+  },
+  {
+    "start": 6.409,
+    "end": 6.97,
+    "word": "topladı",
+    "probability": 0.9835172256494074
+  }
+]

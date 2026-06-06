@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.301,
+    "word": "Apoi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.301,
+    "end": 0.561,
+    "word": "cele",
+    "probability": 0.99
+  },
+  {
+    "start": 0.561,
+    "end": 0.822,
+    "word": "două",
+    "probability": 0.99
+  },
+  {
+    "start": 0.822,
+    "end": 1.183,
+    "word": "rațe",
+    "probability": 0.9585798402993739
+  },
+  {
+    "start": 1.183,
+    "end": 1.644,
+    "word": "femele",
+    "probability": 0.9798776162286998
+  },
+  {
+    "start": 1.644,
+    "end": 2.306,
+    "word": "Rebeccah",
+    "probability": 0.9485308684488586
+  },
+  {
+    "start": 2.306,
+    "end": 2.406,
+    "word": "și",
+    "probability": 0.8332246696716207
+  },
+  {
+    "start": 2.406,
+    "end": 2.847,
+    "word": "Jemima",
+    "probability": 0.8772561593444034
+  },
+  {
+    "start": 2.847,
+    "end": 3.629,
+    "word": "PuddleDuck",
+    "probability": 0.7485122587347669
+  },
+  {
+    "start": 3.629,
+    "end": 4.211,
+    "word": "au",
+    "probability": 0.9578071820991895
+  },
+  {
+    "start": 4.211,
+    "end": 4.672,
+    "word": "ridicat",
+    "probability": 0.979085435635454
+  },
+  {
+    "start": 4.672,
+    "end": 5.213,
+    "word": "pălăria",
+    "probability": 0.9671013875457942
+  },
+  {
+    "start": 5.213,
+    "end": 5.374,
+    "word": "și",
+    "probability": 0.950087871969448
+  },
+  {
+    "start": 5.374,
+    "end": 5.895,
+    "word": "gulerul",
+    "probability": 0.9561030086870261
+  },
+  {
+    "start": 5.895,
+    "end": 6.035,
+    "word": "de",
+    "probability": 0.9592123789913262
+  },
+  {
+    "start": 6.035,
+    "end": 6.597,
+    "word": "dantelă",
+    "probability": 0.9761296470727862
+  },
+  {
+    "start": 6.597,
+    "end": 6.737,
+    "word": "și",
+    "probability": 0.9390693881846762
+  },
+  {
+    "start": 6.737,
+    "end": 6.918,
+    "word": "leau",
+    "probability": 0.9517754364632106
+  },
+  {
+    "start": 6.918,
+    "end": 7.138,
+    "word": "pus",
+    "probability": 0.9464592220571751
+  },
+  {
+    "start": 7.138,
+    "end": 7.299,
+    "word": "pe",
+    "probability": 0.9554938590099391
+  },
+  {
+    "start": 7.299,
+    "end": 7.519,
+    "word": "ele",
+    "probability": 0.9873333312785886
+  }
+]

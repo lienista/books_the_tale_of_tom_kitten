@@ -1,0 +1,176 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.841,
+    "word": "Давнымдавно",
+    "probability": 0.9607365764612715
+  },
+  {
+    "start": 0.841,
+    "end": 2.242,
+    "word": "жилибыли",
+    "probability": 0.9486487724322393
+  },
+  {
+    "start": 2.242,
+    "end": 2.662,
+    "word": "три",
+    "probability": 0.99
+  },
+  {
+    "start": 2.662,
+    "end": 3.323,
+    "word": "маленьких",
+    "probability": 0.99
+  },
+  {
+    "start": 3.323,
+    "end": 3.983,
+    "word": "котёнка",
+    "probability": 0.964322065695117
+  },
+  {
+    "start": 3.983,
+    "end": 4.143,
+    "word": "по",
+    "probability": 0.9439731653379663
+  },
+  {
+    "start": 4.143,
+    "end": 4.644,
+    "word": "имени",
+    "probability": 0.9808155292832176
+  },
+  {
+    "start": 4.644,
+    "end": 5.324,
+    "word": "Миттенс",
+    "probability": 0.9701940751175858
+  },
+  {
+    "start": 5.324,
+    "end": 6.045,
+    "word": "Том",
+    "probability": 0.99
+  },
+  {
+    "start": 6.045,
+    "end": 6.605,
+    "word": "Киттен",
+    "probability": 0.899065321134459
+  },
+  {
+    "start": 6.605,
+    "end": 6.946,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 6.946,
+    "end": 7.546,
+    "word": "Моппет",
+    "probability": 0.9538498589756886
+  },
+  {
+    "start": 7.546,
+    "end": 8.447,
+    "word": "У",
+    "probability": 0.99
+  },
+  {
+    "start": 8.447,
+    "end": 8.687,
+    "word": "них",
+    "probability": 0.9733596083389582
+  },
+  {
+    "start": 8.687,
+    "end": 8.947,
+    "word": "были",
+    "probability": 0.99
+  },
+  {
+    "start": 8.947,
+    "end": 9.628,
+    "word": "красивые",
+    "probability": 0.99
+  },
+  {
+    "start": 9.628,
+    "end": 10.168,
+    "word": "шубки",
+    "probability": 0.9473444848257254
+  },
+  {
+    "start": 10.168,
+    "end": 10.849,
+    "word": "и",
+    "probability": 0.9754510335401649
+  },
+  {
+    "start": 10.849,
+    "end": 11.069,
+    "word": "они",
+    "probability": 0.99
+  },
+  {
+    "start": 11.069,
+    "end": 11.71,
+    "word": "проводили",
+    "probability": 0.9816764197366393
+  },
+  {
+    "start": 11.71,
+    "end": 12.09,
+    "word": "свои",
+    "probability": 0.99
+  },
+  {
+    "start": 12.09,
+    "end": 12.37,
+    "word": "дни",
+    "probability": 0.9842061124176983
+  },
+  {
+    "start": 12.37,
+    "end": 13.751,
+    "word": "кувыркаясь",
+    "probability": 0.99
+  },
+  {
+    "start": 13.751,
+    "end": 13.911,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 13.911,
+    "end": 14.532,
+    "word": "крыльце",
+    "probability": 0.983278154245227
+  },
+  {
+    "start": 14.532,
+    "end": 14.692,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 14.692,
+    "end": 15.212,
+    "word": "играя",
+    "probability": 0.99
+  },
+  {
+    "start": 15.212,
+    "end": 15.312,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 15.312,
+    "end": 15.693,
+    "word": "грязи",
+    "probability": 0.9424321525068402
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.18,
+    "word": "Es",
+    "probability": 0.7532077758455318
+  },
+  {
+    "start": 0.18,
+    "end": 0.461,
+    "word": "war",
+    "probability": 0.8374872457881395
+  },
+  {
+    "start": 0.461,
+    "end": 1.001,
+    "word": "einmal",
+    "probability": 0.9330496910264869
+  },
+  {
+    "start": 1.001,
+    "end": 1.482,
+    "word": "da",
+    "probability": 0.9866918102034892
+  },
+  {
+    "start": 1.482,
+    "end": 1.842,
+    "word": "gab",
+    "probability": 0.959814044042255
+  },
+  {
+    "start": 1.842,
+    "end": 2.003,
+    "word": "es",
+    "probability": 0.9838279647534096
+  },
+  {
+    "start": 2.003,
+    "end": 2.343,
+    "word": "drei",
+    "probability": 0.99
+  },
+  {
+    "start": 2.343,
+    "end": 2.884,
+    "word": "kleine",
+    "probability": 0.9880197947073187
+  },
+  {
+    "start": 2.884,
+    "end": 3.505,
+    "word": "Kätzchen",
+    "probability": 0.9872462751524151
+  },
+  {
+    "start": 3.505,
+    "end": 4.186,
+    "word": "namens",
+    "probability": 0.99
+  },
+  {
+    "start": 4.186,
+    "end": 4.947,
+    "word": "Mittens",
+    "probability": 0.9549703069636022
+  },
+  {
+    "start": 4.947,
+    "end": 5.828,
+    "word": "Tom",
+    "probability": 0.9894851442046494
+  },
+  {
+    "start": 5.828,
+    "end": 6.449,
+    "word": "Kitten",
+    "probability": 0.9431097710484797
+  },
+  {
+    "start": 6.449,
+    "end": 6.969,
+    "word": "und",
+    "probability": 0.9833296762879625
+  },
+  {
+    "start": 6.969,
+    "end": 7.63,
+    "word": "Moppet",
+    "probability": 0.947833626124026
+  },
+  {
+    "start": 7.63,
+    "end": 8.471,
+    "word": "Sie",
+    "probability": 0.99
+  },
+  {
+    "start": 8.471,
+    "end": 8.872,
+    "word": "hatten",
+    "probability": 0.9570206369879651
+  },
+  {
+    "start": 8.872,
+    "end": 9.633,
+    "word": "wunderschöne",
+    "probability": 0.9652559732882782
+  },
+  {
+    "start": 9.633,
+    "end": 10.534,
+    "word": "Fellmäntel",
+    "probability": 0.9863723502061637
+  },
+  {
+    "start": 10.534,
+    "end": 10.914,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 10.914,
+    "end": 11.655,
+    "word": "verbrachten",
+    "probability": 0.9894963665075273
+  },
+  {
+    "start": 11.655,
+    "end": 11.876,
+    "word": "ihre",
+    "probability": 0.9782745012850115
+  },
+  {
+    "start": 11.876,
+    "end": 12.416,
+    "word": "Tage",
+    "probability": 0.9563405566299464
+  },
+  {
+    "start": 12.416,
+    "end": 12.897,
+    "word": "damit",
+    "probability": 0.9710366016635664
+  },
+  {
+    "start": 12.897,
+    "end": 13.538,
+    "word": "auf",
+    "probability": 0.9890897499982724
+  },
+  {
+    "start": 13.538,
+    "end": 13.718,
+    "word": "der",
+    "probability": 0.9484971490224751
+  },
+  {
+    "start": 13.718,
+    "end": 14.239,
+    "word": "Veranda",
+    "probability": 0.9789187470496082
+  },
+  {
+    "start": 14.239,
+    "end": 14.459,
+    "word": "zu",
+    "probability": 0.9680924026378581
+  },
+  {
+    "start": 14.459,
+    "end": 15.0,
+    "word": "tollen",
+    "probability": 0.9729903496826023
+  },
+  {
+    "start": 15.0,
+    "end": 15.481,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 15.481,
+    "end": 15.641,
+    "word": "im",
+    "probability": 0.9138393178627982
+  },
+  {
+    "start": 15.641,
+    "end": 16.041,
+    "word": "Dreck",
+    "probability": 0.8935735912707583
+  },
+  {
+    "start": 16.041,
+    "end": 16.202,
+    "word": "zu",
+    "probability": 0.8360230273391762
+  },
+  {
+    "start": 16.202,
+    "end": 16.662,
+    "word": "spielen",
+    "probability": 0.9660400142309148
+  }
+]

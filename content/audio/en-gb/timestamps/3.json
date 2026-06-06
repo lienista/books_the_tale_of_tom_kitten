@@ -1,0 +1,56 @@
+[
+  {
+    "start": 1.043,
+    "end": 1.223,
+    "word": "First",
+    "probability": 0.41533177536149307
+  },
+  {
+    "start": 1.223,
+    "end": 1.364,
+    "word": "she",
+    "probability": 0.5652619739906843
+  },
+  {
+    "start": 1.364,
+    "end": 2.025,
+    "word": "scrubbed",
+    "probability": 0.678209635520845
+  },
+  {
+    "start": 2.025,
+    "end": 2.747,
+    "word": "their",
+    "probability": 0.8111797910171936
+  },
+  {
+    "start": 2.747,
+    "end": 3.048,
+    "word": "faces",
+    "probability": 0.5443821918920587
+  },
+  {
+    "start": 3.048,
+    "end": 3.249,
+    "word": "this",
+    "probability": 0.5475504553860817
+  },
+  {
+    "start": 3.249,
+    "end": 3.67,
+    "word": "one",
+    "probability": 0.7512742373492048
+  },
+  {
+    "start": 3.67,
+    "end": 3.75,
+    "word": "is",
+    "probability": 0.306754289657062
+  },
+  {
+    "start": 3.75,
+    "end": 3.971,
+    "word": "Moppet",
+    "probability": 0.2767805830716955
+  }
+]

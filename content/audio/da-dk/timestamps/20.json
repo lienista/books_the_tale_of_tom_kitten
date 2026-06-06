@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.161,
+    "word": "Så",
+    "probability": 0.9581607148782744
+  },
+  {
+    "start": 0.161,
+    "end": 0.361,
+    "word": "kom",
+    "probability": 0.9380101092461762
+  },
+  {
+    "start": 0.361,
+    "end": 1.003,
+    "word": "Tabitha",
+    "probability": 0.8724301799389671
+  },
+  {
+    "start": 1.003,
+    "end": 1.605,
+    "word": "Twitchit",
+    "probability": 0.8303227546446993
+  },
+  {
+    "start": 1.605,
+    "end": 1.906,
+    "word": "ned",
+    "probability": 0.9598628705063613
+  },
+  {
+    "start": 1.906,
+    "end": 2.127,
+    "word": "til",
+    "probability": 0.8914910924891224
+  },
+  {
+    "start": 2.127,
+    "end": 2.528,
+    "word": "haven",
+    "probability": 0.9780535382336876
+  },
+  {
+    "start": 2.528,
+    "end": 3.11,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 3.11,
+    "end": 3.411,
+    "word": "fandt",
+    "probability": 0.9718043851471615
+  },
+  {
+    "start": 3.411,
+    "end": 3.712,
+    "word": "sine",
+    "probability": 0.9688070121168617
+  },
+  {
+    "start": 3.712,
+    "end": 4.274,
+    "word": "killinger",
+    "probability": 0.9525425038664885
+  },
+  {
+    "start": 4.274,
+    "end": 4.555,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 4.555,
+    "end": 4.936,
+    "word": "muren",
+    "probability": 0.9535990935306069
+  },
+  {
+    "start": 4.936,
+    "end": 5.418,
+    "word": "uden",
+    "probability": 0.99
+  },
+  {
+    "start": 5.418,
+    "end": 5.679,
+    "word": "tøj",
+    "probability": 0.9145991086864945
+  },
+  {
+    "start": 5.679,
+    "end": 5.859,
+    "word": "på",
+    "probability": 0.8913729877263583
+  }
+]

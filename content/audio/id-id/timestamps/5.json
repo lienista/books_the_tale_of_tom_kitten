@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.581,
+    "word": "Kemudian",
+    "probability": 0.9790431000230951
+  },
+  {
+    "start": 0.581,
+    "end": 0.821,
+    "word": "dia",
+    "probability": 0.9495489448993525
+  },
+  {
+    "start": 0.821,
+    "end": 1.382,
+    "word": "menyisir",
+    "probability": 0.9277317285856262
+  },
+  {
+    "start": 1.382,
+    "end": 1.763,
+    "word": "ekor",
+    "probability": 0.9845576512209377
+  },
+  {
+    "start": 1.763,
+    "end": 1.943,
+    "word": "dan",
+    "probability": 0.970814207427989
+  },
+  {
+    "start": 1.943,
+    "end": 2.464,
+    "word": "kumis",
+    "probability": 0.9898704102140736
+  },
+  {
+    "start": 2.464,
+    "end": 2.825,
+    "word": "mereka",
+    "probability": 0.969116184994679
+  },
+  {
+    "start": 2.825,
+    "end": 3.786,
+    "word": "ini",
+    "probability": 0.9797196439724022
+  },
+  {
+    "start": 3.786,
+    "end": 4.327,
+    "word": "adalah",
+    "probability": 0.9763812687826602
+  },
+  {
+    "start": 4.327,
+    "end": 4.728,
+    "word": "Tom",
+    "probability": 0.9894522799084715
+  },
+  {
+    "start": 4.728,
+    "end": 5.209,
+    "word": "Kitten",
+    "probability": 0.9448867122247764
+  },
+  {
+    "start": 5.209,
+    "end": 6.471,
+    "word": "Tom",
+    "probability": 0.9814250059427184
+  },
+  {
+    "start": 6.471,
+    "end": 6.791,
+    "word": "terus",
+    "probability": 0.9878548737451942
+  },
+  {
+    "start": 6.791,
+    "end": 7.232,
+    "word": "mencoba",
+    "probability": 0.98263762941576
+  },
+  {
+    "start": 7.232,
+    "end": 7.913,
+    "word": "mencakar",
+    "probability": 0.9892281628744215
+  },
+  {
+    "start": 7.913,
+    "end": 8.354,
+    "word": "sisir",
+    "probability": 0.9171438076320523
+  },
+  {
+    "start": 8.354,
+    "end": 8.594,
+    "word": "itu",
+    "probability": 0.9442497169054538
+  }
+]

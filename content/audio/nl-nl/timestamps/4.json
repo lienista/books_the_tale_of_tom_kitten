@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.181,
+    "end": 0.321,
+    "word": "Toen",
+    "probability": 0.89254351566246
+  },
+  {
+    "start": 0.321,
+    "end": 0.904,
+    "word": "borstelde",
+    "probability": 0.9821085486767912
+  },
+  {
+    "start": 0.904,
+    "end": 1.084,
+    "word": "ze",
+    "probability": 0.8752438411514943
+  },
+  {
+    "start": 1.084,
+    "end": 1.285,
+    "word": "hun",
+    "probability": 0.934660018658603
+  },
+  {
+    "start": 1.285,
+    "end": 1.707,
+    "word": "vacht",
+    "probability": 0.941168464625399
+  },
+  {
+    "start": 1.707,
+    "end": 2.47,
+    "word": "deze",
+    "probability": 0.99
+  },
+  {
+    "start": 2.47,
+    "end": 2.631,
+    "word": "is",
+    "probability": 0.927437734116745
+  },
+  {
+    "start": 2.631,
+    "end": 3.053,
+    "word": "Mittens",
+    "probability": 0.8557209745695666
+  }
+]

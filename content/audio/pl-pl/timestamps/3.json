@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.481,
+    "word": "Najpierw",
+    "probability": 0.9344997440561336
+  },
+  {
+    "start": 0.481,
+    "end": 1.404,
+    "word": "wyszorowała",
+    "probability": 0.9341390424869647
+  },
+  {
+    "start": 1.404,
+    "end": 1.585,
+    "word": "im",
+    "probability": 0.99
+  },
+  {
+    "start": 1.585,
+    "end": 2.126,
+    "word": "twarze",
+    "probability": 0.99
+  },
+  {
+    "start": 2.126,
+    "end": 2.788,
+    "word": "to",
+    "probability": 0.9776096588156226
+  },
+  {
+    "start": 2.788,
+    "end": 3.149,
+    "word": "jest",
+    "probability": 0.9630072272661236
+  },
+  {
+    "start": 3.149,
+    "end": 3.811,
+    "word": "Moppet",
+    "probability": 0.9690050465366087
+  }
+]

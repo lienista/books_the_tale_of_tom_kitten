@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.541,
+    "word": "Господин",
+    "probability": 0.9243260217005148
+  },
+  {
+    "start": 0.541,
+    "end": 0.902,
+    "word": "Drake",
+    "probability": 0.7612957566091242
+  },
+  {
+    "start": 0.902,
+    "end": 1.644,
+    "word": "PuddleDuck",
+    "probability": 0.7219078953108327
+  },
+  {
+    "start": 1.644,
+    "end": 2.005,
+    "word": "се",
+    "probability": 0.9301675639078905
+  },
+  {
+    "start": 2.005,
+    "end": 2.746,
+    "word": "заклатушка",
+    "probability": 0.99
+  },
+  {
+    "start": 2.746,
+    "end": 3.227,
+    "word": "бавно",
+    "probability": 0.99
+  },
+  {
+    "start": 3.227,
+    "end": 4.25,
+    "word": "странично",
+    "probability": 0.9748132831190196
+  },
+  {
+    "start": 4.25,
+    "end": 5.112,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 5.112,
+    "end": 5.593,
+    "word": "вдигна",
+    "probability": 0.9793341677555275
+  },
+  {
+    "start": 5.593,
+    "end": 6.314,
+    "word": "различните",
+    "probability": 0.982353554695695
+  },
+  {
+    "start": 6.314,
+    "end": 6.876,
+    "word": "предмети",
+    "probability": 0.9882889099268455
+  }
+]

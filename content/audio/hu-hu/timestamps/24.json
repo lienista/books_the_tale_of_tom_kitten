@@ -1,0 +1,164 @@
+[
+  {
+    "start": 1.575,
+    "end": 2.073,
+    "word": "Ehelyett",
+    "probability": 0.5612875755390743
+  },
+  {
+    "start": 2.073,
+    "end": 2.377,
+    "word": "nagyon",
+    "probability": 0.37898181163136013
+  },
+  {
+    "start": 2.377,
+    "end": 2.874,
+    "word": "furcsa",
+    "probability": 0.6632553171747081
+  },
+  {
+    "start": 2.874,
+    "end": 3.289,
+    "word": "zajok",
+    "probability": 0.5705382237379439
+  },
+  {
+    "start": 3.289,
+    "end": 4.007,
+    "word": "jöttek",
+    "probability": 0.762868657668821
+  },
+  {
+    "start": 4.007,
+    "end": 4.395,
+    "word": "az",
+    "probability": 0.7575550421924262
+  },
+  {
+    "start": 4.395,
+    "end": 5.058,
+    "word": "emeletről",
+    "probability": 0.6150736345082434
+  },
+  {
+    "start": 5.058,
+    "end": 5.528,
+    "word": "ami",
+    "probability": 0.8137489308325634
+  },
+  {
+    "start": 5.528,
+    "end": 6.717,
+    "word": "elrontotta",
+    "probability": 0.7060682932732637
+  },
+  {
+    "start": 6.717,
+    "end": 6.8,
+    "word": "a",
+    "probability": 0.663962211215908
+  },
+  {
+    "start": 6.8,
+    "end": 8.264,
+    "word": "teadélután",
+    "probability": 0.7982726151799308
+  },
+  {
+    "start": 8.264,
+    "end": 9.039,
+    "word": "csendes",
+    "probability": 0.7119815377701105
+  },
+  {
+    "start": 9.039,
+    "end": 10.172,
+    "word": "hangulatát",
+    "probability": 0.7188048880648482
+  },
+  {
+    "start": 10.172,
+    "end": 10.393,
+    "word": "És",
+    "probability": 0.6255312997946799
+  },
+  {
+    "start": 10.393,
+    "end": 10.724,
+    "word": "azt",
+    "probability": 0.6000373139854664
+  },
+  {
+    "start": 10.724,
+    "end": 11.276,
+    "word": "hiszem",
+    "probability": 0.5901594455353489
+  },
+  {
+    "start": 11.276,
+    "end": 11.526,
+    "word": "egy",
+    "probability": 0.552189722329958
+  },
+  {
+    "start": 11.526,
+    "end": 11.747,
+    "word": "nap",
+    "probability": 0.5005463896007272
+  },
+  {
+    "start": 11.747,
+    "end": 12.797,
+    "word": "hosszabb",
+    "probability": 0.756150740887214
+  },
+  {
+    "start": 12.797,
+    "end": 14.427,
+    "word": "könyvet",
+    "probability": 0.882545177356895
+  },
+  {
+    "start": 14.427,
+    "end": 14.953,
+    "word": "kell",
+    "probability": 0.7364190336856129
+  },
+  {
+    "start": 14.953,
+    "end": 15.395,
+    "word": "írnom",
+    "probability": 0.6202112474864313
+  },
+  {
+    "start": 15.395,
+    "end": 15.643,
+    "word": "hogy",
+    "probability": 0.44442224852067574
+  },
+  {
+    "start": 15.643,
+    "end": 17.441,
+    "word": "többet",
+    "probability": 0.895687667925144
+  },
+  {
+    "start": 17.441,
+    "end": 17.938,
+    "word": "meséljek",
+    "probability": 0.49439581582970515
+  },
+  {
+    "start": 17.938,
+    "end": 18.131,
+    "word": "Tom",
+    "probability": 0.4285690649351955
+  },
+  {
+    "start": 18.131,
+    "end": 18.712,
+    "word": "Kittenről",
+    "probability": 0.6182154245444185
+  }
+]

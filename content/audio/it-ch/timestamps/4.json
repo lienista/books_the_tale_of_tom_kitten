@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.101,
+    "end": 0.201,
+    "word": "Poi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.201,
+    "end": 0.785,
+    "word": "spazzolò",
+    "probability": 0.978354451901886
+  },
+  {
+    "start": 0.785,
+    "end": 0.926,
+    "word": "la",
+    "probability": 0.9838628829629626
+  },
+  {
+    "start": 0.926,
+    "end": 1.167,
+    "word": "loro",
+    "probability": 0.9645314532530121
+  },
+  {
+    "start": 1.167,
+    "end": 1.912,
+    "word": "pelliccia",
+    "probability": 0.9733637568296711
+  },
+  {
+    "start": 1.912,
+    "end": 2.314,
+    "word": "questo",
+    "probability": 0.977151615812436
+  },
+  {
+    "start": 2.314,
+    "end": 2.375,
+    "word": "è",
+    "probability": 0.9343115746083681
+  },
+  {
+    "start": 2.375,
+    "end": 2.999,
+    "word": "Mittens",
+    "probability": 0.9642897795218239
+  }
+]

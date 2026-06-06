@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.3,
+    "word": "Para",
+    "probability": 0.9859201797618885
+  },
+  {
+    "start": 0.3,
+    "end": 0.681,
+    "word": "naman",
+    "probability": 0.9656140783638211
+  },
+  {
+    "start": 0.681,
+    "end": 0.881,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 0.881,
+    "end": 1.141,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 1.141,
+    "end": 3.062,
+    "word": "PuddleDuckspumunta",
+    "probability": 0.8929583394454855
+  },
+  {
+    "start": 3.062,
+    "end": 3.383,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 3.383,
+    "end": 3.583,
+    "word": "sa",
+    "probability": 0.9605377297492224
+  },
+  {
+    "start": 3.583,
+    "end": 3.903,
+    "word": "isang",
+    "probability": 0.9817057244410903
+  },
+  {
+    "start": 3.903,
+    "end": 4.404,
+    "word": "pond",
+    "probability": 0.8248023130039496
+  },
+  {
+    "start": 4.404,
+    "end": 5.184,
+    "word": "Ang",
+    "probability": 0.9806820862606884
+  },
+  {
+    "start": 5.184,
+    "end": 5.524,
+    "word": "mga",
+    "probability": 0.9643595137848213
+  },
+  {
+    "start": 5.524,
+    "end": 5.925,
+    "word": "damit",
+    "probability": 0.9583082655272273
+  },
+  {
+    "start": 5.925,
+    "end": 6.105,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 6.105,
+    "end": 6.485,
+    "word": "agad",
+    "probability": 0.9361253364684944
+  },
+  {
+    "start": 6.485,
+    "end": 6.605,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 6.605,
+    "end": 7.266,
+    "word": "nahulog",
+    "probability": 0.9655328799861874
+  },
+  {
+    "start": 7.266,
+    "end": 8.026,
+    "word": "dahil",
+    "probability": 0.99
+  },
+  {
+    "start": 8.026,
+    "end": 8.287,
+    "word": "wala",
+    "probability": 0.99
+  },
+  {
+    "start": 8.287,
+    "end": 8.527,
+    "word": "nang",
+    "probability": 0.9061351914256018
+  },
+  {
+    "start": 8.527,
+    "end": 8.987,
+    "word": "natirang",
+    "probability": 0.977033589821999
+  },
+  {
+    "start": 8.987,
+    "end": 9.247,
+    "word": "mga",
+    "probability": 0.9778629758198705
+  },
+  {
+    "start": 9.247,
+    "end": 10.008,
+    "word": "butones",
+    "probability": 0.9657817413344337
+  },
+  {
+    "start": 10.008,
+    "end": 10.729,
+    "word": "para",
+    "probability": 0.99
+  },
+  {
+    "start": 10.729,
+    "end": 11.489,
+    "word": "mapanatili",
+    "probability": 0.9861949621449785
+  },
+  {
+    "start": 11.489,
+    "end": 11.669,
+    "word": "ang",
+    "probability": 0.97258584998888
+  },
+  {
+    "start": 11.669,
+    "end": 11.97,
+    "word": "mga",
+    "probability": 0.9553509441285412
+  },
+  {
+    "start": 11.97,
+    "end": 12.25,
+    "word": "ito",
+    "probability": 0.9607769609635334
+  }
+]

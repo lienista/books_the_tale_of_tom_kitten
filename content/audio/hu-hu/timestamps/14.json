@@ -1,0 +1,68 @@
+[
+  {
+    "start": 3.344,
+    "end": 3.744,
+    "word": "Megálltak",
+    "probability": 0.5256051902034791
+  },
+  {
+    "start": 3.744,
+    "end": 3.804,
+    "word": "és",
+    "probability": 0.044938523341420476
+  },
+  {
+    "start": 3.804,
+    "end": 4.725,
+    "word": "sorba",
+    "probability": 0.891243685717734
+  },
+  {
+    "start": 4.725,
+    "end": 5.166,
+    "word": "álltak",
+    "probability": 0.7270685549496568
+  },
+  {
+    "start": 5.166,
+    "end": 5.426,
+    "word": "széles",
+    "probability": 0.5328305110341511
+  },
+  {
+    "start": 5.426,
+    "end": 5.907,
+    "word": "meglepett",
+    "probability": 0.5832348539073651
+  },
+  {
+    "start": 5.907,
+    "end": 6.487,
+    "word": "szemekkel",
+    "probability": 0.6889051584699976
+  },
+  {
+    "start": 6.487,
+    "end": 6.868,
+    "word": "bámulva",
+    "probability": 0.6198085322050498
+  },
+  {
+    "start": 6.868,
+    "end": 7.388,
+    "word": "fel",
+    "probability": 0.8846039057614669
+  },
+  {
+    "start": 7.388,
+    "end": 7.488,
+    "word": "a",
+    "probability": 0.7688769125471483
+  },
+  {
+    "start": 7.488,
+    "end": 7.869,
+    "word": "kiscicákra",
+    "probability": 0.45888805959622464
+  }
+]

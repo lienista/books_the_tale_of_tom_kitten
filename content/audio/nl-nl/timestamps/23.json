@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.842,
+    "word": "Integendeel",
+    "probability": 0.9005679531709736
+  },
+  {
+    "start": 0.842,
+    "end": 1.484,
+    "word": "ze",
+    "probability": 0.9784863241760723
+  },
+  {
+    "start": 1.484,
+    "end": 1.865,
+    "word": "lagen",
+    "probability": 0.9693153058808258
+  },
+  {
+    "start": 1.865,
+    "end": 2.406,
+    "word": "helemaal",
+    "probability": 0.9783530466001283
+  },
+  {
+    "start": 2.406,
+    "end": 2.607,
+    "word": "niet",
+    "probability": 0.9645896214219267
+  },
+  {
+    "start": 2.607,
+    "end": 2.747,
+    "word": "in",
+    "probability": 0.9767309335284965
+  },
+  {
+    "start": 2.747,
+    "end": 2.888,
+    "word": "bed",
+    "probability": 0.9437368655508073
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.461,
+    "end": 0.622,
+    "word": "Aivan",
+    "probability": 0.4999992102543303
+  },
+  {
+    "start": 0.622,
+    "end": 1.164,
+    "word": "päinvastoin",
+    "probability": 0.5415682700823107
+  },
+  {
+    "start": 1.164,
+    "end": 1.826,
+    "word": "he",
+    "probability": 0.9371666995922131
+  },
+  {
+    "start": 1.826,
+    "end": 2.107,
+    "word": "eivät",
+    "probability": 0.5153631684621324
+  },
+  {
+    "start": 2.107,
+    "end": 2.468,
+    "word": "olleet",
+    "probability": 0.5561406113535565
+  },
+  {
+    "start": 2.468,
+    "end": 2.99,
+    "word": "sängyssä",
+    "probability": 0.6140465846540243
+  },
+  {
+    "start": 2.99,
+    "end": 3.391,
+    "word": "ollenkaan",
+    "probability": 0.5998855331752033
+  }
+]

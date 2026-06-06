@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.321,
+    "end": 0.381,
+    "word": "Mr",
+    "probability": 0.5353550689988275
+  },
+  {
+    "start": 0.381,
+    "end": 0.882,
+    "word": "Drake",
+    "probability": 0.908852287708617
+  },
+  {
+    "start": 0.882,
+    "end": 1.643,
+    "word": "PuddleDuck",
+    "probability": 0.8008728608537412
+  },
+  {
+    "start": 1.643,
+    "end": 2.365,
+    "word": "vraldede",
+    "probability": 0.8903830486480803
+  },
+  {
+    "start": 2.365,
+    "end": 2.705,
+    "word": "over",
+    "probability": 0.9635387511250033
+  },
+  {
+    "start": 2.705,
+    "end": 2.946,
+    "word": "på",
+    "probability": 0.9859445698371753
+  },
+  {
+    "start": 2.946,
+    "end": 3.106,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 3.106,
+    "end": 3.627,
+    "word": "langsom",
+    "probability": 0.99
+  },
+  {
+    "start": 3.627,
+    "end": 4.489,
+    "word": "sidelæns",
+    "probability": 0.9212849252836033
+  },
+  {
+    "start": 4.489,
+    "end": 4.81,
+    "word": "måde",
+    "probability": 0.9195887915682665
+  },
+  {
+    "start": 4.81,
+    "end": 5.311,
+    "word": "og",
+    "probability": 0.9883553654563684
+  },
+  {
+    "start": 5.311,
+    "end": 5.872,
+    "word": "samlede",
+    "probability": 0.9635274921705127
+  },
+  {
+    "start": 5.872,
+    "end": 6.132,
+    "word": "de",
+    "probability": 0.9622134847040508
+  },
+  {
+    "start": 6.132,
+    "end": 6.733,
+    "word": "forskellige",
+    "probability": 0.99
+  },
+  {
+    "start": 6.733,
+    "end": 7.014,
+    "word": "ting",
+    "probability": 0.9548609775870233
+  },
+  {
+    "start": 7.014,
+    "end": 7.234,
+    "word": "op",
+    "probability": 0.9473363312741604
+  }
+]

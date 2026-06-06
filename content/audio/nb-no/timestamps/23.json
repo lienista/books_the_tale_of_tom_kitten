@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.321,
+    "word": "Helt",
+    "probability": 0.99
+  },
+  {
+    "start": 0.321,
+    "end": 0.864,
+    "word": "motsatt",
+    "probability": 0.9317675223833576
+  },
+  {
+    "start": 0.864,
+    "end": 1.466,
+    "word": "de",
+    "probability": 0.9832864534219729
+  },
+  {
+    "start": 1.466,
+    "end": 1.667,
+    "word": "var",
+    "probability": 0.99
+  },
+  {
+    "start": 1.667,
+    "end": 1.968,
+    "word": "ikke",
+    "probability": 0.9822407961917369
+  },
+  {
+    "start": 1.968,
+    "end": 2.089,
+    "word": "i",
+    "probability": 0.9776165290644193
+  },
+  {
+    "start": 2.089,
+    "end": 2.55,
+    "word": "sengen",
+    "probability": 0.9372979583586974
+  },
+  {
+    "start": 2.55,
+    "end": 2.791,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 2.791,
+    "end": 2.912,
+    "word": "det",
+    "probability": 0.9216800397523945
+  },
+  {
+    "start": 2.912,
+    "end": 3.153,
+    "word": "hele",
+    "probability": 0.99
+  },
+  {
+    "start": 3.153,
+    "end": 3.394,
+    "word": "tatt",
+    "probability": 0.9585624962127633
+  }
+]

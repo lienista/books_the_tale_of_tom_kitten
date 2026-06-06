@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "De",
+    "probability": 0.8930714897156801
+  },
+  {
+    "start": 0.16,
+    "end": 0.501,
+    "word": "vendte",
+    "probability": 0.919248682901828
+  },
+  {
+    "start": 0.501,
+    "end": 0.841,
+    "word": "deres",
+    "probability": 0.9168441727566082
+  },
+  {
+    "start": 0.841,
+    "end": 1.302,
+    "word": "kjoler",
+    "probability": 0.9598887615334355
+  },
+  {
+    "start": 1.302,
+    "end": 2.043,
+    "word": "baglæns",
+    "probability": 0.9730803427282
+  },
+  {
+    "start": 2.043,
+    "end": 2.624,
+    "word": "så",
+    "probability": 0.99
+  },
+  {
+    "start": 2.624,
+    "end": 2.785,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 2.785,
+    "end": 3.045,
+    "word": "kunne",
+    "probability": 0.9782891905848266
+  },
+  {
+    "start": 3.045,
+    "end": 3.506,
+    "word": "bevæge",
+    "probability": 0.980001258955119
+  },
+  {
+    "start": 3.506,
+    "end": 3.746,
+    "word": "sig",
+    "probability": 0.9672734121678718
+  },
+  {
+    "start": 3.746,
+    "end": 4.127,
+    "word": "bedre",
+    "probability": 0.99
+  },
+  {
+    "start": 4.127,
+    "end": 4.507,
+    "word": "og",
+    "probability": 0.9802069293907921
+  },
+  {
+    "start": 4.507,
+    "end": 4.828,
+    "word": "sprang",
+    "probability": 0.967272540582171
+  },
+  {
+    "start": 4.828,
+    "end": 5.108,
+    "word": "op",
+    "probability": 0.9649761503105238
+  },
+  {
+    "start": 5.108,
+    "end": 6.471,
+    "word": "Moppets",
+    "probability": 0.9571146752556343
+  },
+  {
+    "start": 6.471,
+    "end": 6.831,
+    "word": "hvide",
+    "probability": 0.9013529623169033
+  },
+  {
+    "start": 6.831,
+    "end": 7.613,
+    "word": "blondekrave",
+    "probability": 0.9567341629468569
+  },
+  {
+    "start": 7.613,
+    "end": 7.953,
+    "word": "faldt",
+    "probability": 0.9400045391740871
+  },
+  {
+    "start": 7.953,
+    "end": 8.173,
+    "word": "ned",
+    "probability": 0.9657769267310059
+  },
+  {
+    "start": 8.173,
+    "end": 8.374,
+    "word": "på",
+    "probability": 0.9549838901904162
+  },
+  {
+    "start": 8.374,
+    "end": 8.694,
+    "word": "vejen",
+    "probability": 0.986716080745384
+  }
+]

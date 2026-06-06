@@ -1,0 +1,194 @@
+[
+  {
+    "start": 11.051,
+    "end": 11.131,
+    "word": "Tom",
+    "probability": 0.49998802235128254
+  },
+  {
+    "start": 11.131,
+    "end": 11.431,
+    "word": "Kitten",
+    "probability": 0.5333237936789221
+  },
+  {
+    "start": 11.431,
+    "end": 11.531,
+    "word": "nije",
+    "probability": 0.01
+  },
+  {
+    "start": 11.531,
+    "end": 11.711,
+    "word": "mogao",
+    "probability": 0.33407807756544367
+  },
+  {
+    "start": 11.711,
+    "end": 11.851,
+    "word": "uopće",
+    "probability": 0.1428630931299593
+  },
+  {
+    "start": 11.851,
+    "end": 12.012,
+    "word": "skočiti",
+    "probability": 0.01
+  },
+  {
+    "start": 12.012,
+    "end": 12.212,
+    "word": "dok",
+    "probability": 0.5999469635190018
+  },
+  {
+    "start": 12.212,
+    "end": 12.292,
+    "word": "je",
+    "probability": 0.2499649353480933
+  },
+  {
+    "start": 12.292,
+    "end": 12.752,
+    "word": "pokušavao",
+    "probability": 0.564292656045769
+  },
+  {
+    "start": 12.752,
+    "end": 13.113,
+    "word": "hodati",
+    "probability": 0.6110801995663294
+  },
+  {
+    "start": 13.113,
+    "end": 13.173,
+    "word": "na",
+    "probability": 0.01
+  },
+  {
+    "start": 13.173,
+    "end": 13.533,
+    "word": "stražnjim",
+    "probability": 0.4444506298554038
+  },
+  {
+    "start": 13.533,
+    "end": 13.753,
+    "word": "nogama",
+    "probability": 0.3635897339560796
+  },
+  {
+    "start": 13.753,
+    "end": 13.793,
+    "word": "u",
+    "probability": 0.01
+  },
+  {
+    "start": 13.793,
+    "end": 14.114,
+    "word": "hlačama",
+    "probability": 0.49996161990081367
+  },
+  {
+    "start": 14.114,
+    "end": 14.234,
+    "word": "Mučio",
+    "probability": 0.01
+  },
+  {
+    "start": 14.234,
+    "end": 14.314,
+    "word": "se",
+    "probability": 0.24992441598418308
+  },
+  {
+    "start": 14.314,
+    "end": 14.514,
+    "word": "penjući",
+    "probability": 0.19959060633970546
+  },
+  {
+    "start": 14.514,
+    "end": 14.714,
+    "word": "se",
+    "probability": 0.6993821664331797
+  },
+  {
+    "start": 14.714,
+    "end": 14.794,
+    "word": "po",
+    "probability": 0.24999707571260088
+  },
+  {
+    "start": 14.794,
+    "end": 15.235,
+    "word": "stijenama",
+    "probability": 0.5454429121657008
+  },
+  {
+    "start": 15.235,
+    "end": 15.455,
+    "word": "malo",
+    "probability": 0.5454261360911754
+  },
+  {
+    "start": 15.455,
+    "end": 15.515,
+    "word": "po",
+    "probability": 0.01
+  },
+  {
+    "start": 15.515,
+    "end": 15.615,
+    "word": "malo",
+    "probability": 0.01
+  },
+  {
+    "start": 15.615,
+    "end": 15.795,
+    "word": "gnječeći",
+    "probability": 0.01
+  },
+  {
+    "start": 15.795,
+    "end": 15.915,
+    "word": "paprati",
+    "probability": 0.01
+  },
+  {
+    "start": 15.915,
+    "end": 15.935,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 15.915,
+    "end": 15.935,
+    "word": "gubeći",
+    "probability": 0.01
+  },
+  {
+    "start": 15.915,
+    "end": 15.935,
+    "word": "gumbe",
+    "probability": 0.01
+  },
+  {
+    "start": 15.915,
+    "end": 15.935,
+    "word": "lijevo",
+    "probability": 0.01
+  },
+  {
+    "start": 15.915,
+    "end": 15.935,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 15.915,
+    "end": 15.935,
+    "word": "desno",
+    "probability": 0.01
+  }
+]

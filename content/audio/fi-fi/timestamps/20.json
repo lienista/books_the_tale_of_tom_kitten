@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.782,
+    "end": 0.983,
+    "word": "Sitten",
+    "probability": 0.4983443224165548
+  },
+  {
+    "start": 0.983,
+    "end": 1.364,
+    "word": "Tabitha",
+    "probability": 0.6133485091571887
+  },
+  {
+    "start": 1.364,
+    "end": 1.705,
+    "word": "Twitchit",
+    "probability": 0.4602284493180693
+  },
+  {
+    "start": 1.705,
+    "end": 2.046,
+    "word": "tuli",
+    "probability": 0.7013036604141806
+  },
+  {
+    "start": 2.046,
+    "end": 2.327,
+    "word": "alas",
+    "probability": 0.7116554356864757
+  },
+  {
+    "start": 2.327,
+    "end": 2.849,
+    "word": "puutarhaan",
+    "probability": 0.535197280501082
+  },
+  {
+    "start": 2.849,
+    "end": 3.29,
+    "word": "ja",
+    "probability": 0.9090392830376056
+  },
+  {
+    "start": 3.29,
+    "end": 3.47,
+    "word": "löysi",
+    "probability": 0.4444444315684836
+  },
+  {
+    "start": 3.47,
+    "end": 4.112,
+    "word": "kissanpentunsa",
+    "probability": 0.4995408024496585
+  },
+  {
+    "start": 4.112,
+    "end": 4.554,
+    "word": "muurilta",
+    "probability": 0.5871277173412364
+  },
+  {
+    "start": 4.554,
+    "end": 4.734,
+    "word": "ilman",
+    "probability": 0.3008134616466898
+  },
+  {
+    "start": 4.734,
+    "end": 5.155,
+    "word": "vaatteita",
+    "probability": 0.5588259191954306
+  }
+]

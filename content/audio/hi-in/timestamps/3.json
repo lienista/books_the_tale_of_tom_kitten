@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.658,
+    "end": 1.19,
+    "word": "सबस",
+    "probability": 0.99
+  },
+  {
+    "start": 1.19,
+    "end": 2.012,
+    "word": "पहल",
+    "probability": 0.7980133811161715
+  },
+  {
+    "start": 2.012,
+    "end": 3.655,
+    "word": "उसन",
+    "probability": 0.9229429284859154
+  },
+  {
+    "start": 3.655,
+    "end": 4.272,
+    "word": "उनक",
+    "probability": 0.7671641519139182
+  },
+  {
+    "start": 4.272,
+    "end": 4.435,
+    "word": "चहर",
+    "probability": 0.5984515143095372
+  },
+  {
+    "start": 4.435,
+    "end": 4.64,
+    "word": "सफ",
+    "probability": 0.5999128769645713
+  },
+  {
+    "start": 4.64,
+    "end": 4.806,
+    "word": "कए",
+    "probability": 0.49921347895883994
+  },
+  {
+    "start": 4.806,
+    "end": 4.888,
+    "word": "यह",
+    "probability": 0.01
+  },
+  {
+    "start": 4.888,
+    "end": 5.093,
+    "word": "मपट",
+    "probability": 0.499280235147189
+  },
+  {
+    "start": 5.093,
+    "end": 5.134,
+    "word": "ह",
+    "probability": 0.01
+  }
+]

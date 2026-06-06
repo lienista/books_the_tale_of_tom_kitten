@@ -1,0 +1,230 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.28,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.28,
+    "end": 0.701,
+    "word": "Kitten",
+    "probability": 0.7446247013435269
+  },
+  {
+    "start": 0.701,
+    "end": 0.861,
+    "word": "nu",
+    "probability": 0.8722308799750459
+  },
+  {
+    "start": 0.861,
+    "end": 1.181,
+    "word": "putea",
+    "probability": 0.9528194986672913
+  },
+  {
+    "start": 1.181,
+    "end": 1.341,
+    "word": "să",
+    "probability": 0.971875278731811
+  },
+  {
+    "start": 1.341,
+    "end": 1.622,
+    "word": "sară",
+    "probability": 0.9712484479997638
+  },
+  {
+    "start": 1.622,
+    "end": 2.042,
+    "word": "deloc",
+    "probability": 0.9563003526081686
+  },
+  {
+    "start": 2.042,
+    "end": 2.202,
+    "word": "în",
+    "probability": 0.9581366778056786
+  },
+  {
+    "start": 2.202,
+    "end": 2.443,
+    "word": "timp",
+    "probability": 0.9856477470586719
+  },
+  {
+    "start": 2.443,
+    "end": 2.563,
+    "word": "ce",
+    "probability": 0.9849091156247707
+  },
+  {
+    "start": 2.563,
+    "end": 2.983,
+    "word": "încerca",
+    "probability": 0.962063484639103
+  },
+  {
+    "start": 2.983,
+    "end": 3.163,
+    "word": "să",
+    "probability": 0.9504399209714136
+  },
+  {
+    "start": 3.163,
+    "end": 3.504,
+    "word": "meargă",
+    "probability": 0.9637981817064516
+  },
+  {
+    "start": 3.504,
+    "end": 3.684,
+    "word": "pe",
+    "probability": 0.9803904977665228
+  },
+  {
+    "start": 3.684,
+    "end": 4.225,
+    "word": "picioarele",
+    "probability": 0.9745604261052153
+  },
+  {
+    "start": 4.225,
+    "end": 4.425,
+    "word": "din",
+    "probability": 0.9514843423229099
+  },
+  {
+    "start": 4.425,
+    "end": 4.825,
+    "word": "spate",
+    "probability": 0.9467507788923453
+  },
+  {
+    "start": 4.825,
+    "end": 4.905,
+    "word": "în",
+    "probability": 0.4961588861861729
+  },
+  {
+    "start": 4.905,
+    "end": 5.586,
+    "word": "pantaloni",
+    "probability": 0.959789865027088
+  },
+  {
+    "start": 5.586,
+    "end": 6.207,
+    "word": "Sa",
+    "probability": 0.9752772688140121
+  },
+  {
+    "start": 6.207,
+    "end": 6.687,
+    "word": "chinuit",
+    "probability": 0.88920534061835
+  },
+  {
+    "start": 6.687,
+    "end": 6.868,
+    "word": "să",
+    "probability": 0.8939571416744472
+  },
+  {
+    "start": 6.868,
+    "end": 7.088,
+    "word": "urce",
+    "probability": 0.8974766291542224
+  },
+  {
+    "start": 7.088,
+    "end": 7.268,
+    "word": "pe",
+    "probability": 0.9873451437725902
+  },
+  {
+    "start": 7.268,
+    "end": 7.709,
+    "word": "pietre",
+    "probability": 0.9587188003686635
+  },
+  {
+    "start": 7.709,
+    "end": 8.089,
+    "word": "puțin",
+    "probability": 0.952491724535009
+  },
+  {
+    "start": 8.089,
+    "end": 8.309,
+    "word": "câte",
+    "probability": 0.9166483902524998
+  },
+  {
+    "start": 8.309,
+    "end": 8.83,
+    "word": "puțin",
+    "probability": 0.99
+  },
+  {
+    "start": 8.83,
+    "end": 9.871,
+    "word": "zdrobind",
+    "probability": 0.9839557406051798
+  },
+  {
+    "start": 9.871,
+    "end": 10.492,
+    "word": "ferigile",
+    "probability": 0.9434036927727412
+  },
+  {
+    "start": 10.492,
+    "end": 10.672,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 10.672,
+    "end": 11.212,
+    "word": "pierzând",
+    "probability": 0.9661721362648498
+  },
+  {
+    "start": 11.212,
+    "end": 11.693,
+    "word": "nasturi",
+    "probability": 0.9138809604083279
+  },
+  {
+    "start": 11.693,
+    "end": 11.793,
+    "word": "în",
+    "probability": 0.9560857389665246
+  },
+  {
+    "start": 11.793,
+    "end": 12.193,
+    "word": "stânga",
+    "probability": 0.9356590672399943
+  },
+  {
+    "start": 12.193,
+    "end": 12.334,
+    "word": "și",
+    "probability": 0.9781252169751677
+  },
+  {
+    "start": 12.334,
+    "end": 12.414,
+    "word": "în",
+    "probability": 0.99
+  },
+  {
+    "start": 12.414,
+    "end": 12.814,
+    "word": "dreapta",
+    "probability": 0.9621958104729276
+  }
+]

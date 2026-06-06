@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.261,
+    "word": "Pan",
+    "probability": 0.99
+  },
+  {
+    "start": 0.261,
+    "end": 0.681,
+    "word": "Drake",
+    "probability": 0.8695988226594754
+  },
+  {
+    "start": 0.681,
+    "end": 1.303,
+    "word": "PuddleDuck",
+    "probability": 0.730675070705265
+  },
+  {
+    "start": 1.303,
+    "end": 1.443,
+    "word": "se",
+    "probability": 0.8998537804770185
+  },
+  {
+    "start": 1.443,
+    "end": 1.964,
+    "word": "pomalu",
+    "probability": 0.99
+  },
+  {
+    "start": 1.964,
+    "end": 2.625,
+    "word": "bokem",
+    "probability": 0.9885823496652836
+  },
+  {
+    "start": 2.625,
+    "end": 3.587,
+    "word": "přikolébal",
+    "probability": 0.99
+  },
+  {
+    "start": 3.587,
+    "end": 3.807,
+    "word": "a",
+    "probability": 0.9301179559070978
+  },
+  {
+    "start": 3.807,
+    "end": 4.348,
+    "word": "sebral",
+    "probability": 0.99
+  },
+  {
+    "start": 4.348,
+    "end": 4.809,
+    "word": "různé",
+    "probability": 0.99
+  },
+  {
+    "start": 4.809,
+    "end": 5.27,
+    "word": "věci",
+    "probability": 0.9799994676073887
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.08,
+    "word": "M",
+    "probability": 0.9846389613138554
+  },
+  {
+    "start": 0.08,
+    "end": 0.801,
+    "word": "Drake",
+    "probability": 0.8536816215469821
+  },
+  {
+    "start": 0.801,
+    "end": 1.723,
+    "word": "PuddleDuck",
+    "probability": 0.7833086481433625
+  },
+  {
+    "start": 1.723,
+    "end": 2.064,
+    "word": "se",
+    "probability": 0.8975023282505838
+  },
+  {
+    "start": 2.064,
+    "end": 2.585,
+    "word": "dandina",
+    "probability": 0.9602312443649617
+  },
+  {
+    "start": 2.585,
+    "end": 3.086,
+    "word": "lentement",
+    "probability": 0.99
+  },
+  {
+    "start": 3.086,
+    "end": 3.246,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 3.246,
+    "end": 3.687,
+    "word": "côté",
+    "probability": 0.9899304480978846
+  },
+  {
+    "start": 3.687,
+    "end": 4.067,
+    "word": "et",
+    "probability": 0.9886884688130867
+  },
+  {
+    "start": 4.067,
+    "end": 4.628,
+    "word": "ramassa",
+    "probability": 0.9850597729749248
+  },
+  {
+    "start": 4.628,
+    "end": 4.829,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 4.829,
+    "end": 5.249,
+    "word": "divers",
+    "probability": 0.99
+  },
+  {
+    "start": 5.249,
+    "end": 5.71,
+    "word": "objets",
+    "probability": 0.99
+  }
+]

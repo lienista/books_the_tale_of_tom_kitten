@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.441,
+    "end": 0.561,
+    "word": "And",
+    "probability": 0.599956209906811
+  },
+  {
+    "start": 0.561,
+    "end": 0.621,
+    "word": "Mr",
+    "probability": 0.4142586342083835
+  },
+  {
+    "start": 0.621,
+    "end": 0.902,
+    "word": "Drake",
+    "probability": 0.47543637418281687
+  },
+  {
+    "start": 0.902,
+    "end": 1.563,
+    "word": "PuddleDuck",
+    "probability": 0.5540178218111604
+  },
+  {
+    "start": 1.563,
+    "end": 2.444,
+    "word": "Jemima",
+    "probability": 0.8491237795142387
+  },
+  {
+    "start": 2.444,
+    "end": 2.665,
+    "word": "and",
+    "probability": 0.6090366725317762
+  },
+  {
+    "start": 2.665,
+    "end": 3.286,
+    "word": "Rebeccah",
+    "probability": 0.6528771050800657
+  },
+  {
+    "start": 3.286,
+    "end": 3.787,
+    "word": "have",
+    "probability": 0.798570664678096
+  },
+  {
+    "start": 3.787,
+    "end": 3.987,
+    "word": "been",
+    "probability": 0.46414420770912895
+  },
+  {
+    "start": 3.987,
+    "end": 4.328,
+    "word": "looking",
+    "probability": 0.43068591317527904
+  },
+  {
+    "start": 4.328,
+    "end": 4.528,
+    "word": "for",
+    "probability": 0.4985110897448288
+  },
+  {
+    "start": 4.528,
+    "end": 4.769,
+    "word": "them",
+    "probability": 0.43211772804597265
+  },
+  {
+    "start": 4.769,
+    "end": 5.069,
+    "word": "ever",
+    "probability": 0.623078824216018
+  },
+  {
+    "start": 5.069,
+    "end": 5.41,
+    "word": "since",
+    "probability": 0.7386897217805216
+  }
+]

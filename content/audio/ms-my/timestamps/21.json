@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.281,
+    "word": "Dia",
+    "probability": 0.99
+  },
+  {
+    "start": 0.281,
+    "end": 0.862,
+    "word": "menarik",
+    "probability": 0.99
+  },
+  {
+    "start": 0.862,
+    "end": 1.343,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 1.343,
+    "end": 1.824,
+    "word": "turun",
+    "probability": 0.99
+  },
+  {
+    "start": 1.824,
+    "end": 2.145,
+    "word": "dari",
+    "probability": 0.99
+  },
+  {
+    "start": 2.145,
+    "end": 2.686,
+    "word": "tembok",
+    "probability": 0.9798820876814952
+  },
+  {
+    "start": 2.686,
+    "end": 4.169,
+    "word": "menyuruh",
+    "probability": 0.99
+  },
+  {
+    "start": 4.169,
+    "end": 4.65,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 4.65,
+    "end": 5.372,
+    "word": "bergegas",
+    "probability": 0.9897372786739527
+  },
+  {
+    "start": 5.372,
+    "end": 6.675,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 6.675,
+    "end": 7.256,
+    "word": "membawa",
+    "probability": 0.9758427619890155
+  },
+  {
+    "start": 7.256,
+    "end": 7.737,
+    "word": "mereka",
+    "probability": 0.9732376871400142
+  },
+  {
+    "start": 7.737,
+    "end": 8.198,
+    "word": "pulang",
+    "probability": 0.99
+  },
+  {
+    "start": 8.198,
+    "end": 8.439,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 8.439,
+    "end": 8.86,
+    "word": "rumah",
+    "probability": 0.9829828571061041
+  }
+]

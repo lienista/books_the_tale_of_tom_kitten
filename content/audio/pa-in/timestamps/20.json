@@ -1,0 +1,122 @@
+[
+  {
+    "start": 1.679,
+    "end": 2.133,
+    "word": "ਫਰ",
+    "probability": 0.99
+  },
+  {
+    "start": 2.133,
+    "end": 2.327,
+    "word": "ਟਬਥ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.327,
+    "end": 2.842,
+    "word": "ਟਵਚਟ",
+    "probability": 0.6249748780098368
+  },
+  {
+    "start": 2.842,
+    "end": 3.232,
+    "word": "ਬਗ",
+    "probability": 0.8230043233028242
+  },
+  {
+    "start": 3.232,
+    "end": 3.49,
+    "word": "ਵਚ",
+    "probability": 0.4999968515160845
+  },
+  {
+    "start": 3.49,
+    "end": 3.813,
+    "word": "ਆਈ",
+    "probability": 0.6000558103674054
+  },
+  {
+    "start": 3.813,
+    "end": 3.941,
+    "word": "ਅਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.941,
+    "end": 4.135,
+    "word": "ਉਸ",
+    "probability": 0.3333020134393323
+  },
+  {
+    "start": 4.135,
+    "end": 4.331,
+    "word": "ਨ",
+    "probability": 0.6666658413506871
+  },
+  {
+    "start": 4.331,
+    "end": 4.525,
+    "word": "ਆਪਣ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.525,
+    "end": 4.718,
+    "word": "ਬਲਆ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.718,
+    "end": 4.783,
+    "word": "ਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 4.783,
+    "end": 5.04,
+    "word": "ਬਚਆ",
+    "probability": 0.4991310533944401
+  },
+  {
+    "start": 5.04,
+    "end": 5.169,
+    "word": "ਨ",
+    "probability": 0.4999988305551158
+  },
+  {
+    "start": 5.169,
+    "end": 5.366,
+    "word": "ਕਧ",
+    "probability": 0.33716468498956925
+  },
+  {
+    "start": 5.366,
+    "end": 5.495,
+    "word": "ਉਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 5.495,
+    "end": 6.139,
+    "word": "ਬਨ",
+    "probability": 0.899985517051493
+  },
+  {
+    "start": 6.139,
+    "end": 6.723,
+    "word": "ਕਪੜਆ",
+    "probability": 0.5007499013387772
+  },
+  {
+    "start": 6.723,
+    "end": 6.787,
+    "word": "ਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 6.787,
+    "end": 7.045,
+    "word": "ਪਇਆ",
+    "probability": 0.49999530246893753
+  }
+]

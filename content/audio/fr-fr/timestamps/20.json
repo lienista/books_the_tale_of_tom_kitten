@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.201,
+    "word": "Puis",
+    "probability": 0.5618823138339766
+  },
+  {
+    "start": 0.201,
+    "end": 0.723,
+    "word": "Tabitha",
+    "probability": 0.7085828211341603
+  },
+  {
+    "start": 0.723,
+    "end": 1.385,
+    "word": "Twitchit",
+    "probability": 0.7625473322091896
+  },
+  {
+    "start": 1.385,
+    "end": 2.268,
+    "word": "descendit",
+    "probability": 0.9647186545961488
+  },
+  {
+    "start": 2.268,
+    "end": 2.408,
+    "word": "au",
+    "probability": 0.9468170243692567
+  },
+  {
+    "start": 2.408,
+    "end": 2.87,
+    "word": "jardin",
+    "probability": 0.99
+  },
+  {
+    "start": 2.87,
+    "end": 3.352,
+    "word": "et",
+    "probability": 0.9884927450287275
+  },
+  {
+    "start": 3.352,
+    "end": 3.713,
+    "word": "trouva",
+    "probability": 0.99
+  },
+  {
+    "start": 3.713,
+    "end": 3.994,
+    "word": "ses",
+    "probability": 0.99
+  },
+  {
+    "start": 3.994,
+    "end": 4.456,
+    "word": "chatons",
+    "probability": 0.9280575269917574
+  },
+  {
+    "start": 4.456,
+    "end": 4.717,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 4.717,
+    "end": 4.897,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 4.897,
+    "end": 5.138,
+    "word": "mur",
+    "probability": 0.99
+  },
+  {
+    "start": 5.138,
+    "end": 5.459,
+    "word": "sans",
+    "probability": 0.9894767930945194
+  },
+  {
+    "start": 5.459,
+    "end": 5.961,
+    "word": "vêtements",
+    "probability": 0.9717131320439352
+  }
+]

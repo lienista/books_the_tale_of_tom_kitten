@@ -1,0 +1,362 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "Nang",
+    "probability": 0.8008396104983835
+  },
+  {
+    "start": 0.18,
+    "end": 0.52,
+    "word": "handa",
+    "probability": 0.99
+  },
+  {
+    "start": 0.52,
+    "end": 0.72,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 0.72,
+    "end": 0.881,
+    "word": "ang",
+    "probability": 0.9589489299704885
+  },
+  {
+    "start": 0.881,
+    "end": 1.301,
+    "word": "tatlong",
+    "probability": 0.9187220742937512
+  },
+  {
+    "start": 1.301,
+    "end": 1.841,
+    "word": "kuting",
+    "probability": 0.972880549582698
+  },
+  {
+    "start": 1.841,
+    "end": 2.982,
+    "word": "nagkamali",
+    "probability": 0.9444726101926176
+  },
+  {
+    "start": 2.982,
+    "end": 3.182,
+    "word": "si",
+    "probability": 0.8979292048531337
+  },
+  {
+    "start": 3.182,
+    "end": 3.382,
+    "word": "Mrs",
+    "probability": 0.8376368137542617
+  },
+  {
+    "start": 3.382,
+    "end": 4.003,
+    "word": "Tabitha",
+    "probability": 0.9261594079891434
+  },
+  {
+    "start": 4.003,
+    "end": 4.743,
+    "word": "at",
+    "probability": 0.9826146991357507
+  },
+  {
+    "start": 4.743,
+    "end": 5.384,
+    "word": "pinapunta",
+    "probability": 0.9668314920202199
+  },
+  {
+    "start": 5.384,
+    "end": 5.684,
+    "word": "sila",
+    "probability": 0.9691822835134152
+  },
+  {
+    "start": 5.684,
+    "end": 5.884,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 5.884,
+    "end": 6.364,
+    "word": "hardin",
+    "probability": 0.9843271100799361
+  },
+  {
+    "start": 6.364,
+    "end": 7.145,
+    "word": "habang",
+    "probability": 0.9603909991412954
+  },
+  {
+    "start": 7.145,
+    "end": 7.725,
+    "word": "gumagawa",
+    "probability": 0.99
+  },
+  {
+    "start": 7.725,
+    "end": 7.925,
+    "word": "siya",
+    "probability": 0.8999802369026793
+  },
+  {
+    "start": 7.925,
+    "end": 8.085,
+    "word": "ng",
+    "probability": 0.9754460679514735
+  },
+  {
+    "start": 8.085,
+    "end": 8.646,
+    "word": "mainit",
+    "probability": 0.9853640928767715
+  },
+  {
+    "start": 8.646,
+    "end": 9.046,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 9.046,
+    "end": 9.446,
+    "word": "buttered",
+    "probability": 0.8775336211520044
+  },
+  {
+    "start": 9.446,
+    "end": 9.947,
+    "word": "toast",
+    "probability": 0.8690170515810497
+  },
+  {
+    "start": 9.947,
+    "end": 10.907,
+    "word": "Ngayon",
+    "probability": 0.9783562156267607
+  },
+  {
+    "start": 10.907,
+    "end": 12.408,
+    "word": "panatilihing",
+    "probability": 0.9858582072683676
+  },
+  {
+    "start": 12.408,
+    "end": 12.969,
+    "word": "malinis",
+    "probability": 0.99
+  },
+  {
+    "start": 12.969,
+    "end": 13.069,
+    "word": "ang",
+    "probability": 0.9782575348453364
+  },
+  {
+    "start": 13.069,
+    "end": 13.389,
+    "word": "inyong",
+    "probability": 0.9758719669747346
+  },
+  {
+    "start": 13.389,
+    "end": 13.589,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 13.589,
+    "end": 14.089,
+    "word": "damit",
+    "probability": 0.965873617676846
+  },
+  {
+    "start": 14.089,
+    "end": 14.75,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 14.75,
+    "end": 15.15,
+    "word": "bata",
+    "probability": 0.99
+  },
+  {
+    "start": 15.15,
+    "end": 16.471,
+    "word": "Maglakad",
+    "probability": 0.9840257912543273
+  },
+  {
+    "start": 16.471,
+    "end": 17.011,
+    "word": "gamit",
+    "probability": 0.9844478935568632
+  },
+  {
+    "start": 17.011,
+    "end": 17.132,
+    "word": "ang",
+    "probability": 0.99
+  },
+  {
+    "start": 17.132,
+    "end": 17.432,
+    "word": "inyong",
+    "probability": 0.9437101453131098
+  },
+  {
+    "start": 17.432,
+    "end": 17.632,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 17.632,
+    "end": 18.152,
+    "word": "hulihang",
+    "probability": 0.9847032084395306
+  },
+  {
+    "start": 18.152,
+    "end": 18.532,
+    "word": "binti",
+    "probability": 0.969295269705182
+  },
+  {
+    "start": 18.532,
+    "end": 19.793,
+    "word": "Lumayo",
+    "probability": 0.99
+  },
+  {
+    "start": 19.793,
+    "end": 20.134,
+    "word": "kayo",
+    "probability": 0.9423585210035903
+  },
+  {
+    "start": 20.134,
+    "end": 20.574,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 20.574,
+    "end": 21.214,
+    "word": "maputik",
+    "probability": 0.99
+  },
+  {
+    "start": 21.214,
+    "end": 21.354,
+    "word": "na",
+    "probability": 0.9579679063317411
+  },
+  {
+    "start": 21.354,
+    "end": 21.895,
+    "word": "hukay",
+    "probability": 0.99
+  },
+  {
+    "start": 21.895,
+    "end": 22.095,
+    "word": "ng",
+    "probability": 0.9644647308864155
+  },
+  {
+    "start": 22.095,
+    "end": 22.395,
+    "word": "abo",
+    "probability": 0.9658245825440118
+  },
+  {
+    "start": 22.395,
+    "end": 23.316,
+    "word": "kay",
+    "probability": 0.98067369754644
+  },
+  {
+    "start": 23.316,
+    "end": 23.876,
+    "word": "Sally",
+    "probability": 0.9244143332542581
+  },
+  {
+    "start": 23.876,
+    "end": 24.677,
+    "word": "HennyPenny",
+    "probability": 0.8818180546040975
+  },
+  {
+    "start": 24.677,
+    "end": 25.457,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 25.457,
+    "end": 25.957,
+    "word": "kulungan",
+    "probability": 0.9696077850607864
+  },
+  {
+    "start": 25.957,
+    "end": 26.098,
+    "word": "ng",
+    "probability": 0.99
+  },
+  {
+    "start": 26.098,
+    "end": 26.618,
+    "word": "baboy",
+    "probability": 0.99
+  },
+  {
+    "start": 26.618,
+    "end": 27.418,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 27.418,
+    "end": 27.599,
+    "word": "sa",
+    "probability": 0.9426018484796577
+  },
+  {
+    "start": 27.599,
+    "end": 27.899,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 27.899,
+    "end": 28.959,
+    "word": "PuddleDucks",
+    "probability": 0.8689912560161486
+  },
+  {
+    "start": 28.959,
+    "end": 29.08,
+    "word": "na",
+    "probability": 0.9042122388666671
+  },
+  {
+    "start": 29.08,
+    "end": 29.3,
+    "word": "iyon",
+    "probability": 0.9659666024529936
+  }
+]

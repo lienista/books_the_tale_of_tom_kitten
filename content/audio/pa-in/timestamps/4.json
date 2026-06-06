@@ -1,0 +1,74 @@
+[
+  {
+    "start": 1.675,
+    "end": 1.906,
+    "word": "ਫਰ",
+    "probability": 0.99
+  },
+  {
+    "start": 1.906,
+    "end": 1.992,
+    "word": "ਉਸ",
+    "probability": 0.6666355896177215
+  },
+  {
+    "start": 1.992,
+    "end": 2.021,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.021,
+    "end": 2.166,
+    "word": "ਉਨਹ",
+    "probability": 0.4068070223141655
+  },
+  {
+    "start": 2.166,
+    "end": 2.194,
+    "word": "ਦ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.194,
+    "end": 2.425,
+    "word": "ਫਰ",
+    "probability": 0.6370164168943527
+  },
+  {
+    "start": 2.425,
+    "end": 2.454,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 2.454,
+    "end": 2.685,
+    "word": "ਬਰਸ",
+    "probability": 0.43602279614656775
+  },
+  {
+    "start": 2.685,
+    "end": 2.858,
+    "word": "ਕਤ",
+    "probability": 0.6666344517434407
+  },
+  {
+    "start": 2.858,
+    "end": 2.975,
+    "word": "ਇਹ",
+    "probability": 0.749944845367309
+  },
+  {
+    "start": 2.975,
+    "end": 3.089,
+    "word": "ਮਟਨਜ",
+    "probability": 0.01
+  },
+  {
+    "start": 3.089,
+    "end": 3.118,
+    "word": "ਹ",
+    "probability": 0.01
+  }
+]

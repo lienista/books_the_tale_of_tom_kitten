@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.52,
+    "word": "それから",
+    "probability": 0.99
+  },
+  {
+    "start": 0.52,
+    "end": 2.622,
+    "word": "二羽の雌あひる",
+    "probability": 0.9436944348538583
+  },
+  {
+    "start": 2.622,
+    "end": 4.023,
+    "word": "Rebeccah",
+    "probability": 0.8855783895513234
+  },
+  {
+    "start": 4.023,
+    "end": 4.164,
+    "word": "と",
+    "probability": 0.7100570907676322
+  },
+  {
+    "start": 4.164,
+    "end": 4.804,
+    "word": "Jemima",
+    "probability": 0.8124996049201585
+  },
+  {
+    "start": 4.804,
+    "end": 4.904,
+    "word": "Pudd",
+    "probability": 0.01
+  },
+  {
+    "start": 4.904,
+    "end": 5.345,
+    "word": "leD",
+    "probability": 0.8181767307062692
+  },
+  {
+    "start": 5.345,
+    "end": 5.585,
+    "word": "uck",
+    "probability": 0.6666654570165668
+  },
+  {
+    "start": 5.585,
+    "end": 5.745,
+    "word": "が",
+    "probability": 0.749999165577051
+  },
+  {
+    "start": 5.745,
+    "end": 7.226,
+    "word": "帽子とレ",
+    "probability": 0.9508116204619013
+  },
+  {
+    "start": 7.226,
+    "end": 7.727,
+    "word": "ースの襟",
+    "probability": 0.9199932660507314
+  },
+  {
+    "start": 7.727,
+    "end": 8.447,
+    "word": "を拾い上",
+    "probability": 0.9139365393454053
+  },
+  {
+    "start": 8.447,
+    "end": 9.168,
+    "word": "げて身に",
+    "probability": 0.9704945980366705
+  },
+  {
+    "start": 9.168,
+    "end": 9.728,
+    "word": "つけまし",
+    "probability": 0.9655064773483879
+  },
+  {
+    "start": 9.728,
+    "end": 9.828,
+    "word": "た",
+    "probability": 0.99
+  }
+]

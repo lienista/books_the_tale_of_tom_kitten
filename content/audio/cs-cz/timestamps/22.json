@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.521,
+    "word": "Poslala",
+    "probability": 0.9733639639340543
+  },
+  {
+    "start": 0.521,
+    "end": 0.661,
+    "word": "je",
+    "probability": 0.9731873167802425
+  },
+  {
+    "start": 0.661,
+    "end": 1.182,
+    "word": "nahoru",
+    "probability": 0.9486025580295917
+  },
+  {
+    "start": 1.182,
+    "end": 1.643,
+    "word": "a",
+    "probability": 0.9792533570970116
+  },
+  {
+    "start": 1.643,
+    "end": 1.783,
+    "word": "je",
+    "probability": 0.9041224541434371
+  },
+  {
+    "start": 1.783,
+    "end": 1.943,
+    "word": "mi",
+    "probability": 0.9508630914124894
+  },
+  {
+    "start": 1.943,
+    "end": 2.304,
+    "word": "líto",
+    "probability": 0.9072878196230137
+  },
+  {
+    "start": 2.304,
+    "end": 2.805,
+    "word": "říct",
+    "probability": 0.99
+  },
+  {
+    "start": 2.805,
+    "end": 3.125,
+    "word": "že",
+    "probability": 0.99
+  },
+  {
+    "start": 3.125,
+    "end": 3.506,
+    "word": "svým",
+    "probability": 0.99
+  },
+  {
+    "start": 3.506,
+    "end": 4.207,
+    "word": "přátelům",
+    "probability": 0.9761969988182259
+  },
+  {
+    "start": 4.207,
+    "end": 4.588,
+    "word": "řekla",
+    "probability": 0.99
+  },
+  {
+    "start": 4.588,
+    "end": 4.969,
+    "word": "že",
+    "probability": 0.9798869143167024
+  },
+  {
+    "start": 4.969,
+    "end": 5.329,
+    "word": "jsou",
+    "probability": 0.9667811558444774
+  },
+  {
+    "start": 5.329,
+    "end": 5.45,
+    "word": "v",
+    "probability": 0.92900005915162
+  },
+  {
+    "start": 5.45,
+    "end": 5.95,
+    "word": "posteli",
+    "probability": 0.9671557813970842
+  },
+  {
+    "start": 5.95,
+    "end": 6.051,
+    "word": "s",
+    "probability": 0.9074622811353301
+  },
+  {
+    "start": 6.051,
+    "end": 6.932,
+    "word": "nachlazením",
+    "probability": 0.9693040416890425
+  },
+  {
+    "start": 6.932,
+    "end": 7.513,
+    "word": "což",
+    "probability": 0.99
+  },
+  {
+    "start": 7.513,
+    "end": 7.974,
+    "word": "nebyla",
+    "probability": 0.99
+  },
+  {
+    "start": 7.974,
+    "end": 8.435,
+    "word": "pravda",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.241,
+    "word": "Ela",
+    "probability": 0.8815029735733605
+  },
+  {
+    "start": 0.241,
+    "end": 0.884,
+    "word": "puxouos",
+    "probability": 0.9332841341486711
+  },
+  {
+    "start": 0.884,
+    "end": 1.044,
+    "word": "do",
+    "probability": 0.9776350110049687
+  },
+  {
+    "start": 1.044,
+    "end": 1.486,
+    "word": "muro",
+    "probability": 0.9677777438073004
+  },
+  {
+    "start": 1.486,
+    "end": 2.671,
+    "word": "apressouos",
+    "probability": 0.9657022078325568
+  },
+  {
+    "start": 2.671,
+    "end": 2.812,
+    "word": "e",
+    "probability": 0.9434153331960875
+  },
+  {
+    "start": 2.812,
+    "end": 3.414,
+    "word": "levouos",
+    "probability": 0.9558975571051918
+  },
+  {
+    "start": 3.414,
+    "end": 3.555,
+    "word": "de",
+    "probability": 0.9277144762894565
+  },
+  {
+    "start": 3.555,
+    "end": 3.976,
+    "word": "volta",
+    "probability": 0.9762278274332316
+  },
+  {
+    "start": 3.976,
+    "end": 4.217,
+    "word": "para",
+    "probability": 0.928040181192551
+  },
+  {
+    "start": 4.217,
+    "end": 4.639,
+    "word": "casa",
+    "probability": 0.9036141404146061
+  }
+]

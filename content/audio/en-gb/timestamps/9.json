@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.48,
+    "word": "Moppet",
+    "probability": 0.6314007196798621
+  },
+  {
+    "start": 0.48,
+    "end": 0.72,
+    "word": "and",
+    "probability": 0.3839679252027934
+  },
+  {
+    "start": 0.72,
+    "end": 1.261,
+    "word": "Mittens",
+    "probability": 0.6195696365367623
+  },
+  {
+    "start": 1.261,
+    "end": 1.801,
+    "word": "wobbled",
+    "probability": 0.5487091195863305
+  },
+  {
+    "start": 1.801,
+    "end": 2.021,
+    "word": "down",
+    "probability": 0.5001816532386877
+  },
+  {
+    "start": 2.021,
+    "end": 2.161,
+    "word": "the",
+    "probability": 0.6578475503359025
+  },
+  {
+    "start": 2.161,
+    "end": 2.521,
+    "word": "garden",
+    "probability": 0.5993427656164587
+  },
+  {
+    "start": 2.521,
+    "end": 2.982,
+    "word": "path",
+    "probability": 0.6516402699390513
+  },
+  {
+    "start": 2.982,
+    "end": 3.922,
+    "word": "Soon",
+    "probability": 0.8451969932034938
+  },
+  {
+    "start": 3.922,
+    "end": 4.142,
+    "word": "they",
+    "probability": 0.5061068723613814
+  },
+  {
+    "start": 4.142,
+    "end": 4.583,
+    "word": "tripped",
+    "probability": 0.5923146381662121
+  },
+  {
+    "start": 4.583,
+    "end": 4.863,
+    "word": "over",
+    "probability": 0.48134516324351595
+  },
+  {
+    "start": 4.863,
+    "end": 5.083,
+    "word": "their",
+    "probability": 0.45794376655513447
+  },
+  {
+    "start": 5.083,
+    "end": 5.563,
+    "word": "dresses",
+    "probability": 0.6159393673126021
+  },
+  {
+    "start": 5.563,
+    "end": 5.783,
+    "word": "and",
+    "probability": 0.5523069122846769
+  },
+  {
+    "start": 5.783,
+    "end": 6.203,
+    "word": "fell",
+    "probability": 0.7371514156756299
+  },
+  {
+    "start": 6.203,
+    "end": 6.344,
+    "word": "on",
+    "probability": 0.7108018918213354
+  },
+  {
+    "start": 6.344,
+    "end": 6.604,
+    "word": "their",
+    "probability": 0.41082402853868555
+  },
+  {
+    "start": 6.604,
+    "end": 7.164,
+    "word": "faces",
+    "probability": 0.7593250181119334
+  },
+  {
+    "start": 7.164,
+    "end": 8.024,
+    "word": "When",
+    "probability": 0.8701591511776338
+  },
+  {
+    "start": 8.024,
+    "end": 8.245,
+    "word": "they",
+    "probability": 0.4487186648244774
+  },
+  {
+    "start": 8.245,
+    "end": 8.585,
+    "word": "stood",
+    "probability": 0.4908015694157599
+  },
+  {
+    "start": 8.585,
+    "end": 8.805,
+    "word": "up",
+    "probability": 0.7860020864795222
+  },
+  {
+    "start": 8.805,
+    "end": 9.405,
+    "word": "they",
+    "probability": 0.7818904355746947
+  },
+  {
+    "start": 9.405,
+    "end": 9.565,
+    "word": "were",
+    "probability": 0.4289296147808393
+  },
+  {
+    "start": 9.565,
+    "end": 10.106,
+    "word": "covered",
+    "probability": 0.5380936258733546
+  },
+  {
+    "start": 10.106,
+    "end": 10.226,
+    "word": "in",
+    "probability": 0.6320965367499258
+  },
+  {
+    "start": 10.226,
+    "end": 10.886,
+    "word": "grass",
+    "probability": 0.7159225160960624
+  },
+  {
+    "start": 10.886,
+    "end": 11.566,
+    "word": "stains",
+    "probability": 0.675992663327883
+  },
+  {
+    "start": 11.566,
+    "end": 13.367,
+    "word": "Lets",
+    "probability": 0.9409532393085024
+  },
+  {
+    "start": 13.367,
+    "end": 13.808,
+    "word": "climb",
+    "probability": 0.5393074724476612
+  },
+  {
+    "start": 13.808,
+    "end": 13.988,
+    "word": "the",
+    "probability": 0.46621369738188734
+  },
+  {
+    "start": 13.988,
+    "end": 14.448,
+    "word": "rocks",
+    "probability": 0.5740873991010071
+  },
+  {
+    "start": 14.448,
+    "end": 14.648,
+    "word": "and",
+    "probability": 0.5993952300990364
+  },
+  {
+    "start": 14.648,
+    "end": 14.988,
+    "word": "sit",
+    "probability": 0.7831394790124901
+  },
+  {
+    "start": 14.988,
+    "end": 15.188,
+    "word": "on",
+    "probability": 0.7977688592406124
+  },
+  {
+    "start": 15.188,
+    "end": 15.349,
+    "word": "the",
+    "probability": 0.601323110531036
+  },
+  {
+    "start": 15.349,
+    "end": 15.849,
+    "word": "garden",
+    "probability": 0.6393633690594887
+  },
+  {
+    "start": 15.849,
+    "end": 16.309,
+    "word": "wall",
+    "probability": 0.7389995008342406
+  },
+  {
+    "start": 16.309,
+    "end": 16.929,
+    "word": "Moppet",
+    "probability": 0.72924497599905
+  },
+  {
+    "start": 16.929,
+    "end": 17.39,
+    "word": "suggested",
+    "probability": 0.5379525497780525
+  }
+]

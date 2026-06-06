@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.16,
+    "word": "Un",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.461,
+    "word": "día",
+    "probability": 0.9640925058984535
+  },
+  {
+    "start": 0.461,
+    "end": 0.661,
+    "word": "su",
+    "probability": 0.99
+  },
+  {
+    "start": 0.661,
+    "end": 1.062,
+    "word": "madre",
+    "probability": 0.9897513174654062
+  },
+  {
+    "start": 1.062,
+    "end": 1.262,
+    "word": "la",
+    "probability": 0.99
+  },
+  {
+    "start": 1.262,
+    "end": 1.663,
+    "word": "señora",
+    "probability": 0.99
+  },
+  {
+    "start": 1.663,
+    "end": 2.204,
+    "word": "Tabitha",
+    "probability": 0.9401758155963579
+  },
+  {
+    "start": 2.204,
+    "end": 2.745,
+    "word": "Twitchit",
+    "probability": 0.9399680176123918
+  },
+  {
+    "start": 2.745,
+    "end": 3.607,
+    "word": "esperaba",
+    "probability": 0.9775230571404334
+  },
+  {
+    "start": 3.607,
+    "end": 4.068,
+    "word": "amigos",
+    "probability": 0.99
+  },
+  {
+    "start": 4.068,
+    "end": 4.308,
+    "word": "para",
+    "probability": 0.9632805628215244
+  },
+  {
+    "start": 4.308,
+    "end": 4.429,
+    "word": "el",
+    "probability": 0.99
+  },
+  {
+    "start": 4.429,
+    "end": 4.629,
+    "word": "té",
+    "probability": 0.99
+  },
+  {
+    "start": 4.629,
+    "end": 5.571,
+    "word": "Llevó",
+    "probability": 0.9748081060676592
+  },
+  {
+    "start": 5.571,
+    "end": 5.691,
+    "word": "a",
+    "probability": 0.9652955094549238
+  },
+  {
+    "start": 5.691,
+    "end": 5.892,
+    "word": "los",
+    "probability": 0.9423345684653377
+  },
+  {
+    "start": 5.892,
+    "end": 6.473,
+    "word": "gatitos",
+    "probability": 0.9899561343760289
+  },
+  {
+    "start": 6.473,
+    "end": 7.094,
+    "word": "adentro",
+    "probability": 0.99
+  },
+  {
+    "start": 7.094,
+    "end": 7.354,
+    "word": "para",
+    "probability": 0.99
+  },
+  {
+    "start": 7.354,
+    "end": 8.056,
+    "word": "lavarlos",
+    "probability": 0.9813355848519896
+  },
+  {
+    "start": 8.056,
+    "end": 8.457,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 8.457,
+    "end": 9.198,
+    "word": "vestirlos",
+    "probability": 0.99
+  },
+  {
+    "start": 9.198,
+    "end": 9.679,
+    "word": "antes",
+    "probability": 0.9825724366635553
+  },
+  {
+    "start": 9.679,
+    "end": 9.779,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 9.779,
+    "end": 9.899,
+    "word": "que",
+    "probability": 0.9335624383189058
+  },
+  {
+    "start": 9.899,
+    "end": 10.36,
+    "word": "llegaran",
+    "probability": 0.9727142947927735
+  },
+  {
+    "start": 10.36,
+    "end": 10.541,
+    "word": "sus",
+    "probability": 0.99
+  },
+  {
+    "start": 10.541,
+    "end": 11.162,
+    "word": "invitados",
+    "probability": 0.99
+  }
+]

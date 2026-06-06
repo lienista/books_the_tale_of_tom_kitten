@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.461,
+    "word": "Тогава",
+    "probability": 0.99
+  },
+  {
+    "start": 0.461,
+    "end": 1.042,
+    "word": "Tabitha",
+    "probability": 0.7360427044366086
+  },
+  {
+    "start": 1.042,
+    "end": 1.963,
+    "word": "Twitchit",
+    "probability": 0.8101374966484878
+  },
+  {
+    "start": 1.963,
+    "end": 2.444,
+    "word": "слезе",
+    "probability": 0.9550791034526424
+  },
+  {
+    "start": 2.444,
+    "end": 2.544,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 2.544,
+    "end": 3.165,
+    "word": "градината",
+    "probability": 0.99
+  },
+  {
+    "start": 3.165,
+    "end": 3.245,
+    "word": "и",
+    "probability": 0.9764921887027976
+  },
+  {
+    "start": 3.245,
+    "end": 3.625,
+    "word": "намери",
+    "probability": 0.9807416393173457
+  },
+  {
+    "start": 3.625,
+    "end": 4.306,
+    "word": "котенцата",
+    "probability": 0.9606205331332336
+  },
+  {
+    "start": 4.306,
+    "end": 4.507,
+    "word": "си",
+    "probability": 0.96571016468835
+  },
+  {
+    "start": 4.507,
+    "end": 4.627,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 4.627,
+    "end": 5.148,
+    "word": "стената",
+    "probability": 0.9533112491100836
+  },
+  {
+    "start": 5.148,
+    "end": 5.408,
+    "word": "без",
+    "probability": 0.9839217491414767
+  },
+  {
+    "start": 5.408,
+    "end": 5.709,
+    "word": "дрехи",
+    "probability": 0.9297392382142763
+  }
+]

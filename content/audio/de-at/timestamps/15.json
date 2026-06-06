@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.32,
+    "word": "Dann",
+    "probability": 0.8450152157709783
+  },
+  {
+    "start": 0.32,
+    "end": 0.64,
+    "word": "hoben",
+    "probability": 0.9156508459856886
+  },
+  {
+    "start": 0.64,
+    "end": 0.8,
+    "word": "die",
+    "probability": 0.925132159866608
+  },
+  {
+    "start": 0.8,
+    "end": 1.221,
+    "word": "beiden",
+    "probability": 0.9701846675665389
+  },
+  {
+    "start": 1.221,
+    "end": 1.861,
+    "word": "weiblichen",
+    "probability": 0.9687734960116905
+  },
+  {
+    "start": 1.861,
+    "end": 2.482,
+    "word": "Enten",
+    "probability": 0.9551524253298151
+  },
+  {
+    "start": 2.482,
+    "end": 3.342,
+    "word": "Rebeccah",
+    "probability": 0.9453802053352555
+  },
+  {
+    "start": 3.342,
+    "end": 3.642,
+    "word": "und",
+    "probability": 0.8882547437243679
+  },
+  {
+    "start": 3.642,
+    "end": 4.203,
+    "word": "Jemima",
+    "probability": 0.9268304232904467
+  },
+  {
+    "start": 4.203,
+    "end": 4.963,
+    "word": "PuddleDuck",
+    "probability": 0.8318399398544492
+  },
+  {
+    "start": 4.963,
+    "end": 5.363,
+    "word": "den",
+    "probability": 0.99
+  },
+  {
+    "start": 5.363,
+    "end": 5.744,
+    "word": "Hut",
+    "probability": 0.9866207056232927
+  },
+  {
+    "start": 5.744,
+    "end": 5.964,
+    "word": "und",
+    "probability": 0.9868432123418718
+  },
+  {
+    "start": 5.964,
+    "end": 6.184,
+    "word": "den",
+    "probability": 0.8497378035891733
+  },
+  {
+    "start": 6.184,
+    "end": 7.204,
+    "word": "Spitzenkragen",
+    "probability": 0.99
+  },
+  {
+    "start": 7.204,
+    "end": 7.705,
+    "word": "auf",
+    "probability": 0.9886936516991709
+  },
+  {
+    "start": 7.705,
+    "end": 7.945,
+    "word": "und",
+    "probability": 0.9670193308935295
+  },
+  {
+    "start": 7.945,
+    "end": 8.485,
+    "word": "setzten",
+    "probability": 0.9845680260032789
+  },
+  {
+    "start": 8.485,
+    "end": 8.705,
+    "word": "sie",
+    "probability": 0.9794117818180275
+  },
+  {
+    "start": 8.705,
+    "end": 9.026,
+    "word": "auf",
+    "probability": 0.9655574723406574
+  }
+]

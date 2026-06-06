@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.2,
+    "end": 0.361,
+    "word": "Toen",
+    "probability": 0.8746165062132122
+  },
+  {
+    "start": 0.361,
+    "end": 0.782,
+    "word": "kamde",
+    "probability": 0.946231599010305
+  },
+  {
+    "start": 0.782,
+    "end": 0.962,
+    "word": "ze",
+    "probability": 0.8384021636041651
+  },
+  {
+    "start": 0.962,
+    "end": 1.163,
+    "word": "hun",
+    "probability": 0.9289868412865246
+  },
+  {
+    "start": 1.163,
+    "end": 1.724,
+    "word": "staarten",
+    "probability": 0.9743667123016183
+  },
+  {
+    "start": 1.724,
+    "end": 1.885,
+    "word": "en",
+    "probability": 0.9731967891974028
+  },
+  {
+    "start": 1.885,
+    "end": 2.707,
+    "word": "snorharen",
+    "probability": 0.9624370615897329
+  },
+  {
+    "start": 2.707,
+    "end": 3.468,
+    "word": "dit",
+    "probability": 0.970569047467975
+  },
+  {
+    "start": 3.468,
+    "end": 3.629,
+    "word": "is",
+    "probability": 0.9373762403765187
+  },
+  {
+    "start": 3.629,
+    "end": 3.909,
+    "word": "Tom",
+    "probability": 0.9805266352613733
+  },
+  {
+    "start": 3.909,
+    "end": 4.351,
+    "word": "Kitten",
+    "probability": 0.9388281679502112
+  },
+  {
+    "start": 4.351,
+    "end": 5.714,
+    "word": "Tom",
+    "probability": 0.9644097357354187
+  },
+  {
+    "start": 5.714,
+    "end": 6.315,
+    "word": "probeerde",
+    "probability": 0.9832708856621541
+  },
+  {
+    "start": 6.315,
+    "end": 6.736,
+    "word": "steeds",
+    "probability": 0.974225306096253
+  },
+  {
+    "start": 6.736,
+    "end": 6.897,
+    "word": "de",
+    "probability": 0.9755486787515926
+  },
+  {
+    "start": 6.897,
+    "end": 7.157,
+    "word": "kam",
+    "probability": 0.9632878647923918
+  },
+  {
+    "start": 7.157,
+    "end": 7.338,
+    "word": "te",
+    "probability": 0.9557101006620505
+  },
+  {
+    "start": 7.338,
+    "end": 7.759,
+    "word": "krabben",
+    "probability": 0.9297267494887542
+  }
+]

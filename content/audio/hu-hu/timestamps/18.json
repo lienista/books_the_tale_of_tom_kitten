@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.701,
+    "end": 0.761,
+    "word": "De",
+    "probability": 0.6651488641229302
+  },
+  {
+    "start": 0.761,
+    "end": 1.062,
+    "word": "magára",
+    "probability": 0.5255431662443939
+  },
+  {
+    "start": 1.062,
+    "end": 1.602,
+    "word": "vette",
+    "probability": 0.8124728689984801
+  },
+  {
+    "start": 1.602,
+    "end": 2.484,
+    "word": "őket",
+    "probability": 0.9076162749778092
+  },
+  {
+    "start": 2.484,
+    "end": 2.644,
+    "word": "Még",
+    "probability": 0.49997234442126903
+  },
+  {
+    "start": 2.644,
+    "end": 3.145,
+    "word": "rosszabbul",
+    "probability": 0.544326090834798
+  },
+  {
+    "start": 3.145,
+    "end": 3.746,
+    "word": "álltak",
+    "probability": 0.7332672048060367
+  },
+  {
+    "start": 3.746,
+    "end": 4.166,
+    "word": "rajta",
+    "probability": 0.7175594988405632
+  },
+  {
+    "start": 4.166,
+    "end": 4.567,
+    "word": "mint",
+    "probability": 0.755417736053344
+  },
+  {
+    "start": 4.567,
+    "end": 4.747,
+    "word": "Tom",
+    "probability": 0.5549137724280191
+  },
+  {
+    "start": 4.747,
+    "end": 5.288,
+    "word": "Kittenen",
+    "probability": 0.6660095521153506
+  },
+  {
+    "start": 5.288,
+    "end": 6.51,
+    "word": "Gyönyörű",
+    "probability": 0.8529831820296295
+  },
+  {
+    "start": 6.51,
+    "end": 6.73,
+    "word": "reggel",
+    "probability": 0.43254984508329203
+  },
+  {
+    "start": 6.73,
+    "end": 6.91,
+    "word": "van",
+    "probability": 0.5555375179601564
+  },
+  {
+    "start": 6.91,
+    "end": 7.151,
+    "word": "mondta",
+    "probability": 0.49999120514374873
+  },
+  {
+    "start": 7.151,
+    "end": 7.231,
+    "word": "Mr",
+    "probability": 0.24958770760232946
+  },
+  {
+    "start": 7.231,
+    "end": 7.571,
+    "word": "Drake",
+    "probability": 0.7011926618923909
+  },
+  {
+    "start": 7.571,
+    "end": 8.673,
+    "word": "PuddleDuck",
+    "probability": 0.832952310932691
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.461,
+    "word": "Mientras",
+    "probability": 0.99
+  },
+  {
+    "start": 0.461,
+    "end": 1.082,
+    "word": "luchaban",
+    "probability": 0.99
+  },
+  {
+    "start": 1.082,
+    "end": 1.823,
+    "word": "escucharon",
+    "probability": 0.9832391793535867
+  },
+  {
+    "start": 1.823,
+    "end": 1.963,
+    "word": "un",
+    "probability": 0.970775184800693
+  },
+  {
+    "start": 1.963,
+    "end": 3.246,
+    "word": "pitpatpaddlepat",
+    "probability": 0.9237179265659002
+  },
+  {
+    "start": 3.246,
+    "end": 4.107,
+    "word": "Los",
+    "probability": 0.9837614015456289
+  },
+  {
+    "start": 4.107,
+    "end": 4.408,
+    "word": "tres",
+    "probability": 0.9568211085578369
+  },
+  {
+    "start": 4.408,
+    "end": 5.289,
+    "word": "PuddleDucks",
+    "probability": 0.876604296264395
+  },
+  {
+    "start": 5.289,
+    "end": 5.991,
+    "word": "venían",
+    "probability": 0.9895733941139393
+  },
+  {
+    "start": 5.991,
+    "end": 6.552,
+    "word": "marchando",
+    "probability": 0.99
+  },
+  {
+    "start": 6.552,
+    "end": 6.752,
+    "word": "por",
+    "probability": 0.9840953414183866
+  },
+  {
+    "start": 6.752,
+    "end": 6.872,
+    "word": "el",
+    "probability": 0.9348065618800891
+  },
+  {
+    "start": 6.872,
+    "end": 7.293,
+    "word": "camino",
+    "probability": 0.9328916482923492
+  },
+  {
+    "start": 7.293,
+    "end": 7.393,
+    "word": "en",
+    "probability": 0.9324414316503009
+  },
+  {
+    "start": 7.393,
+    "end": 7.714,
+    "word": "fila",
+    "probability": 0.9694210899389358
+  },
+  {
+    "start": 7.714,
+    "end": 8.154,
+    "word": "india",
+    "probability": 0.99
+  },
+  {
+    "start": 8.154,
+    "end": 9.036,
+    "word": "haciendo",
+    "probability": 0.9826662545614634
+  },
+  {
+    "start": 9.036,
+    "end": 9.216,
+    "word": "su",
+    "probability": 0.9643256652978702
+  },
+  {
+    "start": 9.216,
+    "end": 9.737,
+    "word": "rítmico",
+    "probability": 0.99
+  },
+  {
+    "start": 9.737,
+    "end": 12.041,
+    "word": "bamboleopitpatpaddlepat",
+    "probability": 0.9328938987241904
+  },
+  {
+    "start": 12.041,
+    "end": 13.464,
+    "word": "pitpatwaddlepat",
+    "probability": 0.9239308635880283
+  }
+]

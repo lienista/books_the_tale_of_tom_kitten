@@ -1,0 +1,68 @@
+[
+  {
+    "start": 1.622,
+    "end": 2.143,
+    "word": "Lehúzta",
+    "probability": 0.7599710531767819
+  },
+  {
+    "start": 2.143,
+    "end": 2.563,
+    "word": "őket",
+    "probability": 0.73298221258922
+  },
+  {
+    "start": 2.563,
+    "end": 2.623,
+    "word": "a",
+    "probability": 0.5315312443657986
+  },
+  {
+    "start": 2.623,
+    "end": 3.644,
+    "word": "falról",
+    "probability": 0.8070387734346752
+  },
+  {
+    "start": 3.644,
+    "end": 4.165,
+    "word": "sietve",
+    "probability": 0.7686170009453159
+  },
+  {
+    "start": 4.165,
+    "end": 4.826,
+    "word": "elvitte",
+    "probability": 0.7493632181257066
+  },
+  {
+    "start": 4.826,
+    "end": 5.747,
+    "word": "őket",
+    "probability": 0.9128184593725699
+  },
+  {
+    "start": 5.747,
+    "end": 5.867,
+    "word": "és",
+    "probability": 0.6639777027264013
+  },
+  {
+    "start": 5.867,
+    "end": 6.468,
+    "word": "visszavitte",
+    "probability": 0.5978923013392073
+  },
+  {
+    "start": 6.468,
+    "end": 6.668,
+    "word": "a",
+    "probability": 0.8048315650928698
+  },
+  {
+    "start": 6.668,
+    "end": 6.888,
+    "word": "házba",
+    "probability": 0.6230483439766392
+  }
+]

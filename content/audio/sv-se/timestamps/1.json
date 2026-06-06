@@ -1,0 +1,188 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.18,
+    "word": "Det",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.341,
+    "word": "var",
+    "probability": 0.9296688566342087
+  },
+  {
+    "start": 0.341,
+    "end": 0.621,
+    "word": "en",
+    "probability": 0.9839371811424292
+  },
+  {
+    "start": 0.621,
+    "end": 0.921,
+    "word": "gång",
+    "probability": 0.99
+  },
+  {
+    "start": 0.921,
+    "end": 1.302,
+    "word": "tre",
+    "probability": 0.9852125332608377
+  },
+  {
+    "start": 1.302,
+    "end": 1.703,
+    "word": "små",
+    "probability": 0.99
+  },
+  {
+    "start": 1.703,
+    "end": 2.584,
+    "word": "kattungar",
+    "probability": 0.99
+  },
+  {
+    "start": 2.584,
+    "end": 2.824,
+    "word": "som",
+    "probability": 0.9856769446198115
+  },
+  {
+    "start": 2.824,
+    "end": 3.105,
+    "word": "hette",
+    "probability": 0.9634797236490036
+  },
+  {
+    "start": 3.105,
+    "end": 3.726,
+    "word": "Mittens",
+    "probability": 0.9388979345249128
+  },
+  {
+    "start": 3.726,
+    "end": 4.447,
+    "word": "Tom",
+    "probability": 0.9837276276992701
+  },
+  {
+    "start": 4.447,
+    "end": 4.988,
+    "word": "Kitten",
+    "probability": 0.9178747125644153
+  },
+  {
+    "start": 4.988,
+    "end": 5.208,
+    "word": "och",
+    "probability": 0.9702700166352244
+  },
+  {
+    "start": 5.208,
+    "end": 5.789,
+    "word": "Moppet",
+    "probability": 0.99
+  },
+  {
+    "start": 5.789,
+    "end": 6.811,
+    "word": "De",
+    "probability": 0.99
+  },
+  {
+    "start": 6.811,
+    "end": 7.111,
+    "word": "hade",
+    "probability": 0.99
+  },
+  {
+    "start": 7.111,
+    "end": 7.672,
+    "word": "vackra",
+    "probability": 0.99
+  },
+  {
+    "start": 7.672,
+    "end": 8.313,
+    "word": "pälsar",
+    "probability": 0.99
+  },
+  {
+    "start": 8.313,
+    "end": 8.554,
+    "word": "och",
+    "probability": 0.9874112317150153
+  },
+  {
+    "start": 8.554,
+    "end": 9.415,
+    "word": "tillbringade",
+    "probability": 0.9846809463906911
+  },
+  {
+    "start": 9.415,
+    "end": 9.715,
+    "word": "sina",
+    "probability": 0.99
+  },
+  {
+    "start": 9.715,
+    "end": 10.176,
+    "word": "dagar",
+    "probability": 0.99
+  },
+  {
+    "start": 10.176,
+    "end": 10.917,
+    "word": "med",
+    "probability": 0.99
+  },
+  {
+    "start": 10.917,
+    "end": 11.057,
+    "word": "att",
+    "probability": 0.99
+  },
+  {
+    "start": 11.057,
+    "end": 11.638,
+    "word": "tumla",
+    "probability": 0.99
+  },
+  {
+    "start": 11.638,
+    "end": 11.819,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 11.819,
+    "end": 12.56,
+    "word": "verandan",
+    "probability": 0.9845857429840121
+  },
+  {
+    "start": 12.56,
+    "end": 12.86,
+    "word": "och",
+    "probability": 0.9651213353617201
+  },
+  {
+    "start": 12.86,
+    "end": 13.241,
+    "word": "leka",
+    "probability": 0.99
+  },
+  {
+    "start": 13.241,
+    "end": 13.341,
+    "word": "i",
+    "probability": 0.952982543460822
+  },
+  {
+    "start": 13.341,
+    "end": 13.882,
+    "word": "smutsen",
+    "probability": 0.9898293552986578
+  }
+]

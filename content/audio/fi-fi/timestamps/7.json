@@ -1,0 +1,116 @@
+[
+  {
+    "start": 1.104,
+    "end": 1.257,
+    "word": "Tom",
+    "probability": 0.5841800729107505
+  },
+  {
+    "start": 1.257,
+    "end": 1.716,
+    "word": "Kitten",
+    "probability": 0.5653544999506679
+  },
+  {
+    "start": 1.716,
+    "end": 1.9,
+    "word": "oli",
+    "probability": 0.5712003240221779
+  },
+  {
+    "start": 1.9,
+    "end": 2.298,
+    "word": "melko",
+    "probability": 0.5384588989697069
+  },
+  {
+    "start": 2.298,
+    "end": 2.941,
+    "word": "pullea",
+    "probability": 0.7128224504820717
+  },
+  {
+    "start": 2.941,
+    "end": 3.065,
+    "word": "ja",
+    "probability": 0.2500002263289703
+  },
+  {
+    "start": 3.065,
+    "end": 3.494,
+    "word": "oli",
+    "probability": 0.845385416108713
+  },
+  {
+    "start": 3.494,
+    "end": 3.861,
+    "word": "kasvanut",
+    "probability": 0.23128023427047775
+  },
+  {
+    "start": 3.861,
+    "end": 4.382,
+    "word": "useita",
+    "probability": 0.5599243623354778
+  },
+  {
+    "start": 4.382,
+    "end": 4.871,
+    "word": "nappeja",
+    "probability": 0.44451916499614486
+  },
+  {
+    "start": 4.871,
+    "end": 5.73,
+    "word": "irtosi",
+    "probability": 0.7771075860707114
+  },
+  {
+    "start": 5.73,
+    "end": 6.006,
+    "word": "heti",
+    "probability": 0.44293661941933954
+  },
+  {
+    "start": 6.006,
+    "end": 6.22,
+    "word": "Hänen",
+    "probability": 0.2592018125186449
+  },
+  {
+    "start": 6.22,
+    "end": 6.802,
+    "word": "äitinsä",
+    "probability": 0.5398269120808646
+  },
+  {
+    "start": 6.802,
+    "end": 7.385,
+    "word": "huokaisi",
+    "probability": 0.5788210683184046
+  },
+  {
+    "start": 7.385,
+    "end": 7.508,
+    "word": "ja",
+    "probability": 0.24999886813591576
+  },
+  {
+    "start": 7.508,
+    "end": 7.936,
+    "word": "ompeli",
+    "probability": 0.5688031343669165
+  },
+  {
+    "start": 7.936,
+    "end": 8.059,
+    "word": "ne",
+    "probability": 0.09578816993367897
+  },
+  {
+    "start": 8.059,
+    "end": 9.377,
+    "word": "takaisin",
+    "probability": 0.8371920814961481
+  }
+]

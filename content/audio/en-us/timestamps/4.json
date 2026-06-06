@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.201,
+    "word": "Then",
+    "probability": 0.34262872862093746
+  },
+  {
+    "start": 0.201,
+    "end": 0.442,
+    "word": "she",
+    "probability": 0.6269293371629386
+  },
+  {
+    "start": 0.442,
+    "end": 0.803,
+    "word": "brushed",
+    "probability": 0.4849974357913639
+  },
+  {
+    "start": 0.803,
+    "end": 1.064,
+    "word": "their",
+    "probability": 0.31713634955304265
+  },
+  {
+    "start": 1.064,
+    "end": 1.305,
+    "word": "fur",
+    "probability": 0.572562535958821
+  },
+  {
+    "start": 1.305,
+    "end": 2.089,
+    "word": "this",
+    "probability": 0.8333532397223983
+  },
+  {
+    "start": 2.089,
+    "end": 2.45,
+    "word": "one",
+    "probability": 0.8220628209142448
+  },
+  {
+    "start": 2.45,
+    "end": 2.631,
+    "word": "is",
+    "probability": 0.7697137233271854
+  },
+  {
+    "start": 2.631,
+    "end": 2.892,
+    "word": "Mittens",
+    "probability": 0.47268784471583997
+  }
+]

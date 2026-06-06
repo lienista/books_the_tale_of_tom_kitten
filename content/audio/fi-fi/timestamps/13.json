@@ -1,0 +1,98 @@
+[
+  {
+    "start": 4.302,
+    "end": 4.463,
+    "word": "Kun",
+    "probability": 0.7142722676227304
+  },
+  {
+    "start": 4.463,
+    "end": 4.523,
+    "word": "he",
+    "probability": 0.4700797845793968
+  },
+  {
+    "start": 4.523,
+    "end": 5.083,
+    "word": "kamppailivat",
+    "probability": 0.5609892820648679
+  },
+  {
+    "start": 5.083,
+    "end": 5.163,
+    "word": "he",
+    "probability": 0.3400390944967713
+  },
+  {
+    "start": 5.163,
+    "end": 5.583,
+    "word": "kuulivat",
+    "probability": 0.5528177557076261
+  },
+  {
+    "start": 5.583,
+    "end": 6.484,
+    "word": "pitpatpaddlepat",
+    "probability": 0.5941315743585498
+  },
+  {
+    "start": 6.484,
+    "end": 6.784,
+    "word": "Kolme",
+    "probability": 0.6575219625212194
+  },
+  {
+    "start": 6.784,
+    "end": 7.965,
+    "word": "PuddleDuckia",
+    "probability": 0.7602071997077631
+  },
+  {
+    "start": 7.965,
+    "end": 8.345,
+    "word": "marssi",
+    "probability": 0.7204462753272857
+  },
+  {
+    "start": 8.345,
+    "end": 8.705,
+    "word": "tietä",
+    "probability": 0.576710182727263
+  },
+  {
+    "start": 8.705,
+    "end": 8.945,
+    "word": "pitkin",
+    "probability": 0.4151167934400627
+  },
+  {
+    "start": 8.945,
+    "end": 9.345,
+    "word": "jonossa",
+    "probability": 0.5760357505863535
+  },
+  {
+    "start": 9.345,
+    "end": 9.645,
+    "word": "tehden",
+    "probability": 0.49596114088810794
+  },
+  {
+    "start": 9.645,
+    "end": 10.526,
+    "word": "rytmikästä",
+    "probability": 0.7727246398676335
+  },
+  {
+    "start": 10.526,
+    "end": 12.287,
+    "word": "vaappumistaanpitpatpaddlepat",
+    "probability": 0.6772771922649349
+  },
+  {
+    "start": 12.287,
+    "end": 12.987,
+    "word": "pitpatwaddlepat",
+    "probability": 0.5998452904995163
+  }
+]

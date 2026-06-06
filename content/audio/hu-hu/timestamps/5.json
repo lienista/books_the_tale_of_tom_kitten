@@ -1,0 +1,98 @@
+[
+  {
+    "start": 1.041,
+    "end": 1.361,
+    "word": "Aztán",
+    "probability": 0.7489878480689294
+  },
+  {
+    "start": 1.361,
+    "end": 2.683,
+    "word": "megfésülte",
+    "probability": 0.8466443236262046
+  },
+  {
+    "start": 2.683,
+    "end": 2.723,
+    "word": "a",
+    "probability": 0.49841331168296005
+  },
+  {
+    "start": 2.723,
+    "end": 3.163,
+    "word": "farkukat",
+    "probability": 0.6356667944497905
+  },
+  {
+    "start": 3.163,
+    "end": 3.344,
+    "word": "és",
+    "probability": 0.7773740563933302
+  },
+  {
+    "start": 3.344,
+    "end": 3.424,
+    "word": "a",
+    "probability": 0.7454753241630983
+  },
+  {
+    "start": 3.424,
+    "end": 4.124,
+    "word": "bajszukat",
+    "probability": 0.7018304578800212
+  },
+  {
+    "start": 4.124,
+    "end": 5.065,
+    "word": "ez",
+    "probability": 0.9355737027682635
+  },
+  {
+    "start": 5.065,
+    "end": 5.286,
+    "word": "Tom",
+    "probability": 0.6365173482103952
+  },
+  {
+    "start": 5.286,
+    "end": 5.766,
+    "word": "Kitten",
+    "probability": 0.7078323727326482
+  },
+  {
+    "start": 5.766,
+    "end": 6.707,
+    "word": "Tom",
+    "probability": 0.9360764727172227
+  },
+  {
+    "start": 6.707,
+    "end": 7.308,
+    "word": "folyamatosan",
+    "probability": 0.5873626064546305
+  },
+  {
+    "start": 7.308,
+    "end": 7.768,
+    "word": "próbálta",
+    "probability": 0.5640477912846434
+  },
+  {
+    "start": 7.768,
+    "end": 8.91,
+    "word": "megvakarni",
+    "probability": 0.8194933677988342
+  },
+  {
+    "start": 8.91,
+    "end": 9.01,
+    "word": "a",
+    "probability": 0.6088653424243875
+  },
+  {
+    "start": 9.01,
+    "end": 9.29,
+    "word": "fésűt",
+    "probability": 0.6447444952402998
+  }
+]

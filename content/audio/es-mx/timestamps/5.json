@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.34,
+    "word": "Luego",
+    "probability": 0.99
+  },
+  {
+    "start": 0.34,
+    "end": 0.521,
+    "word": "les",
+    "probability": 0.9329979265109011
+  },
+  {
+    "start": 0.521,
+    "end": 0.901,
+    "word": "peinó",
+    "probability": 0.9748007751087916
+  },
+  {
+    "start": 0.901,
+    "end": 1.061,
+    "word": "las",
+    "probability": 0.914627991115555
+  },
+  {
+    "start": 1.061,
+    "end": 1.522,
+    "word": "colas",
+    "probability": 0.9783621750550908
+  },
+  {
+    "start": 1.522,
+    "end": 1.622,
+    "word": "y",
+    "probability": 0.8988560752513941
+  },
+  {
+    "start": 1.622,
+    "end": 1.822,
+    "word": "los",
+    "probability": 0.9371563883353797
+  },
+  {
+    "start": 1.822,
+    "end": 2.443,
+    "word": "bigotes",
+    "probability": 0.9787257280400374
+  },
+  {
+    "start": 2.443,
+    "end": 3.084,
+    "word": "este",
+    "probability": 0.9670742296711854
+  },
+  {
+    "start": 3.084,
+    "end": 3.144,
+    "word": "es",
+    "probability": 0.5629481954128677
+  },
+  {
+    "start": 3.144,
+    "end": 3.364,
+    "word": "Tom",
+    "probability": 0.9815049216212747
+  },
+  {
+    "start": 3.364,
+    "end": 3.925,
+    "word": "Kitten",
+    "probability": 0.9161900782406808
+  },
+  {
+    "start": 3.925,
+    "end": 4.666,
+    "word": "Tom",
+    "probability": 0.9841399208795291
+  },
+  {
+    "start": 4.666,
+    "end": 5.046,
+    "word": "seguía",
+    "probability": 0.9463556538125235
+  },
+  {
+    "start": 5.046,
+    "end": 5.687,
+    "word": "intentando",
+    "probability": 0.9885997729029347
+  },
+  {
+    "start": 5.687,
+    "end": 6.328,
+    "word": "rascarse",
+    "probability": 0.9803340811129793
+  },
+  {
+    "start": 6.328,
+    "end": 6.528,
+    "word": "con",
+    "probability": 0.983191181736647
+  },
+  {
+    "start": 6.528,
+    "end": 6.649,
+    "word": "el",
+    "probability": 0.99
+  },
+  {
+    "start": 6.649,
+    "end": 7.009,
+    "word": "peine",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.18,
+    "word": "Il",
+    "probability": 0.9350900678864749
+  },
+  {
+    "start": 0.18,
+    "end": 0.481,
+    "word": "était",
+    "probability": 0.8832492217228439
+  },
+  {
+    "start": 0.481,
+    "end": 0.681,
+    "word": "une",
+    "probability": 0.9424913860076145
+  },
+  {
+    "start": 0.681,
+    "end": 0.881,
+    "word": "fois",
+    "probability": 0.9858635005745446
+  },
+  {
+    "start": 0.881,
+    "end": 1.222,
+    "word": "trois",
+    "probability": 0.9577697258670183
+  },
+  {
+    "start": 1.222,
+    "end": 1.603,
+    "word": "petits",
+    "probability": 0.9801285492811544
+  },
+  {
+    "start": 1.603,
+    "end": 2.103,
+    "word": "chatons",
+    "probability": 0.9268563359527286
+  },
+  {
+    "start": 2.103,
+    "end": 2.724,
+    "word": "nommés",
+    "probability": 0.9847305656552188
+  },
+  {
+    "start": 2.724,
+    "end": 3.506,
+    "word": "Mittens",
+    "probability": 0.9248604659664712
+  },
+  {
+    "start": 3.506,
+    "end": 4.187,
+    "word": "Tom",
+    "probability": 0.9812794975087937
+  },
+  {
+    "start": 4.187,
+    "end": 4.848,
+    "word": "Kitten",
+    "probability": 0.9183903925392958
+  },
+  {
+    "start": 4.848,
+    "end": 5.209,
+    "word": "et",
+    "probability": 0.9703454972892097
+  },
+  {
+    "start": 5.209,
+    "end": 5.79,
+    "word": "Moppet",
+    "probability": 0.9383584071443871
+  },
+  {
+    "start": 5.79,
+    "end": 6.391,
+    "word": "Ils",
+    "probability": 0.9742601022942984
+  },
+  {
+    "start": 6.391,
+    "end": 6.731,
+    "word": "avaient",
+    "probability": 0.9878541736792611
+  },
+  {
+    "start": 6.731,
+    "end": 6.851,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 6.851,
+    "end": 7.112,
+    "word": "beaux",
+    "probability": 0.9469822241773842
+  },
+  {
+    "start": 7.112,
+    "end": 7.512,
+    "word": "manteaux",
+    "probability": 0.9877536905326434
+  },
+  {
+    "start": 7.512,
+    "end": 7.653,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 7.653,
+    "end": 8.254,
+    "word": "fourrure",
+    "probability": 0.99
+  },
+  {
+    "start": 8.254,
+    "end": 8.554,
+    "word": "et",
+    "probability": 0.9814450782923981
+  },
+  {
+    "start": 8.554,
+    "end": 9.115,
+    "word": "passaient",
+    "probability": 0.9489391581092838
+  },
+  {
+    "start": 9.115,
+    "end": 9.315,
+    "word": "leurs",
+    "probability": 0.9899078728356748
+  },
+  {
+    "start": 9.315,
+    "end": 9.736,
+    "word": "journées",
+    "probability": 0.9346302456166852
+  },
+  {
+    "start": 9.736,
+    "end": 9.916,
+    "word": "à",
+    "probability": 0.9115454057646213
+  },
+  {
+    "start": 9.916,
+    "end": 10.337,
+    "word": "rouler",
+    "probability": 0.99
+  },
+  {
+    "start": 10.337,
+    "end": 10.577,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 10.577,
+    "end": 10.718,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 10.718,
+    "end": 11.239,
+    "word": "porche",
+    "probability": 0.9885120875001133
+  },
+  {
+    "start": 11.239,
+    "end": 11.539,
+    "word": "et",
+    "probability": 0.99
+  },
+  {
+    "start": 11.539,
+    "end": 11.639,
+    "word": "à",
+    "probability": 0.9882355182776689
+  },
+  {
+    "start": 11.639,
+    "end": 11.94,
+    "word": "jouer",
+    "probability": 0.99
+  },
+  {
+    "start": 11.94,
+    "end": 12.1,
+    "word": "dans",
+    "probability": 0.99
+  },
+  {
+    "start": 12.1,
+    "end": 12.24,
+    "word": "la",
+    "probability": 0.9418384129749545
+  },
+  {
+    "start": 12.24,
+    "end": 12.701,
+    "word": "terre",
+    "probability": 0.99
+  }
+]

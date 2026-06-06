@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.361,
+    "word": "Pani",
+    "probability": 0.9892928923284349
+  },
+  {
+    "start": 0.361,
+    "end": 1.082,
+    "word": "Tabitha",
+    "probability": 0.9511048452382135
+  },
+  {
+    "start": 1.082,
+    "end": 1.943,
+    "word": "ubrała",
+    "probability": 0.99
+  },
+  {
+    "start": 1.943,
+    "end": 2.424,
+    "word": "Moppet",
+    "probability": 0.9466219914441149
+  },
+  {
+    "start": 2.424,
+    "end": 2.544,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 2.544,
+    "end": 3.065,
+    "word": "Mittens",
+    "probability": 0.8846836972979996
+  },
+  {
+    "start": 3.065,
+    "end": 3.145,
+    "word": "w",
+    "probability": 0.7274117607046244
+  },
+  {
+    "start": 3.145,
+    "end": 3.566,
+    "word": "czyste",
+    "probability": 0.9776780990492482
+  },
+  {
+    "start": 3.566,
+    "end": 3.826,
+    "word": "małe",
+    "probability": 0.9893754923075766
+  },
+  {
+    "start": 3.826,
+    "end": 4.628,
+    "word": "sukienki",
+    "probability": 0.99
+  },
+  {
+    "start": 4.628,
+    "end": 4.808,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 4.808,
+    "end": 5.429,
+    "word": "koronkowe",
+    "probability": 0.99
+  },
+  {
+    "start": 5.429,
+    "end": 6.37,
+    "word": "kołnierzyki",
+    "probability": 0.9877083734906932
+  },
+  {
+    "start": 6.37,
+    "end": 7.252,
+    "word": "Potem",
+    "probability": 0.9880999054547307
+  },
+  {
+    "start": 7.252,
+    "end": 7.973,
+    "word": "wyciągnęła",
+    "probability": 0.9709574686615822
+  },
+  {
+    "start": 7.973,
+    "end": 8.093,
+    "word": "z",
+    "probability": 0.982284140869795
+  },
+  {
+    "start": 8.093,
+    "end": 8.594,
+    "word": "starej",
+    "probability": 0.99
+  },
+  {
+    "start": 8.594,
+    "end": 9.115,
+    "word": "komody",
+    "probability": 0.99
+  },
+  {
+    "start": 9.115,
+    "end": 9.716,
+    "word": "sztywne",
+    "probability": 0.9728822380855152
+  },
+  {
+    "start": 9.716,
+    "end": 10.517,
+    "word": "eleganckie",
+    "probability": 0.99
+  },
+  {
+    "start": 10.517,
+    "end": 11.158,
+    "word": "ubrania",
+    "probability": 0.9825003977449654
+  },
+  {
+    "start": 11.158,
+    "end": 11.359,
+    "word": "dla",
+    "probability": 0.9439965855208445
+  },
+  {
+    "start": 11.359,
+    "end": 11.719,
+    "word": "Toma",
+    "probability": 0.99
+  }
+]

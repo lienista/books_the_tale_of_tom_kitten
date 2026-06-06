@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.18,
+    "word": "Sau",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.481,
+    "word": "đó",
+    "probability": 0.9896039639612276
+  },
+  {
+    "start": 0.481,
+    "end": 1.003,
+    "word": "Bà",
+    "probability": 0.99
+  },
+  {
+    "start": 1.003,
+    "end": 1.664,
+    "word": "Tabitha",
+    "probability": 0.8601657431155822
+  },
+  {
+    "start": 1.664,
+    "end": 2.266,
+    "word": "Twitchit",
+    "probability": 0.7719392162123616
+  },
+  {
+    "start": 2.266,
+    "end": 2.527,
+    "word": "đi",
+    "probability": 0.9651032926366262
+  },
+  {
+    "start": 2.527,
+    "end": 2.827,
+    "word": "xuống",
+    "probability": 0.9529142557617206
+  },
+  {
+    "start": 2.827,
+    "end": 3.128,
+    "word": "vườn",
+    "probability": 0.9370642743508806
+  },
+  {
+    "start": 3.128,
+    "end": 3.73,
+    "word": "và",
+    "probability": 0.99
+  },
+  {
+    "start": 3.73,
+    "end": 4.01,
+    "word": "thấy",
+    "probability": 0.99
+  },
+  {
+    "start": 4.01,
+    "end": 4.211,
+    "word": "các",
+    "probability": 0.99
+  },
+  {
+    "start": 4.211,
+    "end": 4.492,
+    "word": "con",
+    "probability": 0.99
+  },
+  {
+    "start": 4.492,
+    "end": 4.712,
+    "word": "của",
+    "probability": 0.9876357543609359
+  },
+  {
+    "start": 4.712,
+    "end": 4.973,
+    "word": "mình",
+    "probability": 0.99
+  },
+  {
+    "start": 4.973,
+    "end": 5.274,
+    "word": "trên",
+    "probability": 0.99
+  },
+  {
+    "start": 5.274,
+    "end": 5.454,
+    "word": "bức",
+    "probability": 0.99
+  },
+  {
+    "start": 5.454,
+    "end": 5.815,
+    "word": "tường",
+    "probability": 0.97071132653562
+  },
+  {
+    "start": 5.815,
+    "end": 6.076,
+    "word": "mà",
+    "probability": 0.99
+  },
+  {
+    "start": 6.076,
+    "end": 6.336,
+    "word": "không",
+    "probability": 0.9690962963416806
+  },
+  {
+    "start": 6.336,
+    "end": 6.497,
+    "word": "có",
+    "probability": 0.99
+  },
+  {
+    "start": 6.497,
+    "end": 6.717,
+    "word": "quần",
+    "probability": 0.99
+  },
+  {
+    "start": 6.717,
+    "end": 6.978,
+    "word": "áo",
+    "probability": 0.99
+  },
+  {
+    "start": 6.978,
+    "end": 7.239,
+    "word": "trên",
+    "probability": 0.9828157147227501
+  },
+  {
+    "start": 7.239,
+    "end": 7.539,
+    "word": "người",
+    "probability": 0.9639734125535349
+  }
+]

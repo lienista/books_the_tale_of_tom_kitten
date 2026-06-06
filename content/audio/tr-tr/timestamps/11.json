@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.3,
+    "word": "Tom",
+    "probability": 0.9847616863543914
+  },
+  {
+    "start": 0.3,
+    "end": 0.841,
+    "word": "Kitten",
+    "probability": 0.8297475605139046
+  },
+  {
+    "start": 0.841,
+    "end": 1.821,
+    "word": "pantolonla",
+    "probability": 0.983576004147462
+  },
+  {
+    "start": 1.821,
+    "end": 2.342,
+    "word": "arka",
+    "probability": 0.9866022982749719
+  },
+  {
+    "start": 2.342,
+    "end": 3.022,
+    "word": "bacakları",
+    "probability": 0.9574843280891027
+  },
+  {
+    "start": 3.022,
+    "end": 3.563,
+    "word": "üzerinde",
+    "probability": 0.9679349015104232
+  },
+  {
+    "start": 3.563,
+    "end": 4.103,
+    "word": "yürümeye",
+    "probability": 0.99
+  },
+  {
+    "start": 4.103,
+    "end": 4.924,
+    "word": "çalışırken",
+    "probability": 0.9860048860406144
+  },
+  {
+    "start": 4.924,
+    "end": 5.344,
+    "word": "hiç",
+    "probability": 0.9870675433528335
+  },
+  {
+    "start": 5.344,
+    "end": 6.545,
+    "word": "zıplayamıyordu",
+    "probability": 0.9646757821918557
+  },
+  {
+    "start": 6.545,
+    "end": 7.366,
+    "word": "Kayalara",
+    "probability": 0.99
+  },
+  {
+    "start": 7.366,
+    "end": 7.846,
+    "word": "parça",
+    "probability": 0.9769502128050037
+  },
+  {
+    "start": 7.846,
+    "end": 8.267,
+    "word": "parça",
+    "probability": 0.9880755611667384
+  },
+  {
+    "start": 8.267,
+    "end": 8.947,
+    "word": "tırmandı",
+    "probability": 0.9567748787885445
+  },
+  {
+    "start": 8.947,
+    "end": 9.748,
+    "word": "eğrelti",
+    "probability": 0.9627854086965613
+  },
+  {
+    "start": 9.748,
+    "end": 10.268,
+    "word": "otlarını",
+    "probability": 0.9119161816808871
+  },
+  {
+    "start": 10.268,
+    "end": 10.669,
+    "word": "ezdi",
+    "probability": 0.9733026758165272
+  },
+  {
+    "start": 10.669,
+    "end": 11.289,
+    "word": "ve",
+    "probability": 0.988033416393029
+  },
+  {
+    "start": 11.289,
+    "end": 11.749,
+    "word": "sağa",
+    "probability": 0.9832386131243578
+  },
+  {
+    "start": 11.749,
+    "end": 12.15,
+    "word": "sola",
+    "probability": 0.9376264832881471
+  },
+  {
+    "start": 12.15,
+    "end": 12.93,
+    "word": "düğmelerini",
+    "probability": 0.99
+  },
+  {
+    "start": 12.93,
+    "end": 13.631,
+    "word": "kaybetti",
+    "probability": 0.99
+  }
+]

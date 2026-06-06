@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.381,
+    "word": "Herr",
+    "probability": 0.9636242603051586
+  },
+  {
+    "start": 0.381,
+    "end": 1.062,
+    "word": "Drake",
+    "probability": 0.9223574711001136
+  },
+  {
+    "start": 1.062,
+    "end": 1.863,
+    "word": "PuddleDuck",
+    "probability": 0.8462875880357146
+  },
+  {
+    "start": 1.863,
+    "end": 2.464,
+    "word": "vaggar",
+    "probability": 0.9874447540755701
+  },
+  {
+    "start": 2.464,
+    "end": 2.765,
+    "word": "över",
+    "probability": 0.9435673230999956
+  },
+  {
+    "start": 2.765,
+    "end": 2.925,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 2.925,
+    "end": 3.105,
+    "word": "ett",
+    "probability": 0.945918505449428
+  },
+  {
+    "start": 3.105,
+    "end": 3.806,
+    "word": "långsamt",
+    "probability": 0.9823848661268318
+  },
+  {
+    "start": 3.806,
+    "end": 4.568,
+    "word": "sidledes",
+    "probability": 0.99
+  },
+  {
+    "start": 4.568,
+    "end": 4.888,
+    "word": "sätt",
+    "probability": 0.9607759393481271
+  },
+  {
+    "start": 4.888,
+    "end": 5.91,
+    "word": "och",
+    "probability": 0.9893383960916557
+  },
+  {
+    "start": 5.91,
+    "end": 6.35,
+    "word": "plockade",
+    "probability": 0.9692297900522694
+  },
+  {
+    "start": 6.35,
+    "end": 6.551,
+    "word": "upp",
+    "probability": 0.8838636829503947
+  },
+  {
+    "start": 6.551,
+    "end": 6.691,
+    "word": "de",
+    "probability": 0.9893551167191295
+  },
+  {
+    "start": 6.691,
+    "end": 7.112,
+    "word": "olika",
+    "probability": 0.99
+  },
+  {
+    "start": 7.112,
+    "end": 7.613,
+    "word": "sakerna",
+    "probability": 0.9890681570954718
+  }
+]

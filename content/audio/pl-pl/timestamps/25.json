@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.181,
+    "word": "Co",
+    "probability": 0.9547265350837758
+  },
+  {
+    "start": 0.181,
+    "end": 0.361,
+    "word": "do",
+    "probability": 0.9192542649341912
+  },
+  {
+    "start": 0.361,
+    "end": 1.304,
+    "word": "PuddleDucks",
+    "probability": 0.889105217287229
+  },
+  {
+    "start": 1.304,
+    "end": 2.206,
+    "word": "poszły",
+    "probability": 0.9706281492234974
+  },
+  {
+    "start": 2.206,
+    "end": 2.347,
+    "word": "do",
+    "probability": 0.968790944237281
+  },
+  {
+    "start": 2.347,
+    "end": 2.908,
+    "word": "stawu",
+    "probability": 0.99
+  },
+  {
+    "start": 2.908,
+    "end": 3.971,
+    "word": "Ubrania",
+    "probability": 0.99
+  },
+  {
+    "start": 3.971,
+    "end": 4.573,
+    "word": "spadły",
+    "probability": 0.99
+  },
+  {
+    "start": 4.573,
+    "end": 5.355,
+    "word": "ponieważ",
+    "probability": 0.9847617265249041
+  },
+  {
+    "start": 5.355,
+    "end": 5.616,
+    "word": "nie",
+    "probability": 0.9645295077402694
+  },
+  {
+    "start": 5.616,
+    "end": 5.856,
+    "word": "było",
+    "probability": 0.99
+  },
+  {
+    "start": 5.856,
+    "end": 6.037,
+    "word": "już",
+    "probability": 0.99
+  },
+  {
+    "start": 6.037,
+    "end": 6.679,
+    "word": "guzików",
+    "probability": 0.99
+  },
+  {
+    "start": 6.679,
+    "end": 7.06,
+    "word": "które",
+    "probability": 0.9561460577981536
+  },
+  {
+    "start": 7.06,
+    "end": 7.24,
+    "word": "by",
+    "probability": 0.8868691572623588
+  },
+  {
+    "start": 7.24,
+    "end": 7.401,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 7.401,
+    "end": 8.103,
+    "word": "trzymały",
+    "probability": 0.99
+  }
+]

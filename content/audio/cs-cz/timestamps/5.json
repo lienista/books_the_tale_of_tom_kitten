@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.24,
+    "word": "Pak",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.42,
+    "word": "jim",
+    "probability": 0.99
+  },
+  {
+    "start": 0.42,
+    "end": 1.001,
+    "word": "učesala",
+    "probability": 0.99
+  },
+  {
+    "start": 1.001,
+    "end": 1.682,
+    "word": "ocásky",
+    "probability": 0.9668942243067817
+  },
+  {
+    "start": 1.682,
+    "end": 1.842,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 1.842,
+    "end": 2.382,
+    "word": "vousky",
+    "probability": 0.98575635949978
+  },
+  {
+    "start": 2.382,
+    "end": 3.263,
+    "word": "toto",
+    "probability": 0.99
+  },
+  {
+    "start": 3.263,
+    "end": 3.423,
+    "word": "je",
+    "probability": 0.9629666356481072
+  },
+  {
+    "start": 3.423,
+    "end": 3.764,
+    "word": "Tom",
+    "probability": 0.9270496353202152
+  },
+  {
+    "start": 3.764,
+    "end": 4.244,
+    "word": "Kitten",
+    "probability": 0.7789951353300538
+  },
+  {
+    "start": 4.244,
+    "end": 5.045,
+    "word": "Tom",
+    "probability": 0.9733881361197486
+  },
+  {
+    "start": 5.045,
+    "end": 5.225,
+    "word": "se",
+    "probability": 0.9873244731635383
+  },
+  {
+    "start": 5.225,
+    "end": 5.726,
+    "word": "stále",
+    "probability": 0.99
+  },
+  {
+    "start": 5.726,
+    "end": 6.246,
+    "word": "snažil",
+    "probability": 0.9676067219451634
+  },
+  {
+    "start": 6.246,
+    "end": 6.947,
+    "word": "škrábat",
+    "probability": 0.9866874188208832
+  },
+  {
+    "start": 6.947,
+    "end": 7.327,
+    "word": "hřeben",
+    "probability": 0.9860339081487616
+  }
+]

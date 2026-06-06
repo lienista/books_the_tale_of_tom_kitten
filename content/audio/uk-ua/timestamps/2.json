@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.36,
+    "word": "Одного",
+    "probability": 0.99
+  },
+  {
+    "start": 0.36,
+    "end": 0.681,
+    "word": "разу",
+    "probability": 0.9624641853685072
+  },
+  {
+    "start": 0.681,
+    "end": 1.041,
+    "word": "їхня",
+    "probability": 0.99
+  },
+  {
+    "start": 1.041,
+    "end": 1.461,
+    "word": "мама",
+    "probability": 0.9694645331299963
+  },
+  {
+    "start": 1.461,
+    "end": 2.402,
+    "word": "місіс",
+    "probability": 0.99
+  },
+  {
+    "start": 2.402,
+    "end": 3.023,
+    "word": "Табіта",
+    "probability": 0.9839612374770551
+  },
+  {
+    "start": 3.023,
+    "end": 3.643,
+    "word": "Твітчіт",
+    "probability": 0.9349390163409946
+  },
+  {
+    "start": 3.643,
+    "end": 4.624,
+    "word": "чекала",
+    "probability": 0.975316491381419
+  },
+  {
+    "start": 4.624,
+    "end": 4.824,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 4.824,
+    "end": 5.365,
+    "word": "друзів",
+    "probability": 0.99
+  },
+  {
+    "start": 5.365,
+    "end": 5.525,
+    "word": "до",
+    "probability": 0.934488242094018
+  },
+  {
+    "start": 5.525,
+    "end": 6.026,
+    "word": "чаю",
+    "probability": 0.9580197714272706
+  },
+  {
+    "start": 6.026,
+    "end": 6.826,
+    "word": "Вона",
+    "probability": 0.9790420244102584
+  },
+  {
+    "start": 6.826,
+    "end": 7.547,
+    "word": "закликала",
+    "probability": 0.99
+  },
+  {
+    "start": 7.547,
+    "end": 8.148,
+    "word": "кошенят",
+    "probability": 0.99
+  },
+  {
+    "start": 8.148,
+    "end": 8.328,
+    "word": "до",
+    "probability": 0.810065427544635
+  },
+  {
+    "start": 8.328,
+    "end": 8.788,
+    "word": "хати",
+    "probability": 0.99
+  },
+  {
+    "start": 8.788,
+    "end": 9.429,
+    "word": "щоб",
+    "probability": 0.9806549188875999
+  },
+  {
+    "start": 9.429,
+    "end": 9.929,
+    "word": "помити",
+    "probability": 0.99
+  },
+  {
+    "start": 9.929,
+    "end": 10.109,
+    "word": "та",
+    "probability": 0.937226818898397
+  },
+  {
+    "start": 10.109,
+    "end": 10.73,
+    "word": "одягнути",
+    "probability": 0.99
+  },
+  {
+    "start": 10.73,
+    "end": 10.91,
+    "word": "їх",
+    "probability": 0.99
+  },
+  {
+    "start": 10.91,
+    "end": 11.05,
+    "word": "до",
+    "probability": 0.9642850056801524
+  },
+  {
+    "start": 11.05,
+    "end": 11.571,
+    "word": "приходу",
+    "probability": 0.99
+  },
+  {
+    "start": 11.571,
+    "end": 12.031,
+    "word": "гостей",
+    "probability": 0.98972901081883
+  }
+]

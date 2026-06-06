@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.481,
+    "word": "Érase",
+    "probability": 0.99
+  },
+  {
+    "start": 0.481,
+    "end": 0.841,
+    "word": "una",
+    "probability": 0.9834996049052636
+  },
+  {
+    "start": 0.841,
+    "end": 1.141,
+    "word": "vez",
+    "probability": 0.99
+  },
+  {
+    "start": 1.141,
+    "end": 2.022,
+    "word": "había",
+    "probability": 0.99
+  },
+  {
+    "start": 2.022,
+    "end": 2.423,
+    "word": "tres",
+    "probability": 0.9845315199187987
+  },
+  {
+    "start": 2.423,
+    "end": 3.123,
+    "word": "gatitos",
+    "probability": 0.99
+  },
+  {
+    "start": 3.123,
+    "end": 3.844,
+    "word": "llamados",
+    "probability": 0.9786012514775497
+  },
+  {
+    "start": 3.844,
+    "end": 4.945,
+    "word": "Mittens",
+    "probability": 0.9805047367613099
+  },
+  {
+    "start": 4.945,
+    "end": 5.566,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 5.566,
+    "end": 6.107,
+    "word": "Kitten",
+    "probability": 0.9210432380207743
+  },
+  {
+    "start": 6.107,
+    "end": 6.527,
+    "word": "y",
+    "probability": 0.9869262426308474
+  },
+  {
+    "start": 6.527,
+    "end": 7.148,
+    "word": "Moppet",
+    "probability": 0.9634666764568037
+  },
+  {
+    "start": 7.148,
+    "end": 8.349,
+    "word": "Tenían",
+    "probability": 0.99
+  },
+  {
+    "start": 8.349,
+    "end": 8.99,
+    "word": "hermosos",
+    "probability": 0.9768263559113914
+  },
+  {
+    "start": 8.99,
+    "end": 9.53,
+    "word": "abrigos",
+    "probability": 0.99
+  },
+  {
+    "start": 9.53,
+    "end": 9.65,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 9.65,
+    "end": 10.011,
+    "word": "piel",
+    "probability": 0.9562782197263233
+  },
+  {
+    "start": 10.011,
+    "end": 10.451,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 10.451,
+    "end": 11.012,
+    "word": "pasaban",
+    "probability": 0.99
+  },
+  {
+    "start": 11.012,
+    "end": 11.292,
+    "word": "sus",
+    "probability": 0.9883708358061031
+  },
+  {
+    "start": 11.292,
+    "end": 11.712,
+    "word": "días",
+    "probability": 0.99
+  },
+  {
+    "start": 11.712,
+    "end": 12.774,
+    "word": "revolcándose",
+    "probability": 0.99
+  },
+  {
+    "start": 12.774,
+    "end": 12.934,
+    "word": "en",
+    "probability": 0.96792049489137
+  },
+  {
+    "start": 12.934,
+    "end": 13.094,
+    "word": "el",
+    "probability": 0.9856011621002049
+  },
+  {
+    "start": 13.094,
+    "end": 13.635,
+    "word": "porche",
+    "probability": 0.99
+  },
+  {
+    "start": 13.635,
+    "end": 13.815,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 13.815,
+    "end": 14.415,
+    "word": "jugando",
+    "probability": 0.99
+  },
+  {
+    "start": 14.415,
+    "end": 14.536,
+    "word": "en",
+    "probability": 0.9182869242649606
+  },
+  {
+    "start": 14.536,
+    "end": 14.696,
+    "word": "la",
+    "probability": 0.9886700398287013
+  },
+  {
+    "start": 14.696,
+    "end": 15.116,
+    "word": "tierra",
+    "probability": 0.971339668893591
+  }
+]

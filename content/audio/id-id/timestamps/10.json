@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.421,
+    "word": "Mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 0.421,
+    "end": 0.961,
+    "word": "memutar",
+    "probability": 0.9385877692936149
+  },
+  {
+    "start": 0.961,
+    "end": 1.322,
+    "word": "gaun",
+    "probability": 0.99
+  },
+  {
+    "start": 1.322,
+    "end": 1.702,
+    "word": "mereka",
+    "probability": 0.9752735194947931
+  },
+  {
+    "start": 1.702,
+    "end": 1.943,
+    "word": "ke",
+    "probability": 0.9721409352995439
+  },
+  {
+    "start": 1.943,
+    "end": 2.604,
+    "word": "belakang",
+    "probability": 0.9851830557835242
+  },
+  {
+    "start": 2.604,
+    "end": 3.265,
+    "word": "agar",
+    "probability": 0.9828770760811374
+  },
+  {
+    "start": 3.265,
+    "end": 3.525,
+    "word": "bisa",
+    "probability": 0.99
+  },
+  {
+    "start": 3.525,
+    "end": 4.086,
+    "word": "bergerak",
+    "probability": 0.9660904424035818
+  },
+  {
+    "start": 4.086,
+    "end": 4.306,
+    "word": "lebih",
+    "probability": 0.9828394816422512
+  },
+  {
+    "start": 4.306,
+    "end": 4.827,
+    "word": "baik",
+    "probability": 0.976822011927275
+  },
+  {
+    "start": 4.827,
+    "end": 5.327,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 5.327,
+    "end": 5.948,
+    "word": "melompat",
+    "probability": 0.9779337286330132
+  },
+  {
+    "start": 5.948,
+    "end": 6.108,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 6.108,
+    "end": 6.729,
+    "word": "atas",
+    "probability": 0.99
+  },
+  {
+    "start": 6.729,
+    "end": 7.651,
+    "word": "kerah",
+    "probability": 0.9867044082847256
+  },
+  {
+    "start": 7.651,
+    "end": 7.971,
+    "word": "renda",
+    "probability": 0.9885780378162874
+  },
+  {
+    "start": 7.971,
+    "end": 8.392,
+    "word": "putih",
+    "probability": 0.9454516989441208
+  },
+  {
+    "start": 8.392,
+    "end": 8.872,
+    "word": "Moppet",
+    "probability": 0.9449966443739699
+  },
+  {
+    "start": 8.872,
+    "end": 9.513,
+    "word": "jatuh",
+    "probability": 0.9756047603213833
+  },
+  {
+    "start": 9.513,
+    "end": 9.653,
+    "word": "ke",
+    "probability": 0.9159105919716529
+  },
+  {
+    "start": 9.653,
+    "end": 10.034,
+    "word": "jalan",
+    "probability": 0.9824793881647531
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.26,
+    "word": "Był",
+    "probability": 0.9787204062112648
+  },
+  {
+    "start": 0.26,
+    "end": 0.421,
+    "word": "w",
+    "probability": 0.948801555079872
+  },
+  {
+    "start": 0.421,
+    "end": 1.122,
+    "word": "bałaganie",
+    "probability": 0.99
+  },
+  {
+    "start": 1.122,
+    "end": 1.342,
+    "word": "gdy",
+    "probability": 0.99
+  },
+  {
+    "start": 1.342,
+    "end": 1.803,
+    "word": "dotarł",
+    "probability": 0.99
+  },
+  {
+    "start": 1.803,
+    "end": 1.963,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 1.963,
+    "end": 2.323,
+    "word": "szczyt",
+    "probability": 0.9819470425384789
+  },
+  {
+    "start": 2.323,
+    "end": 2.904,
+    "word": "muru",
+    "probability": 0.99
+  },
+  {
+    "start": 2.904,
+    "end": 4.026,
+    "word": "Moppet",
+    "probability": 0.9797185260791546
+  },
+  {
+    "start": 4.026,
+    "end": 4.186,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 4.186,
+    "end": 4.767,
+    "word": "Mittens",
+    "probability": 0.9483584480652539
+  },
+  {
+    "start": 4.767,
+    "end": 5.548,
+    "word": "próbowały",
+    "probability": 0.9860849106822658
+  },
+  {
+    "start": 5.548,
+    "end": 6.049,
+    "word": "naprawić",
+    "probability": 0.9794390240774433
+  },
+  {
+    "start": 6.049,
+    "end": 6.329,
+    "word": "jego",
+    "probability": 0.9805604998783428
+  },
+  {
+    "start": 6.329,
+    "end": 6.89,
+    "word": "ubrania",
+    "probability": 0.99
+  },
+  {
+    "start": 6.89,
+    "end": 7.491,
+    "word": "ale",
+    "probability": 0.99
+  },
+  {
+    "start": 7.491,
+    "end": 7.832,
+    "word": "jego",
+    "probability": 0.9703618620991167
+  },
+  {
+    "start": 7.832,
+    "end": 8.413,
+    "word": "kapelusz",
+    "probability": 0.99
+  },
+  {
+    "start": 8.413,
+    "end": 9.154,
+    "word": "spadł",
+    "probability": 0.9847995710918024
+  },
+  {
+    "start": 9.154,
+    "end": 9.374,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 9.374,
+    "end": 9.875,
+    "word": "ostatnie",
+    "probability": 0.9889024360030683
+  },
+  {
+    "start": 9.875,
+    "end": 10.355,
+    "word": "guziki",
+    "probability": 0.99
+  },
+  {
+    "start": 10.355,
+    "end": 11.016,
+    "word": "pękły",
+    "probability": 0.99
+  }
+]

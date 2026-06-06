@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.24,
+    "word": "Tom",
+    "probability": 0.979695245530685
+  },
+  {
+    "start": 0.24,
+    "end": 0.661,
+    "word": "Kitten",
+    "probability": 0.7769687858440593
+  },
+  {
+    "start": 0.661,
+    "end": 0.841,
+    "word": "era",
+    "probability": 0.9386262612378063
+  },
+  {
+    "start": 0.841,
+    "end": 1.261,
+    "word": "destul",
+    "probability": 0.9729744334025169
+  },
+  {
+    "start": 1.261,
+    "end": 1.381,
+    "word": "de",
+    "probability": 0.9829688466384155
+  },
+  {
+    "start": 1.381,
+    "end": 1.881,
+    "word": "dolofan",
+    "probability": 0.9533612731020255
+  },
+  {
+    "start": 1.881,
+    "end": 2.022,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 2.022,
+    "end": 2.642,
+    "word": "crescuse",
+    "probability": 0.9648211623507131
+  },
+  {
+    "start": 2.642,
+    "end": 3.463,
+    "word": "mai",
+    "probability": 0.9759213739573191
+  },
+  {
+    "start": 3.463,
+    "end": 3.743,
+    "word": "multe",
+    "probability": 0.8973194191488404
+  },
+  {
+    "start": 3.743,
+    "end": 4.303,
+    "word": "nasturi",
+    "probability": 0.9786581896125542
+  },
+  {
+    "start": 4.303,
+    "end": 4.523,
+    "word": "sau",
+    "probability": 0.96802491437018
+  },
+  {
+    "start": 4.523,
+    "end": 4.744,
+    "word": "rupt",
+    "probability": 0.9764472260348424
+  },
+  {
+    "start": 4.744,
+    "end": 5.204,
+    "word": "imediat",
+    "probability": 0.9577694659519776
+  },
+  {
+    "start": 5.204,
+    "end": 5.965,
+    "word": "Mama",
+    "probability": 0.9883643454426917
+  },
+  {
+    "start": 5.965,
+    "end": 6.145,
+    "word": "lui",
+    "probability": 0.9401483613993228
+  },
+  {
+    "start": 6.145,
+    "end": 6.225,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 6.225,
+    "end": 6.765,
+    "word": "oftat",
+    "probability": 0.9303506515531297
+  },
+  {
+    "start": 6.765,
+    "end": 6.885,
+    "word": "și",
+    "probability": 0.9692145395996855
+  },
+  {
+    "start": 6.885,
+    "end": 7.045,
+    "word": "ia",
+    "probability": 0.9462240488738256
+  },
+  {
+    "start": 7.045,
+    "end": 7.446,
+    "word": "cusut",
+    "probability": 0.9079794226578899
+  },
+  {
+    "start": 7.446,
+    "end": 7.546,
+    "word": "la",
+    "probability": 0.7657581603394485
+  },
+  {
+    "start": 7.546,
+    "end": 7.726,
+    "word": "loc",
+    "probability": 0.9680742452382991
+  }
+]

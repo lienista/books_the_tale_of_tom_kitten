@@ -1,0 +1,122 @@
+[
+  {
+    "start": 1.24,
+    "end": 1.636,
+    "word": "Egy",
+    "probability": 0.8461384732052435
+  },
+  {
+    "start": 1.636,
+    "end": 2.847,
+    "word": "nap",
+    "probability": 0.902014344102737
+  },
+  {
+    "start": 2.847,
+    "end": 2.988,
+    "word": "az",
+    "probability": 0.49918652087701176
+  },
+  {
+    "start": 2.988,
+    "end": 3.411,
+    "word": "anyjukMrs",
+    "probability": 0.3103611111040617
+  },
+  {
+    "start": 3.411,
+    "end": 4.003,
+    "word": "Tabitha",
+    "probability": 0.6605112200188741
+  },
+  {
+    "start": 4.003,
+    "end": 6.118,
+    "word": "Twitchitbarátokat",
+    "probability": 0.7418411599587682
+  },
+  {
+    "start": 6.118,
+    "end": 6.568,
+    "word": "várt",
+    "probability": 0.6874991840360194
+  },
+  {
+    "start": 6.568,
+    "end": 7.104,
+    "word": "teára",
+    "probability": 0.7356482977449833
+  },
+  {
+    "start": 7.104,
+    "end": 7.894,
+    "word": "Bevitte",
+    "probability": 0.7299011306122339
+  },
+  {
+    "start": 7.894,
+    "end": 8.007,
+    "word": "a",
+    "probability": 0.7492138202015071
+  },
+  {
+    "start": 8.007,
+    "end": 9.416,
+    "word": "kiscicákat",
+    "probability": 0.7997292460308596
+  },
+  {
+    "start": 9.416,
+    "end": 9.754,
+    "word": "hogy",
+    "probability": 0.6662558067065038
+  },
+  {
+    "start": 9.754,
+    "end": 10.15,
+    "word": "megmossa",
+    "probability": 0.426682368264028
+  },
+  {
+    "start": 10.15,
+    "end": 10.291,
+    "word": "és",
+    "probability": 0.39991967874326295
+  },
+  {
+    "start": 10.291,
+    "end": 12.235,
+    "word": "felöltöztesse",
+    "probability": 0.7836068604053775
+  },
+  {
+    "start": 12.235,
+    "end": 12.686,
+    "word": "őket",
+    "probability": 0.7462620892101876
+  },
+  {
+    "start": 12.686,
+    "end": 13.223,
+    "word": "mielőtt",
+    "probability": 0.5706800364498017
+  },
+  {
+    "start": 13.223,
+    "end": 13.335,
+    "word": "a",
+    "probability": 0.7995678982676357
+  },
+  {
+    "start": 13.335,
+    "end": 14.434,
+    "word": "vendégek",
+    "probability": 0.6963155034658837
+  },
+  {
+    "start": 14.434,
+    "end": 14.857,
+    "word": "megérkeztek",
+    "probability": 0.32763570160204536
+  }
+]

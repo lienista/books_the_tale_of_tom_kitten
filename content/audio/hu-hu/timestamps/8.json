@@ -1,0 +1,272 @@
+[
+  {
+    "start": 6.741,
+    "end": 7.002,
+    "word": "Amikor",
+    "probability": 0.6153141057622846
+  },
+  {
+    "start": 7.002,
+    "end": 7.102,
+    "word": "a",
+    "probability": 0.7940325789542874
+  },
+  {
+    "start": 7.102,
+    "end": 7.482,
+    "word": "három",
+    "probability": 0.7368414107788994
+  },
+  {
+    "start": 7.482,
+    "end": 7.842,
+    "word": "kiscica",
+    "probability": 0.5758326541109959
+  },
+  {
+    "start": 7.842,
+    "end": 8.242,
+    "word": "készen",
+    "probability": 0.6830072090105554
+  },
+  {
+    "start": 8.242,
+    "end": 8.562,
+    "word": "állt",
+    "probability": 0.6261145905010643
+  },
+  {
+    "start": 8.562,
+    "end": 8.662,
+    "word": "Mrs",
+    "probability": 0.20015048095815083
+  },
+  {
+    "start": 8.662,
+    "end": 9.022,
+    "word": "Tabitha",
+    "probability": 0.5650324288945435
+  },
+  {
+    "start": 9.022,
+    "end": 9.282,
+    "word": "hibát",
+    "probability": 0.5384231885843943
+  },
+  {
+    "start": 9.282,
+    "end": 9.642,
+    "word": "követett",
+    "probability": 0.555213312558722
+  },
+  {
+    "start": 9.642,
+    "end": 9.982,
+    "word": "el",
+    "probability": 0.8154276337259381
+  },
+  {
+    "start": 9.982,
+    "end": 10.062,
+    "word": "és",
+    "probability": 0.4989171804784009
+  },
+  {
+    "start": 10.062,
+    "end": 11.242,
+    "word": "kiküldte",
+    "probability": 0.8573145158566651
+  },
+  {
+    "start": 11.242,
+    "end": 11.402,
+    "word": "őket",
+    "probability": 0.49499772592728136
+  },
+  {
+    "start": 11.402,
+    "end": 11.523,
+    "word": "a",
+    "probability": 0.6646424138077497
+  },
+  {
+    "start": 11.523,
+    "end": 11.863,
+    "word": "kertbe",
+    "probability": 0.5881826354935837
+  },
+  {
+    "start": 11.863,
+    "end": 12.403,
+    "word": "miközben",
+    "probability": 0.6365265176583065
+  },
+  {
+    "start": 12.403,
+    "end": 12.663,
+    "word": "forró",
+    "probability": 0.6149471277030982
+  },
+  {
+    "start": 12.663,
+    "end": 12.923,
+    "word": "vajas",
+    "probability": 0.5751413693993458
+  },
+  {
+    "start": 12.923,
+    "end": 13.423,
+    "word": "pirítóst",
+    "probability": 0.6399904669747474
+  },
+  {
+    "start": 13.423,
+    "end": 14.043,
+    "word": "készített",
+    "probability": 0.7085233619092064
+  },
+  {
+    "start": 14.043,
+    "end": 14.663,
+    "word": "Most",
+    "probability": 0.8705304500547633
+  },
+  {
+    "start": 14.663,
+    "end": 15.363,
+    "word": "tartsátok",
+    "probability": 0.7132396257670803
+  },
+  {
+    "start": 15.363,
+    "end": 16.064,
+    "word": "tisztán",
+    "probability": 0.7643641988029605
+  },
+  {
+    "start": 16.064,
+    "end": 16.104,
+    "word": "a",
+    "probability": 0.11192074714584052
+  },
+  {
+    "start": 16.104,
+    "end": 16.864,
+    "word": "ruháitokat",
+    "probability": 0.6852108762408756
+  },
+  {
+    "start": 16.864,
+    "end": 17.724,
+    "word": "gyerekek",
+    "probability": 0.7936285586868952
+  },
+  {
+    "start": 17.724,
+    "end": 18.344,
+    "word": "Sétáljatok",
+    "probability": 0.6387888761784496
+  },
+  {
+    "start": 18.344,
+    "end": 18.384,
+    "word": "a",
+    "probability": 0.4999951735235153
+  },
+  {
+    "start": 18.384,
+    "end": 18.604,
+    "word": "hátsó",
+    "probability": 0.3796284012085811
+  },
+  {
+    "start": 18.604,
+    "end": 19.064,
+    "word": "lábaitokon",
+    "probability": 0.48010787545218964
+  },
+  {
+    "start": 19.064,
+    "end": 19.564,
+    "word": "Maradjatok",
+    "probability": 0.5590548179371918
+  },
+  {
+    "start": 19.564,
+    "end": 19.904,
+    "word": "távol",
+    "probability": 0.6825648235091214
+  },
+  {
+    "start": 19.904,
+    "end": 19.944,
+    "word": "a",
+    "probability": 0.46876260181634943
+  },
+  {
+    "start": 19.944,
+    "end": 20.544,
+    "word": "sáros",
+    "probability": 0.8222006675426149
+  },
+  {
+    "start": 20.544,
+    "end": 20.865,
+    "word": "hamu",
+    "probability": 0.6070474687300679
+  },
+  {
+    "start": 20.865,
+    "end": 21.545,
+    "word": "gödörtől",
+    "probability": 0.7403516315876558
+  },
+  {
+    "start": 21.545,
+    "end": 22.145,
+    "word": "Sally",
+    "probability": 0.8330333851504255
+  },
+  {
+    "start": 22.145,
+    "end": 22.605,
+    "word": "HennyPennytől",
+    "probability": 0.4347342485001901
+  },
+  {
+    "start": 22.605,
+    "end": 22.685,
+    "word": "a",
+    "probability": 0.7499888376434191
+  },
+  {
+    "start": 22.685,
+    "end": 24.125,
+    "word": "disznóóltól",
+    "probability": 0.8358771287188913
+  },
+  {
+    "start": 24.125,
+    "end": 24.325,
+    "word": "és",
+    "probability": 0.7407008413768617
+  },
+  {
+    "start": 24.325,
+    "end": 25.125,
+    "word": "azoktól",
+    "probability": 0.7864865773327312
+  },
+  {
+    "start": 25.125,
+    "end": 25.626,
+    "word": "a",
+    "probability": 0.952503447190294
+  },
+  {
+    "start": 25.626,
+    "end": 26.746,
+    "word": "PuddleDuckoktól",
+    "probability": 0.7381689669415786
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "start": 0.18,
+    "end": 0.58,
+    "word": "Moppet",
+    "probability": 0.9119792546843188
+  },
+  {
+    "start": 0.58,
+    "end": 0.72,
+    "word": "a",
+    "probability": 0.9430405654786347
+  },
+  {
+    "start": 0.72,
+    "end": 1.441,
+    "word": "Mittens",
+    "probability": 0.8887110093423412
+  },
+  {
+    "start": 1.441,
+    "end": 1.761,
+    "word": "se",
+    "probability": 0.9785370095963812
+  },
+  {
+    "start": 1.761,
+    "end": 2.441,
+    "word": "kolébaly",
+    "probability": 0.9878165730468398
+  },
+  {
+    "start": 2.441,
+    "end": 2.641,
+    "word": "po",
+    "probability": 0.8934839345320025
+  },
+  {
+    "start": 2.641,
+    "end": 3.222,
+    "word": "zahradní",
+    "probability": 0.99
+  },
+  {
+    "start": 3.222,
+    "end": 4.102,
+    "word": "cestičce",
+    "probability": 0.9895828382936905
+  },
+  {
+    "start": 4.102,
+    "end": 5.023,
+    "word": "Brzy",
+    "probability": 0.99
+  },
+  {
+    "start": 5.023,
+    "end": 5.603,
+    "word": "zakoply",
+    "probability": 0.99
+  },
+  {
+    "start": 5.603,
+    "end": 5.763,
+    "word": "o",
+    "probability": 0.9439091340626109
+  },
+  {
+    "start": 5.763,
+    "end": 5.983,
+    "word": "své",
+    "probability": 0.9786853697784966
+  },
+  {
+    "start": 5.983,
+    "end": 6.523,
+    "word": "šaty",
+    "probability": 0.9862944463174697
+  },
+  {
+    "start": 6.523,
+    "end": 6.844,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 6.844,
+    "end": 7.344,
+    "word": "spadly",
+    "probability": 0.9805620887724646
+  },
+  {
+    "start": 7.344,
+    "end": 7.504,
+    "word": "na",
+    "probability": 0.9057714674345504
+  },
+  {
+    "start": 7.504,
+    "end": 8.204,
+    "word": "obličej",
+    "probability": 0.9672384852364152
+  },
+  {
+    "start": 8.204,
+    "end": 9.165,
+    "word": "Když",
+    "probability": 0.96850921173661
+  },
+  {
+    "start": 9.165,
+    "end": 9.665,
+    "word": "vstaly",
+    "probability": 0.9563706360861174
+  },
+  {
+    "start": 9.665,
+    "end": 10.285,
+    "word": "byly",
+    "probability": 0.9717837822846116
+  },
+  {
+    "start": 10.285,
+    "end": 10.826,
+    "word": "pokryté",
+    "probability": 0.9831144782554496
+  },
+  {
+    "start": 10.826,
+    "end": 11.566,
+    "word": "skvrnami",
+    "probability": 0.9642488043018473
+  },
+  {
+    "start": 11.566,
+    "end": 11.826,
+    "word": "od",
+    "probability": 0.9846568080156317
+  },
+  {
+    "start": 11.826,
+    "end": 12.366,
+    "word": "trávy",
+    "probability": 0.9680873492023395
+  },
+  {
+    "start": 12.366,
+    "end": 13.507,
+    "word": "Pojďme",
+    "probability": 0.9814498155578232
+  },
+  {
+    "start": 13.507,
+    "end": 14.107,
+    "word": "vylézt",
+    "probability": 0.9516420801992541
+  },
+  {
+    "start": 14.107,
+    "end": 14.247,
+    "word": "na",
+    "probability": 0.9156007330093178
+  },
+  {
+    "start": 14.247,
+    "end": 14.728,
+    "word": "kameny",
+    "probability": 0.9851142141657133
+  },
+  {
+    "start": 14.728,
+    "end": 14.968,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 14.968,
+    "end": 15.468,
+    "word": "sednout",
+    "probability": 0.9517640269745378
+  },
+  {
+    "start": 15.468,
+    "end": 15.608,
+    "word": "si",
+    "probability": 0.9138813436211456
+  },
+  {
+    "start": 15.608,
+    "end": 15.808,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 15.808,
+    "end": 16.368,
+    "word": "zahradní",
+    "probability": 0.99
+  },
+  {
+    "start": 16.368,
+    "end": 16.849,
+    "word": "zeď",
+    "probability": 0.9877359527321251
+  },
+  {
+    "start": 16.849,
+    "end": 17.509,
+    "word": "navrhla",
+    "probability": 0.9786898532136739
+  },
+  {
+    "start": 17.509,
+    "end": 17.869,
+    "word": "Moppet",
+    "probability": 0.9301597657380913
+  }
+]

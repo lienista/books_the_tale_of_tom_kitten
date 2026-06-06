@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.542,
+    "word": "Якраз",
+    "probability": 0.9309694406618878
+  },
+  {
+    "start": 0.542,
+    "end": 1.123,
+    "word": "навпаки",
+    "probability": 0.9160006552183625
+  },
+  {
+    "start": 1.123,
+    "end": 1.966,
+    "word": "вони",
+    "probability": 0.99
+  },
+  {
+    "start": 1.966,
+    "end": 2.568,
+    "word": "зовсім",
+    "probability": 0.99
+  },
+  {
+    "start": 2.568,
+    "end": 2.748,
+    "word": "не",
+    "probability": 0.9455785220057229
+  },
+  {
+    "start": 2.748,
+    "end": 3.029,
+    "word": "були",
+    "probability": 0.980917387980579
+  },
+  {
+    "start": 3.029,
+    "end": 3.189,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 3.189,
+    "end": 3.611,
+    "word": "ліжку",
+    "probability": 0.99
+  }
+]

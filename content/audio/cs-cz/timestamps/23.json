@@ -1,0 +1,38 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.341,
+    "word": "Pravý",
+    "probability": 0.99
+  },
+  {
+    "start": 0.341,
+    "end": 0.903,
+    "word": "opak",
+    "probability": 0.99
+  },
+  {
+    "start": 0.903,
+    "end": 1.765,
+    "word": "vůbec",
+    "probability": 0.99
+  },
+  {
+    "start": 1.765,
+    "end": 2.187,
+    "word": "nebyli",
+    "probability": 0.9807428846541868
+  },
+  {
+    "start": 2.187,
+    "end": 2.327,
+    "word": "v",
+    "probability": 0.9361383200950116
+  },
+  {
+    "start": 2.327,
+    "end": 2.828,
+    "word": "posteli",
+    "probability": 0.99
+  }
+]

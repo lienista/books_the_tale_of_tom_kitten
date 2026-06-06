@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.181,
+    "end": 0.341,
+    "word": "Toen",
+    "probability": 0.8794548456775975
+  },
+  {
+    "start": 0.341,
+    "end": 0.622,
+    "word": "kwam",
+    "probability": 0.913291689516578
+  },
+  {
+    "start": 0.622,
+    "end": 1.104,
+    "word": "Tabitha",
+    "probability": 0.9189339215648156
+  },
+  {
+    "start": 1.104,
+    "end": 1.666,
+    "word": "Twitchit",
+    "probability": 0.8738164500353461
+  },
+  {
+    "start": 1.666,
+    "end": 1.886,
+    "word": "naar",
+    "probability": 0.9558186147018255
+  },
+  {
+    "start": 1.886,
+    "end": 1.987,
+    "word": "de",
+    "probability": 0.9661499497185237
+  },
+  {
+    "start": 1.987,
+    "end": 2.348,
+    "word": "tuin",
+    "probability": 0.9068654159048449
+  },
+  {
+    "start": 2.348,
+    "end": 3.07,
+    "word": "en",
+    "probability": 0.9797019380754414
+  },
+  {
+    "start": 3.07,
+    "end": 3.351,
+    "word": "vond",
+    "probability": 0.99
+  },
+  {
+    "start": 3.351,
+    "end": 3.552,
+    "word": "haar",
+    "probability": 0.9475093823343828
+  },
+  {
+    "start": 3.552,
+    "end": 3.993,
+    "word": "kittens",
+    "probability": 0.9798953390849824
+  },
+  {
+    "start": 3.993,
+    "end": 4.154,
+    "word": "op",
+    "probability": 0.9121291960365852
+  },
+  {
+    "start": 4.154,
+    "end": 4.274,
+    "word": "de",
+    "probability": 0.9077625738552711
+  },
+  {
+    "start": 4.274,
+    "end": 4.615,
+    "word": "muur",
+    "probability": 0.9329264893490736
+  },
+  {
+    "start": 4.615,
+    "end": 5.217,
+    "word": "zonder",
+    "probability": 0.9741445435814929
+  },
+  {
+    "start": 5.217,
+    "end": 5.699,
+    "word": "kleren",
+    "probability": 0.9565040010132687
+  },
+  {
+    "start": 5.699,
+    "end": 5.94,
+    "word": "aan",
+    "probability": 0.9725223667362156
+  }
+]

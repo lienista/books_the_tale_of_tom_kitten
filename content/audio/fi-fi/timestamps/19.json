@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.501,
+    "end": 0.761,
+    "word": "Sitten",
+    "probability": 0.6112974384886234
+  },
+  {
+    "start": 0.761,
+    "end": 1.241,
+    "word": "hän",
+    "probability": 0.8650156274787186
+  },
+  {
+    "start": 1.241,
+    "end": 1.622,
+    "word": "Jemima",
+    "probability": 0.6499548438133436
+  },
+  {
+    "start": 1.622,
+    "end": 1.942,
+    "word": "ja",
+    "probability": 0.8359971350055353
+  },
+  {
+    "start": 1.942,
+    "end": 2.483,
+    "word": "Rebeccah",
+    "probability": 0.6799570633619514
+  },
+  {
+    "start": 2.483,
+    "end": 2.963,
+    "word": "PuddleDuck",
+    "probability": 0.5410007028313506
+  },
+  {
+    "start": 2.963,
+    "end": 3.384,
+    "word": "lähtivät",
+    "probability": 0.5548761524964188
+  },
+  {
+    "start": 3.384,
+    "end": 3.784,
+    "word": "tielle",
+    "probability": 0.6496949952824385
+  },
+  {
+    "start": 3.784,
+    "end": 4.245,
+    "word": "pitäen",
+    "probability": 0.6781033644151474
+  },
+  {
+    "start": 4.245,
+    "end": 5.126,
+    "word": "askelensa",
+    "probability": 0.7741712414395052
+  },
+  {
+    "start": 5.126,
+    "end": 5.746,
+    "word": "tahdissapitpat",
+    "probability": 0.5222118935683892
+  },
+  {
+    "start": 5.746,
+    "end": 6.427,
+    "word": "paddlepat",
+    "probability": 0.6980395852846283
+  },
+  {
+    "start": 6.427,
+    "end": 7.268,
+    "word": "pitpat",
+    "probability": 0.8107016457771591
+  },
+  {
+    "start": 7.268,
+    "end": 8.209,
+    "word": "waddlepat",
+    "probability": 0.7977298451806071
+  }
+]

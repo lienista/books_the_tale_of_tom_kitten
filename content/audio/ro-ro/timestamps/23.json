@@ -1,0 +1,38 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.725,
+    "word": "Dimpotrivă",
+    "probability": 0.9734599473124992
+  },
+  {
+    "start": 0.725,
+    "end": 1.249,
+    "word": "nu",
+    "probability": 0.99
+  },
+  {
+    "start": 1.249,
+    "end": 1.471,
+    "word": "erau",
+    "probability": 0.9831491005293512
+  },
+  {
+    "start": 1.471,
+    "end": 1.813,
+    "word": "deloc",
+    "probability": 0.976649962519228
+  },
+  {
+    "start": 1.813,
+    "end": 1.914,
+    "word": "în",
+    "probability": 0.988625836057594
+  },
+  {
+    "start": 1.914,
+    "end": 2.075,
+    "word": "pat",
+    "probability": 0.99
+  }
+]

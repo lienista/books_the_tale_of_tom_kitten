@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.54,
+    "word": "Potem",
+    "probability": 0.99
+  },
+  {
+    "start": 0.54,
+    "end": 1.241,
+    "word": "Tabitha",
+    "probability": 0.9683685477574236
+  },
+  {
+    "start": 1.241,
+    "end": 1.821,
+    "word": "Twitchit",
+    "probability": 0.8999802716744859
+  },
+  {
+    "start": 1.821,
+    "end": 2.482,
+    "word": "zeszła",
+    "probability": 0.9752913885174571
+  },
+  {
+    "start": 2.482,
+    "end": 2.622,
+    "word": "do",
+    "probability": 0.99
+  },
+  {
+    "start": 2.622,
+    "end": 3.162,
+    "word": "ogrodu",
+    "probability": 0.9860712685420366
+  },
+  {
+    "start": 3.162,
+    "end": 3.523,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 3.523,
+    "end": 4.083,
+    "word": "znalazła",
+    "probability": 0.99
+  },
+  {
+    "start": 4.083,
+    "end": 4.483,
+    "word": "swoje",
+    "probability": 0.99
+  },
+  {
+    "start": 4.483,
+    "end": 4.964,
+    "word": "kotki",
+    "probability": 0.99
+  },
+  {
+    "start": 4.964,
+    "end": 5.124,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 5.124,
+    "end": 5.524,
+    "word": "murze",
+    "probability": 0.99
+  },
+  {
+    "start": 5.524,
+    "end": 6.085,
+    "word": "bez",
+    "probability": 0.99
+  },
+  {
+    "start": 6.085,
+    "end": 6.525,
+    "word": "ubrań",
+    "probability": 0.988641864264455
+  }
+]

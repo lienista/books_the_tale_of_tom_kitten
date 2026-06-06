@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.26,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.26,
+    "end": 0.641,
+    "word": "Kitten",
+    "probability": 0.8072071749303988
+  },
+  {
+    "start": 0.641,
+    "end": 0.881,
+    "word": "byl",
+    "probability": 0.9358703297409029
+  },
+  {
+    "start": 0.881,
+    "end": 1.341,
+    "word": "docela",
+    "probability": 0.99
+  },
+  {
+    "start": 1.341,
+    "end": 2.022,
+    "word": "baculatý",
+    "probability": 0.99
+  },
+  {
+    "start": 2.022,
+    "end": 2.382,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 2.382,
+    "end": 2.963,
+    "word": "vyrostl",
+    "probability": 0.99
+  },
+  {
+    "start": 2.963,
+    "end": 3.964,
+    "word": "několik",
+    "probability": 0.99
+  },
+  {
+    "start": 3.964,
+    "end": 4.664,
+    "word": "knoflíků",
+    "probability": 0.9814533850145013
+  },
+  {
+    "start": 4.664,
+    "end": 4.965,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 4.965,
+    "end": 5.625,
+    "word": "okamžitě",
+    "probability": 0.9859604104803257
+  },
+  {
+    "start": 5.625,
+    "end": 6.186,
+    "word": "utrhlo",
+    "probability": 0.9712549875731138
+  },
+  {
+    "start": 6.186,
+    "end": 6.927,
+    "word": "Jeho",
+    "probability": 0.9865350013591767
+  },
+  {
+    "start": 6.927,
+    "end": 7.347,
+    "word": "matka",
+    "probability": 0.980783640649362
+  },
+  {
+    "start": 7.347,
+    "end": 7.547,
+    "word": "si",
+    "probability": 0.99
+  },
+  {
+    "start": 7.547,
+    "end": 8.268,
+    "word": "povzdechla",
+    "probability": 0.982807359544775
+  },
+  {
+    "start": 8.268,
+    "end": 8.608,
+    "word": "a",
+    "probability": 0.9695369029027151
+  },
+  {
+    "start": 8.608,
+    "end": 9.149,
+    "word": "přišila",
+    "probability": 0.99
+  },
+  {
+    "start": 9.149,
+    "end": 9.309,
+    "word": "je",
+    "probability": 0.9360048373256741
+  },
+  {
+    "start": 9.309,
+    "end": 9.649,
+    "word": "zpět",
+    "probability": 0.9874965510221277
+  }
+]

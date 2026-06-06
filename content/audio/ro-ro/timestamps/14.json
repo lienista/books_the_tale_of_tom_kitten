@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.22,
+    "word": "Sau",
+    "probability": 0.99
+  },
+  {
+    "start": 0.22,
+    "end": 0.641,
+    "word": "oprit",
+    "probability": 0.985397271541188
+  },
+  {
+    "start": 0.641,
+    "end": 0.761,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 0.761,
+    "end": 0.861,
+    "word": "au",
+    "probability": 0.755354754750747
+  },
+  {
+    "start": 0.861,
+    "end": 1.142,
+    "word": "stat",
+    "probability": 0.9364897051727032
+  },
+  {
+    "start": 1.142,
+    "end": 1.262,
+    "word": "în",
+    "probability": 0.99
+  },
+  {
+    "start": 1.262,
+    "end": 1.582,
+    "word": "șir",
+    "probability": 0.99
+  },
+  {
+    "start": 1.582,
+    "end": 2.644,
+    "word": "uitânduse",
+    "probability": 0.9876709861699925
+  },
+  {
+    "start": 2.644,
+    "end": 2.744,
+    "word": "la",
+    "probability": 0.99
+  },
+  {
+    "start": 2.744,
+    "end": 3.405,
+    "word": "pisicuțe",
+    "probability": 0.9565334099799077
+  },
+  {
+    "start": 3.405,
+    "end": 3.565,
+    "word": "cu",
+    "probability": 0.9277116085921233
+  },
+  {
+    "start": 3.565,
+    "end": 3.766,
+    "word": "ochi",
+    "probability": 0.7723295573344154
+  },
+  {
+    "start": 3.766,
+    "end": 4.046,
+    "word": "mari",
+    "probability": 0.9513495528703605
+  },
+  {
+    "start": 4.046,
+    "end": 4.146,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 4.146,
+    "end": 4.807,
+    "word": "surprinși",
+    "probability": 0.967461007215841
+  }
+]

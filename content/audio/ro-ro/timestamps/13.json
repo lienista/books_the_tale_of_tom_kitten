@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.14,
+    "word": "În",
+    "probability": 0.99
+  },
+  {
+    "start": 0.14,
+    "end": 0.4,
+    "word": "timp",
+    "probability": 0.9678080007862773
+  },
+  {
+    "start": 0.4,
+    "end": 0.5,
+    "word": "ce",
+    "probability": 0.9070846586404342
+  },
+  {
+    "start": 0.5,
+    "end": 0.681,
+    "word": "se",
+    "probability": 0.9469612134311716
+  },
+  {
+    "start": 0.681,
+    "end": 1.221,
+    "word": "chinuiau",
+    "probability": 0.9833554439740945
+  },
+  {
+    "start": 1.221,
+    "end": 1.802,
+    "word": "au",
+    "probability": 0.99
+  },
+  {
+    "start": 1.802,
+    "end": 2.182,
+    "word": "auzit",
+    "probability": 0.9803332661325219
+  },
+  {
+    "start": 2.182,
+    "end": 2.302,
+    "word": "un",
+    "probability": 0.9322328262566528
+  },
+  {
+    "start": 2.302,
+    "end": 3.724,
+    "word": "pitpatpaddlepat",
+    "probability": 0.8567011127701762
+  },
+  {
+    "start": 3.724,
+    "end": 4.665,
+    "word": "Cele",
+    "probability": 0.9874109338982996
+  },
+  {
+    "start": 4.665,
+    "end": 4.945,
+    "word": "trei",
+    "probability": 0.9676900057852426
+  },
+  {
+    "start": 4.945,
+    "end": 5.325,
+    "word": "rațe",
+    "probability": 0.9762586302301768
+  },
+  {
+    "start": 5.325,
+    "end": 6.186,
+    "word": "PuddleDuck",
+    "probability": 0.781721304485217
+  },
+  {
+    "start": 6.186,
+    "end": 6.867,
+    "word": "veneau",
+    "probability": 0.9462247838353562
+  },
+  {
+    "start": 6.867,
+    "end": 7.387,
+    "word": "marșând",
+    "probability": 0.9707583251318914
+  },
+  {
+    "start": 7.387,
+    "end": 7.547,
+    "word": "pe",
+    "probability": 0.9064536312567566
+  },
+  {
+    "start": 7.547,
+    "end": 7.888,
+    "word": "drum",
+    "probability": 0.9751807508863344
+  },
+  {
+    "start": 7.888,
+    "end": 8.008,
+    "word": "în",
+    "probability": 0.9859761699074716
+  },
+  {
+    "start": 8.008,
+    "end": 8.248,
+    "word": "șir",
+    "probability": 0.7961552523346369
+  },
+  {
+    "start": 8.248,
+    "end": 8.728,
+    "word": "indian",
+    "probability": 0.9352707823781937
+  },
+  {
+    "start": 8.728,
+    "end": 9.529,
+    "word": "făcând",
+    "probability": 0.9678076683972018
+  },
+  {
+    "start": 9.529,
+    "end": 9.95,
+    "word": "mersul",
+    "probability": 0.9893836350555498
+  },
+  {
+    "start": 9.95,
+    "end": 10.17,
+    "word": "lor",
+    "probability": 0.9512808123633292
+  },
+  {
+    "start": 10.17,
+    "end": 12.532,
+    "word": "ritmicpitpatpaddlepat",
+    "probability": 0.8610517827333326
+  },
+  {
+    "start": 12.532,
+    "end": 14.174,
+    "word": "pitpatwaddlepat",
+    "probability": 0.9162124349166664
+  }
+]

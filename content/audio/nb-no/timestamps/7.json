@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.26,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.26,
+    "end": 0.661,
+    "word": "Kitten",
+    "probability": 0.8499632424774092
+  },
+  {
+    "start": 0.661,
+    "end": 0.901,
+    "word": "var",
+    "probability": 0.99
+  },
+  {
+    "start": 0.901,
+    "end": 1.382,
+    "word": "ganske",
+    "probability": 0.9820366315565591
+  },
+  {
+    "start": 1.382,
+    "end": 1.863,
+    "word": "lubben",
+    "probability": 0.8301502541436211
+  },
+  {
+    "start": 1.863,
+    "end": 2.144,
+    "word": "og",
+    "probability": 0.9229901403539716
+  },
+  {
+    "start": 2.144,
+    "end": 2.424,
+    "word": "hadde",
+    "probability": 0.7990350072137171
+  },
+  {
+    "start": 2.424,
+    "end": 2.885,
+    "word": "vokst",
+    "probability": 0.9246147180536398
+  },
+  {
+    "start": 2.885,
+    "end": 3.446,
+    "word": "flere",
+    "probability": 0.9811642187204848
+  },
+  {
+    "start": 3.446,
+    "end": 3.866,
+    "word": "knapper",
+    "probability": 0.7512008259748524
+  },
+  {
+    "start": 3.866,
+    "end": 4.447,
+    "word": "spratt",
+    "probability": 0.945348743157615
+  },
+  {
+    "start": 4.447,
+    "end": 4.608,
+    "word": "av",
+    "probability": 0.8055602029113267
+  },
+  {
+    "start": 4.608,
+    "end": 4.868,
+    "word": "med",
+    "probability": 0.7876391601003631
+  },
+  {
+    "start": 4.868,
+    "end": 4.968,
+    "word": "en",
+    "probability": 0.7245682457283561
+  },
+  {
+    "start": 4.968,
+    "end": 5.289,
+    "word": "gang",
+    "probability": 0.9083196019133388
+  },
+  {
+    "start": 5.289,
+    "end": 5.85,
+    "word": "Moren",
+    "probability": 0.9325797415084807
+  },
+  {
+    "start": 5.85,
+    "end": 6.13,
+    "word": "hans",
+    "probability": 0.884260328095676
+  },
+  {
+    "start": 6.13,
+    "end": 6.531,
+    "word": "sukket",
+    "probability": 0.7645381705877792
+  },
+  {
+    "start": 6.531,
+    "end": 6.711,
+    "word": "og",
+    "probability": 0.868982293219906
+  },
+  {
+    "start": 6.711,
+    "end": 7.192,
+    "word": "sydde",
+    "probability": 0.8934303221909193
+  },
+  {
+    "start": 7.192,
+    "end": 7.372,
+    "word": "dem",
+    "probability": 0.957824062724004
+  },
+  {
+    "start": 7.372,
+    "end": 7.512,
+    "word": "på",
+    "probability": 0.9355216051307143
+  },
+  {
+    "start": 7.512,
+    "end": 7.873,
+    "word": "igjen",
+    "probability": 0.843188012626467
+  }
+]

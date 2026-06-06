@@ -1,0 +1,218 @@
+[
+  {
+    "start": 0.08,
+    "end": 1.001,
+    "word": "Binihisan",
+    "probability": 0.9831289807891836
+  },
+  {
+    "start": 1.001,
+    "end": 1.081,
+    "word": "ni",
+    "probability": 0.5723477410981549
+  },
+  {
+    "start": 1.081,
+    "end": 1.421,
+    "word": "Mrs",
+    "probability": 0.925681681399298
+  },
+  {
+    "start": 1.421,
+    "end": 2.142,
+    "word": "Tabitha",
+    "probability": 0.9272988744459063
+  },
+  {
+    "start": 2.142,
+    "end": 2.662,
+    "word": "sina",
+    "probability": 0.9774267794275826
+  },
+  {
+    "start": 2.662,
+    "end": 3.282,
+    "word": "Moppet",
+    "probability": 0.8755505016249345
+  },
+  {
+    "start": 3.282,
+    "end": 3.943,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 3.943,
+    "end": 4.643,
+    "word": "Mittens",
+    "probability": 0.9121568859601964
+  },
+  {
+    "start": 4.643,
+    "end": 4.803,
+    "word": "ng",
+    "probability": 0.9383249848905287
+  },
+  {
+    "start": 4.803,
+    "end": 5.684,
+    "word": "malilinis",
+    "probability": 0.9867353990872139
+  },
+  {
+    "start": 5.684,
+    "end": 6.324,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 6.324,
+    "end": 7.045,
+    "word": "maliliit",
+    "probability": 0.9430168776138024
+  },
+  {
+    "start": 7.045,
+    "end": 7.165,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 7.165,
+    "end": 7.685,
+    "word": "damit",
+    "probability": 0.9748950789512946
+  },
+  {
+    "start": 7.685,
+    "end": 8.366,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 8.366,
+    "end": 8.646,
+    "word": "mga",
+    "probability": 0.9842296089392615
+  },
+  {
+    "start": 8.646,
+    "end": 9.246,
+    "word": "kuwelyong",
+    "probability": 0.8758964780017496
+  },
+  {
+    "start": 9.246,
+    "end": 9.767,
+    "word": "lace",
+    "probability": 0.9569608245478844
+  },
+  {
+    "start": 9.767,
+    "end": 11.548,
+    "word": "Pagkatapos",
+    "probability": 0.9739295581651605
+  },
+  {
+    "start": 11.548,
+    "end": 12.129,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 12.129,
+    "end": 12.669,
+    "word": "kumuha",
+    "probability": 0.99
+  },
+  {
+    "start": 12.669,
+    "end": 12.909,
+    "word": "siya",
+    "probability": 0.9728999283193186
+  },
+  {
+    "start": 12.909,
+    "end": 13.109,
+    "word": "ng",
+    "probability": 0.99
+  },
+  {
+    "start": 13.109,
+    "end": 13.429,
+    "word": "ilang",
+    "probability": 0.969103432481024
+  },
+  {
+    "start": 13.429,
+    "end": 14.37,
+    "word": "matitigas",
+    "probability": 0.9893470719723468
+  },
+  {
+    "start": 14.37,
+    "end": 14.53,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 14.53,
+    "end": 15.311,
+    "word": "magagarang",
+    "probability": 0.9694304014814785
+  },
+  {
+    "start": 15.311,
+    "end": 15.811,
+    "word": "damit",
+    "probability": 0.99
+  },
+  {
+    "start": 15.811,
+    "end": 16.592,
+    "word": "mula",
+    "probability": 0.9884142931501799
+  },
+  {
+    "start": 16.592,
+    "end": 16.832,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 16.832,
+    "end": 17.172,
+    "word": "isang",
+    "probability": 0.99
+  },
+  {
+    "start": 17.172,
+    "end": 17.672,
+    "word": "lumang",
+    "probability": 0.99
+  },
+  {
+    "start": 17.672,
+    "end": 18.393,
+    "word": "aparador",
+    "probability": 0.9834028766699527
+  },
+  {
+    "start": 18.393,
+    "end": 19.153,
+    "word": "para",
+    "probability": 0.99
+  },
+  {
+    "start": 19.153,
+    "end": 19.374,
+    "word": "kay",
+    "probability": 0.9612720982566855
+  },
+  {
+    "start": 19.374,
+    "end": 19.594,
+    "word": "Tom",
+    "probability": 0.9839770088637507
+  }
+]

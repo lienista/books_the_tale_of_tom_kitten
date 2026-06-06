@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.26,
+    "word": "Bol",
+    "probability": 0.9843117745424659
+  },
+  {
+    "start": 0.26,
+    "end": 0.34,
+    "word": "v",
+    "probability": 0.99
+  },
+  {
+    "start": 0.34,
+    "end": 1.201,
+    "word": "neporiadku",
+    "probability": 0.981697349911042
+  },
+  {
+    "start": 1.201,
+    "end": 1.501,
+    "word": "keď",
+    "probability": 0.9487060992677818
+  },
+  {
+    "start": 1.501,
+    "end": 2.222,
+    "word": "dosiahol",
+    "probability": 0.9508370931293008
+  },
+  {
+    "start": 2.222,
+    "end": 2.702,
+    "word": "vrchol",
+    "probability": 0.9442356558073027
+  },
+  {
+    "start": 2.702,
+    "end": 3.103,
+    "word": "múru",
+    "probability": 0.9477023301492746
+  },
+  {
+    "start": 3.103,
+    "end": 4.484,
+    "word": "Moppet",
+    "probability": 0.9697090565338023
+  },
+  {
+    "start": 4.484,
+    "end": 4.664,
+    "word": "a",
+    "probability": 0.9717535917706068
+  },
+  {
+    "start": 4.664,
+    "end": 5.405,
+    "word": "Mittens",
+    "probability": 0.9816648916188155
+  },
+  {
+    "start": 5.405,
+    "end": 5.785,
+    "word": "sa",
+    "probability": 0.962217631031934
+  },
+  {
+    "start": 5.785,
+    "end": 6.526,
+    "word": "snažili",
+    "probability": 0.99
+  },
+  {
+    "start": 6.526,
+    "end": 7.246,
+    "word": "opraviť",
+    "probability": 0.9324893428683413
+  },
+  {
+    "start": 7.246,
+    "end": 7.526,
+    "word": "jeho",
+    "probability": 0.7366546378536319
+  },
+  {
+    "start": 7.526,
+    "end": 8.327,
+    "word": "oblečenie",
+    "probability": 0.9651491868502322
+  },
+  {
+    "start": 8.327,
+    "end": 9.288,
+    "word": "ale",
+    "probability": 0.985529903329346
+  },
+  {
+    "start": 9.288,
+    "end": 9.588,
+    "word": "jeho",
+    "probability": 0.9446433515075058
+  },
+  {
+    "start": 9.588,
+    "end": 10.229,
+    "word": "klobúk",
+    "probability": 0.8653368493373168
+  },
+  {
+    "start": 10.229,
+    "end": 10.809,
+    "word": "spadol",
+    "probability": 0.99
+  },
+  {
+    "start": 10.809,
+    "end": 11.57,
+    "word": "a",
+    "probability": 0.9854558751175646
+  },
+  {
+    "start": 11.57,
+    "end": 12.331,
+    "word": "posledné",
+    "probability": 0.99
+  },
+  {
+    "start": 12.331,
+    "end": 13.572,
+    "word": "gombíky",
+    "probability": 0.9543779313294598
+  },
+  {
+    "start": 13.572,
+    "end": 13.812,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 13.812,
+    "end": 14.492,
+    "word": "odtrhli",
+    "probability": 0.9703790152960172
+  }
+]

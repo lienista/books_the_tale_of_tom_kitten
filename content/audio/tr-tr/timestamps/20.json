@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.422,
+    "word": "Sonra",
+    "probability": 0.9848736694124378
+  },
+  {
+    "start": 0.422,
+    "end": 0.924,
+    "word": "Tabitha",
+    "probability": 0.9582156200039491
+  },
+  {
+    "start": 0.924,
+    "end": 1.566,
+    "word": "Twitchit",
+    "probability": 0.8142745316688154
+  },
+  {
+    "start": 1.566,
+    "end": 2.249,
+    "word": "bahçeye",
+    "probability": 0.99
+  },
+  {
+    "start": 2.249,
+    "end": 2.69,
+    "word": "indi",
+    "probability": 0.9850645032403921
+  },
+  {
+    "start": 2.69,
+    "end": 3.152,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 3.152,
+    "end": 3.955,
+    "word": "kedilerini",
+    "probability": 0.99
+  },
+  {
+    "start": 3.955,
+    "end": 4.578,
+    "word": "duvarda",
+    "probability": 0.99
+  },
+  {
+    "start": 4.578,
+    "end": 5.16,
+    "word": "çıplak",
+    "probability": 0.9803115057586689
+  },
+  {
+    "start": 5.16,
+    "end": 5.582,
+    "word": "buldu",
+    "probability": 0.9868313525980055
+  }
+]

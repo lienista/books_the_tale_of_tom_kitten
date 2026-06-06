@@ -1,0 +1,224 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.7,
+    "word": "Sebaliknya",
+    "probability": 0.99
+  },
+  {
+    "start": 0.7,
+    "end": 1.601,
+    "word": "ada",
+    "probability": 0.99
+  },
+  {
+    "start": 1.601,
+    "end": 2.621,
+    "word": "suarasuara",
+    "probability": 0.943241754336989
+  },
+  {
+    "start": 2.621,
+    "end": 2.861,
+    "word": "yang",
+    "probability": 0.9876257908180839
+  },
+  {
+    "start": 2.861,
+    "end": 3.581,
+    "word": "sangat",
+    "probability": 0.9807828429393329
+  },
+  {
+    "start": 3.581,
+    "end": 3.981,
+    "word": "aneh",
+    "probability": 0.9850644737181666
+  },
+  {
+    "start": 3.981,
+    "end": 4.601,
+    "word": "terdengar",
+    "probability": 0.9899099722541128
+  },
+  {
+    "start": 4.601,
+    "end": 4.942,
+    "word": "dari",
+    "probability": 0.99
+  },
+  {
+    "start": 4.942,
+    "end": 5.442,
+    "word": "lantai",
+    "probability": 0.9779271062908197
+  },
+  {
+    "start": 5.442,
+    "end": 6.022,
+    "word": "atas",
+    "probability": 0.99
+  },
+  {
+    "start": 6.022,
+    "end": 6.642,
+    "word": "yang",
+    "probability": 0.99
+  },
+  {
+    "start": 6.642,
+    "end": 7.242,
+    "word": "merusak",
+    "probability": 0.99
+  },
+  {
+    "start": 7.242,
+    "end": 7.822,
+    "word": "suasana",
+    "probability": 0.9626676290575581
+  },
+  {
+    "start": 7.822,
+    "end": 8.323,
+    "word": "tenang",
+    "probability": 0.9354405191849038
+  },
+  {
+    "start": 8.323,
+    "end": 8.743,
+    "word": "pesta",
+    "probability": 0.99
+  },
+  {
+    "start": 8.743,
+    "end": 9.043,
+    "word": "teh",
+    "probability": 0.9749961902431934
+  },
+  {
+    "start": 9.043,
+    "end": 9.383,
+    "word": "itu",
+    "probability": 0.99
+  },
+  {
+    "start": 9.383,
+    "end": 10.363,
+    "word": "Dan",
+    "probability": 0.97975999422606
+  },
+  {
+    "start": 10.363,
+    "end": 10.743,
+    "word": "saya",
+    "probability": 0.99
+  },
+  {
+    "start": 10.743,
+    "end": 11.124,
+    "word": "rasa",
+    "probability": 0.9700044883090297
+  },
+  {
+    "start": 11.124,
+    "end": 12.044,
+    "word": "suatu",
+    "probability": 0.99
+  },
+  {
+    "start": 12.044,
+    "end": 12.324,
+    "word": "hari",
+    "probability": 0.9795693843883507
+  },
+  {
+    "start": 12.324,
+    "end": 12.784,
+    "word": "nanti",
+    "probability": 0.99
+  },
+  {
+    "start": 12.784,
+    "end": 13.624,
+    "word": "saya",
+    "probability": 0.99
+  },
+  {
+    "start": 13.624,
+    "end": 13.984,
+    "word": "harus",
+    "probability": 0.99
+  },
+  {
+    "start": 13.984,
+    "end": 14.365,
+    "word": "menulis",
+    "probability": 0.99
+  },
+  {
+    "start": 14.365,
+    "end": 14.765,
+    "word": "buku",
+    "probability": 0.8512894149674812
+  },
+  {
+    "start": 14.765,
+    "end": 15.005,
+    "word": "yang",
+    "probability": 0.99
+  },
+  {
+    "start": 15.005,
+    "end": 15.245,
+    "word": "lebih",
+    "probability": 0.9781987542241103
+  },
+  {
+    "start": 15.245,
+    "end": 15.945,
+    "word": "panjang",
+    "probability": 0.99
+  },
+  {
+    "start": 15.945,
+    "end": 16.745,
+    "word": "untuk",
+    "probability": 0.99
+  },
+  {
+    "start": 16.745,
+    "end": 17.726,
+    "word": "menceritakan",
+    "probability": 0.9815922667975001
+  },
+  {
+    "start": 17.726,
+    "end": 18.046,
+    "word": "lebih",
+    "probability": 0.99
+  },
+  {
+    "start": 18.046,
+    "end": 18.486,
+    "word": "banyak",
+    "probability": 0.9590122747288392
+  },
+  {
+    "start": 18.486,
+    "end": 19.166,
+    "word": "tentang",
+    "probability": 0.99
+  },
+  {
+    "start": 19.166,
+    "end": 19.506,
+    "word": "Tom",
+    "probability": 0.9728154053386293
+  },
+  {
+    "start": 19.506,
+    "end": 19.906,
+    "word": "Kitten",
+    "probability": 0.8737068832894657
+  }
+]

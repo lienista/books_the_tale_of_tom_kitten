@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.12,
+    "word": "Så",
+    "probability": 0.9847288306672559
+  },
+  {
+    "start": 0.12,
+    "end": 0.581,
+    "word": "plukket",
+    "probability": 0.8818408239212895
+  },
+  {
+    "start": 0.581,
+    "end": 0.741,
+    "word": "de",
+    "probability": 0.988527554236627
+  },
+  {
+    "start": 0.741,
+    "end": 0.961,
+    "word": "to",
+    "probability": 0.99
+  },
+  {
+    "start": 0.961,
+    "end": 1.701,
+    "word": "hunnendene",
+    "probability": 0.88159245470712
+  },
+  {
+    "start": 1.701,
+    "end": 2.382,
+    "word": "Rebeccah",
+    "probability": 0.9163769856612585
+  },
+  {
+    "start": 2.382,
+    "end": 2.582,
+    "word": "og",
+    "probability": 0.897548044452207
+  },
+  {
+    "start": 2.582,
+    "end": 3.203,
+    "word": "Jemima",
+    "probability": 0.9277247918711744
+  },
+  {
+    "start": 3.203,
+    "end": 4.003,
+    "word": "PuddleDuck",
+    "probability": 0.8509121939182778
+  },
+  {
+    "start": 4.003,
+    "end": 4.804,
+    "word": "opp",
+    "probability": 0.99
+  },
+  {
+    "start": 4.804,
+    "end": 5.365,
+    "word": "hatten",
+    "probability": 0.8425744966914666
+  },
+  {
+    "start": 5.365,
+    "end": 5.705,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 5.705,
+    "end": 6.506,
+    "word": "blondekragen",
+    "probability": 0.8886442324959166
+  },
+  {
+    "start": 6.506,
+    "end": 6.746,
+    "word": "og",
+    "probability": 0.958799009169331
+  },
+  {
+    "start": 6.746,
+    "end": 7.146,
+    "word": "tok",
+    "probability": 0.9175554618191446
+  },
+  {
+    "start": 7.146,
+    "end": 7.426,
+    "word": "dem",
+    "probability": 0.8130231075752846
+  },
+  {
+    "start": 7.426,
+    "end": 7.526,
+    "word": "på",
+    "probability": 0.9759498345648661
+  }
+]

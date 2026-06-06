@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.521,
+    "end": 0.661,
+    "word": "Mr",
+    "probability": 0.7500449385796762
+  },
+  {
+    "start": 0.661,
+    "end": 0.941,
+    "word": "Drake",
+    "probability": 0.6204467212065277
+  },
+  {
+    "start": 0.941,
+    "end": 1.763,
+    "word": "PuddleDuck",
+    "probability": 0.7224989073804671
+  },
+  {
+    "start": 1.763,
+    "end": 2.524,
+    "word": "lassan",
+    "probability": 0.8413881479562193
+  },
+  {
+    "start": 2.524,
+    "end": 3.045,
+    "word": "oldalazva",
+    "probability": 0.6153584139700351
+  },
+  {
+    "start": 3.045,
+    "end": 3.786,
+    "word": "odatotyogott",
+    "probability": 0.6604280302541217
+  },
+  {
+    "start": 3.786,
+    "end": 4.066,
+    "word": "és",
+    "probability": 0.7100695278439885
+  },
+  {
+    "start": 4.066,
+    "end": 5.408,
+    "word": "felvette",
+    "probability": 0.8148967576533213
+  },
+  {
+    "start": 5.408,
+    "end": 5.528,
+    "word": "a",
+    "probability": 0.8278886736315757
+  },
+  {
+    "start": 5.528,
+    "end": 6.209,
+    "word": "különféle",
+    "probability": 0.665676784279417
+  },
+  {
+    "start": 6.209,
+    "end": 6.55,
+    "word": "tárgyakat",
+    "probability": 0.5275375946409665
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.28,
+    "word": "Tom",
+    "probability": 0.9676928003455374
+  },
+  {
+    "start": 0.28,
+    "end": 0.941,
+    "word": "Kitten",
+    "probability": 0.967621998770349
+  },
+  {
+    "start": 0.941,
+    "end": 2.042,
+    "word": "bol",
+    "probability": 0.99
+  },
+  {
+    "start": 2.042,
+    "end": 2.523,
+    "word": "dosť",
+    "probability": 0.9859527803666904
+  },
+  {
+    "start": 2.523,
+    "end": 3.484,
+    "word": "bucľatý",
+    "probability": 0.845771872043605
+  },
+  {
+    "start": 3.484,
+    "end": 4.425,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 4.425,
+    "end": 5.526,
+    "word": "vyrástol",
+    "probability": 0.9702849827709983
+  },
+  {
+    "start": 5.526,
+    "end": 6.608,
+    "word": "niekoľko",
+    "probability": 0.9650280096169617
+  },
+  {
+    "start": 6.608,
+    "end": 7.589,
+    "word": "gombíkov",
+    "probability": 0.9468418242953864
+  },
+  {
+    "start": 7.589,
+    "end": 7.849,
+    "word": "sa",
+    "probability": 0.9690903321463024
+  },
+  {
+    "start": 7.849,
+    "end": 8.71,
+    "word": "okamžite",
+    "probability": 0.9834553487309124
+  },
+  {
+    "start": 8.71,
+    "end": 9.491,
+    "word": "odtrhlo",
+    "probability": 0.9364554203910629
+  },
+  {
+    "start": 9.491,
+    "end": 10.773,
+    "word": "Jeho",
+    "probability": 0.9819927218551824
+  },
+  {
+    "start": 10.773,
+    "end": 11.273,
+    "word": "matka",
+    "probability": 0.8975602266452739
+  },
+  {
+    "start": 11.273,
+    "end": 11.493,
+    "word": "si",
+    "probability": 0.9671601706838419
+  },
+  {
+    "start": 11.493,
+    "end": 12.354,
+    "word": "povzdychla",
+    "probability": 0.87554537136251
+  },
+  {
+    "start": 12.354,
+    "end": 13.075,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 13.075,
+    "end": 13.736,
+    "word": "prišila",
+    "probability": 0.981803962523596
+  },
+  {
+    "start": 13.736,
+    "end": 14.337,
+    "word": "ich",
+    "probability": 0.99
+  },
+  {
+    "start": 14.337,
+    "end": 14.737,
+    "word": "späť",
+    "probability": 0.9666341318879093
+  }
+]

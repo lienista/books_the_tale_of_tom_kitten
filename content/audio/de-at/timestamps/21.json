@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.2,
+    "word": "Sie",
+    "probability": 0.5100954460303955
+  },
+  {
+    "start": 0.2,
+    "end": 0.541,
+    "word": "zog",
+    "probability": 0.8531580536469822
+  },
+  {
+    "start": 0.541,
+    "end": 0.721,
+    "word": "sie",
+    "probability": 0.8517987728170958
+  },
+  {
+    "start": 0.721,
+    "end": 0.941,
+    "word": "von",
+    "probability": 0.9624154481822877
+  },
+  {
+    "start": 0.941,
+    "end": 1.081,
+    "word": "der",
+    "probability": 0.9079086361651271
+  },
+  {
+    "start": 1.081,
+    "end": 1.442,
+    "word": "Mauer",
+    "probability": 0.9780944293947719
+  },
+  {
+    "start": 1.442,
+    "end": 2.123,
+    "word": "trieb",
+    "probability": 0.9864690751765366
+  },
+  {
+    "start": 2.123,
+    "end": 2.283,
+    "word": "sie",
+    "probability": 0.9564494185707086
+  },
+  {
+    "start": 2.283,
+    "end": 2.603,
+    "word": "an",
+    "probability": 0.9728092135474962
+  },
+  {
+    "start": 2.603,
+    "end": 2.884,
+    "word": "und",
+    "probability": 0.9851035053464433
+  },
+  {
+    "start": 2.884,
+    "end": 3.384,
+    "word": "brachte",
+    "probability": 0.9899797767005102
+  },
+  {
+    "start": 3.384,
+    "end": 3.585,
+    "word": "sie",
+    "probability": 0.9313528437271918
+  },
+  {
+    "start": 3.585,
+    "end": 4.085,
+    "word": "zurück",
+    "probability": 0.9563800552116203
+  },
+  {
+    "start": 4.085,
+    "end": 4.526,
+    "word": "ins",
+    "probability": 0.9892088383003164
+  },
+  {
+    "start": 4.526,
+    "end": 4.746,
+    "word": "Haus",
+    "probability": 0.9816256264310815
+  }
+]

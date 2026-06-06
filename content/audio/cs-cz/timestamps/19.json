@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.24,
+    "word": "Pak",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.401,
+    "word": "se",
+    "probability": 0.9456501310911117
+  },
+  {
+    "start": 0.401,
+    "end": 0.801,
+    "word": "on",
+    "probability": 0.9825353606617246
+  },
+  {
+    "start": 0.801,
+    "end": 1.763,
+    "word": "Jemima",
+    "probability": 0.9162086649672352
+  },
+  {
+    "start": 1.763,
+    "end": 1.943,
+    "word": "a",
+    "probability": 0.9605108751356999
+  },
+  {
+    "start": 1.943,
+    "end": 2.484,
+    "word": "Rebeccah",
+    "probability": 0.8944372336416734
+  },
+  {
+    "start": 2.484,
+    "end": 3.145,
+    "word": "PuddleDuck",
+    "probability": 0.7830033803185332
+  },
+  {
+    "start": 3.145,
+    "end": 3.866,
+    "word": "vydali",
+    "probability": 0.9827065561777325
+  },
+  {
+    "start": 3.866,
+    "end": 4.046,
+    "word": "po",
+    "probability": 0.9569553258503307
+  },
+  {
+    "start": 4.046,
+    "end": 4.547,
+    "word": "cestě",
+    "probability": 0.9880486824609234
+  },
+  {
+    "start": 4.547,
+    "end": 5.408,
+    "word": "drželi",
+    "probability": 0.99
+  },
+  {
+    "start": 5.408,
+    "end": 6.91,
+    "word": "krokpitpat",
+    "probability": 0.9590549486679493
+  },
+  {
+    "start": 6.91,
+    "end": 7.992,
+    "word": "paddlepat",
+    "probability": 0.8970951883803365
+  },
+  {
+    "start": 7.992,
+    "end": 9.013,
+    "word": "pitpat",
+    "probability": 0.9376921209724746
+  },
+  {
+    "start": 9.013,
+    "end": 9.895,
+    "word": "waddlepat",
+    "probability": 0.8693857653232917
+  }
+]

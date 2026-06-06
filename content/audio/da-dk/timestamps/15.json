@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.16,
+    "word": "Så",
+    "probability": 0.7310789383117262
+  },
+  {
+    "start": 0.16,
+    "end": 0.381,
+    "word": "tog",
+    "probability": 0.8911251571020706
+  },
+  {
+    "start": 0.381,
+    "end": 0.581,
+    "word": "de",
+    "probability": 0.953547499977865
+  },
+  {
+    "start": 0.581,
+    "end": 0.821,
+    "word": "to",
+    "probability": 0.99
+  },
+  {
+    "start": 0.821,
+    "end": 1.502,
+    "word": "hunænder",
+    "probability": 0.8775053988919562
+  },
+  {
+    "start": 1.502,
+    "end": 2.403,
+    "word": "Rebeccah",
+    "probability": 0.9120041170134086
+  },
+  {
+    "start": 2.403,
+    "end": 2.704,
+    "word": "og",
+    "probability": 0.9007448791692524
+  },
+  {
+    "start": 2.704,
+    "end": 3.305,
+    "word": "Jemima",
+    "probability": 0.8698005360592657
+  },
+  {
+    "start": 3.305,
+    "end": 4.146,
+    "word": "PuddleDuck",
+    "probability": 0.8168882005373331
+  },
+  {
+    "start": 4.146,
+    "end": 4.707,
+    "word": "hatten",
+    "probability": 0.9163732378106556
+  },
+  {
+    "start": 4.707,
+    "end": 4.867,
+    "word": "og",
+    "probability": 0.9677738266247903
+  },
+  {
+    "start": 4.867,
+    "end": 5.628,
+    "word": "blondekraven",
+    "probability": 0.9510062715756242
+  },
+  {
+    "start": 5.628,
+    "end": 5.868,
+    "word": "op",
+    "probability": 0.94951106736212
+  },
+  {
+    "start": 5.868,
+    "end": 6.269,
+    "word": "og",
+    "probability": 0.9836862770099192
+  },
+  {
+    "start": 6.269,
+    "end": 6.489,
+    "word": "tog",
+    "probability": 0.9671736443013564
+  },
+  {
+    "start": 6.489,
+    "end": 6.669,
+    "word": "dem",
+    "probability": 0.9416334238021294
+  },
+  {
+    "start": 6.669,
+    "end": 6.87,
+    "word": "på",
+    "probability": 0.9400744414943796
+  }
+]

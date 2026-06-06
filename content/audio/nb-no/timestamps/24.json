@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.04,
+    "word": "I",
+    "probability": 0.99
+  },
+  {
+    "start": 0.04,
+    "end": 0.581,
+    "word": "stedet",
+    "probability": 0.980054853231162
+  },
+  {
+    "start": 0.581,
+    "end": 0.962,
+    "word": "kom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.962,
+    "end": 1.142,
+    "word": "det",
+    "probability": 0.9635644508820904
+  },
+  {
+    "start": 1.142,
+    "end": 1.583,
+    "word": "veldig",
+    "probability": 0.955306563443533
+  },
+  {
+    "start": 1.583,
+    "end": 2.184,
+    "word": "rare",
+    "probability": 0.9513087666930423
+  },
+  {
+    "start": 2.184,
+    "end": 2.565,
+    "word": "lyder",
+    "probability": 0.7866195261621297
+  },
+  {
+    "start": 2.565,
+    "end": 3.286,
+    "word": "ovenfra",
+    "probability": 0.9474693419617619
+  },
+  {
+    "start": 3.286,
+    "end": 3.927,
+    "word": "som",
+    "probability": 0.9851730165148379
+  },
+  {
+    "start": 3.927,
+    "end": 4.348,
+    "word": "ødela",
+    "probability": 0.9687297549199508
+  },
+  {
+    "start": 4.348,
+    "end": 4.609,
+    "word": "den",
+    "probability": 0.8916314441316074
+  },
+  {
+    "start": 4.609,
+    "end": 5.109,
+    "word": "rolige",
+    "probability": 0.9703605644795458
+  },
+  {
+    "start": 5.109,
+    "end": 5.731,
+    "word": "stemningen",
+    "probability": 0.903299986772123
+  },
+  {
+    "start": 5.731,
+    "end": 5.911,
+    "word": "på",
+    "probability": 0.8884057071830657
+  },
+  {
+    "start": 5.911,
+    "end": 6.893,
+    "word": "teselskapet",
+    "probability": 0.9078352820138913
+  },
+  {
+    "start": 6.893,
+    "end": 7.253,
+    "word": "Og",
+    "probability": 0.9421508393547232
+  },
+  {
+    "start": 7.253,
+    "end": 7.394,
+    "word": "jeg",
+    "probability": 0.99
+  },
+  {
+    "start": 7.394,
+    "end": 7.574,
+    "word": "tror",
+    "probability": 0.99
+  },
+  {
+    "start": 7.574,
+    "end": 7.714,
+    "word": "en",
+    "probability": 0.9643876710309164
+  },
+  {
+    "start": 7.714,
+    "end": 7.975,
+    "word": "dag",
+    "probability": 0.8424006137474205
+  },
+  {
+    "start": 7.975,
+    "end": 8.255,
+    "word": "må",
+    "probability": 0.9654016699263551
+  },
+  {
+    "start": 8.255,
+    "end": 8.416,
+    "word": "jeg",
+    "probability": 0.99
+  },
+  {
+    "start": 8.416,
+    "end": 8.816,
+    "word": "skrive",
+    "probability": 0.9730066607520239
+  },
+  {
+    "start": 8.816,
+    "end": 8.997,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 8.997,
+    "end": 9.478,
+    "word": "lengre",
+    "probability": 0.9832069839707394
+  },
+  {
+    "start": 9.478,
+    "end": 9.838,
+    "word": "bok",
+    "probability": 0.8870337909505471
+  },
+  {
+    "start": 9.838,
+    "end": 10.079,
+    "word": "for",
+    "probability": 0.913380039543946
+  },
+  {
+    "start": 10.079,
+    "end": 10.259,
+    "word": "å",
+    "probability": 0.9608506583334613
+  },
+  {
+    "start": 10.259,
+    "end": 10.86,
+    "word": "fortelle",
+    "probability": 0.8382719209215347
+  },
+  {
+    "start": 10.86,
+    "end": 11.04,
+    "word": "deg",
+    "probability": 0.7467642794078535
+  },
+  {
+    "start": 11.04,
+    "end": 11.201,
+    "word": "mer",
+    "probability": 0.7825833826859994
+  },
+  {
+    "start": 11.201,
+    "end": 11.602,
+    "word": "om",
+    "probability": 0.9430484107766004
+  },
+  {
+    "start": 11.602,
+    "end": 12.042,
+    "word": "Tom",
+    "probability": 0.9719832103719138
+  },
+  {
+    "start": 12.042,
+    "end": 12.523,
+    "word": "Kitten",
+    "probability": 0.8937273144756507
+  }
+]

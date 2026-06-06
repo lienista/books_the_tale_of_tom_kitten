@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.34,
+    "end": 0.38,
+    "word": "Mr",
+    "probability": 0.49970733735943
+  },
+  {
+    "start": 0.38,
+    "end": 0.821,
+    "word": "Drake",
+    "probability": 0.9325286513297357
+  },
+  {
+    "start": 0.821,
+    "end": 1.621,
+    "word": "PuddleDuck",
+    "probability": 0.8138126589656715
+  },
+  {
+    "start": 1.621,
+    "end": 2.342,
+    "word": "berjalan",
+    "probability": 0.9669050544889277
+  },
+  {
+    "start": 2.342,
+    "end": 3.442,
+    "word": "terkedekkedek",
+    "probability": 0.9438018106826581
+  },
+  {
+    "start": 3.442,
+    "end": 3.643,
+    "word": "ke",
+    "probability": 0.9571605638614873
+  },
+  {
+    "start": 3.643,
+    "end": 4.043,
+    "word": "arah",
+    "probability": 0.9629502666643344
+  },
+  {
+    "start": 4.043,
+    "end": 4.643,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 4.643,
+    "end": 5.464,
+    "word": "dengan",
+    "probability": 0.99
+  },
+  {
+    "start": 5.464,
+    "end": 5.884,
+    "word": "cara",
+    "probability": 0.975950072959802
+  },
+  {
+    "start": 5.884,
+    "end": 6.124,
+    "word": "yang",
+    "probability": 0.9501932164819276
+  },
+  {
+    "start": 6.124,
+    "end": 6.765,
+    "word": "perlahan",
+    "probability": 0.99
+  },
+  {
+    "start": 6.765,
+    "end": 7.005,
+    "word": "dan",
+    "probability": 0.9813987567905592
+  },
+  {
+    "start": 7.005,
+    "end": 7.666,
+    "word": "mengiring",
+    "probability": 0.9570155945949975
+  },
+  {
+    "start": 7.666,
+    "end": 9.087,
+    "word": "lalu",
+    "probability": 0.99
+  },
+  {
+    "start": 9.087,
+    "end": 9.707,
+    "word": "mengutip",
+    "probability": 0.99
+  },
+  {
+    "start": 9.707,
+    "end": 10.327,
+    "word": "pelbagai",
+    "probability": 0.99
+  },
+  {
+    "start": 10.327,
+    "end": 10.928,
+    "word": "barangan",
+    "probability": 0.9872482826832784
+  },
+  {
+    "start": 10.928,
+    "end": 11.248,
+    "word": "itu",
+    "probability": 0.99
+  }
+]

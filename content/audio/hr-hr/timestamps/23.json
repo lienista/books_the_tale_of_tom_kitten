@@ -1,0 +1,44 @@
+[
+  {
+    "start": 2.765,
+    "end": 2.885,
+    "word": "Sasvim",
+    "probability": 0.1665009274871386
+  },
+  {
+    "start": 2.885,
+    "end": 3.326,
+    "word": "suprotno",
+    "probability": 0.5909014592920688
+  },
+  {
+    "start": 3.326,
+    "end": 3.426,
+    "word": "nisu",
+    "probability": 0.01
+  },
+  {
+    "start": 3.426,
+    "end": 3.527,
+    "word": "bili",
+    "probability": 0.01
+  },
+  {
+    "start": 3.527,
+    "end": 3.627,
+    "word": "u",
+    "probability": 0.5999806939672983
+  },
+  {
+    "start": 3.627,
+    "end": 3.887,
+    "word": "krevetu",
+    "probability": 0.4615461060513998
+  },
+  {
+    "start": 3.887,
+    "end": 3.907,
+    "word": "uopće",
+    "probability": 0.01
+  }
+]

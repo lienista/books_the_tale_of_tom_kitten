@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.141,
+    "end": 0.281,
+    "word": "Dann",
+    "probability": 0.99
+  },
+  {
+    "start": 0.281,
+    "end": 0.844,
+    "word": "bürstete",
+    "probability": 0.99
+  },
+  {
+    "start": 0.844,
+    "end": 1.065,
+    "word": "sie",
+    "probability": 0.9467920272853708
+  },
+  {
+    "start": 1.065,
+    "end": 1.266,
+    "word": "ihr",
+    "probability": 0.9316237378667458
+  },
+  {
+    "start": 1.266,
+    "end": 1.668,
+    "word": "Fell",
+    "probability": 0.99
+  },
+  {
+    "start": 1.668,
+    "end": 2.512,
+    "word": "dieses",
+    "probability": 0.9856273394566545
+  },
+  {
+    "start": 2.512,
+    "end": 2.793,
+    "word": "hier",
+    "probability": 0.975815663622127
+  },
+  {
+    "start": 2.793,
+    "end": 3.054,
+    "word": "ist",
+    "probability": 0.9707262299635517
+  },
+  {
+    "start": 3.054,
+    "end": 3.476,
+    "word": "Mittens",
+    "probability": 0.9824090802905262
+  }
+]

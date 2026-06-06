@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.441,
+    "word": "Mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 0.441,
+    "end": 1.442,
+    "word": "memusingkan",
+    "probability": 0.9877224138869545
+  },
+  {
+    "start": 1.442,
+    "end": 2.023,
+    "word": "gaun",
+    "probability": 0.969817271668369
+  },
+  {
+    "start": 2.023,
+    "end": 2.523,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 2.523,
+    "end": 2.744,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 2.744,
+    "end": 3.265,
+    "word": "belakang",
+    "probability": 0.9741415825440682
+  },
+  {
+    "start": 3.265,
+    "end": 4.466,
+    "word": "supaya",
+    "probability": 0.99
+  },
+  {
+    "start": 4.466,
+    "end": 4.887,
+    "word": "mereka",
+    "probability": 0.9714148816214182
+  },
+  {
+    "start": 4.887,
+    "end": 5.227,
+    "word": "boleh",
+    "probability": 0.99
+  },
+  {
+    "start": 5.227,
+    "end": 5.828,
+    "word": "bergerak",
+    "probability": 0.99
+  },
+  {
+    "start": 5.828,
+    "end": 6.169,
+    "word": "dengan",
+    "probability": 0.9736180555518336
+  },
+  {
+    "start": 6.169,
+    "end": 6.469,
+    "word": "lebih",
+    "probability": 0.99
+  },
+  {
+    "start": 6.469,
+    "end": 6.849,
+    "word": "baik",
+    "probability": 0.9817346601405789
+  },
+  {
+    "start": 6.849,
+    "end": 7.31,
+    "word": "dan",
+    "probability": 0.9830698869944349
+  },
+  {
+    "start": 7.31,
+    "end": 7.871,
+    "word": "melompat",
+    "probability": 0.99
+  },
+  {
+    "start": 7.871,
+    "end": 8.071,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 8.071,
+    "end": 8.472,
+    "word": "atas",
+    "probability": 0.99
+  },
+  {
+    "start": 8.472,
+    "end": 9.814,
+    "word": "kolar",
+    "probability": 0.9897675010615091
+  },
+  {
+    "start": 9.814,
+    "end": 10.234,
+    "word": "renda",
+    "probability": 0.9445720785215609
+  },
+  {
+    "start": 10.234,
+    "end": 10.715,
+    "word": "putih",
+    "probability": 0.9760354563460485
+  },
+  {
+    "start": 10.715,
+    "end": 11.256,
+    "word": "Moppet",
+    "probability": 0.9116666572640566
+  },
+  {
+    "start": 11.256,
+    "end": 12.257,
+    "word": "terjatuh",
+    "probability": 0.9853711612039636
+  },
+  {
+    "start": 12.257,
+    "end": 12.437,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 12.437,
+    "end": 12.838,
+    "word": "jalan",
+    "probability": 0.9683124781900562
+  },
+  {
+    "start": 12.838,
+    "end": 13.118,
+    "word": "raya",
+    "probability": 0.9742114548228787
+  }
+]

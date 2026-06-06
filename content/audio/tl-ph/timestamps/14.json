@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.601,
+    "word": "Huminto",
+    "probability": 0.9625394602008184
+  },
+  {
+    "start": 0.601,
+    "end": 1.102,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 1.102,
+    "end": 1.563,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 1.563,
+    "end": 2.025,
+    "word": "tumayo",
+    "probability": 0.9347437476593138
+  },
+  {
+    "start": 2.025,
+    "end": 2.285,
+    "word": "sa",
+    "probability": 0.9554309475633507
+  },
+  {
+    "start": 2.285,
+    "end": 2.646,
+    "word": "isang",
+    "probability": 0.99
+  },
+  {
+    "start": 2.646,
+    "end": 3.187,
+    "word": "hanay",
+    "probability": 0.9718091799160296
+  },
+  {
+    "start": 3.187,
+    "end": 4.65,
+    "word": "nakatitig",
+    "probability": 0.99
+  },
+  {
+    "start": 4.65,
+    "end": 4.831,
+    "word": "sa",
+    "probability": 0.9764762130922457
+  },
+  {
+    "start": 4.831,
+    "end": 5.071,
+    "word": "mga",
+    "probability": 0.953709450216569
+  },
+  {
+    "start": 5.071,
+    "end": 5.753,
+    "word": "kuting",
+    "probability": 0.9882489254803204
+  },
+  {
+    "start": 5.753,
+    "end": 6.514,
+    "word": "nang",
+    "probability": 0.9531539228631721
+  },
+  {
+    "start": 6.514,
+    "end": 6.735,
+    "word": "may",
+    "probability": 0.9808568820469321
+  },
+  {
+    "start": 6.735,
+    "end": 7.376,
+    "word": "malalaki",
+    "probability": 0.9754914130709312
+  },
+  {
+    "start": 7.376,
+    "end": 7.637,
+    "word": "at",
+    "probability": 0.9775653477158577
+  },
+  {
+    "start": 7.637,
+    "end": 8.118,
+    "word": "gulat",
+    "probability": 0.9786052339810851
+  },
+  {
+    "start": 8.118,
+    "end": 8.238,
+    "word": "na",
+    "probability": 0.9304770258045162
+  },
+  {
+    "start": 8.238,
+    "end": 8.519,
+    "word": "mga",
+    "probability": 0.935168201636406
+  },
+  {
+    "start": 8.519,
+    "end": 8.759,
+    "word": "mata",
+    "probability": 0.947458859995838
+  }
+]

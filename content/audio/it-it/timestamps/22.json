@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "Li",
+    "probability": 0.8661853591047952
+  },
+  {
+    "start": 0.18,
+    "end": 0.521,
+    "word": "mandò",
+    "probability": 0.9439721271796612
+  },
+  {
+    "start": 0.521,
+    "end": 0.721,
+    "word": "di",
+    "probability": 0.9878969801244487
+  },
+  {
+    "start": 0.721,
+    "end": 1.162,
+    "word": "sopra",
+    "probability": 0.99
+  },
+  {
+    "start": 1.162,
+    "end": 1.763,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 1.763,
+    "end": 1.903,
+    "word": "mi",
+    "probability": 0.9679436635148162
+  },
+  {
+    "start": 1.903,
+    "end": 2.403,
+    "word": "dispiace",
+    "probability": 0.9616750257040639
+  },
+  {
+    "start": 2.403,
+    "end": 2.764,
+    "word": "dire",
+    "probability": 0.9763139569106483
+  },
+  {
+    "start": 2.764,
+    "end": 2.944,
+    "word": "che",
+    "probability": 0.9277202642375424
+  },
+  {
+    "start": 2.944,
+    "end": 3.325,
+    "word": "disse",
+    "probability": 0.99
+  },
+  {
+    "start": 3.325,
+    "end": 3.405,
+    "word": "ai",
+    "probability": 0.9092331104904047
+  },
+  {
+    "start": 3.405,
+    "end": 3.625,
+    "word": "suoi",
+    "probability": 0.942236393277399
+  },
+  {
+    "start": 3.625,
+    "end": 4.046,
+    "word": "amici",
+    "probability": 0.9779065089690648
+  },
+  {
+    "start": 4.046,
+    "end": 4.226,
+    "word": "che",
+    "probability": 0.9455623540654704
+  },
+  {
+    "start": 4.226,
+    "end": 4.506,
+    "word": "erano",
+    "probability": 0.9374964727242616
+  },
+  {
+    "start": 4.506,
+    "end": 4.587,
+    "word": "a",
+    "probability": 0.9746971363093448
+  },
+  {
+    "start": 4.587,
+    "end": 5.027,
+    "word": "letto",
+    "probability": 0.9845765297126742
+  },
+  {
+    "start": 5.027,
+    "end": 5.248,
+    "word": "con",
+    "probability": 0.9884039576902033
+  },
+  {
+    "start": 5.248,
+    "end": 5.408,
+    "word": "il",
+    "probability": 0.9715167151160731
+  },
+  {
+    "start": 5.408,
+    "end": 6.229,
+    "word": "raffreddore",
+    "probability": 0.9847671382273292
+  },
+  {
+    "start": 6.229,
+    "end": 6.81,
+    "word": "il",
+    "probability": 0.9885150318920444
+  },
+  {
+    "start": 6.81,
+    "end": 7.05,
+    "word": "che",
+    "probability": 0.9792713128838283
+  },
+  {
+    "start": 7.05,
+    "end": 7.29,
+    "word": "non",
+    "probability": 0.9450905459184158
+  },
+  {
+    "start": 7.29,
+    "end": 7.511,
+    "word": "era",
+    "probability": 0.99
+  },
+  {
+    "start": 7.511,
+    "end": 7.871,
+    "word": "vero",
+    "probability": 0.99
+  }
+]

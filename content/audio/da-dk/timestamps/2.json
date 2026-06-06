@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.14,
+    "word": "En",
+    "probability": 0.989484341269488
+  },
+  {
+    "start": 0.14,
+    "end": 0.4,
+    "word": "dag",
+    "probability": 0.9596190688557898
+  },
+  {
+    "start": 0.4,
+    "end": 1.101,
+    "word": "ventede",
+    "probability": 0.9761275953604032
+  },
+  {
+    "start": 1.101,
+    "end": 1.541,
+    "word": "deres",
+    "probability": 0.9655812870505016
+  },
+  {
+    "start": 1.541,
+    "end": 2.542,
+    "word": "morMrs",
+    "probability": 0.9650348941485992
+  },
+  {
+    "start": 2.542,
+    "end": 3.563,
+    "word": "Tabitha",
+    "probability": 0.7592593428910612
+  },
+  {
+    "start": 3.563,
+    "end": 5.124,
+    "word": "Twitchitvenner",
+    "probability": 0.8604826059132474
+  },
+  {
+    "start": 5.124,
+    "end": 5.365,
+    "word": "til",
+    "probability": 0.9792588554612838
+  },
+  {
+    "start": 5.365,
+    "end": 5.605,
+    "word": "te",
+    "probability": 0.9214131167015985
+  },
+  {
+    "start": 5.605,
+    "end": 7.246,
+    "word": "Hun",
+    "probability": 0.99
+  },
+  {
+    "start": 7.246,
+    "end": 7.526,
+    "word": "tog",
+    "probability": 0.9586871810966692
+  },
+  {
+    "start": 7.526,
+    "end": 8.247,
+    "word": "killingerne",
+    "probability": 0.9588440846895023
+  },
+  {
+    "start": 8.247,
+    "end": 8.547,
+    "word": "ind",
+    "probability": 0.9567603742486764
+  },
+  {
+    "start": 8.547,
+    "end": 8.828,
+    "word": "for",
+    "probability": 0.9571756808462769
+  },
+  {
+    "start": 8.828,
+    "end": 8.968,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 8.968,
+    "end": 9.448,
+    "word": "vaske",
+    "probability": 0.9765570597093548
+  },
+  {
+    "start": 9.448,
+    "end": 9.668,
+    "word": "dem",
+    "probability": 0.8993617611429713
+  },
+  {
+    "start": 9.668,
+    "end": 10.269,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 10.269,
+    "end": 10.609,
+    "word": "klæde",
+    "probability": 0.9648585223974531
+  },
+  {
+    "start": 10.609,
+    "end": 10.789,
+    "word": "dem",
+    "probability": 0.9717385025610198
+  },
+  {
+    "start": 10.789,
+    "end": 11.07,
+    "word": "på",
+    "probability": 0.9852876171443776
+  },
+  {
+    "start": 11.07,
+    "end": 11.85,
+    "word": "inden",
+    "probability": 0.9897098218543081
+  },
+  {
+    "start": 11.85,
+    "end": 12.291,
+    "word": "hendes",
+    "probability": 0.9806251989971451
+  },
+  {
+    "start": 12.291,
+    "end": 12.791,
+    "word": "gæster",
+    "probability": 0.9685251276539572
+  },
+  {
+    "start": 12.791,
+    "end": 13.311,
+    "word": "ankom",
+    "probability": 0.9826124683088829
+  }
+]

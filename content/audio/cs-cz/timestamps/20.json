@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.24,
+    "word": "Pak",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.681,
+    "word": "přišla",
+    "probability": 0.99
+  },
+  {
+    "start": 0.681,
+    "end": 1.222,
+    "word": "Tabitha",
+    "probability": 0.9532292202269326
+  },
+  {
+    "start": 1.222,
+    "end": 1.823,
+    "word": "Twitchit",
+    "probability": 0.8647433874437734
+  },
+  {
+    "start": 1.823,
+    "end": 2.024,
+    "word": "do",
+    "probability": 0.9859970221249043
+  },
+  {
+    "start": 2.024,
+    "end": 2.605,
+    "word": "zahrady",
+    "probability": 0.9860513442994262
+  },
+  {
+    "start": 2.605,
+    "end": 3.126,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 3.126,
+    "end": 3.567,
+    "word": "našla",
+    "probability": 0.9815433763842965
+  },
+  {
+    "start": 3.567,
+    "end": 3.827,
+    "word": "svá",
+    "probability": 0.99
+  },
+  {
+    "start": 3.827,
+    "end": 4.589,
+    "word": "koťátka",
+    "probability": 0.99
+  },
+  {
+    "start": 4.589,
+    "end": 4.769,
+    "word": "na",
+    "probability": 0.9729330672038561
+  },
+  {
+    "start": 4.769,
+    "end": 5.09,
+    "word": "zdi",
+    "probability": 0.9745721593647327
+  },
+  {
+    "start": 5.09,
+    "end": 5.551,
+    "word": "bez",
+    "probability": 0.9335523930217786
+  },
+  {
+    "start": 5.551,
+    "end": 6.212,
+    "word": "oblečení",
+    "probability": 0.9782844298795805
+  }
+]

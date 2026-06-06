@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.541,
+    "word": "Adapun",
+    "probability": 0.9001465787053448
+  },
+  {
+    "start": 0.541,
+    "end": 0.882,
+    "word": "para",
+    "probability": 0.9714993514768504
+  },
+  {
+    "start": 0.882,
+    "end": 2.745,
+    "word": "PuddleDucksmereka",
+    "probability": 0.910665561121479
+  },
+  {
+    "start": 2.745,
+    "end": 3.146,
+    "word": "pergi",
+    "probability": 0.9424719802824699
+  },
+  {
+    "start": 3.146,
+    "end": 3.327,
+    "word": "ke",
+    "probability": 0.9691338725791153
+  },
+  {
+    "start": 3.327,
+    "end": 3.888,
+    "word": "kolam",
+    "probability": 0.9800189123782977
+  },
+  {
+    "start": 3.888,
+    "end": 5.01,
+    "word": "Pakaian",
+    "probability": 0.9609359034833032
+  },
+  {
+    "start": 5.01,
+    "end": 5.25,
+    "word": "itu",
+    "probability": 0.9606171060786418
+  },
+  {
+    "start": 5.25,
+    "end": 5.751,
+    "word": "langsung",
+    "probability": 0.99
+  },
+  {
+    "start": 5.751,
+    "end": 6.453,
+    "word": "terlepas",
+    "probability": 0.99
+  },
+  {
+    "start": 6.453,
+    "end": 7.094,
+    "word": "karena",
+    "probability": 0.99
+  },
+  {
+    "start": 7.094,
+    "end": 7.435,
+    "word": "tidak",
+    "probability": 0.9879243507216006
+  },
+  {
+    "start": 7.435,
+    "end": 7.635,
+    "word": "ada",
+    "probability": 0.9733615880592511
+  },
+  {
+    "start": 7.635,
+    "end": 8.396,
+    "word": "kancing",
+    "probability": 0.99
+  },
+  {
+    "start": 8.396,
+    "end": 8.897,
+    "word": "yang",
+    "probability": 0.9679327311392671
+  },
+  {
+    "start": 8.897,
+    "end": 9.539,
+    "word": "tersisa",
+    "probability": 0.9771351971179216
+  },
+  {
+    "start": 9.539,
+    "end": 10.42,
+    "word": "untuk",
+    "probability": 0.9815136898347614
+  },
+  {
+    "start": 10.42,
+    "end": 11.062,
+    "word": "menahannya",
+    "probability": 0.9853134049712117
+  }
+]

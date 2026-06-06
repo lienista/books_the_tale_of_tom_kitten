@@ -1,0 +1,92 @@
+[
+  {
+    "start": 1.423,
+    "end": 1.724,
+    "word": "Sitten",
+    "probability": 0.6665796839126585
+  },
+  {
+    "start": 1.724,
+    "end": 1.884,
+    "word": "kaksi",
+    "probability": 0.24997841528624254
+  },
+  {
+    "start": 1.884,
+    "end": 2.847,
+    "word": "naarassorsaa",
+    "probability": 0.7305519468544487
+  },
+  {
+    "start": 2.847,
+    "end": 3.087,
+    "word": "Rebeccah",
+    "probability": 0.3327624455692909
+  },
+  {
+    "start": 3.087,
+    "end": 3.167,
+    "word": "ja",
+    "probability": 0.25000020330360584
+  },
+  {
+    "start": 3.167,
+    "end": 3.528,
+    "word": "Jemima",
+    "probability": 0.6636768129336853
+  },
+  {
+    "start": 3.528,
+    "end": 3.909,
+    "word": "PuddleDuck",
+    "probability": 0.47262326353571077
+  },
+  {
+    "start": 3.909,
+    "end": 4.35,
+    "word": "poimivat",
+    "probability": 0.5987109868627856
+  },
+  {
+    "start": 4.35,
+    "end": 4.711,
+    "word": "hatun",
+    "probability": 0.666633422772427
+  },
+  {
+    "start": 4.711,
+    "end": 4.771,
+    "word": "ja",
+    "probability": 0.3332999184226031
+  },
+  {
+    "start": 4.771,
+    "end": 5.593,
+    "word": "pitsikauluksen",
+    "probability": 0.6265508477705521
+  },
+  {
+    "start": 5.593,
+    "end": 5.673,
+    "word": "ja",
+    "probability": 0.4998404980246485
+  },
+  {
+    "start": 5.673,
+    "end": 6.034,
+    "word": "pukivat",
+    "probability": 0.5555202519810002
+  },
+  {
+    "start": 6.034,
+    "end": 6.154,
+    "word": "ne",
+    "probability": 0.5964526994168113
+  },
+  {
+    "start": 6.154,
+    "end": 6.495,
+    "word": "päälleen",
+    "probability": 0.5879580319014545
+  }
+]

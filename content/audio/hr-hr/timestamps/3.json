@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.376,
+    "end": 3.496,
+    "word": "Prvo",
+    "probability": 0.4999652206398819
+  },
+  {
+    "start": 3.496,
+    "end": 3.557,
+    "word": "im",
+    "probability": 0.01
+  },
+  {
+    "start": 3.557,
+    "end": 3.617,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 3.617,
+    "end": 3.758,
+    "word": "oprala",
+    "probability": 0.01
+  },
+  {
+    "start": 3.758,
+    "end": 3.938,
+    "word": "lica",
+    "probability": 0.4444728602043996
+  },
+  {
+    "start": 3.938,
+    "end": 4.079,
+    "word": "ovo",
+    "probability": 0.5000123234541579
+  },
+  {
+    "start": 4.079,
+    "end": 4.119,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 4.119,
+    "end": 4.139,
+    "word": "Moppet",
+    "probability": 0.01
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.238,
+    "end": 1.353,
+    "word": "उसन",
+    "probability": 0.9726274863615583
+  },
+  {
+    "start": 1.353,
+    "end": 2.626,
+    "word": "उनह",
+    "probability": 0.8100722784803591
+  },
+  {
+    "start": 2.626,
+    "end": 3.023,
+    "word": "दवर",
+    "probability": 0.39990158536475673
+  },
+  {
+    "start": 3.023,
+    "end": 3.102,
+    "word": "स",
+    "probability": 0.01
+  },
+  {
+    "start": 3.102,
+    "end": 3.261,
+    "word": "खच",
+    "probability": 0.01
+  },
+  {
+    "start": 3.261,
+    "end": 3.816,
+    "word": "जलद",
+    "probability": 0.5713606287365453
+  },
+  {
+    "start": 3.816,
+    "end": 3.9,
+    "word": "स",
+    "probability": 0.9721117549791989
+  },
+  {
+    "start": 3.9,
+    "end": 4.058,
+    "word": "आग",
+    "probability": 0.01
+  },
+  {
+    "start": 4.058,
+    "end": 4.931,
+    "word": "बढय",
+    "probability": 0.8004502681925365
+  },
+  {
+    "start": 4.931,
+    "end": 5.649,
+    "word": "और",
+    "probability": 0.6998891908170626
+  },
+  {
+    "start": 5.649,
+    "end": 6.205,
+    "word": "वपस",
+    "probability": 0.7131533587002765
+  },
+  {
+    "start": 6.205,
+    "end": 6.363,
+    "word": "घर",
+    "probability": 0.49656258228418365
+  },
+  {
+    "start": 6.363,
+    "end": 6.443,
+    "word": "ल",
+    "probability": 0.01
+  },
+  {
+    "start": 6.443,
+    "end": 6.522,
+    "word": "गई",
+    "probability": 0.01
+  }
+]

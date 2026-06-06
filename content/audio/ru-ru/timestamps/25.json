@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.18,
+    "word": "Что",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.782,
+    "word": "касается",
+    "probability": 0.9844961473741046
+  },
+  {
+    "start": 0.782,
+    "end": 1.583,
+    "word": "ПаддлДакс",
+    "probability": 0.9561696500180478
+  },
+  {
+    "start": 1.583,
+    "end": 2.285,
+    "word": "они",
+    "probability": 0.99
+  },
+  {
+    "start": 2.285,
+    "end": 3.026,
+    "word": "отправились",
+    "probability": 0.99
+  },
+  {
+    "start": 3.026,
+    "end": 3.167,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 3.167,
+    "end": 3.507,
+    "word": "пруд",
+    "probability": 0.9625928319704161
+  },
+  {
+    "start": 3.507,
+    "end": 4.67,
+    "word": "Одежда",
+    "probability": 0.9823956080468557
+  },
+  {
+    "start": 4.67,
+    "end": 5.151,
+    "word": "сразу",
+    "probability": 0.99
+  },
+  {
+    "start": 5.151,
+    "end": 5.311,
+    "word": "же",
+    "probability": 0.99
+  },
+  {
+    "start": 5.311,
+    "end": 6.013,
+    "word": "свалилась",
+    "probability": 0.9711013907168974
+  },
+  {
+    "start": 6.013,
+    "end": 6.875,
+    "word": "потому",
+    "probability": 0.99
+  },
+  {
+    "start": 6.875,
+    "end": 7.115,
+    "word": "что",
+    "probability": 0.99
+  },
+  {
+    "start": 7.115,
+    "end": 7.235,
+    "word": "не",
+    "probability": 0.99
+  },
+  {
+    "start": 7.235,
+    "end": 7.837,
+    "word": "осталось",
+    "probability": 0.99
+  },
+  {
+    "start": 7.837,
+    "end": 8.037,
+    "word": "ни",
+    "probability": 0.99
+  },
+  {
+    "start": 8.037,
+    "end": 8.438,
+    "word": "одной",
+    "probability": 0.9893915278860788
+  },
+  {
+    "start": 8.438,
+    "end": 9.159,
+    "word": "пуговицы",
+    "probability": 0.9304572386301869
+  },
+  {
+    "start": 9.159,
+    "end": 9.901,
+    "word": "чтобы",
+    "probability": 0.99
+  },
+  {
+    "start": 9.901,
+    "end": 10.101,
+    "word": "её",
+    "probability": 0.9568923685244761
+  },
+  {
+    "start": 10.101,
+    "end": 10.903,
+    "word": "удерживать",
+    "probability": 0.9743495756740788
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "start": 2.343,
+    "end": 2.803,
+    "word": "Egyszer",
+    "probability": 0.7499995606687992
+  },
+  {
+    "start": 2.803,
+    "end": 3.004,
+    "word": "volt",
+    "probability": 0.5996970910049391
+  },
+  {
+    "start": 3.004,
+    "end": 3.244,
+    "word": "hol",
+    "probability": 0.5737808165003103
+  },
+  {
+    "start": 3.244,
+    "end": 3.364,
+    "word": "nem",
+    "probability": 0.4655679115222305
+  },
+  {
+    "start": 3.364,
+    "end": 3.604,
+    "word": "volt",
+    "probability": 0.446024629392688
+  },
+  {
+    "start": 3.604,
+    "end": 3.865,
+    "word": "volt",
+    "probability": 0.5876068864103261
+  },
+  {
+    "start": 3.865,
+    "end": 4.265,
+    "word": "egyszer",
+    "probability": 0.6298150703575243
+  },
+  {
+    "start": 4.265,
+    "end": 5.386,
+    "word": "három",
+    "probability": 0.8930288449561709
+  },
+  {
+    "start": 5.386,
+    "end": 5.807,
+    "word": "kiscica",
+    "probability": 0.6440595811280289
+  },
+  {
+    "start": 5.807,
+    "end": 6.288,
+    "word": "akiket",
+    "probability": 0.6449533279535585
+  },
+  {
+    "start": 6.288,
+    "end": 7.729,
+    "word": "Mittensnek",
+    "probability": 0.8583888331009385
+  },
+  {
+    "start": 7.729,
+    "end": 8.17,
+    "word": "Tom",
+    "probability": 0.8600149751701184
+  },
+  {
+    "start": 8.17,
+    "end": 8.791,
+    "word": "Kittennek",
+    "probability": 0.6936947283775599
+  },
+  {
+    "start": 8.791,
+    "end": 8.851,
+    "word": "és",
+    "probability": 0.33351512690882984
+  },
+  {
+    "start": 8.851,
+    "end": 9.451,
+    "word": "Moppetnek",
+    "probability": 0.6773031752368487
+  },
+  {
+    "start": 9.451,
+    "end": 10.372,
+    "word": "hívtak",
+    "probability": 0.8611549471416956
+  },
+  {
+    "start": 10.372,
+    "end": 10.673,
+    "word": "Gyönyörű",
+    "probability": 0.39792821988051624
+  },
+  {
+    "start": 10.673,
+    "end": 11.334,
+    "word": "bundájuk",
+    "probability": 0.7121318842438107
+  },
+  {
+    "start": 11.334,
+    "end": 11.794,
+    "word": "volt",
+    "probability": 0.7342901351372726
+  },
+  {
+    "start": 11.794,
+    "end": 12.395,
+    "word": "és",
+    "probability": 0.9001170632546152
+  },
+  {
+    "start": 12.395,
+    "end": 13.156,
+    "word": "napjaikat",
+    "probability": 0.725587567223602
+  },
+  {
+    "start": 13.156,
+    "end": 13.316,
+    "word": "a",
+    "probability": 0.8531146108602633
+  },
+  {
+    "start": 13.316,
+    "end": 13.957,
+    "word": "verandán",
+    "probability": 0.7186141699493322
+  },
+  {
+    "start": 13.957,
+    "end": 14.798,
+    "word": "bukfencezve",
+    "probability": 0.7035807397877277
+  },
+  {
+    "start": 14.798,
+    "end": 14.958,
+    "word": "és",
+    "probability": 0.6245002913682229
+  },
+  {
+    "start": 14.958,
+    "end": 15.098,
+    "word": "a",
+    "probability": 0.8491100783696313
+  },
+  {
+    "start": 15.098,
+    "end": 15.999,
+    "word": "földön",
+    "probability": 0.8011848230470573
+  },
+  {
+    "start": 15.999,
+    "end": 16.56,
+    "word": "játszva",
+    "probability": 0.7343649602406135
+  },
+  {
+    "start": 16.56,
+    "end": 17.081,
+    "word": "töltötték",
+    "probability": 0.6910434255378364
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.44,
+    "word": "Estaba",
+    "probability": 0.99
+  },
+  {
+    "start": 0.44,
+    "end": 0.76,
+    "word": "hecho",
+    "probability": 0.9737216890606946
+  },
+  {
+    "start": 0.76,
+    "end": 0.92,
+    "word": "un",
+    "probability": 0.99
+  },
+  {
+    "start": 0.92,
+    "end": 1.521,
+    "word": "desastre",
+    "probability": 0.99
+  },
+  {
+    "start": 1.521,
+    "end": 1.921,
+    "word": "cuando",
+    "probability": 0.9664357444028591
+  },
+  {
+    "start": 1.921,
+    "end": 2.221,
+    "word": "llegó",
+    "probability": 0.99
+  },
+  {
+    "start": 2.221,
+    "end": 2.341,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 2.341,
+    "end": 2.461,
+    "word": "la",
+    "probability": 0.9564876444627372
+  },
+  {
+    "start": 2.461,
+    "end": 2.821,
+    "word": "cima",
+    "probability": 0.9887503179368939
+  },
+  {
+    "start": 2.821,
+    "end": 2.961,
+    "word": "de",
+    "probability": 0.8898373684960666
+  },
+  {
+    "start": 2.961,
+    "end": 3.081,
+    "word": "la",
+    "probability": 0.9478489757325805
+  },
+  {
+    "start": 3.081,
+    "end": 3.481,
+    "word": "pared",
+    "probability": 0.9759387180240953
+  },
+  {
+    "start": 3.481,
+    "end": 4.662,
+    "word": "Moppet",
+    "probability": 0.971090307206421
+  },
+  {
+    "start": 4.662,
+    "end": 4.722,
+    "word": "y",
+    "probability": 0.7378587316752173
+  },
+  {
+    "start": 4.722,
+    "end": 5.242,
+    "word": "Mittens",
+    "probability": 0.9870262385986379
+  },
+  {
+    "start": 5.242,
+    "end": 6.063,
+    "word": "intentaron",
+    "probability": 0.987143534566759
+  },
+  {
+    "start": 6.063,
+    "end": 6.603,
+    "word": "arreglar",
+    "probability": 0.9769348732140503
+  },
+  {
+    "start": 6.603,
+    "end": 6.803,
+    "word": "su",
+    "probability": 0.9072595309789573
+  },
+  {
+    "start": 6.803,
+    "end": 7.203,
+    "word": "ropa",
+    "probability": 0.9792898674657561
+  },
+  {
+    "start": 7.203,
+    "end": 7.823,
+    "word": "pero",
+    "probability": 0.9794411674521769
+  },
+  {
+    "start": 7.823,
+    "end": 7.983,
+    "word": "su",
+    "probability": 0.9741808806263692
+  },
+  {
+    "start": 7.983,
+    "end": 8.584,
+    "word": "sombrero",
+    "probability": 0.9319632004640882
+  },
+  {
+    "start": 8.584,
+    "end": 8.804,
+    "word": "se",
+    "probability": 0.905036736234592
+  },
+  {
+    "start": 8.804,
+    "end": 9.184,
+    "word": "cayó",
+    "probability": 0.8882261560333826
+  },
+  {
+    "start": 9.184,
+    "end": 9.764,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 9.764,
+    "end": 9.984,
+    "word": "sus",
+    "probability": 0.9739256427222736
+  },
+  {
+    "start": 9.984,
+    "end": 10.504,
+    "word": "últimos",
+    "probability": 0.99
+  },
+  {
+    "start": 10.504,
+    "end": 11.125,
+    "word": "botones",
+    "probability": 0.9850764875729688
+  },
+  {
+    "start": 11.125,
+    "end": 11.285,
+    "word": "se",
+    "probability": 0.9785176926020389
+  },
+  {
+    "start": 11.285,
+    "end": 11.965,
+    "word": "rompieron",
+    "probability": 0.9802150691115062
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.08,
+    "word": "E",
+    "probability": 0.99
+  },
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "il",
+    "probability": 0.7841067452870812
+  },
+  {
+    "start": 0.22,
+    "end": 0.641,
+    "word": "signor",
+    "probability": 0.9814488871876696
+  },
+  {
+    "start": 0.641,
+    "end": 1.101,
+    "word": "Drake",
+    "probability": 0.8750567550900751
+  },
+  {
+    "start": 1.101,
+    "end": 2.002,
+    "word": "PuddleDuck",
+    "probability": 0.862149766176695
+  },
+  {
+    "start": 2.002,
+    "end": 2.743,
+    "word": "Jemima",
+    "probability": 0.9187196390097601
+  },
+  {
+    "start": 2.743,
+    "end": 2.823,
+    "word": "e",
+    "probability": 0.9799309217875377
+  },
+  {
+    "start": 2.823,
+    "end": 3.463,
+    "word": "Rebeccah",
+    "probability": 0.9641223064763819
+  },
+  {
+    "start": 3.463,
+    "end": 3.584,
+    "word": "li",
+    "probability": 0.7784309523927719
+  },
+  {
+    "start": 3.584,
+    "end": 3.904,
+    "word": "stanno",
+    "probability": 0.9648427464842629
+  },
+  {
+    "start": 3.904,
+    "end": 4.545,
+    "word": "cercando",
+    "probability": 0.99
+  },
+  {
+    "start": 4.545,
+    "end": 4.685,
+    "word": "da",
+    "probability": 0.9879902349785039
+  },
+  {
+    "start": 4.685,
+    "end": 5.085,
+    "word": "allora",
+    "probability": 0.9626642706986328
+  }
+]

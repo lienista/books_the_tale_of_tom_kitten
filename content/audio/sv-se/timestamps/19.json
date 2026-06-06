@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.361,
+    "word": "Sedan",
+    "probability": 0.99
+  },
+  {
+    "start": 0.361,
+    "end": 0.641,
+    "word": "gav",
+    "probability": 0.9708031988507474
+  },
+  {
+    "start": 0.641,
+    "end": 0.781,
+    "word": "han",
+    "probability": 0.99
+  },
+  {
+    "start": 0.781,
+    "end": 1.042,
+    "word": "sig",
+    "probability": 0.9825551652990869
+  },
+  {
+    "start": 1.042,
+    "end": 1.783,
+    "word": "Jemima",
+    "probability": 0.9239847231857872
+  },
+  {
+    "start": 1.783,
+    "end": 2.004,
+    "word": "och",
+    "probability": 0.957544469527911
+  },
+  {
+    "start": 2.004,
+    "end": 2.565,
+    "word": "Rebeccah",
+    "probability": 0.9501936744556504
+  },
+  {
+    "start": 2.565,
+    "end": 3.266,
+    "word": "PuddleDuck",
+    "probability": 0.801134182391457
+  },
+  {
+    "start": 3.266,
+    "end": 3.627,
+    "word": "iväg",
+    "probability": 0.9292761491815411
+  },
+  {
+    "start": 3.627,
+    "end": 3.968,
+    "word": "uppför",
+    "probability": 0.9699471052071168
+  },
+  {
+    "start": 3.968,
+    "end": 4.388,
+    "word": "vägen",
+    "probability": 0.9816825443891171
+  },
+  {
+    "start": 4.388,
+    "end": 5.19,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 5.19,
+    "end": 6.933,
+    "word": "taktpitpat",
+    "probability": 0.9728627838697943
+  },
+  {
+    "start": 6.933,
+    "end": 7.955,
+    "word": "paddlepat",
+    "probability": 0.8802070127579279
+  },
+  {
+    "start": 7.955,
+    "end": 9.378,
+    "word": "pitpat",
+    "probability": 0.9682992958044031
+  },
+  {
+    "start": 9.378,
+    "end": 10.079,
+    "word": "waddlepat",
+    "probability": 0.907736439886992
+  }
+]

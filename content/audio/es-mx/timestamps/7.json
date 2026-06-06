@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.26,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.26,
+    "end": 0.761,
+    "word": "Kitten",
+    "probability": 0.9175724382452438
+  },
+  {
+    "start": 0.761,
+    "end": 1.182,
+    "word": "estaba",
+    "probability": 0.9606036368753107
+  },
+  {
+    "start": 1.182,
+    "end": 1.763,
+    "word": "bastante",
+    "probability": 0.9819992186533487
+  },
+  {
+    "start": 1.763,
+    "end": 2.344,
+    "word": "gordito",
+    "probability": 0.9885447696877826
+  },
+  {
+    "start": 2.344,
+    "end": 2.505,
+    "word": "y",
+    "probability": 0.9855154018797152
+  },
+  {
+    "start": 2.505,
+    "end": 2.845,
+    "word": "había",
+    "probability": 0.9843299486621594
+  },
+  {
+    "start": 2.845,
+    "end": 3.467,
+    "word": "crecido",
+    "probability": 0.99
+  },
+  {
+    "start": 3.467,
+    "end": 4.328,
+    "word": "varios",
+    "probability": 0.99
+  },
+  {
+    "start": 4.328,
+    "end": 4.869,
+    "word": "botones",
+    "probability": 0.978889158508525
+  },
+  {
+    "start": 4.869,
+    "end": 5.009,
+    "word": "se",
+    "probability": 0.953148164844041
+  },
+  {
+    "start": 5.009,
+    "end": 5.631,
+    "word": "rompieron",
+    "probability": 0.99
+  },
+  {
+    "start": 5.631,
+    "end": 6.913,
+    "word": "inmediatamente",
+    "probability": 0.9882660001638396
+  },
+  {
+    "start": 6.913,
+    "end": 7.735,
+    "word": "Su",
+    "probability": 0.9890713693963732
+  },
+  {
+    "start": 7.735,
+    "end": 8.155,
+    "word": "madre",
+    "probability": 0.9798083984531548
+  },
+  {
+    "start": 8.155,
+    "end": 8.757,
+    "word": "suspiró",
+    "probability": 0.9644265537781789
+  },
+  {
+    "start": 8.757,
+    "end": 9.057,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 9.057,
+    "end": 9.278,
+    "word": "los",
+    "probability": 0.99
+  },
+  {
+    "start": 9.278,
+    "end": 9.758,
+    "word": "cosió",
+    "probability": 0.950477190827432
+  },
+  {
+    "start": 9.758,
+    "end": 9.919,
+    "word": "de",
+    "probability": 0.988204539656049
+  },
+  {
+    "start": 9.919,
+    "end": 10.239,
+    "word": "nuevo",
+    "probability": 0.99
+  }
+]

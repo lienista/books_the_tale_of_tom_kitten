@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.32,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.32,
+    "end": 0.801,
+    "word": "Kitten",
+    "probability": 0.8069612674566531
+  },
+  {
+    "start": 0.801,
+    "end": 1.041,
+    "word": "był",
+    "probability": 0.9559927702908254
+  },
+  {
+    "start": 1.041,
+    "end": 1.462,
+    "word": "dość",
+    "probability": 0.99
+  },
+  {
+    "start": 1.462,
+    "end": 2.123,
+    "word": "pulchny",
+    "probability": 0.99
+  },
+  {
+    "start": 2.123,
+    "end": 2.283,
+    "word": "i",
+    "probability": 0.9849186569830315
+  },
+  {
+    "start": 2.283,
+    "end": 2.904,
+    "word": "urósł",
+    "probability": 0.9845191792049836
+  },
+  {
+    "start": 2.904,
+    "end": 3.645,
+    "word": "kilka",
+    "probability": 0.99
+  },
+  {
+    "start": 3.645,
+    "end": 4.166,
+    "word": "guzików",
+    "probability": 0.99
+  },
+  {
+    "start": 4.166,
+    "end": 4.907,
+    "word": "natychmiast",
+    "probability": 0.968598509311458
+  },
+  {
+    "start": 4.907,
+    "end": 5.708,
+    "word": "odpadło",
+    "probability": 0.99
+  },
+  {
+    "start": 5.708,
+    "end": 6.329,
+    "word": "Jego",
+    "probability": 0.99
+  },
+  {
+    "start": 6.329,
+    "end": 6.629,
+    "word": "mama",
+    "probability": 0.99
+  },
+  {
+    "start": 6.629,
+    "end": 7.29,
+    "word": "westchnęła",
+    "probability": 0.9776301457105838
+  },
+  {
+    "start": 7.29,
+    "end": 7.43,
+    "word": "i",
+    "probability": 0.9535089336700134
+  },
+  {
+    "start": 7.43,
+    "end": 8.091,
+    "word": "przyszyła",
+    "probability": 0.9868200731017495
+  },
+  {
+    "start": 8.091,
+    "end": 8.251,
+    "word": "je",
+    "probability": 0.99
+  },
+  {
+    "start": 8.251,
+    "end": 8.391,
+    "word": "z",
+    "probability": 0.968481438284196
+  },
+  {
+    "start": 8.391,
+    "end": 9.052,
+    "word": "powrotem",
+    "probability": 0.99
+  }
+]

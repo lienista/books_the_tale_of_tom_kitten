@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.26,
+    "word": "Том",
+    "probability": 0.99
+  },
+  {
+    "start": 0.26,
+    "end": 0.641,
+    "word": "Киттен",
+    "probability": 0.8895250194754275
+  },
+  {
+    "start": 0.641,
+    "end": 1.102,
+    "word": "совсем",
+    "probability": 0.9892771145372435
+  },
+  {
+    "start": 1.102,
+    "end": 1.202,
+    "word": "не",
+    "probability": 0.99
+  },
+  {
+    "start": 1.202,
+    "end": 1.462,
+    "word": "мог",
+    "probability": 0.99
+  },
+  {
+    "start": 1.462,
+    "end": 1.963,
+    "word": "прыгать",
+    "probability": 0.9611153578160807
+  },
+  {
+    "start": 1.963,
+    "end": 2.885,
+    "word": "пытаясь",
+    "probability": 0.99
+  },
+  {
+    "start": 2.885,
+    "end": 3.265,
+    "word": "ходить",
+    "probability": 0.9705750761354025
+  },
+  {
+    "start": 3.265,
+    "end": 3.385,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 3.385,
+    "end": 3.846,
+    "word": "задних",
+    "probability": 0.99
+  },
+  {
+    "start": 3.846,
+    "end": 4.287,
+    "word": "лапках",
+    "probability": 0.99
+  },
+  {
+    "start": 4.287,
+    "end": 4.367,
+    "word": "в",
+    "probability": 0.99
+  },
+  {
+    "start": 4.367,
+    "end": 4.968,
+    "word": "штанах",
+    "probability": 0.99
+  },
+  {
+    "start": 4.968,
+    "end": 5.929,
+    "word": "Он",
+    "probability": 0.99
+  },
+  {
+    "start": 5.929,
+    "end": 6.03,
+    "word": "с",
+    "probability": 0.99
+  },
+  {
+    "start": 6.03,
+    "end": 6.43,
+    "word": "трудом",
+    "probability": 0.99
+  },
+  {
+    "start": 6.43,
+    "end": 7.131,
+    "word": "карабкался",
+    "probability": 0.9711290126011144
+  },
+  {
+    "start": 7.131,
+    "end": 7.332,
+    "word": "по",
+    "probability": 0.99
+  },
+  {
+    "start": 7.332,
+    "end": 7.792,
+    "word": "камням",
+    "probability": 0.99
+  },
+  {
+    "start": 7.792,
+    "end": 8.093,
+    "word": "шаг",
+    "probability": 0.99
+  },
+  {
+    "start": 8.093,
+    "end": 8.253,
+    "word": "за",
+    "probability": 0.9330167085058055
+  },
+  {
+    "start": 8.253,
+    "end": 8.774,
+    "word": "шагом",
+    "probability": 0.9797354257044215
+  },
+  {
+    "start": 8.774,
+    "end": 9.735,
+    "word": "сминая",
+    "probability": 0.99
+  },
+  {
+    "start": 9.735,
+    "end": 10.617,
+    "word": "папоротники",
+    "probability": 0.99
+  },
+  {
+    "start": 10.617,
+    "end": 10.717,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 10.717,
+    "end": 11.098,
+    "word": "теряя",
+    "probability": 0.981183057119878
+  },
+  {
+    "start": 11.098,
+    "end": 11.739,
+    "word": "пуговицы",
+    "probability": 0.9830678358694311
+  },
+  {
+    "start": 11.739,
+    "end": 12.299,
+    "word": "направо",
+    "probability": 0.9659624729146679
+  },
+  {
+    "start": 12.299,
+    "end": 12.38,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 12.38,
+    "end": 12.84,
+    "word": "налево",
+    "probability": 0.9803600950332994
+  }
+]

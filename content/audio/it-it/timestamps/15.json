@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.24,
+    "word": "Poi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.24,
+    "end": 0.38,
+    "word": "le",
+    "probability": 0.946327713685238
+  },
+  {
+    "start": 0.38,
+    "end": 0.641,
+    "word": "due",
+    "probability": 0.9693345849679909
+  },
+  {
+    "start": 0.641,
+    "end": 1.141,
+    "word": "anatre",
+    "probability": 0.99
+  },
+  {
+    "start": 1.141,
+    "end": 1.762,
+    "word": "femmine",
+    "probability": 0.99
+  },
+  {
+    "start": 1.762,
+    "end": 2.843,
+    "word": "Rebeccah",
+    "probability": 0.9867695499152136
+  },
+  {
+    "start": 2.843,
+    "end": 3.084,
+    "word": "e",
+    "probability": 0.9123897399996334
+  },
+  {
+    "start": 3.084,
+    "end": 3.764,
+    "word": "Jemima",
+    "probability": 0.9246730285927879
+  },
+  {
+    "start": 3.764,
+    "end": 4.786,
+    "word": "PuddleDuck",
+    "probability": 0.8919184081223425
+  },
+  {
+    "start": 4.786,
+    "end": 5.847,
+    "word": "raccolsero",
+    "probability": 0.9773472396165866
+  },
+  {
+    "start": 5.847,
+    "end": 5.947,
+    "word": "il",
+    "probability": 0.9780115969633856
+  },
+  {
+    "start": 5.947,
+    "end": 6.528,
+    "word": "cappello",
+    "probability": 0.99
+  },
+  {
+    "start": 6.528,
+    "end": 6.588,
+    "word": "e",
+    "probability": 0.8813447489780203
+  },
+  {
+    "start": 6.588,
+    "end": 6.768,
+    "word": "il",
+    "probability": 0.8736282122070007
+  },
+  {
+    "start": 6.768,
+    "end": 7.289,
+    "word": "colletto",
+    "probability": 0.99
+  },
+  {
+    "start": 7.289,
+    "end": 7.469,
+    "word": "di",
+    "probability": 0.9397268810566053
+  },
+  {
+    "start": 7.469,
+    "end": 7.969,
+    "word": "pizzo",
+    "probability": 0.9891485313713398
+  },
+  {
+    "start": 7.969,
+    "end": 8.27,
+    "word": "e",
+    "probability": 0.972177580890144
+  },
+  {
+    "start": 8.27,
+    "end": 8.45,
+    "word": "li",
+    "probability": 0.9647804186105634
+  },
+  {
+    "start": 8.45,
+    "end": 9.351,
+    "word": "indossarono",
+    "probability": 0.9678921300135375
+  }
+]

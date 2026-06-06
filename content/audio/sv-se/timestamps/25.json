@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.221,
+    "word": "Vad",
+    "probability": 0.99
+  },
+  {
+    "start": 0.221,
+    "end": 0.642,
+    "word": "gäller",
+    "probability": 0.9436266208134152
+  },
+  {
+    "start": 0.642,
+    "end": 1.684,
+    "word": "PuddleDucksde",
+    "probability": 0.8269595598567795
+  },
+  {
+    "start": 1.684,
+    "end": 1.965,
+    "word": "gick",
+    "probability": 0.9650137679969414
+  },
+  {
+    "start": 1.965,
+    "end": 2.165,
+    "word": "ner",
+    "probability": 0.9638378404774117
+  },
+  {
+    "start": 2.165,
+    "end": 2.245,
+    "word": "i",
+    "probability": 0.9634356240430033
+  },
+  {
+    "start": 2.245,
+    "end": 2.386,
+    "word": "en",
+    "probability": 0.9758898368613513
+  },
+  {
+    "start": 2.386,
+    "end": 2.727,
+    "word": "damm",
+    "probability": 0.99
+  },
+  {
+    "start": 2.727,
+    "end": 3.769,
+    "word": "Kläderna",
+    "probability": 0.984428509352542
+  },
+  {
+    "start": 3.769,
+    "end": 4.03,
+    "word": "föll",
+    "probability": 0.99
+  },
+  {
+    "start": 4.03,
+    "end": 4.21,
+    "word": "av",
+    "probability": 0.9883389536732842
+  },
+  {
+    "start": 4.21,
+    "end": 4.651,
+    "word": "direkt",
+    "probability": 0.9705111232115051
+  },
+  {
+    "start": 4.651,
+    "end": 5.112,
+    "word": "eftersom",
+    "probability": 0.9738165989432588
+  },
+  {
+    "start": 5.112,
+    "end": 5.253,
+    "word": "det",
+    "probability": 0.9414736949920538
+  },
+  {
+    "start": 5.253,
+    "end": 5.473,
+    "word": "inte",
+    "probability": 0.9337918122438023
+  },
+  {
+    "start": 5.473,
+    "end": 5.754,
+    "word": "fanns",
+    "probability": 0.99
+  },
+  {
+    "start": 5.754,
+    "end": 5.954,
+    "word": "några",
+    "probability": 0.9319875880636829
+  },
+  {
+    "start": 5.954,
+    "end": 6.395,
+    "word": "knappar",
+    "probability": 0.99
+  },
+  {
+    "start": 6.395,
+    "end": 6.696,
+    "word": "kvar",
+    "probability": 0.9835363250069763
+  },
+  {
+    "start": 6.696,
+    "end": 6.877,
+    "word": "för",
+    "probability": 0.99
+  },
+  {
+    "start": 6.877,
+    "end": 7.037,
+    "word": "att",
+    "probability": 0.9574147608809223
+  },
+  {
+    "start": 7.037,
+    "end": 7.258,
+    "word": "hålla",
+    "probability": 0.99
+  },
+  {
+    "start": 7.258,
+    "end": 7.418,
+    "word": "dem",
+    "probability": 0.99
+  },
+  {
+    "start": 7.418,
+    "end": 7.638,
+    "word": "ihop",
+    "probability": 0.9736625870168414
+  }
+]

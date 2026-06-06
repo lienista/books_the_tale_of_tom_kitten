@@ -1,0 +1,116 @@
+[
+  {
+    "start": 6.121,
+    "end": 6.335,
+    "word": "ਫਰ",
+    "probability": 0.833322923482238
+  },
+  {
+    "start": 6.335,
+    "end": 6.366,
+    "word": "ਦ",
+    "probability": 0.49999816155239035
+  },
+  {
+    "start": 6.366,
+    "end": 6.58,
+    "word": "ਮਦ",
+    "probability": 0.8567601183881258
+  },
+  {
+    "start": 6.58,
+    "end": 6.855,
+    "word": "ਬਤਖ",
+    "probability": 0.5871407327187952
+  },
+  {
+    "start": 6.855,
+    "end": 7.071,
+    "word": "ਰਬਕ",
+    "probability": 0.515850294994936
+  },
+  {
+    "start": 7.071,
+    "end": 7.224,
+    "word": "ਅਤ",
+    "probability": 0.5996870778232741
+  },
+  {
+    "start": 7.224,
+    "end": 7.529,
+    "word": "ਜਮਮ",
+    "probability": 0.6963017833038673
+  },
+  {
+    "start": 7.529,
+    "end": 7.927,
+    "word": "ਪਡਲਡਕ",
+    "probability": 0.6791136824332502
+  },
+  {
+    "start": 7.927,
+    "end": 8.11,
+    "word": "ਨ",
+    "probability": 0.99
+  },
+  {
+    "start": 8.11,
+    "end": 8.325,
+    "word": "ਟਪ",
+    "probability": 0.7548490132252521
+  },
+  {
+    "start": 8.325,
+    "end": 8.386,
+    "word": "ਅਤ",
+    "probability": 0.01
+  },
+  {
+    "start": 8.386,
+    "end": 8.936,
+    "word": "ਲਸ",
+    "probability": 0.831905548217476
+  },
+  {
+    "start": 8.936,
+    "end": 9.396,
+    "word": "ਕਲਰ",
+    "probability": 0.8000108092948801
+  },
+  {
+    "start": 9.396,
+    "end": 9.488,
+    "word": "ਚਕਆ",
+    "probability": 0.01
+  },
+  {
+    "start": 9.488,
+    "end": 9.825,
+    "word": "ਅਤ",
+    "probability": 0.9090400800912888
+  },
+  {
+    "start": 9.825,
+    "end": 10.008,
+    "word": "ਉਨਹ",
+    "probability": 0.6666521665765758
+  },
+  {
+    "start": 10.008,
+    "end": 10.039,
+    "word": "ਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 10.039,
+    "end": 10.13,
+    "word": "ਪਹਨ",
+    "probability": 0.01
+  },
+  {
+    "start": 10.13,
+    "end": 10.161,
+    "word": "ਲਆ",
+    "probability": 0.01
+  }
+]

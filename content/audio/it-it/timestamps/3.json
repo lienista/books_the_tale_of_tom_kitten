@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.16,
+    "word": "Per",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.501,
+    "word": "prima",
+    "probability": 0.9889970544261493
+  },
+  {
+    "start": 0.501,
+    "end": 0.821,
+    "word": "cosa",
+    "probability": 0.9896506992152818
+  },
+  {
+    "start": 0.821,
+    "end": 1.342,
+    "word": "strofinò",
+    "probability": 0.9748838514962583
+  },
+  {
+    "start": 1.342,
+    "end": 1.462,
+    "word": "i",
+    "probability": 0.9476897656851833
+  },
+  {
+    "start": 1.462,
+    "end": 1.683,
+    "word": "loro",
+    "probability": 0.9801650204082718
+  },
+  {
+    "start": 1.683,
+    "end": 2.224,
+    "word": "volti",
+    "probability": 0.9811871257818625
+  },
+  {
+    "start": 2.224,
+    "end": 2.785,
+    "word": "questo",
+    "probability": 0.9882029673891101
+  },
+  {
+    "start": 2.785,
+    "end": 2.865,
+    "word": "è",
+    "probability": 0.9515612002368565
+  },
+  {
+    "start": 2.865,
+    "end": 3.386,
+    "word": "Moppet",
+    "probability": 0.9818827586479792
+  }
+]

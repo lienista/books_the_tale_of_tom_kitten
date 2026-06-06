@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.461,
+    "word": "Duvarın",
+    "probability": 0.99
+  },
+  {
+    "start": 0.461,
+    "end": 1.101,
+    "word": "tepesine",
+    "probability": 0.9772784851538512
+  },
+  {
+    "start": 1.101,
+    "end": 1.902,
+    "word": "ulaştığında",
+    "probability": 0.99
+  },
+  {
+    "start": 1.902,
+    "end": 2.443,
+    "word": "tam",
+    "probability": 0.9855977492009425
+  },
+  {
+    "start": 2.443,
+    "end": 2.683,
+    "word": "bir",
+    "probability": 0.9793808575603492
+  },
+  {
+    "start": 2.683,
+    "end": 3.624,
+    "word": "karmaşaydı",
+    "probability": 0.9857796183952796
+  },
+  {
+    "start": 3.624,
+    "end": 4.405,
+    "word": "Moppet",
+    "probability": 0.9613851123487012
+  },
+  {
+    "start": 4.405,
+    "end": 4.585,
+    "word": "ve",
+    "probability": 0.9767411263471661
+  },
+  {
+    "start": 4.585,
+    "end": 5.206,
+    "word": "Mittens",
+    "probability": 0.9258732367442615
+  },
+  {
+    "start": 5.206,
+    "end": 6.227,
+    "word": "kıyafetlerini",
+    "probability": 0.9835470792562914
+  },
+  {
+    "start": 6.227,
+    "end": 6.968,
+    "word": "düzeltmeye",
+    "probability": 0.9871505503291181
+  },
+  {
+    "start": 6.968,
+    "end": 7.789,
+    "word": "çalıştılar",
+    "probability": 0.9756576430259456
+  },
+  {
+    "start": 7.789,
+    "end": 8.309,
+    "word": "ama",
+    "probability": 0.9654566142726068
+  },
+  {
+    "start": 8.309,
+    "end": 9.03,
+    "word": "şapkası",
+    "probability": 0.99
+  },
+  {
+    "start": 9.03,
+    "end": 9.451,
+    "word": "düştü",
+    "probability": 0.99
+  },
+  {
+    "start": 9.451,
+    "end": 10.031,
+    "word": "ve",
+    "probability": 0.99
+  },
+  {
+    "start": 10.031,
+    "end": 10.572,
+    "word": "son",
+    "probability": 0.99
+  },
+  {
+    "start": 10.572,
+    "end": 11.273,
+    "word": "düğmeleri",
+    "probability": 0.9813638202478009
+  },
+  {
+    "start": 11.273,
+    "end": 11.753,
+    "word": "koptu",
+    "probability": 0.987820018752429
+  }
+]

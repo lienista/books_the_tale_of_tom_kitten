@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.18,
+    "end": 0.26,
+    "word": "Ami",
+    "probability": 0.4957249346409673
+  },
+  {
+    "start": 0.26,
+    "end": 0.441,
+    "word": "a",
+    "probability": 0.883585074906645
+  },
+  {
+    "start": 0.441,
+    "end": 1.483,
+    "word": "PuddleDuckokat",
+    "probability": 0.7198023082534468
+  },
+  {
+    "start": 1.483,
+    "end": 3.566,
+    "word": "illetibementek",
+    "probability": 0.8269990034225637
+  },
+  {
+    "start": 3.566,
+    "end": 3.847,
+    "word": "egy",
+    "probability": 0.7746639212675765
+  },
+  {
+    "start": 3.847,
+    "end": 4.287,
+    "word": "tóba",
+    "probability": 0.7628394019008462
+  },
+  {
+    "start": 4.287,
+    "end": 4.388,
+    "word": "A",
+    "probability": 0.8327996139740215
+  },
+  {
+    "start": 4.388,
+    "end": 5.489,
+    "word": "ruhák",
+    "probability": 0.9082214164360983
+  },
+  {
+    "start": 5.489,
+    "end": 6.03,
+    "word": "leestek",
+    "probability": 0.7392204179153992
+  },
+  {
+    "start": 6.03,
+    "end": 6.371,
+    "word": "róluk",
+    "probability": 0.700092216648589
+  },
+  {
+    "start": 6.371,
+    "end": 6.752,
+    "word": "mert",
+    "probability": 0.7278702905366676
+  },
+  {
+    "start": 6.752,
+    "end": 6.912,
+    "word": "nem",
+    "probability": 0.6241733762520512
+  },
+  {
+    "start": 6.912,
+    "end": 7.413,
+    "word": "maradt",
+    "probability": 0.7178066903519976
+  },
+  {
+    "start": 7.413,
+    "end": 8.374,
+    "word": "gomb",
+    "probability": 0.878872334631807
+  },
+  {
+    "start": 8.374,
+    "end": 8.615,
+    "word": "ami",
+    "probability": 0.6721057056085664
+  },
+  {
+    "start": 8.615,
+    "end": 9.596,
+    "word": "összetartotta",
+    "probability": 0.6836832787086462
+  },
+  {
+    "start": 9.596,
+    "end": 10.578,
+    "word": "volna",
+    "probability": 0.8844942809758004
+  },
+  {
+    "start": 10.578,
+    "end": 10.879,
+    "word": "őket",
+    "probability": 0.7998818468589369
+  }
+]

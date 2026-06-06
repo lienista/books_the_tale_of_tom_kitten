@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.52,
+    "word": "Istället",
+    "probability": 0.9521010134786507
+  },
+  {
+    "start": 0.52,
+    "end": 0.7,
+    "word": "kom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.7,
+    "end": 0.86,
+    "word": "det",
+    "probability": 0.9838116463189726
+  },
+  {
+    "start": 0.86,
+    "end": 1.361,
+    "word": "mycket",
+    "probability": 0.99
+  },
+  {
+    "start": 1.361,
+    "end": 1.861,
+    "word": "konstiga",
+    "probability": 0.9545360429888501
+  },
+  {
+    "start": 1.861,
+    "end": 2.221,
+    "word": "ljud",
+    "probability": 0.9786354865427133
+  },
+  {
+    "start": 2.221,
+    "end": 2.501,
+    "word": "från",
+    "probability": 0.9642531875118058
+  },
+  {
+    "start": 2.501,
+    "end": 3.301,
+    "word": "övervåningen",
+    "probability": 0.9868931982264523
+  },
+  {
+    "start": 3.301,
+    "end": 4.522,
+    "word": "vilket",
+    "probability": 0.99
+  },
+  {
+    "start": 4.522,
+    "end": 5.262,
+    "word": "förstörde",
+    "probability": 0.9862943554522844
+  },
+  {
+    "start": 5.262,
+    "end": 5.462,
+    "word": "den",
+    "probability": 0.99
+  },
+  {
+    "start": 5.462,
+    "end": 5.942,
+    "word": "lugna",
+    "probability": 0.9704960064100355
+  },
+  {
+    "start": 5.942,
+    "end": 6.643,
+    "word": "stämningen",
+    "probability": 0.9821514237907563
+  },
+  {
+    "start": 6.643,
+    "end": 6.823,
+    "word": "på",
+    "probability": 0.99
+  },
+  {
+    "start": 6.823,
+    "end": 7.623,
+    "word": "tepartyt",
+    "probability": 0.9707341240267822
+  },
+  {
+    "start": 7.623,
+    "end": 8.844,
+    "word": "Och",
+    "probability": 0.99
+  },
+  {
+    "start": 8.844,
+    "end": 9.224,
+    "word": "jag",
+    "probability": 0.9615423029729586
+  },
+  {
+    "start": 9.224,
+    "end": 9.564,
+    "word": "tror",
+    "probability": 0.99
+  },
+  {
+    "start": 9.564,
+    "end": 9.744,
+    "word": "att",
+    "probability": 0.9797040392124994
+  },
+  {
+    "start": 9.744,
+    "end": 10.124,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 10.124,
+    "end": 10.544,
+    "word": "dag",
+    "probability": 0.985396596103729
+  },
+  {
+    "start": 10.544,
+    "end": 10.905,
+    "word": "måste",
+    "probability": 0.9820820542730677
+  },
+  {
+    "start": 10.905,
+    "end": 11.045,
+    "word": "jag",
+    "probability": 0.927618973472481
+  },
+  {
+    "start": 11.045,
+    "end": 11.505,
+    "word": "skriva",
+    "probability": 0.99
+  },
+  {
+    "start": 11.505,
+    "end": 11.645,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 11.645,
+    "end": 12.225,
+    "word": "längre",
+    "probability": 0.99
+  },
+  {
+    "start": 12.225,
+    "end": 12.585,
+    "word": "bok",
+    "probability": 0.99
+  },
+  {
+    "start": 12.585,
+    "end": 13.446,
+    "word": "för",
+    "probability": 0.99
+  },
+  {
+    "start": 13.446,
+    "end": 13.626,
+    "word": "att",
+    "probability": 0.938092732134996
+  },
+  {
+    "start": 13.626,
+    "end": 14.066,
+    "word": "berätta",
+    "probability": 0.99
+  },
+  {
+    "start": 14.066,
+    "end": 14.646,
+    "word": "mer",
+    "probability": 0.9845518249326208
+  },
+  {
+    "start": 14.646,
+    "end": 14.906,
+    "word": "om",
+    "probability": 0.9859184201426066
+  },
+  {
+    "start": 14.906,
+    "end": 15.286,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 15.286,
+    "end": 15.787,
+    "word": "Kitten",
+    "probability": 0.9350451312836527
+  }
+]

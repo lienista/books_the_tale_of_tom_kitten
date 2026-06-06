@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.48,
+    "word": "Podczas",
+    "probability": 0.99
+  },
+  {
+    "start": 0.48,
+    "end": 0.701,
+    "word": "gdy",
+    "probability": 0.9583755177672216
+  },
+  {
+    "start": 0.701,
+    "end": 0.861,
+    "word": "się",
+    "probability": 0.9475326414740808
+  },
+  {
+    "start": 0.861,
+    "end": 1.481,
+    "word": "zmagali",
+    "probability": 0.99
+  },
+  {
+    "start": 1.481,
+    "end": 2.502,
+    "word": "usłyszeli",
+    "probability": 0.99
+  },
+  {
+    "start": 2.502,
+    "end": 5.105,
+    "word": "pitpatpaddlepat",
+    "probability": 0.9274581178194845
+  },
+  {
+    "start": 5.105,
+    "end": 6.026,
+    "word": "Trzy",
+    "probability": 0.99
+  },
+  {
+    "start": 6.026,
+    "end": 6.867,
+    "word": "PuddleDucks",
+    "probability": 0.8441439324466331
+  },
+  {
+    "start": 6.867,
+    "end": 7.968,
+    "word": "maszerowały",
+    "probability": 0.9895766455409379
+  },
+  {
+    "start": 7.968,
+    "end": 8.388,
+    "word": "drogą",
+    "probability": 0.9864291013893908
+  },
+  {
+    "start": 8.388,
+    "end": 8.528,
+    "word": "w",
+    "probability": 0.99
+  },
+  {
+    "start": 8.528,
+    "end": 8.848,
+    "word": "jednym",
+    "probability": 0.9638413473427886
+  },
+  {
+    "start": 8.848,
+    "end": 9.669,
+    "word": "szeregu",
+    "probability": 0.99
+  },
+  {
+    "start": 9.669,
+    "end": 10.59,
+    "word": "wykonując",
+    "probability": 0.99
+  },
+  {
+    "start": 10.59,
+    "end": 10.95,
+    "word": "swój",
+    "probability": 0.9542482547347915
+  },
+  {
+    "start": 10.95,
+    "end": 11.471,
+    "word": "rytmiczny",
+    "probability": 0.9582833810492127
+  },
+  {
+    "start": 11.471,
+    "end": 11.831,
+    "word": "chód",
+    "probability": 0.9439719298031536
+  },
+  {
+    "start": 11.831,
+    "end": 14.174,
+    "word": "pitpatpaddlepat",
+    "probability": 0.914011116126138
+  },
+  {
+    "start": 14.174,
+    "end": 16.556,
+    "word": "pitpatwaddlepat",
+    "probability": 0.928064623796236
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "start": 5.268,
+    "end": 5.448,
+    "word": "Moppet",
+    "probability": 0.4431966919611146
+  },
+  {
+    "start": 5.448,
+    "end": 5.528,
+    "word": "ja",
+    "probability": 0.24994773944351414
+  },
+  {
+    "start": 5.528,
+    "end": 5.789,
+    "word": "Mittens",
+    "probability": 0.3679640187600246
+  },
+  {
+    "start": 5.789,
+    "end": 6.369,
+    "word": "hoippuivat",
+    "probability": 0.5616540961016651
+  },
+  {
+    "start": 6.369,
+    "end": 6.61,
+    "word": "alas",
+    "probability": 0.6654860789669709
+  },
+  {
+    "start": 6.61,
+    "end": 7.171,
+    "word": "puutarhapolkua",
+    "probability": 0.46428408582702646
+  },
+  {
+    "start": 7.171,
+    "end": 7.631,
+    "word": "Pian",
+    "probability": 0.7833599652150309
+  },
+  {
+    "start": 7.631,
+    "end": 7.751,
+    "word": "he",
+    "probability": 0.6658613034561592
+  },
+  {
+    "start": 7.751,
+    "end": 8.292,
+    "word": "kompastuivat",
+    "probability": 0.5182137189445358
+  },
+  {
+    "start": 8.292,
+    "end": 8.813,
+    "word": "mekkoihinsa",
+    "probability": 0.5767419550256109
+  },
+  {
+    "start": 8.813,
+    "end": 9.214,
+    "word": "ja",
+    "probability": 0.8992230039854026
+  },
+  {
+    "start": 9.214,
+    "end": 9.634,
+    "word": "kaatuivat",
+    "probability": 0.4779694510665407
+  },
+  {
+    "start": 9.634,
+    "end": 10.075,
+    "word": "kasvoilleen",
+    "probability": 0.4960523886645373
+  },
+  {
+    "start": 10.075,
+    "end": 10.255,
+    "word": "Kun",
+    "probability": 0.5843037595592263
+  },
+  {
+    "start": 10.255,
+    "end": 10.375,
+    "word": "he",
+    "probability": 0.4999965053780974
+  },
+  {
+    "start": 10.375,
+    "end": 10.836,
+    "word": "nousivat",
+    "probability": 0.6087347252052399
+  },
+  {
+    "start": 10.836,
+    "end": 10.976,
+    "word": "ylös",
+    "probability": 0.28571426912399234
+  },
+  {
+    "start": 10.976,
+    "end": 11.056,
+    "word": "he",
+    "probability": 0.291577327166377
+  },
+  {
+    "start": 11.056,
+    "end": 11.998,
+    "word": "olivat",
+    "probability": 0.8502331075232706
+  },
+  {
+    "start": 11.998,
+    "end": 12.358,
+    "word": "täynnä",
+    "probability": 0.5035359313609397
+  },
+  {
+    "start": 12.358,
+    "end": 12.859,
+    "word": "ruohotahroja",
+    "probability": 0.5108670852820417
+  },
+  {
+    "start": 12.859,
+    "end": 13.46,
+    "word": "Kiipeillään",
+    "probability": 0.6157945385246248
+  },
+  {
+    "start": 13.46,
+    "end": 13.76,
+    "word": "kivillä",
+    "probability": 0.46658083020546764
+  },
+  {
+    "start": 13.76,
+    "end": 13.861,
+    "word": "ja",
+    "probability": 0.5999966383352698
+  },
+  {
+    "start": 13.861,
+    "end": 14.241,
+    "word": "istutaan",
+    "probability": 0.5263112913074391
+  },
+  {
+    "start": 14.241,
+    "end": 14.642,
+    "word": "puutarhan",
+    "probability": 0.4800779713498452
+  },
+  {
+    "start": 14.642,
+    "end": 14.962,
+    "word": "muurilla",
+    "probability": 0.40402083010348955
+  },
+  {
+    "start": 14.962,
+    "end": 15.763,
+    "word": "Moppet",
+    "probability": 0.8382215456010318
+  },
+  {
+    "start": 15.763,
+    "end": 16.024,
+    "word": "ehdotti",
+    "probability": 0.5122022358750737
+  }
+]

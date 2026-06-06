@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.28,
+    "word": "Byly",
+    "probability": 0.99
+  },
+  {
+    "start": 0.28,
+    "end": 0.78,
+    "word": "jednou",
+    "probability": 0.9802439549802733
+  },
+  {
+    "start": 0.78,
+    "end": 1.02,
+    "word": "tři",
+    "probability": 0.9792601982431647
+  },
+  {
+    "start": 1.02,
+    "end": 1.361,
+    "word": "malé",
+    "probability": 0.9763517257160208
+  },
+  {
+    "start": 1.361,
+    "end": 2.161,
+    "word": "koťátka",
+    "probability": 0.9895879749114934
+  },
+  {
+    "start": 2.161,
+    "end": 2.741,
+    "word": "jménem",
+    "probability": 0.9827263436762479
+  },
+  {
+    "start": 2.741,
+    "end": 3.562,
+    "word": "Mittens",
+    "probability": 0.8547169638697613
+  },
+  {
+    "start": 3.562,
+    "end": 3.962,
+    "word": "Tom",
+    "probability": 0.9302865245324673
+  },
+  {
+    "start": 3.962,
+    "end": 4.442,
+    "word": "Kitten",
+    "probability": 0.7835291943753954
+  },
+  {
+    "start": 4.442,
+    "end": 4.662,
+    "word": "a",
+    "probability": 0.9616938796072045
+  },
+  {
+    "start": 4.662,
+    "end": 5.283,
+    "word": "Moppet",
+    "probability": 0.882434984344568
+  },
+  {
+    "start": 5.283,
+    "end": 6.163,
+    "word": "Měly",
+    "probability": 0.9851806307906172
+  },
+  {
+    "start": 6.163,
+    "end": 6.703,
+    "word": "krásné",
+    "probability": 0.982262510632414
+  },
+  {
+    "start": 6.703,
+    "end": 7.444,
+    "word": "kožíšky",
+    "probability": 0.9709561616800289
+  },
+  {
+    "start": 7.444,
+    "end": 7.764,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 7.764,
+    "end": 8.304,
+    "word": "trávily",
+    "probability": 0.9694652839382636
+  },
+  {
+    "start": 8.304,
+    "end": 8.564,
+    "word": "své",
+    "probability": 0.9618686329851395
+  },
+  {
+    "start": 8.564,
+    "end": 8.824,
+    "word": "dny",
+    "probability": 0.9669692116146344
+  },
+  {
+    "start": 8.824,
+    "end": 9.485,
+    "word": "válením",
+    "probability": 0.99
+  },
+  {
+    "start": 9.485,
+    "end": 9.665,
+    "word": "se",
+    "probability": 0.9317844050519886
+  },
+  {
+    "start": 9.665,
+    "end": 9.845,
+    "word": "na",
+    "probability": 0.9749364104307028
+  },
+  {
+    "start": 9.845,
+    "end": 10.425,
+    "word": "verandě",
+    "probability": 0.929847689473085
+  },
+  {
+    "start": 10.425,
+    "end": 10.765,
+    "word": "a",
+    "probability": 0.9850410442389583
+  },
+  {
+    "start": 10.765,
+    "end": 11.265,
+    "word": "hraním",
+    "probability": 0.9832690266642378
+  },
+  {
+    "start": 11.265,
+    "end": 11.425,
+    "word": "si",
+    "probability": 0.970867273034982
+  },
+  {
+    "start": 11.425,
+    "end": 11.525,
+    "word": "v",
+    "probability": 0.9556803759647285
+  },
+  {
+    "start": 11.525,
+    "end": 11.906,
+    "word": "hlíně",
+    "probability": 0.9713500345276526
+  }
+]

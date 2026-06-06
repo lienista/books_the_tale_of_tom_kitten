@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.3,
+    "word": "Întro",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 0.521,
+    "word": "zi",
+    "probability": 0.9292845840002951
+  },
+  {
+    "start": 0.521,
+    "end": 0.942,
+    "word": "mama",
+    "probability": 0.9827840656143911
+  },
+  {
+    "start": 0.942,
+    "end": 1.803,
+    "word": "lordoamna",
+    "probability": 0.9258159986587924
+  },
+  {
+    "start": 1.803,
+    "end": 2.304,
+    "word": "Tabitha",
+    "probability": 0.9029204339152035
+  },
+  {
+    "start": 2.304,
+    "end": 3.726,
+    "word": "Twitchitaștepta",
+    "probability": 0.8670482904297004
+  },
+  {
+    "start": 3.726,
+    "end": 4.207,
+    "word": "prieteni",
+    "probability": 0.9233600457039922
+  },
+  {
+    "start": 4.207,
+    "end": 4.327,
+    "word": "la",
+    "probability": 0.8869607145823846
+  },
+  {
+    "start": 4.327,
+    "end": 4.688,
+    "word": "ceai",
+    "probability": 0.9384194601707746
+  },
+  {
+    "start": 4.688,
+    "end": 5.449,
+    "word": "Ea",
+    "probability": 0.99
+  },
+  {
+    "start": 5.449,
+    "end": 5.649,
+    "word": "a",
+    "probability": 0.9459959395142157
+  },
+  {
+    "start": 5.649,
+    "end": 6.05,
+    "word": "adus",
+    "probability": 0.9718214420560513
+  },
+  {
+    "start": 6.05,
+    "end": 6.871,
+    "word": "pisicuțele",
+    "probability": 0.9630073030028846
+  },
+  {
+    "start": 6.871,
+    "end": 7.412,
+    "word": "înăuntru",
+    "probability": 0.9452009509308388
+  },
+  {
+    "start": 7.412,
+    "end": 7.592,
+    "word": "să",
+    "probability": 0.9308086473367884
+  },
+  {
+    "start": 7.592,
+    "end": 7.693,
+    "word": "le",
+    "probability": 0.9529574197097744
+  },
+  {
+    "start": 7.693,
+    "end": 8.113,
+    "word": "spele",
+    "probability": 0.9217680365713037
+  },
+  {
+    "start": 8.113,
+    "end": 8.294,
+    "word": "și",
+    "probability": 0.9864451165144549
+  },
+  {
+    "start": 8.294,
+    "end": 8.454,
+    "word": "să",
+    "probability": 0.8860248580702552
+  },
+  {
+    "start": 8.454,
+    "end": 8.554,
+    "word": "le",
+    "probability": 0.9578313896975349
+  },
+  {
+    "start": 8.554,
+    "end": 9.015,
+    "word": "îmbrace",
+    "probability": 0.9322166385211642
+  },
+  {
+    "start": 9.015,
+    "end": 9.395,
+    "word": "înainte",
+    "probability": 0.9569353550501468
+  },
+  {
+    "start": 9.395,
+    "end": 9.596,
+    "word": "să",
+    "probability": 0.9820153988316147
+  },
+  {
+    "start": 9.596,
+    "end": 10.157,
+    "word": "sosească",
+    "probability": 0.97663028721661
+  },
+  {
+    "start": 10.157,
+    "end": 10.718,
+    "word": "oaspeții",
+    "probability": 0.9046843959996503
+  }
+]

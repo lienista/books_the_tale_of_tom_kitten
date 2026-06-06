@@ -1,0 +1,140 @@
+[
+  {
+    "start": 2.141,
+    "end": 2.222,
+    "word": "She",
+    "probability": 0.47372848812397733
+  },
+  {
+    "start": 2.222,
+    "end": 2.382,
+    "word": "sent",
+    "probability": 0.44098853895583134
+  },
+  {
+    "start": 2.382,
+    "end": 2.862,
+    "word": "them",
+    "probability": 0.6522859522561517
+  },
+  {
+    "start": 2.862,
+    "end": 3.382,
+    "word": "upstairs",
+    "probability": 0.6428278465886409
+  },
+  {
+    "start": 3.382,
+    "end": 3.462,
+    "word": "and",
+    "probability": 0.01
+  },
+  {
+    "start": 3.462,
+    "end": 4.003,
+    "word": "Im",
+    "probability": 0.8159561118208798
+  },
+  {
+    "start": 4.003,
+    "end": 4.483,
+    "word": "sorry",
+    "probability": 0.7242946529359854
+  },
+  {
+    "start": 4.483,
+    "end": 4.563,
+    "word": "to",
+    "probability": 0.4996626603679147
+  },
+  {
+    "start": 4.563,
+    "end": 4.723,
+    "word": "say",
+    "probability": 0.3816517513879013
+  },
+  {
+    "start": 4.723,
+    "end": 5.003,
+    "word": "she",
+    "probability": 0.4706956878224144
+  },
+  {
+    "start": 5.003,
+    "end": 5.284,
+    "word": "told",
+    "probability": 0.4036063880425301
+  },
+  {
+    "start": 5.284,
+    "end": 5.524,
+    "word": "her",
+    "probability": 0.4780883799823628
+  },
+  {
+    "start": 5.524,
+    "end": 5.904,
+    "word": "friends",
+    "probability": 0.4961279147441927
+  },
+  {
+    "start": 5.904,
+    "end": 6.224,
+    "word": "they",
+    "probability": 0.7435956512085287
+  },
+  {
+    "start": 6.224,
+    "end": 6.505,
+    "word": "were",
+    "probability": 0.6123096624465371
+  },
+  {
+    "start": 6.505,
+    "end": 6.565,
+    "word": "in",
+    "probability": 0.01
+  },
+  {
+    "start": 6.565,
+    "end": 6.645,
+    "word": "bed",
+    "probability": 0.19217975609517138
+  },
+  {
+    "start": 6.645,
+    "end": 7.065,
+    "word": "with",
+    "probability": 0.6838081772823623
+  },
+  {
+    "start": 7.065,
+    "end": 7.145,
+    "word": "a",
+    "probability": 0.727103228080181
+  },
+  {
+    "start": 7.145,
+    "end": 8.026,
+    "word": "cold",
+    "probability": 0.8181154128303532
+  },
+  {
+    "start": 8.026,
+    "end": 8.506,
+    "word": "which",
+    "probability": 0.6456980024821932
+  },
+  {
+    "start": 8.506,
+    "end": 9.026,
+    "word": "wasnt",
+    "probability": 0.6657637024469024
+  },
+  {
+    "start": 9.026,
+    "end": 9.106,
+    "word": "true",
+    "probability": 0.24995369583040733
+  }
+]

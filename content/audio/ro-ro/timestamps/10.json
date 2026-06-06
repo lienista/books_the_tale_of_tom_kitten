@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.241,
+    "word": "Șiau",
+    "probability": 0.8939014259150105
+  },
+  {
+    "start": 0.241,
+    "end": 0.662,
+    "word": "întors",
+    "probability": 0.9653362591238509
+  },
+  {
+    "start": 0.662,
+    "end": 1.203,
+    "word": "rochițele",
+    "probability": 0.9249113748230114
+  },
+  {
+    "start": 1.203,
+    "end": 1.383,
+    "word": "pe",
+    "probability": 0.9427566955031437
+  },
+  {
+    "start": 1.383,
+    "end": 1.744,
+    "word": "dos",
+    "probability": 0.8473798363345918
+  },
+  {
+    "start": 1.744,
+    "end": 1.925,
+    "word": "ca",
+    "probability": 0.8964267909770788
+  },
+  {
+    "start": 1.925,
+    "end": 2.085,
+    "word": "să",
+    "probability": 0.9352642818584286
+  },
+  {
+    "start": 2.085,
+    "end": 2.245,
+    "word": "se",
+    "probability": 0.988558436929717
+  },
+  {
+    "start": 2.245,
+    "end": 2.586,
+    "word": "poată",
+    "probability": 0.9504891715365118
+  },
+  {
+    "start": 2.586,
+    "end": 2.927,
+    "word": "mișca",
+    "probability": 0.99
+  },
+  {
+    "start": 2.927,
+    "end": 3.108,
+    "word": "mai",
+    "probability": 0.9612371086602065
+  },
+  {
+    "start": 3.108,
+    "end": 3.408,
+    "word": "bine",
+    "probability": 0.99
+  },
+  {
+    "start": 3.408,
+    "end": 3.629,
+    "word": "și",
+    "probability": 0.9438124047950673
+  },
+  {
+    "start": 3.629,
+    "end": 3.749,
+    "word": "au",
+    "probability": 0.9809122736417061
+  },
+  {
+    "start": 3.749,
+    "end": 4.05,
+    "word": "sărit",
+    "probability": 0.9567816131674068
+  },
+  {
+    "start": 4.05,
+    "end": 4.451,
+    "word": "sus",
+    "probability": 0.9433331310903696
+  },
+  {
+    "start": 4.451,
+    "end": 5.574,
+    "word": "gulerul",
+    "probability": 0.9892127197323651
+  },
+  {
+    "start": 5.574,
+    "end": 5.935,
+    "word": "alb",
+    "probability": 0.9567601882798284
+  },
+  {
+    "start": 5.935,
+    "end": 6.195,
+    "word": "de",
+    "probability": 0.9411678243701167
+  },
+  {
+    "start": 6.195,
+    "end": 6.696,
+    "word": "dantelă",
+    "probability": 0.9822437672117584
+  },
+  {
+    "start": 6.696,
+    "end": 6.797,
+    "word": "al",
+    "probability": 0.5999650621033035
+  },
+  {
+    "start": 6.797,
+    "end": 6.917,
+    "word": "lui",
+    "probability": 0.8127660915617416
+  },
+  {
+    "start": 6.917,
+    "end": 7.438,
+    "word": "Moppet",
+    "probability": 0.9536042254535253
+  },
+  {
+    "start": 7.438,
+    "end": 7.819,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 7.819,
+    "end": 8.18,
+    "word": "căzut",
+    "probability": 0.9806593881011041
+  },
+  {
+    "start": 8.18,
+    "end": 8.32,
+    "word": "pe",
+    "probability": 0.981866061919589
+  },
+  {
+    "start": 8.32,
+    "end": 8.521,
+    "word": "drum",
+    "probability": 0.9767585659226597
+  }
+]

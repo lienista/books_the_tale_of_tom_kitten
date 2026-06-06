@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.201,
+    "word": "Then",
+    "probability": 0.49999413900248757
+  },
+  {
+    "start": 0.201,
+    "end": 0.421,
+    "word": "the",
+    "probability": 0.46804888026283664
+  },
+  {
+    "start": 0.421,
+    "end": 0.662,
+    "word": "two",
+    "probability": 0.6480356021306871
+  },
+  {
+    "start": 0.662,
+    "end": 1.243,
+    "word": "female",
+    "probability": 0.6745476878017655
+  },
+  {
+    "start": 1.243,
+    "end": 1.725,
+    "word": "ducks",
+    "probability": 0.6689536088628714
+  },
+  {
+    "start": 1.725,
+    "end": 2.647,
+    "word": "Rebeccah",
+    "probability": 0.754766647217321
+  },
+  {
+    "start": 2.647,
+    "end": 2.868,
+    "word": "and",
+    "probability": 0.614707726531167
+  },
+  {
+    "start": 2.868,
+    "end": 3.55,
+    "word": "Jemima",
+    "probability": 0.7590388060434022
+  },
+  {
+    "start": 3.55,
+    "end": 4.412,
+    "word": "PuddleDuck",
+    "probability": 0.6353326911271931
+  },
+  {
+    "start": 4.412,
+    "end": 5.195,
+    "word": "picked",
+    "probability": 0.8172953734096775
+  },
+  {
+    "start": 5.195,
+    "end": 5.355,
+    "word": "up",
+    "probability": 0.6260917273783516
+  },
+  {
+    "start": 5.355,
+    "end": 5.556,
+    "word": "the",
+    "probability": 0.6342952886930455
+  },
+  {
+    "start": 5.556,
+    "end": 5.836,
+    "word": "hat",
+    "probability": 0.6826246496545693
+  },
+  {
+    "start": 5.836,
+    "end": 6.037,
+    "word": "and",
+    "probability": 0.5790955219079642
+  },
+  {
+    "start": 6.037,
+    "end": 6.197,
+    "word": "the",
+    "probability": 0.38518325368053496
+  },
+  {
+    "start": 6.197,
+    "end": 6.518,
+    "word": "lace",
+    "probability": 0.5635450307316311
+  },
+  {
+    "start": 6.518,
+    "end": 6.939,
+    "word": "collar",
+    "probability": 0.6676147055382012
+  },
+  {
+    "start": 6.939,
+    "end": 7.421,
+    "word": "and",
+    "probability": 0.8653471340867785
+  },
+  {
+    "start": 7.421,
+    "end": 7.682,
+    "word": "put",
+    "probability": 0.678320807558783
+  },
+  {
+    "start": 7.682,
+    "end": 7.902,
+    "word": "them",
+    "probability": 0.5514336879699894
+  },
+  {
+    "start": 7.902,
+    "end": 7.942,
+    "word": "on",
+    "probability": 0.3326747216955804
+  }
+]

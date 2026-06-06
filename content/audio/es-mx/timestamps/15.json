@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.34,
+    "word": "Luego",
+    "probability": 0.9734105584264208
+  },
+  {
+    "start": 0.34,
+    "end": 0.58,
+    "word": "los",
+    "probability": 0.9836919232331439
+  },
+  {
+    "start": 0.58,
+    "end": 0.801,
+    "word": "dos",
+    "probability": 0.9678356931430148
+  },
+  {
+    "start": 0.801,
+    "end": 1.201,
+    "word": "patos",
+    "probability": 0.99
+  },
+  {
+    "start": 1.201,
+    "end": 1.641,
+    "word": "hembra",
+    "probability": 0.9891006180537513
+  },
+  {
+    "start": 1.641,
+    "end": 2.622,
+    "word": "Rebeccah",
+    "probability": 0.9877406112803238
+  },
+  {
+    "start": 2.622,
+    "end": 2.802,
+    "word": "y",
+    "probability": 0.8394579835159061
+  },
+  {
+    "start": 2.802,
+    "end": 3.582,
+    "word": "Jemima",
+    "probability": 0.8933835097055627
+  },
+  {
+    "start": 3.582,
+    "end": 4.523,
+    "word": "PuddleDuck",
+    "probability": 0.9038034622447608
+  },
+  {
+    "start": 4.523,
+    "end": 5.524,
+    "word": "recogieron",
+    "probability": 0.9846954029170994
+  },
+  {
+    "start": 5.524,
+    "end": 5.664,
+    "word": "el",
+    "probability": 0.99
+  },
+  {
+    "start": 5.664,
+    "end": 6.224,
+    "word": "sombrero",
+    "probability": 0.99
+  },
+  {
+    "start": 6.224,
+    "end": 6.444,
+    "word": "y",
+    "probability": 0.980131790717713
+  },
+  {
+    "start": 6.444,
+    "end": 6.625,
+    "word": "el",
+    "probability": 0.9539867220923165
+  },
+  {
+    "start": 6.625,
+    "end": 7.025,
+    "word": "cuello",
+    "probability": 0.955099332539529
+  },
+  {
+    "start": 7.025,
+    "end": 7.105,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 7.105,
+    "end": 7.645,
+    "word": "encaje",
+    "probability": 0.9758004409342645
+  },
+  {
+    "start": 7.645,
+    "end": 8.126,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 8.126,
+    "end": 8.306,
+    "word": "se",
+    "probability": 0.9716969089460348
+  },
+  {
+    "start": 8.306,
+    "end": 8.506,
+    "word": "los",
+    "probability": 0.9722785127942306
+  },
+  {
+    "start": 8.506,
+    "end": 9.026,
+    "word": "pusieron",
+    "probability": 0.99
+  }
+]

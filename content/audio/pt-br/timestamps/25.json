@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.361,
+    "word": "Quanto",
+    "probability": 0.9135066709359129
+  },
+  {
+    "start": 0.361,
+    "end": 0.561,
+    "word": "aos",
+    "probability": 0.9405869031744019
+  },
+  {
+    "start": 0.561,
+    "end": 2.485,
+    "word": "PuddleDuckseles",
+    "probability": 0.85192730120678
+  },
+  {
+    "start": 2.485,
+    "end": 2.946,
+    "word": "foram",
+    "probability": 0.99
+  },
+  {
+    "start": 2.946,
+    "end": 3.207,
+    "word": "para",
+    "probability": 0.9782358327523535
+  },
+  {
+    "start": 3.207,
+    "end": 3.367,
+    "word": "um",
+    "probability": 0.9890417172509927
+  },
+  {
+    "start": 3.367,
+    "end": 3.808,
+    "word": "lago",
+    "probability": 0.9787497521084199
+  },
+  {
+    "start": 3.808,
+    "end": 5.051,
+    "word": "As",
+    "probability": 0.99
+  },
+  {
+    "start": 5.051,
+    "end": 5.512,
+    "word": "roupas",
+    "probability": 0.9793355568187154
+  },
+  {
+    "start": 5.512,
+    "end": 6.053,
+    "word": "caíram",
+    "probability": 0.9754270812645127
+  },
+  {
+    "start": 6.053,
+    "end": 7.216,
+    "word": "imediatamente",
+    "probability": 0.9884077441559465
+  },
+  {
+    "start": 7.216,
+    "end": 7.657,
+    "word": "porque",
+    "probability": 0.9466492472797572
+  },
+  {
+    "start": 7.657,
+    "end": 7.897,
+    "word": "não",
+    "probability": 0.965042686218995
+  },
+  {
+    "start": 7.897,
+    "end": 8.318,
+    "word": "havia",
+    "probability": 0.9856501250244134
+  },
+  {
+    "start": 8.318,
+    "end": 8.939,
+    "word": "botões",
+    "probability": 0.9835103879994167
+  },
+  {
+    "start": 8.939,
+    "end": 9.2,
+    "word": "para",
+    "probability": 0.9868235431805877
+  },
+  {
+    "start": 9.2,
+    "end": 9.4,
+    "word": "as",
+    "probability": 0.747974261470035
+  },
+  {
+    "start": 9.4,
+    "end": 9.881,
+    "word": "segurar",
+    "probability": 0.9849357167567045
+  }
+]

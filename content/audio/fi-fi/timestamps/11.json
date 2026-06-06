@@ -1,0 +1,146 @@
+[
+  {
+    "start": 4.163,
+    "end": 4.263,
+    "word": "Tom",
+    "probability": 0.5999927047946099
+  },
+  {
+    "start": 4.263,
+    "end": 4.523,
+    "word": "Kitten",
+    "probability": 0.3951822975978746
+  },
+  {
+    "start": 4.523,
+    "end": 4.643,
+    "word": "ei",
+    "probability": 0.6406773639270059
+  },
+  {
+    "start": 4.643,
+    "end": 4.983,
+    "word": "voinut",
+    "probability": 0.5391053244907971
+  },
+  {
+    "start": 4.983,
+    "end": 5.323,
+    "word": "hypätä",
+    "probability": 0.5297271658312779
+  },
+  {
+    "start": 5.323,
+    "end": 6.084,
+    "word": "ollenkaan",
+    "probability": 0.7623600442256064
+  },
+  {
+    "start": 6.084,
+    "end": 6.644,
+    "word": "yrittäessään",
+    "probability": 0.42769169711178845
+  },
+  {
+    "start": 6.644,
+    "end": 6.984,
+    "word": "kävellä",
+    "probability": 0.5298659714264287
+  },
+  {
+    "start": 6.984,
+    "end": 7.505,
+    "word": "takajaloillaan",
+    "probability": 0.4560065718374716
+  },
+  {
+    "start": 7.505,
+    "end": 7.845,
+    "word": "housuissa",
+    "probability": 0.4705879129026054
+  },
+  {
+    "start": 7.845,
+    "end": 7.985,
+    "word": "Hän",
+    "probability": 0.4843975685431821
+  },
+  {
+    "start": 7.985,
+    "end": 8.345,
+    "word": "kamppaili",
+    "probability": 0.4425797966820549
+  },
+  {
+    "start": 8.345,
+    "end": 8.805,
+    "word": "ylös",
+    "probability": 0.8137605080714346
+  },
+  {
+    "start": 8.805,
+    "end": 9.206,
+    "word": "kiville",
+    "probability": 0.5499365513322209
+  },
+  {
+    "start": 9.206,
+    "end": 9.426,
+    "word": "pala",
+    "probability": 0.5996952896434065
+  },
+  {
+    "start": 9.426,
+    "end": 9.766,
+    "word": "palalta",
+    "probability": 0.555052213480814
+  },
+  {
+    "start": 9.766,
+    "end": 10.406,
+    "word": "murskaten",
+    "probability": 0.6872056946319017
+  },
+  {
+    "start": 10.406,
+    "end": 10.907,
+    "word": "saniaisia",
+    "probability": 0.6385177828314795
+  },
+  {
+    "start": 10.907,
+    "end": 10.987,
+    "word": "ja",
+    "probability": 0.24999775129409563
+  },
+  {
+    "start": 10.987,
+    "end": 11.447,
+    "word": "menettäen",
+    "probability": 0.5741154033183354
+  },
+  {
+    "start": 11.447,
+    "end": 11.807,
+    "word": "nappeja",
+    "probability": 0.6111005553392848
+  },
+  {
+    "start": 11.807,
+    "end": 12.068,
+    "word": "oikealta",
+    "probability": 0.30769205186506227
+  },
+  {
+    "start": 12.068,
+    "end": 12.128,
+    "word": "ja",
+    "probability": 0.04604723020824155
+  },
+  {
+    "start": 12.128,
+    "end": 12.608,
+    "word": "vasemmalta",
+    "probability": 0.5840150184222823
+  }
+]

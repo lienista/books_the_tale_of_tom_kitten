@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.18,
+    "word": "E",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.32,
+    "word": "o",
+    "probability": 0.813546789859896
+  },
+  {
+    "start": 0.32,
+    "end": 0.801,
+    "word": "Senhor",
+    "probability": 0.8123289282191393
+  },
+  {
+    "start": 0.801,
+    "end": 1.301,
+    "word": "Drake",
+    "probability": 0.8529005968112573
+  },
+  {
+    "start": 1.301,
+    "end": 2.182,
+    "word": "PuddleDuck",
+    "probability": 0.8079147040616909
+  },
+  {
+    "start": 2.182,
+    "end": 2.622,
+    "word": "a",
+    "probability": 0.9536293025087619
+  },
+  {
+    "start": 2.622,
+    "end": 3.403,
+    "word": "Jemima",
+    "probability": 0.9159677317949863
+  },
+  {
+    "start": 3.403,
+    "end": 3.683,
+    "word": "e",
+    "probability": 0.99
+  },
+  {
+    "start": 3.683,
+    "end": 3.843,
+    "word": "a",
+    "probability": 0.9878010310588454
+  },
+  {
+    "start": 3.843,
+    "end": 4.483,
+    "word": "Rebeccah",
+    "probability": 0.8890587624042222
+  },
+  {
+    "start": 4.483,
+    "end": 5.244,
+    "word": "têm",
+    "probability": 0.9416365537125363
+  },
+  {
+    "start": 5.244,
+    "end": 5.744,
+    "word": "andado",
+    "probability": 0.9890384519990613
+  },
+  {
+    "start": 5.744,
+    "end": 5.864,
+    "word": "à",
+    "probability": 0.9090111686701959
+  },
+  {
+    "start": 5.864,
+    "end": 6.425,
+    "word": "procura",
+    "probability": 0.9579444921391166
+  },
+  {
+    "start": 6.425,
+    "end": 6.925,
+    "word": "delas",
+    "probability": 0.9592165850561917
+  },
+  {
+    "start": 6.925,
+    "end": 7.366,
+    "word": "desde",
+    "probability": 0.97688231148726
+  },
+  {
+    "start": 7.366,
+    "end": 7.686,
+    "word": "então",
+    "probability": 0.9898911837353543
+  }
+]

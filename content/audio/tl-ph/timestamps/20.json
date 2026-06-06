@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.941,
+    "word": "Pagkatapos",
+    "probability": 0.9700879885790307
+  },
+  {
+    "start": 0.941,
+    "end": 1.081,
+    "word": "ay",
+    "probability": 0.99
+  },
+  {
+    "start": 1.081,
+    "end": 1.522,
+    "word": "bumaba",
+    "probability": 0.9759205666354432
+  },
+  {
+    "start": 1.522,
+    "end": 1.762,
+    "word": "si",
+    "probability": 0.99
+  },
+  {
+    "start": 1.762,
+    "end": 2.323,
+    "word": "Tabitha",
+    "probability": 0.9801543872477539
+  },
+  {
+    "start": 2.323,
+    "end": 2.924,
+    "word": "Twitchit",
+    "probability": 0.8633124795444314
+  },
+  {
+    "start": 2.924,
+    "end": 3.084,
+    "word": "sa",
+    "probability": 0.9115308045082556
+  },
+  {
+    "start": 3.084,
+    "end": 3.625,
+    "word": "hardin",
+    "probability": 0.9691737099231863
+  },
+  {
+    "start": 3.625,
+    "end": 4.386,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 4.386,
+    "end": 5.327,
+    "word": "natagpuan",
+    "probability": 0.9501714478723549
+  },
+  {
+    "start": 5.327,
+    "end": 5.487,
+    "word": "ang",
+    "probability": 0.8516315855590862
+  },
+  {
+    "start": 5.487,
+    "end": 5.847,
+    "word": "kanyang",
+    "probability": 0.9445380492046193
+  },
+  {
+    "start": 5.847,
+    "end": 6.068,
+    "word": "mga",
+    "probability": 0.9863881384984904
+  },
+  {
+    "start": 6.068,
+    "end": 6.608,
+    "word": "kuting",
+    "probability": 0.99
+  },
+  {
+    "start": 6.608,
+    "end": 6.809,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 6.809,
+    "end": 7.289,
+    "word": "pader",
+    "probability": 0.9878443345005888
+  },
+  {
+    "start": 7.289,
+    "end": 7.97,
+    "word": "na",
+    "probability": 0.9837367745522867
+  },
+  {
+    "start": 7.97,
+    "end": 8.351,
+    "word": "walang",
+    "probability": 0.9697797211985683
+  },
+  {
+    "start": 8.351,
+    "end": 8.731,
+    "word": "suot",
+    "probability": 0.985402563804957
+  },
+  {
+    "start": 8.731,
+    "end": 8.851,
+    "word": "na",
+    "probability": 0.9277020592113361
+  },
+  {
+    "start": 8.851,
+    "end": 9.132,
+    "word": "damit",
+    "probability": 0.9457903277305674
+  }
+]

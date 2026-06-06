@@ -1,0 +1,236 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.661,
+    "word": "Mittens",
+    "probability": 0.7844091469942702
+  },
+  {
+    "start": 0.661,
+    "end": 0.921,
+    "word": "rit",
+    "probability": 0.7508140400659491
+  },
+  {
+    "start": 0.921,
+    "end": 1.141,
+    "word": "si",
+    "probability": 0.8629716933728142
+  },
+  {
+    "start": 1.141,
+    "end": 1.622,
+    "word": "fort",
+    "probability": 0.9879019069111352
+  },
+  {
+    "start": 1.622,
+    "end": 1.982,
+    "word": "quelle",
+    "probability": 0.8852665020005419
+  },
+  {
+    "start": 1.982,
+    "end": 2.382,
+    "word": "tomba",
+    "probability": 0.9797046485342552
+  },
+  {
+    "start": 2.382,
+    "end": 2.623,
+    "word": "du",
+    "probability": 0.99
+  },
+  {
+    "start": 2.623,
+    "end": 3.003,
+    "word": "mur",
+    "probability": 0.9890419060540153
+  },
+  {
+    "start": 3.003,
+    "end": 4.785,
+    "word": "Moppet",
+    "probability": 0.9675054449017157
+  },
+  {
+    "start": 4.785,
+    "end": 4.965,
+    "word": "et",
+    "probability": 0.9171928397105302
+  },
+  {
+    "start": 4.965,
+    "end": 5.245,
+    "word": "Tom",
+    "probability": 0.9741993490273705
+  },
+  {
+    "start": 5.245,
+    "end": 6.126,
+    "word": "descendirent",
+    "probability": 0.9807834062101755
+  },
+  {
+    "start": 6.126,
+    "end": 6.566,
+    "word": "après",
+    "probability": 0.9743018796153112
+  },
+  {
+    "start": 6.566,
+    "end": 6.927,
+    "word": "elle",
+    "probability": 0.9873867650876007
+  },
+  {
+    "start": 6.927,
+    "end": 7.848,
+    "word": "les",
+    "probability": 0.9804294296597741
+  },
+  {
+    "start": 7.848,
+    "end": 8.368,
+    "word": "robes",
+    "probability": 0.99
+  },
+  {
+    "start": 8.368,
+    "end": 8.969,
+    "word": "et",
+    "probability": 0.981971390723676
+  },
+  {
+    "start": 8.969,
+    "end": 9.109,
+    "word": "le",
+    "probability": 0.9884511525079344
+  },
+  {
+    "start": 9.109,
+    "end": 9.529,
+    "word": "reste",
+    "probability": 0.99
+  },
+  {
+    "start": 9.529,
+    "end": 9.709,
+    "word": "des",
+    "probability": 0.9866426928941867
+  },
+  {
+    "start": 9.709,
+    "end": 10.29,
+    "word": "vêtements",
+    "probability": 0.978012378438939
+  },
+  {
+    "start": 10.29,
+    "end": 10.43,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 10.43,
+    "end": 10.81,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 10.81,
+    "end": 12.092,
+    "word": "tombèrent",
+    "probability": 0.9878270578654706
+  },
+  {
+    "start": 12.092,
+    "end": 12.292,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 12.292,
+    "end": 13.133,
+    "word": "descendant",
+    "probability": 0.99
+  },
+  {
+    "start": 13.133,
+    "end": 14.554,
+    "word": "M",
+    "probability": 0.9814180631893471
+  },
+  {
+    "start": 14.554,
+    "end": 15.375,
+    "word": "Drake",
+    "probability": 0.9043427951465568
+  },
+  {
+    "start": 15.375,
+    "end": 16.356,
+    "word": "PuddleDuck",
+    "probability": 0.8088242382560774
+  },
+  {
+    "start": 16.356,
+    "end": 17.237,
+    "word": "appela",
+    "probability": 0.9505095958279326
+  },
+  {
+    "start": 17.237,
+    "end": 17.857,
+    "word": "Moppet",
+    "probability": 0.9292248428293406
+  },
+  {
+    "start": 17.857,
+    "end": 18.978,
+    "word": "Viens",
+    "probability": 0.9834024095724839
+  },
+  {
+    "start": 18.978,
+    "end": 19.199,
+    "word": "nous",
+    "probability": 0.9749482365886689
+  },
+  {
+    "start": 19.199,
+    "end": 19.579,
+    "word": "aider",
+    "probability": 0.9813151088251338
+  },
+  {
+    "start": 19.579,
+    "end": 19.699,
+    "word": "à",
+    "probability": 0.9878875367055824
+  },
+  {
+    "start": 19.699,
+    "end": 20.3,
+    "word": "lhabiller",
+    "probability": 0.8801740542023581
+  },
+  {
+    "start": 20.3,
+    "end": 21.281,
+    "word": "Viens",
+    "probability": 0.9748370863938512
+  },
+  {
+    "start": 21.281,
+    "end": 21.881,
+    "word": "boutonner",
+    "probability": 0.9678871783247758
+  },
+  {
+    "start": 21.881,
+    "end": 22.141,
+    "word": "Tom",
+    "probability": 0.9731771287944153
+  }
+]

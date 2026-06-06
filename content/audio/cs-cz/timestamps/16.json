@@ -1,0 +1,224 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.561,
+    "word": "Mittens",
+    "probability": 0.8704352715110845
+  },
+  {
+    "start": 0.561,
+    "end": 0.801,
+    "word": "se",
+    "probability": 0.9313737505367942
+  },
+  {
+    "start": 0.801,
+    "end": 1.301,
+    "word": "smála",
+    "probability": 0.9323008410356276
+  },
+  {
+    "start": 1.301,
+    "end": 1.642,
+    "word": "tak",
+    "probability": 0.9580941551748218
+  },
+  {
+    "start": 1.642,
+    "end": 2.082,
+    "word": "moc",
+    "probability": 0.99
+  },
+  {
+    "start": 2.082,
+    "end": 2.383,
+    "word": "že",
+    "probability": 0.968361999124039
+  },
+  {
+    "start": 2.383,
+    "end": 2.823,
+    "word": "spadla",
+    "probability": 0.9898737978228815
+  },
+  {
+    "start": 2.823,
+    "end": 3.023,
+    "word": "ze",
+    "probability": 0.9876795194777115
+  },
+  {
+    "start": 3.023,
+    "end": 3.304,
+    "word": "zdi",
+    "probability": 0.9722313335026639
+  },
+  {
+    "start": 3.304,
+    "end": 4.305,
+    "word": "Moppet",
+    "probability": 0.9746618696310896
+  },
+  {
+    "start": 4.305,
+    "end": 4.425,
+    "word": "a",
+    "probability": 0.9367858704411458
+  },
+  {
+    "start": 4.425,
+    "end": 4.785,
+    "word": "Tom",
+    "probability": 0.9693816959289671
+  },
+  {
+    "start": 4.785,
+    "end": 5.326,
+    "word": "slezli",
+    "probability": 0.9886750543394711
+  },
+  {
+    "start": 5.326,
+    "end": 5.506,
+    "word": "za",
+    "probability": 0.9538178763128747
+  },
+  {
+    "start": 5.506,
+    "end": 5.686,
+    "word": "ní",
+    "probability": 0.9210561757335916
+  },
+  {
+    "start": 5.686,
+    "end": 6.667,
+    "word": "šaty",
+    "probability": 0.99
+  },
+  {
+    "start": 6.667,
+    "end": 6.948,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 6.948,
+    "end": 7.448,
+    "word": "zbytek",
+    "probability": 0.9638139298246706
+  },
+  {
+    "start": 7.448,
+    "end": 7.849,
+    "word": "Tomova",
+    "probability": 0.8744924226941855
+  },
+  {
+    "start": 7.849,
+    "end": 8.55,
+    "word": "oblečení",
+    "probability": 0.9704585139219235
+  },
+  {
+    "start": 8.55,
+    "end": 9.29,
+    "word": "spadly",
+    "probability": 0.9889836826863554
+  },
+  {
+    "start": 9.29,
+    "end": 9.831,
+    "word": "cestou",
+    "probability": 0.9693597392604609
+  },
+  {
+    "start": 9.831,
+    "end": 10.171,
+    "word": "dolů",
+    "probability": 0.9474686214472177
+  },
+  {
+    "start": 10.171,
+    "end": 11.253,
+    "word": "Pane",
+    "probability": 0.99
+  },
+  {
+    "start": 11.253,
+    "end": 11.793,
+    "word": "Drake",
+    "probability": 0.871851223025106
+  },
+  {
+    "start": 11.793,
+    "end": 12.474,
+    "word": "PuddleDuck",
+    "probability": 0.7443292577633475
+  },
+  {
+    "start": 12.474,
+    "end": 13.215,
+    "word": "zavolala",
+    "probability": 0.9699226264329379
+  },
+  {
+    "start": 13.215,
+    "end": 13.795,
+    "word": "Moppet",
+    "probability": 0.9542248761052482
+  },
+  {
+    "start": 13.795,
+    "end": 14.536,
+    "word": "Pojďte",
+    "probability": 0.9879678924961862
+  },
+  {
+    "start": 14.536,
+    "end": 14.857,
+    "word": "nám",
+    "probability": 0.9847400150496265
+  },
+  {
+    "start": 14.857,
+    "end": 15.317,
+    "word": "pomoci",
+    "probability": 0.9880990060328041
+  },
+  {
+    "start": 15.317,
+    "end": 15.477,
+    "word": "ho",
+    "probability": 0.9083910391658417
+  },
+  {
+    "start": 15.477,
+    "end": 16.478,
+    "word": "obléknout",
+    "probability": 0.99
+  },
+  {
+    "start": 16.478,
+    "end": 17.159,
+    "word": "Pojďte",
+    "probability": 0.986265328832841
+  },
+  {
+    "start": 17.159,
+    "end": 17.54,
+    "word": "a",
+    "probability": 0.985926693475465
+  },
+  {
+    "start": 17.54,
+    "end": 18.06,
+    "word": "zapněte",
+    "probability": 0.99
+  },
+  {
+    "start": 18.06,
+    "end": 18.36,
+    "word": "Toma",
+    "probability": 0.9742353654288363
+  }
+]

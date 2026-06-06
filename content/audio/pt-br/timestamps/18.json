@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.22,
+    "word": "Mas",
+    "probability": 0.99
+  },
+  {
+    "start": 0.22,
+    "end": 0.44,
+    "word": "ele",
+    "probability": 0.9549879805253935
+  },
+  {
+    "start": 0.44,
+    "end": 1.261,
+    "word": "vestiuos",
+    "probability": 0.9431576146342843
+  },
+  {
+    "start": 1.261,
+    "end": 2.683,
+    "word": "Ficaramlhe",
+    "probability": 0.9720256321846454
+  },
+  {
+    "start": 2.683,
+    "end": 2.963,
+    "word": "ainda",
+    "probability": 0.9371613740035075
+  },
+  {
+    "start": 2.963,
+    "end": 3.584,
+    "word": "pior",
+    "probability": 0.9573225672802465
+  },
+  {
+    "start": 3.584,
+    "end": 3.744,
+    "word": "do",
+    "probability": 0.9381626783196881
+  },
+  {
+    "start": 3.744,
+    "end": 3.944,
+    "word": "que",
+    "probability": 0.9509536908329265
+  },
+  {
+    "start": 3.944,
+    "end": 4.144,
+    "word": "ao",
+    "probability": 0.9216314314201735
+  },
+  {
+    "start": 4.144,
+    "end": 4.444,
+    "word": "Tom",
+    "probability": 0.9761384614748086
+  },
+  {
+    "start": 4.444,
+    "end": 4.965,
+    "word": "Kitten",
+    "probability": 0.8511721668323285
+  },
+  {
+    "start": 4.965,
+    "end": 6.567,
+    "word": "Está",
+    "probability": 0.9857325275618745
+  },
+  {
+    "start": 6.567,
+    "end": 6.787,
+    "word": "uma",
+    "probability": 0.9728688561752699
+  },
+  {
+    "start": 6.787,
+    "end": 7.147,
+    "word": "manhã",
+    "probability": 0.968833138124634
+  },
+  {
+    "start": 7.147,
+    "end": 7.948,
+    "word": "adorável",
+    "probability": 0.9765532004002229
+  },
+  {
+    "start": 7.948,
+    "end": 8.769,
+    "word": "disse",
+    "probability": 0.99
+  },
+  {
+    "start": 8.769,
+    "end": 8.869,
+    "word": "o",
+    "probability": 0.952835933786146
+  },
+  {
+    "start": 8.869,
+    "end": 9.329,
+    "word": "Senhor",
+    "probability": 0.9425352516859672
+  },
+  {
+    "start": 9.329,
+    "end": 9.91,
+    "word": "Drake",
+    "probability": 0.8602407511991245
+  },
+  {
+    "start": 9.91,
+    "end": 10.771,
+    "word": "PuddleDuck",
+    "probability": 0.7879925979574589
+  }
+]

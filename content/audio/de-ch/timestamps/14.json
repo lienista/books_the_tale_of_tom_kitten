@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.22,
+    "word": "Sie",
+    "probability": 0.7244073814019676
+  },
+  {
+    "start": 0.22,
+    "end": 0.74,
+    "word": "hielten",
+    "probability": 0.9068594544472326
+  },
+  {
+    "start": 0.74,
+    "end": 1.041,
+    "word": "an",
+    "probability": 0.9346442187798635
+  },
+  {
+    "start": 1.041,
+    "end": 1.461,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 1.461,
+    "end": 2.021,
+    "word": "standen",
+    "probability": 0.99
+  },
+  {
+    "start": 2.021,
+    "end": 2.181,
+    "word": "in",
+    "probability": 0.9503812937591023
+  },
+  {
+    "start": 2.181,
+    "end": 2.542,
+    "word": "einer",
+    "probability": 0.9635049903473342
+  },
+  {
+    "start": 2.542,
+    "end": 2.982,
+    "word": "Reihe",
+    "probability": 0.9574499742363115
+  },
+  {
+    "start": 2.982,
+    "end": 3.923,
+    "word": "starrten",
+    "probability": 0.99
+  },
+  {
+    "start": 3.923,
+    "end": 4.143,
+    "word": "mit",
+    "probability": 0.9746755803163935
+  },
+  {
+    "start": 4.143,
+    "end": 4.883,
+    "word": "grossen",
+    "probability": 0.9820620247427743
+  },
+  {
+    "start": 4.883,
+    "end": 5.964,
+    "word": "überraschten",
+    "probability": 0.9836172565852631
+  },
+  {
+    "start": 5.964,
+    "end": 6.424,
+    "word": "Augen",
+    "probability": 0.99
+  },
+  {
+    "start": 6.424,
+    "end": 6.624,
+    "word": "zu",
+    "probability": 0.9851354178447578
+  },
+  {
+    "start": 6.624,
+    "end": 6.845,
+    "word": "den",
+    "probability": 0.9503492710023057
+  },
+  {
+    "start": 6.845,
+    "end": 7.445,
+    "word": "Kätzchen",
+    "probability": 0.99
+  },
+  {
+    "start": 7.445,
+    "end": 7.785,
+    "word": "hinauf",
+    "probability": 0.9705050747623281
+  }
+]

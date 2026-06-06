@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.32,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 0.32,
+    "end": 0.841,
+    "word": "Kitten",
+    "probability": 0.7932870312225044
+  },
+  {
+    "start": 0.841,
+    "end": 1.642,
+    "word": "oldukça",
+    "probability": 0.99
+  },
+  {
+    "start": 1.642,
+    "end": 2.362,
+    "word": "tombuldu",
+    "probability": 0.986583397537361
+  },
+  {
+    "start": 2.362,
+    "end": 2.743,
+    "word": "ve",
+    "probability": 0.9879464537979287
+  },
+  {
+    "start": 2.743,
+    "end": 3.604,
+    "word": "büyümüştü",
+    "probability": 0.99
+  },
+  {
+    "start": 3.604,
+    "end": 4.244,
+    "word": "birkaç",
+    "probability": 0.9713590262548447
+  },
+  {
+    "start": 4.244,
+    "end": 4.725,
+    "word": "düğme",
+    "probability": 0.99
+  },
+  {
+    "start": 4.725,
+    "end": 5.205,
+    "word": "hemen",
+    "probability": 0.9803975882867423
+  },
+  {
+    "start": 5.205,
+    "end": 5.746,
+    "word": "koptu",
+    "probability": 0.9825644259623644
+  },
+  {
+    "start": 5.746,
+    "end": 6.567,
+    "word": "Annesi",
+    "probability": 0.99
+  },
+  {
+    "start": 6.567,
+    "end": 6.887,
+    "word": "iç",
+    "probability": 0.9689312670989835
+  },
+  {
+    "start": 6.887,
+    "end": 7.408,
+    "word": "çekti",
+    "probability": 0.99
+  },
+  {
+    "start": 7.408,
+    "end": 7.948,
+    "word": "ve",
+    "probability": 0.9835716082744661
+  },
+  {
+    "start": 7.948,
+    "end": 8.669,
+    "word": "onları",
+    "probability": 0.985680378527591
+  },
+  {
+    "start": 8.669,
+    "end": 9.249,
+    "word": "tekrar",
+    "probability": 0.9882415397263979
+  },
+  {
+    "start": 9.249,
+    "end": 9.63,
+    "word": "dikti",
+    "probability": 0.9718414727187373
+  }
+]

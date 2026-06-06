@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.22,
+    "word": "Als",
+    "probability": 0.7096558325989258
+  },
+  {
+    "start": 0.22,
+    "end": 0.36,
+    "word": "die",
+    "probability": 0.7256020784303671
+  },
+  {
+    "start": 0.36,
+    "end": 0.6,
+    "word": "drei",
+    "probability": 0.9552652109119393
+  },
+  {
+    "start": 0.6,
+    "end": 1.161,
+    "word": "Kätzchen",
+    "probability": 0.9866467626996523
+  },
+  {
+    "start": 1.161,
+    "end": 1.681,
+    "word": "fertig",
+    "probability": 0.9728285083702684
+  },
+  {
+    "start": 1.681,
+    "end": 2.021,
+    "word": "waren",
+    "probability": 0.99
+  },
+  {
+    "start": 2.021,
+    "end": 2.581,
+    "word": "machte",
+    "probability": 0.9876265853852083
+  },
+  {
+    "start": 2.581,
+    "end": 2.981,
+    "word": "Mrs",
+    "probability": 0.9562185373769481
+  },
+  {
+    "start": 2.981,
+    "end": 3.502,
+    "word": "Tabitha",
+    "probability": 0.9268220028814125
+  },
+  {
+    "start": 3.502,
+    "end": 3.802,
+    "word": "einen",
+    "probability": 0.9110503206949697
+  },
+  {
+    "start": 3.802,
+    "end": 4.302,
+    "word": "Fehler",
+    "probability": 0.9837981582908476
+  },
+  {
+    "start": 4.302,
+    "end": 4.842,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 4.842,
+    "end": 5.322,
+    "word": "schickte",
+    "probability": 0.9760089712218506
+  },
+  {
+    "start": 5.322,
+    "end": 5.562,
+    "word": "sie",
+    "probability": 0.9535687424022443
+  },
+  {
+    "start": 5.562,
+    "end": 5.763,
+    "word": "in",
+    "probability": 0.9353487500402331
+  },
+  {
+    "start": 5.763,
+    "end": 5.943,
+    "word": "den",
+    "probability": 0.9197909110940812
+  },
+  {
+    "start": 5.943,
+    "end": 6.443,
+    "word": "Garten",
+    "probability": 0.9740144919853515
+  },
+  {
+    "start": 6.443,
+    "end": 7.043,
+    "word": "während",
+    "probability": 0.99
+  },
+  {
+    "start": 7.043,
+    "end": 7.243,
+    "word": "sie",
+    "probability": 0.9872313948569138
+  },
+  {
+    "start": 7.243,
+    "end": 8.084,
+    "word": "heißen",
+    "probability": 0.9483210108999516
+  },
+  {
+    "start": 8.084,
+    "end": 9.024,
+    "word": "Buttertoast",
+    "probability": 0.9238920966487699
+  },
+  {
+    "start": 9.024,
+    "end": 9.484,
+    "word": "machte",
+    "probability": 0.978387764187913
+  },
+  {
+    "start": 9.484,
+    "end": 10.845,
+    "word": "Haltet",
+    "probability": 0.989371144488431
+  },
+  {
+    "start": 10.845,
+    "end": 11.085,
+    "word": "eure",
+    "probability": 0.9562490404398097
+  },
+  {
+    "start": 11.085,
+    "end": 11.645,
+    "word": "Kleidung",
+    "probability": 0.972824126282447
+  },
+  {
+    "start": 11.645,
+    "end": 12.185,
+    "word": "sauber",
+    "probability": 0.9726148425719231
+  },
+  {
+    "start": 12.185,
+    "end": 12.686,
+    "word": "Kinder",
+    "probability": 0.9578910187288631
+  },
+  {
+    "start": 12.686,
+    "end": 13.686,
+    "word": "Geht",
+    "probability": 0.99
+  },
+  {
+    "start": 13.686,
+    "end": 13.846,
+    "word": "auf",
+    "probability": 0.9379759902385687
+  },
+  {
+    "start": 13.846,
+    "end": 14.226,
+    "word": "euren",
+    "probability": 0.9324861706895078
+  },
+  {
+    "start": 14.226,
+    "end": 15.167,
+    "word": "Hinterbeinen",
+    "probability": 0.9670683936993412
+  },
+  {
+    "start": 15.167,
+    "end": 15.927,
+    "word": "Bleibt",
+    "probability": 0.9761971310025748
+  },
+  {
+    "start": 15.927,
+    "end": 16.267,
+    "word": "weg",
+    "probability": 0.98677555829599
+  },
+  {
+    "start": 16.267,
+    "end": 16.507,
+    "word": "von",
+    "probability": 0.9857205331168758
+  },
+  {
+    "start": 16.507,
+    "end": 16.647,
+    "word": "der",
+    "probability": 0.8621818677119615
+  },
+  {
+    "start": 16.647,
+    "end": 17.268,
+    "word": "schlammigen",
+    "probability": 0.9819640310619018
+  },
+  {
+    "start": 17.268,
+    "end": 18.248,
+    "word": "Aschegrube",
+    "probability": 0.9684161415637424
+  },
+  {
+    "start": 18.248,
+    "end": 19.289,
+    "word": "Sally",
+    "probability": 0.9641177552389751
+  },
+  {
+    "start": 19.289,
+    "end": 20.169,
+    "word": "HennyPenny",
+    "probability": 0.8702345576770044
+  },
+  {
+    "start": 20.169,
+    "end": 20.849,
+    "word": "dem",
+    "probability": 0.9543932032356435
+  },
+  {
+    "start": 20.849,
+    "end": 21.89,
+    "word": "Schweinestall",
+    "probability": 0.9609445177787594
+  },
+  {
+    "start": 21.89,
+    "end": 22.99,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 22.99,
+    "end": 23.29,
+    "word": "den",
+    "probability": 0.9486202315617109
+  },
+  {
+    "start": 23.29,
+    "end": 24.411,
+    "word": "PuddleDucks",
+    "probability": 0.8502827219997428
+  }
+]

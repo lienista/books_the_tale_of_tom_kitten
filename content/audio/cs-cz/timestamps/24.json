@@ -1,0 +1,200 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.42,
+    "word": "Místo",
+    "probability": 0.99
+  },
+  {
+    "start": 0.42,
+    "end": 0.74,
+    "word": "toho",
+    "probability": 0.983414880019709
+  },
+  {
+    "start": 0.74,
+    "end": 1.121,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 1.121,
+    "end": 1.241,
+    "word": "z",
+    "probability": 0.9353719210989735
+  },
+  {
+    "start": 1.241,
+    "end": 1.741,
+    "word": "horního",
+    "probability": 0.9536736526134493
+  },
+  {
+    "start": 1.741,
+    "end": 2.161,
+    "word": "patra",
+    "probability": 0.9684136065030958
+  },
+  {
+    "start": 2.161,
+    "end": 2.981,
+    "word": "ozývaly",
+    "probability": 0.9897858190459462
+  },
+  {
+    "start": 2.981,
+    "end": 3.422,
+    "word": "velmi",
+    "probability": 0.9820004657549636
+  },
+  {
+    "start": 3.422,
+    "end": 3.942,
+    "word": "podivné",
+    "probability": 0.9867852958001296
+  },
+  {
+    "start": 3.942,
+    "end": 4.462,
+    "word": "zvuky",
+    "probability": 0.99
+  },
+  {
+    "start": 4.462,
+    "end": 5.202,
+    "word": "které",
+    "probability": 0.99
+  },
+  {
+    "start": 5.202,
+    "end": 5.823,
+    "word": "zkazily",
+    "probability": 0.9615729835098049
+  },
+  {
+    "start": 5.823,
+    "end": 6.403,
+    "word": "klidnou",
+    "probability": 0.9771884834008872
+  },
+  {
+    "start": 6.403,
+    "end": 7.263,
+    "word": "atmosféru",
+    "probability": 0.9878869386984838
+  },
+  {
+    "start": 7.263,
+    "end": 8.084,
+    "word": "čajového",
+    "probability": 0.99
+  },
+  {
+    "start": 8.084,
+    "end": 8.764,
+    "word": "večírku",
+    "probability": 0.9853320622558994
+  },
+  {
+    "start": 8.764,
+    "end": 9.564,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 9.564,
+    "end": 10.225,
+    "word": "myslím",
+    "probability": 0.99
+  },
+  {
+    "start": 10.225,
+    "end": 10.725,
+    "word": "že",
+    "probability": 0.99
+  },
+  {
+    "start": 10.725,
+    "end": 11.245,
+    "word": "jednoho",
+    "probability": 0.9899678040067775
+  },
+  {
+    "start": 11.245,
+    "end": 11.505,
+    "word": "dne",
+    "probability": 0.99
+  },
+  {
+    "start": 11.505,
+    "end": 11.865,
+    "word": "budu",
+    "probability": 0.961365665138304
+  },
+  {
+    "start": 11.865,
+    "end": 12.266,
+    "word": "muset",
+    "probability": 0.9597565608547697
+  },
+  {
+    "start": 12.266,
+    "end": 12.726,
+    "word": "napsat",
+    "probability": 0.99
+  },
+  {
+    "start": 12.726,
+    "end": 13.246,
+    "word": "delší",
+    "probability": 0.99
+  },
+  {
+    "start": 13.246,
+    "end": 13.666,
+    "word": "knihu",
+    "probability": 0.99
+  },
+  {
+    "start": 13.666,
+    "end": 14.446,
+    "word": "abych",
+    "probability": 0.99
+  },
+  {
+    "start": 14.446,
+    "end": 14.767,
+    "word": "vám",
+    "probability": 0.99
+  },
+  {
+    "start": 14.767,
+    "end": 15.107,
+    "word": "řekl",
+    "probability": 0.99
+  },
+  {
+    "start": 15.107,
+    "end": 15.587,
+    "word": "více",
+    "probability": 0.9848033977267744
+  },
+  {
+    "start": 15.587,
+    "end": 15.887,
+    "word": "o",
+    "probability": 0.99
+  },
+  {
+    "start": 15.887,
+    "end": 16.347,
+    "word": "Tomovi",
+    "probability": 0.9404059852132127
+  },
+  {
+    "start": 16.347,
+    "end": 16.948,
+    "word": "Kittenovi",
+    "probability": 0.9084187605219854
+  }
+]

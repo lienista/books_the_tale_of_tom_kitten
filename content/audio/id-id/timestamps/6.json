@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.26,
+    "word": "Mrs",
+    "probability": 0.8998353024583297
+  },
+  {
+    "start": 0.26,
+    "end": 0.9,
+    "word": "Tabitha",
+    "probability": 0.9144693990919295
+  },
+  {
+    "start": 0.9,
+    "end": 2.101,
+    "word": "mendandani",
+    "probability": 0.9639598907499398
+  },
+  {
+    "start": 2.101,
+    "end": 2.661,
+    "word": "Moppet",
+    "probability": 0.9291267286259809
+  },
+  {
+    "start": 2.661,
+    "end": 2.881,
+    "word": "and",
+    "probability": 0.8279919095254488
+  },
+  {
+    "start": 2.881,
+    "end": 3.602,
+    "word": "Mittens",
+    "probability": 0.9134967274314317
+  },
+  {
+    "start": 3.602,
+    "end": 4.182,
+    "word": "dengan",
+    "probability": 0.99
+  },
+  {
+    "start": 4.182,
+    "end": 4.642,
+    "word": "gaun",
+    "probability": 0.99
+  },
+  {
+    "start": 4.642,
+    "end": 5.063,
+    "word": "kecil",
+    "probability": 0.99
+  },
+  {
+    "start": 5.063,
+    "end": 5.263,
+    "word": "yang",
+    "probability": 0.99
+  },
+  {
+    "start": 5.263,
+    "end": 5.843,
+    "word": "bersih",
+    "probability": 0.99
+  },
+  {
+    "start": 5.843,
+    "end": 6.423,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 6.423,
+    "end": 6.783,
+    "word": "kerah",
+    "probability": 0.9715932833198041
+  },
+  {
+    "start": 6.783,
+    "end": 7.124,
+    "word": "renda",
+    "probability": 0.9804369224320666
+  },
+  {
+    "start": 7.124,
+    "end": 8.664,
+    "word": "Kemudian",
+    "probability": 0.9844972210347148
+  },
+  {
+    "start": 8.664,
+    "end": 9.385,
+    "word": "dia",
+    "probability": 0.99
+  },
+  {
+    "start": 9.385,
+    "end": 10.185,
+    "word": "mengeluarkan",
+    "probability": 0.9615340141954786
+  },
+  {
+    "start": 10.185,
+    "end": 10.685,
+    "word": "beberapa",
+    "probability": 0.9547038572863853
+  },
+  {
+    "start": 10.685,
+    "end": 11.246,
+    "word": "pakaian",
+    "probability": 0.972260585491792
+  },
+  {
+    "start": 11.246,
+    "end": 11.646,
+    "word": "kaku",
+    "probability": 0.9880355606179266
+  },
+  {
+    "start": 11.646,
+    "end": 12.406,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 12.406,
+    "end": 12.927,
+    "word": "mewah",
+    "probability": 0.99
+  },
+  {
+    "start": 12.927,
+    "end": 13.547,
+    "word": "dari",
+    "probability": 0.9689241279420153
+  },
+  {
+    "start": 13.547,
+    "end": 13.987,
+    "word": "lemari",
+    "probability": 0.9430288463990927
+  },
+  {
+    "start": 13.987,
+    "end": 14.307,
+    "word": "tua",
+    "probability": 0.9780365219849851
+  },
+  {
+    "start": 14.307,
+    "end": 15.148,
+    "word": "untuk",
+    "probability": 0.9886585234126721
+  },
+  {
+    "start": 15.148,
+    "end": 15.328,
+    "word": "Tom",
+    "probability": 0.99
+  }
+]

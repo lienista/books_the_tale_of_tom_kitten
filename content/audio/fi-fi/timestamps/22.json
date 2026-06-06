@@ -1,0 +1,110 @@
+[
+  {
+    "start": 3.025,
+    "end": 3.125,
+    "word": "Hän",
+    "probability": 0.5999995951763581
+  },
+  {
+    "start": 3.125,
+    "end": 3.405,
+    "word": "lähetti",
+    "probability": 0.42603385278416356
+  },
+  {
+    "start": 3.405,
+    "end": 3.606,
+    "word": "heidät",
+    "probability": 0.39764350316763736
+  },
+  {
+    "start": 3.606,
+    "end": 4.066,
+    "word": "yläkertaan",
+    "probability": 0.5908969996997462
+  },
+  {
+    "start": 4.066,
+    "end": 4.207,
+    "word": "ja",
+    "probability": 0.6227613779394763
+  },
+  {
+    "start": 4.207,
+    "end": 4.888,
+    "word": "valitettavasti",
+    "probability": 0.55825092719151
+  },
+  {
+    "start": 4.888,
+    "end": 5.328,
+    "word": "hän",
+    "probability": 0.858215080285751
+  },
+  {
+    "start": 5.328,
+    "end": 5.509,
+    "word": "kertoi",
+    "probability": 0.11182045841402721
+  },
+  {
+    "start": 5.509,
+    "end": 5.909,
+    "word": "ystävilleen",
+    "probability": 0.4334846738452295
+  },
+  {
+    "start": 5.909,
+    "end": 6.15,
+    "word": "että",
+    "probability": 0.5998156312721455
+  },
+  {
+    "start": 6.15,
+    "end": 6.25,
+    "word": "he",
+    "probability": 0.39999935772061135
+  },
+  {
+    "start": 6.25,
+    "end": 6.47,
+    "word": "olivat",
+    "probability": 0.3636363483278109
+  },
+  {
+    "start": 6.47,
+    "end": 6.791,
+    "word": "sängyssä",
+    "probability": 0.49998390627036843
+  },
+  {
+    "start": 6.791,
+    "end": 7.351,
+    "word": "vilustuneina",
+    "probability": 0.503809783642746
+  },
+  {
+    "start": 7.351,
+    "end": 7.912,
+    "word": "mikä",
+    "probability": 0.8271652751207893
+  },
+  {
+    "start": 7.912,
+    "end": 7.992,
+    "word": "ei",
+    "probability": 0.43451458977358953
+  },
+  {
+    "start": 7.992,
+    "end": 8.193,
+    "word": "ollut",
+    "probability": 0.39999555661307024
+  },
+  {
+    "start": 8.193,
+    "end": 8.393,
+    "word": "totta",
+    "probability": 0.4991715664241315
+  }
+]

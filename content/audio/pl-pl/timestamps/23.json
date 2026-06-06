@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.261,
+    "word": "Wręcz",
+    "probability": 0.667067365627349
+  },
+  {
+    "start": 0.261,
+    "end": 0.925,
+    "word": "przeciwnie",
+    "probability": 0.9271909502610602
+  },
+  {
+    "start": 0.925,
+    "end": 1.79,
+    "word": "wcale",
+    "probability": 0.984948809668251
+  },
+  {
+    "start": 1.79,
+    "end": 1.931,
+    "word": "nie",
+    "probability": 0.99
+  },
+  {
+    "start": 1.931,
+    "end": 2.192,
+    "word": "były",
+    "probability": 0.9714665507115933
+  },
+  {
+    "start": 2.192,
+    "end": 2.293,
+    "word": "w",
+    "probability": 0.9800178485878597
+  },
+  {
+    "start": 2.293,
+    "end": 2.615,
+    "word": "łóżku",
+    "probability": 0.99
+  }
+]

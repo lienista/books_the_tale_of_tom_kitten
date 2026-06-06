@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.161,
+    "word": "Đầu",
+    "probability": 0.99
+  },
+  {
+    "start": 0.161,
+    "end": 0.483,
+    "word": "tiên",
+    "probability": 0.99
+  },
+  {
+    "start": 0.483,
+    "end": 0.966,
+    "word": "bà",
+    "probability": 0.99
+  },
+  {
+    "start": 0.966,
+    "end": 1.187,
+    "word": "kỳ",
+    "probability": 0.9369963263328721
+  },
+  {
+    "start": 1.187,
+    "end": 1.428,
+    "word": "cọ",
+    "probability": 0.9548860068222691
+  },
+  {
+    "start": 1.428,
+    "end": 1.67,
+    "word": "mặt",
+    "probability": 0.9777569381266549
+  },
+  {
+    "start": 1.67,
+    "end": 1.891,
+    "word": "cho",
+    "probability": 0.99
+  },
+  {
+    "start": 1.891,
+    "end": 2.173,
+    "word": "chúng",
+    "probability": 0.9890457814251122
+  },
+  {
+    "start": 2.173,
+    "end": 2.676,
+    "word": "đây",
+    "probability": 0.9879885802956988
+  },
+  {
+    "start": 2.676,
+    "end": 2.857,
+    "word": "là",
+    "probability": 0.9478561468399896
+  },
+  {
+    "start": 2.857,
+    "end": 3.239,
+    "word": "Moppet",
+    "probability": 0.8688826664793625
+  }
+]

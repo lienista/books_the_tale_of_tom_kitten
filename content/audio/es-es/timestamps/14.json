@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.18,
+    "word": "Se",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.882,
+    "word": "detuvieron",
+    "probability": 0.9821104759346351
+  },
+  {
+    "start": 0.882,
+    "end": 0.962,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 0.962,
+    "end": 1.142,
+    "word": "se",
+    "probability": 0.9827200947036057
+  },
+  {
+    "start": 1.142,
+    "end": 1.663,
+    "word": "quedaron",
+    "probability": 0.9798994183005098
+  },
+  {
+    "start": 1.663,
+    "end": 1.803,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 1.803,
+    "end": 2.224,
+    "word": "fila",
+    "probability": 0.99
+  },
+  {
+    "start": 2.224,
+    "end": 3.146,
+    "word": "mirando",
+    "probability": 0.9884014803660356
+  },
+  {
+    "start": 3.146,
+    "end": 3.206,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 3.206,
+    "end": 3.386,
+    "word": "los",
+    "probability": 0.9371460560381915
+  },
+  {
+    "start": 3.386,
+    "end": 4.028,
+    "word": "gatitos",
+    "probability": 0.99
+  },
+  {
+    "start": 4.028,
+    "end": 4.288,
+    "word": "con",
+    "probability": 0.9726372932840904
+  },
+  {
+    "start": 4.288,
+    "end": 4.629,
+    "word": "ojos",
+    "probability": 0.9710503109394512
+  },
+  {
+    "start": 4.629,
+    "end": 5.21,
+    "word": "grandes",
+    "probability": 0.973637859262209
+  },
+  {
+    "start": 5.21,
+    "end": 5.31,
+    "word": "y",
+    "probability": 0.99
+  },
+  {
+    "start": 5.31,
+    "end": 6.232,
+    "word": "sorprendidos",
+    "probability": 0.99
+  }
+]

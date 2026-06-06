@@ -1,0 +1,188 @@
+[
+  {
+    "start": 8.124,
+    "end": 8.377,
+    "word": "Jednom",
+    "probability": 0.1699009181047144
+  },
+  {
+    "start": 8.377,
+    "end": 8.713,
+    "word": "davno",
+    "probability": 0.24999957108441812
+  },
+  {
+    "start": 8.713,
+    "end": 9.134,
+    "word": "bila",
+    "probability": 0.4993144582433698
+  },
+  {
+    "start": 9.134,
+    "end": 9.43,
+    "word": "su",
+    "probability": 0.5081041697419638
+  },
+  {
+    "start": 9.43,
+    "end": 9.598,
+    "word": "tri",
+    "probability": 0.01
+  },
+  {
+    "start": 9.598,
+    "end": 9.85,
+    "word": "mala",
+    "probability": 0.16665840094276926
+  },
+  {
+    "start": 9.85,
+    "end": 10.145,
+    "word": "mačića",
+    "probability": 0.01
+  },
+  {
+    "start": 10.145,
+    "end": 10.271,
+    "word": "po",
+    "probability": 0.01
+  },
+  {
+    "start": 10.271,
+    "end": 10.565,
+    "word": "imenu",
+    "probability": 0.14411630377982437
+  },
+  {
+    "start": 10.565,
+    "end": 10.902,
+    "word": "Mittens",
+    "probability": 0.011237593818835483
+  },
+  {
+    "start": 10.902,
+    "end": 11.154,
+    "word": "Tom",
+    "probability": 0.3332517879328388
+  },
+  {
+    "start": 11.154,
+    "end": 11.451,
+    "word": "Kitten",
+    "probability": 0.01
+  },
+  {
+    "start": 11.451,
+    "end": 11.535,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 11.535,
+    "end": 11.871,
+    "word": "Moppet",
+    "probability": 0.12522329293374562
+  },
+  {
+    "start": 11.871,
+    "end": 12.292,
+    "word": "Imali",
+    "probability": 0.39972699284780816
+  },
+  {
+    "start": 12.292,
+    "end": 12.628,
+    "word": "su",
+    "probability": 0.6168198490066812
+  },
+  {
+    "start": 12.628,
+    "end": 13.091,
+    "word": "prekrasno",
+    "probability": 0.09090445347186994
+  },
+  {
+    "start": 13.091,
+    "end": 13.343,
+    "word": "krzno",
+    "probability": 0.01
+  },
+  {
+    "start": 13.343,
+    "end": 13.427,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 13.427,
+    "end": 13.934,
+    "word": "provodili",
+    "probability": 0.16646093400454873
+  },
+  {
+    "start": 13.934,
+    "end": 14.228,
+    "word": "su",
+    "probability": 0.5713591108531924
+  },
+  {
+    "start": 14.228,
+    "end": 14.649,
+    "word": "dane",
+    "probability": 0.49963183601746614
+  },
+  {
+    "start": 14.649,
+    "end": 15.195,
+    "word": "kotrljajući",
+    "probability": 0.07695668576858743
+  },
+  {
+    "start": 15.195,
+    "end": 15.405,
+    "word": "se",
+    "probability": 0.3999790983846566
+  },
+  {
+    "start": 15.405,
+    "end": 15.532,
+    "word": "po",
+    "probability": 0.01
+  },
+  {
+    "start": 15.532,
+    "end": 15.744,
+    "word": "trijemu",
+    "probability": 0.01
+  },
+  {
+    "start": 15.744,
+    "end": 15.786,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 15.744,
+    "end": 15.786,
+    "word": "igrajući",
+    "probability": 0.01
+  },
+  {
+    "start": 15.744,
+    "end": 15.786,
+    "word": "se",
+    "probability": 0.01
+  },
+  {
+    "start": 15.744,
+    "end": 15.786,
+    "word": "u",
+    "probability": 0.01
+  },
+  {
+    "start": 15.744,
+    "end": 15.786,
+    "word": "prljavštini",
+    "probability": 0.01
+  }
+]

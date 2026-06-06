@@ -1,0 +1,230 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.44,
+    "word": "Моппет",
+    "probability": 0.9499857103366306
+  },
+  {
+    "start": 0.44,
+    "end": 0.64,
+    "word": "и",
+    "probability": 0.9744977629250429
+  },
+  {
+    "start": 0.64,
+    "end": 1.22,
+    "word": "Миттенс",
+    "probability": 0.9173358260945136
+  },
+  {
+    "start": 1.22,
+    "end": 2.281,
+    "word": "заковыляли",
+    "probability": 0.99
+  },
+  {
+    "start": 2.281,
+    "end": 2.461,
+    "word": "по",
+    "probability": 0.99
+  },
+  {
+    "start": 2.461,
+    "end": 3.001,
+    "word": "садовой",
+    "probability": 0.99
+  },
+  {
+    "start": 3.001,
+    "end": 3.601,
+    "word": "дорожке",
+    "probability": 0.99
+  },
+  {
+    "start": 3.601,
+    "end": 4.822,
+    "word": "Вскоре",
+    "probability": 0.99
+  },
+  {
+    "start": 4.822,
+    "end": 5.062,
+    "word": "они",
+    "probability": 0.99
+  },
+  {
+    "start": 5.062,
+    "end": 5.882,
+    "word": "споткнулись",
+    "probability": 0.99
+  },
+  {
+    "start": 5.882,
+    "end": 6.022,
+    "word": "о",
+    "probability": 0.9448196367390762
+  },
+  {
+    "start": 6.022,
+    "end": 6.362,
+    "word": "свои",
+    "probability": 0.99
+  },
+  {
+    "start": 6.362,
+    "end": 6.963,
+    "word": "платья",
+    "probability": 0.989218837640514
+  },
+  {
+    "start": 6.963,
+    "end": 7.243,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 7.243,
+    "end": 7.683,
+    "word": "упали",
+    "probability": 0.9841376250759469
+  },
+  {
+    "start": 7.683,
+    "end": 8.183,
+    "word": "лицом",
+    "probability": 0.9875633025986467
+  },
+  {
+    "start": 8.183,
+    "end": 8.663,
+    "word": "вниз",
+    "probability": 0.99
+  },
+  {
+    "start": 8.663,
+    "end": 9.744,
+    "word": "Когда",
+    "probability": 0.99
+  },
+  {
+    "start": 9.744,
+    "end": 9.984,
+    "word": "они",
+    "probability": 0.99
+  },
+  {
+    "start": 9.984,
+    "end": 10.544,
+    "word": "встали",
+    "probability": 0.99
+  },
+  {
+    "start": 10.544,
+    "end": 11.184,
+    "word": "они",
+    "probability": 0.99
+  },
+  {
+    "start": 11.184,
+    "end": 11.544,
+    "word": "были",
+    "probability": 0.9816662161875088
+  },
+  {
+    "start": 11.544,
+    "end": 11.785,
+    "word": "все",
+    "probability": 0.99
+  },
+  {
+    "start": 11.785,
+    "end": 11.925,
+    "word": "в",
+    "probability": 0.938922785885754
+  },
+  {
+    "start": 11.925,
+    "end": 12.505,
+    "word": "пятнах",
+    "probability": 0.948471455816069
+  },
+  {
+    "start": 12.505,
+    "end": 12.665,
+    "word": "от",
+    "probability": 0.8415502365034842
+  },
+  {
+    "start": 12.665,
+    "end": 13.085,
+    "word": "травы",
+    "probability": 0.9809350267803904
+  },
+  {
+    "start": 13.085,
+    "end": 14.546,
+    "word": "Давайте",
+    "probability": 0.99
+  },
+  {
+    "start": 14.546,
+    "end": 15.126,
+    "word": "залезем",
+    "probability": 0.99
+  },
+  {
+    "start": 15.126,
+    "end": 15.246,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 15.246,
+    "end": 15.786,
+    "word": "камни",
+    "probability": 0.99
+  },
+  {
+    "start": 15.786,
+    "end": 16.366,
+    "word": "и",
+    "probability": 0.9793959951782656
+  },
+  {
+    "start": 16.366,
+    "end": 16.907,
+    "word": "посидим",
+    "probability": 0.979301956254214
+  },
+  {
+    "start": 16.907,
+    "end": 17.047,
+    "word": "на",
+    "probability": 0.9872500834662946
+  },
+  {
+    "start": 17.047,
+    "end": 17.627,
+    "word": "садовой",
+    "probability": 0.99
+  },
+  {
+    "start": 17.627,
+    "end": 18.067,
+    "word": "стене",
+    "probability": 0.9791209383828886
+  },
+  {
+    "start": 18.067,
+    "end": 19.327,
+    "word": "предложила",
+    "probability": 0.99
+  },
+  {
+    "start": 19.327,
+    "end": 19.688,
+    "word": "Моппет",
+    "probability": 0.9118329035671557
+  }
+]

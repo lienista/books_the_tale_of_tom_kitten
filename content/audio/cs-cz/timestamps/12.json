@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "Byl",
+    "probability": 0.99
+  },
+  {
+    "start": 0.22,
+    "end": 0.341,
+    "word": "v",
+    "probability": 0.99
+  },
+  {
+    "start": 0.341,
+    "end": 1.142,
+    "word": "nepořádku",
+    "probability": 0.9887419721795098
+  },
+  {
+    "start": 1.142,
+    "end": 1.703,
+    "word": "když",
+    "probability": 0.9820272732752061
+  },
+  {
+    "start": 1.703,
+    "end": 2.264,
+    "word": "dosáhl",
+    "probability": 0.9665480335808329
+  },
+  {
+    "start": 2.264,
+    "end": 2.805,
+    "word": "vrcholu",
+    "probability": 0.9309161608554898
+  },
+  {
+    "start": 2.805,
+    "end": 3.125,
+    "word": "zdi",
+    "probability": 0.9356959269961369
+  },
+  {
+    "start": 3.125,
+    "end": 4.428,
+    "word": "Moppet",
+    "probability": 0.9673323110137981
+  },
+  {
+    "start": 4.428,
+    "end": 4.548,
+    "word": "a",
+    "probability": 0.9343151540849984
+  },
+  {
+    "start": 4.548,
+    "end": 5.209,
+    "word": "Mittens",
+    "probability": 0.8590615258522409
+  },
+  {
+    "start": 5.209,
+    "end": 5.57,
+    "word": "se",
+    "probability": 0.9837801672038794
+  },
+  {
+    "start": 5.57,
+    "end": 6.09,
+    "word": "snažily",
+    "probability": 0.976018476249947
+  },
+  {
+    "start": 6.09,
+    "end": 6.711,
+    "word": "opravit",
+    "probability": 0.9713845441710677
+  },
+  {
+    "start": 6.711,
+    "end": 6.972,
+    "word": "jeho",
+    "probability": 0.99
+  },
+  {
+    "start": 6.972,
+    "end": 7.693,
+    "word": "oblečení",
+    "probability": 0.99
+  },
+  {
+    "start": 7.693,
+    "end": 8.314,
+    "word": "ale",
+    "probability": 0.99
+  },
+  {
+    "start": 8.314,
+    "end": 8.615,
+    "word": "jeho",
+    "probability": 0.99
+  },
+  {
+    "start": 8.615,
+    "end": 9.156,
+    "word": "klobouk",
+    "probability": 0.9899644572484223
+  },
+  {
+    "start": 9.156,
+    "end": 9.596,
+    "word": "spadl",
+    "probability": 0.99
+  },
+  {
+    "start": 9.596,
+    "end": 10.117,
+    "word": "a",
+    "probability": 0.9747686101891838
+  },
+  {
+    "start": 10.117,
+    "end": 10.458,
+    "word": "jeho",
+    "probability": 0.9553674221075722
+  },
+  {
+    "start": 10.458,
+    "end": 11.119,
+    "word": "poslední",
+    "probability": 0.99
+  },
+  {
+    "start": 11.119,
+    "end": 11.84,
+    "word": "knoflíky",
+    "probability": 0.99
+  },
+  {
+    "start": 11.84,
+    "end": 12.021,
+    "word": "se",
+    "probability": 0.9885771678970178
+  },
+  {
+    "start": 12.021,
+    "end": 12.562,
+    "word": "utrhly",
+    "probability": 0.9840287677990512
+  }
+]

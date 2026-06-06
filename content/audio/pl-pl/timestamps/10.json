@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.701,
+    "word": "Odwróciły",
+    "probability": 0.99
+  },
+  {
+    "start": 0.701,
+    "end": 1.042,
+    "word": "swoje",
+    "probability": 0.9700398449224297
+  },
+  {
+    "start": 1.042,
+    "end": 1.764,
+    "word": "sukienki",
+    "probability": 0.982792454200498
+  },
+  {
+    "start": 1.764,
+    "end": 2.305,
+    "word": "tyłem",
+    "probability": 0.99
+  },
+  {
+    "start": 2.305,
+    "end": 2.525,
+    "word": "do",
+    "probability": 0.9509572458371544
+  },
+  {
+    "start": 2.525,
+    "end": 3.046,
+    "word": "przodu",
+    "probability": 0.99
+  },
+  {
+    "start": 3.046,
+    "end": 3.568,
+    "word": "aby",
+    "probability": 0.99
+  },
+  {
+    "start": 3.568,
+    "end": 3.928,
+    "word": "mogły",
+    "probability": 0.9893873602109421
+  },
+  {
+    "start": 3.928,
+    "end": 4.129,
+    "word": "się",
+    "probability": 0.9400573390505171
+  },
+  {
+    "start": 4.129,
+    "end": 4.51,
+    "word": "lepiej",
+    "probability": 0.9315839128987486
+  },
+  {
+    "start": 4.51,
+    "end": 5.151,
+    "word": "poruszać",
+    "probability": 0.9816903024093295
+  },
+  {
+    "start": 5.151,
+    "end": 5.432,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 5.432,
+    "end": 5.913,
+    "word": "skoczyły",
+    "probability": 0.987897977829066
+  },
+  {
+    "start": 5.913,
+    "end": 6.013,
+    "word": "w",
+    "probability": 0.99
+  },
+  {
+    "start": 6.013,
+    "end": 6.434,
+    "word": "górę",
+    "probability": 0.99
+  },
+  {
+    "start": 6.434,
+    "end": 7.536,
+    "word": "biały",
+    "probability": 0.9855846725040136
+  },
+  {
+    "start": 7.536,
+    "end": 8.258,
+    "word": "koronkowy",
+    "probability": 0.9772234700542834
+  },
+  {
+    "start": 8.258,
+    "end": 8.899,
+    "word": "kołnierzyk",
+    "probability": 0.9880049696917274
+  },
+  {
+    "start": 8.899,
+    "end": 9.6,
+    "word": "Moppet",
+    "probability": 0.9648697947633587
+  },
+  {
+    "start": 9.6,
+    "end": 10.222,
+    "word": "spadł",
+    "probability": 0.99
+  },
+  {
+    "start": 10.222,
+    "end": 10.522,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 10.522,
+    "end": 10.843,
+    "word": "drogę",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.241,
+    "word": "Они",
+    "probability": 0.99
+  },
+  {
+    "start": 0.241,
+    "end": 1.184,
+    "word": "остановились",
+    "probability": 0.99
+  },
+  {
+    "start": 1.184,
+    "end": 1.284,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 1.284,
+    "end": 1.726,
+    "word": "встали",
+    "probability": 0.99
+  },
+  {
+    "start": 1.726,
+    "end": 1.846,
+    "word": "в",
+    "probability": 0.9368136399520567
+  },
+  {
+    "start": 1.846,
+    "end": 2.187,
+    "word": "ряд",
+    "probability": 0.918512899236921
+  },
+  {
+    "start": 2.187,
+    "end": 2.749,
+    "word": "глядя",
+    "probability": 0.99
+  },
+  {
+    "start": 2.749,
+    "end": 2.93,
+    "word": "на",
+    "probability": 0.960423620442664
+  },
+  {
+    "start": 2.93,
+    "end": 3.391,
+    "word": "котят",
+    "probability": 0.9601777545975948
+  },
+  {
+    "start": 3.391,
+    "end": 3.833,
+    "word": "широко",
+    "probability": 0.99
+  },
+  {
+    "start": 3.833,
+    "end": 4.595,
+    "word": "раскрытыми",
+    "probability": 0.99
+  },
+  {
+    "start": 4.595,
+    "end": 5.378,
+    "word": "удивлёнными",
+    "probability": 0.9630877770810681
+  },
+  {
+    "start": 5.378,
+    "end": 5.96,
+    "word": "глазами",
+    "probability": 0.99
+  }
+]

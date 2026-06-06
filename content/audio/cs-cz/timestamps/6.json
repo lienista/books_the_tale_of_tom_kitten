@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.3,
+    "word": "Paní",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 0.86,
+    "word": "Tabitha",
+    "probability": 0.9556814900703955
+  },
+  {
+    "start": 0.86,
+    "end": 1.581,
+    "word": "oblékla",
+    "probability": 0.99
+  },
+  {
+    "start": 1.581,
+    "end": 2.041,
+    "word": "Moppet",
+    "probability": 0.9243775598531864
+  },
+  {
+    "start": 2.041,
+    "end": 2.141,
+    "word": "a",
+    "probability": 0.9330249371232311
+  },
+  {
+    "start": 2.141,
+    "end": 2.721,
+    "word": "Mittens",
+    "probability": 0.9138312497529681
+  },
+  {
+    "start": 2.721,
+    "end": 2.901,
+    "word": "do",
+    "probability": 0.8790244841590062
+  },
+  {
+    "start": 2.901,
+    "end": 3.462,
+    "word": "čistých",
+    "probability": 0.9837577717018771
+  },
+  {
+    "start": 3.462,
+    "end": 3.862,
+    "word": "malých",
+    "probability": 0.99
+  },
+  {
+    "start": 3.862,
+    "end": 4.502,
+    "word": "šatiček",
+    "probability": 0.99
+  },
+  {
+    "start": 4.502,
+    "end": 4.642,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 4.642,
+    "end": 5.363,
+    "word": "krajkových",
+    "probability": 0.9881542389965848
+  },
+  {
+    "start": 5.363,
+    "end": 5.943,
+    "word": "límečků",
+    "probability": 0.9646528607917093
+  },
+  {
+    "start": 5.943,
+    "end": 7.103,
+    "word": "Potom",
+    "probability": 0.99
+  },
+  {
+    "start": 7.103,
+    "end": 7.664,
+    "word": "vytáhla",
+    "probability": 0.979917719384484
+  },
+  {
+    "start": 7.664,
+    "end": 7.784,
+    "word": "z",
+    "probability": 0.9483980179153324
+  },
+  {
+    "start": 7.784,
+    "end": 8.164,
+    "word": "staré",
+    "probability": 0.9135712867590948
+  },
+  {
+    "start": 8.164,
+    "end": 8.764,
+    "word": "skříně",
+    "probability": 0.99
+  },
+  {
+    "start": 8.764,
+    "end": 9.244,
+    "word": "nějaké",
+    "probability": 0.983202894170419
+  },
+  {
+    "start": 9.244,
+    "end": 9.725,
+    "word": "tuhé",
+    "probability": 0.99
+  },
+  {
+    "start": 9.725,
+    "end": 10.625,
+    "word": "elegantní",
+    "probability": 0.9872385120752039
+  },
+  {
+    "start": 10.625,
+    "end": 11.325,
+    "word": "oblečení",
+    "probability": 0.99
+  },
+  {
+    "start": 11.325,
+    "end": 11.586,
+    "word": "pro",
+    "probability": 0.99
+  },
+  {
+    "start": 11.586,
+    "end": 11.886,
+    "word": "Toma",
+    "probability": 0.9778277110497975
+  }
+]

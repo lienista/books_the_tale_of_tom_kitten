@@ -1,0 +1,248 @@
+[
+  {
+    "start": 0.083,
+    "end": 0.583,
+    "word": "Moppet",
+    "probability": 0.19389056214862913
+  },
+  {
+    "start": 0.583,
+    "end": 0.749,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 0.749,
+    "end": 1.415,
+    "word": "Mittens",
+    "probability": 0.01
+  },
+  {
+    "start": 1.415,
+    "end": 2.164,
+    "word": "teturali",
+    "probability": 0.01
+  },
+  {
+    "start": 2.164,
+    "end": 2.414,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 2.414,
+    "end": 2.751,
+    "word": "niz",
+    "probability": 0.01
+  },
+  {
+    "start": 2.751,
+    "end": 3.25,
+    "word": "vrtni",
+    "probability": 0.01
+  },
+  {
+    "start": 3.25,
+    "end": 3.583,
+    "word": "put",
+    "probability": 0.01
+  },
+  {
+    "start": 3.583,
+    "end": 4.083,
+    "word": "Ubrzo",
+    "probability": 0.01
+  },
+  {
+    "start": 4.083,
+    "end": 4.332,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 4.332,
+    "end": 4.582,
+    "word": "se",
+    "probability": 0.01
+  },
+  {
+    "start": 4.582,
+    "end": 5.498,
+    "word": "spotaknuli",
+    "probability": 0.01
+  },
+  {
+    "start": 5.498,
+    "end": 5.664,
+    "word": "o",
+    "probability": 0.01
+  },
+  {
+    "start": 5.664,
+    "end": 6.163,
+    "word": "svoje",
+    "probability": 0.01
+  },
+  {
+    "start": 6.163,
+    "end": 6.829,
+    "word": "haljine",
+    "probability": 0.01
+  },
+  {
+    "start": 6.829,
+    "end": 6.996,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 6.996,
+    "end": 7.412,
+    "word": "pali",
+    "probability": 0.01
+  },
+  {
+    "start": 7.412,
+    "end": 7.666,
+    "word": "na",
+    "probability": 0.01
+  },
+  {
+    "start": 7.666,
+    "end": 8.082,
+    "word": "lica",
+    "probability": 0.01
+  },
+  {
+    "start": 8.082,
+    "end": 8.498,
+    "word": "Kad",
+    "probability": 0.1996985660386274
+  },
+  {
+    "start": 8.498,
+    "end": 8.831,
+    "word": "su",
+    "probability": 0.24970940279417278
+  },
+  {
+    "start": 8.831,
+    "end": 9.414,
+    "word": "ustali",
+    "probability": 0.01
+  },
+  {
+    "start": 9.414,
+    "end": 9.83,
+    "word": "bili",
+    "probability": 0.01
+  },
+  {
+    "start": 9.83,
+    "end": 10.079,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 10.079,
+    "end": 11.411,
+    "word": "prekriveni",
+    "probability": 0.31150427848708184
+  },
+  {
+    "start": 11.411,
+    "end": 13.08,
+    "word": "mrljama",
+    "probability": 0.5996566730838583
+  },
+  {
+    "start": 13.08,
+    "end": 14.162,
+    "word": "od",
+    "probability": 0.7597179210807921
+  },
+  {
+    "start": 14.162,
+    "end": 15.078,
+    "word": "trave",
+    "probability": 0.45441623969436656
+  },
+  {
+    "start": 15.078,
+    "end": 17.408,
+    "word": "Hajdemo",
+    "probability": 0.714277524301884
+  },
+  {
+    "start": 17.408,
+    "end": 17.912,
+    "word": "se",
+    "probability": 0.49999018307059123
+  },
+  {
+    "start": 17.912,
+    "end": 18.661,
+    "word": "popeti",
+    "probability": 0.2500019264984781
+  },
+  {
+    "start": 18.661,
+    "end": 18.91,
+    "word": "na",
+    "probability": 0.01
+  },
+  {
+    "start": 18.91,
+    "end": 19.576,
+    "word": "stijene",
+    "probability": 0.01
+  },
+  {
+    "start": 19.576,
+    "end": 19.743,
+    "word": "i",
+    "probability": 0.01
+  },
+  {
+    "start": 19.743,
+    "end": 19.826,
+    "word": "sjesti",
+    "probability": 0.01
+  },
+  {
+    "start": 19.743,
+    "end": 19.826,
+    "word": "na",
+    "probability": 0.01
+  },
+  {
+    "start": 19.743,
+    "end": 19.826,
+    "word": "vrtni",
+    "probability": 0.01
+  },
+  {
+    "start": 19.743,
+    "end": 19.826,
+    "word": "zid",
+    "probability": 0.01
+  },
+  {
+    "start": 19.743,
+    "end": 19.826,
+    "word": "predložila",
+    "probability": 0.01
+  },
+  {
+    "start": 19.743,
+    "end": 19.826,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 19.743,
+    "end": 19.826,
+    "word": "Moppet",
+    "probability": 0.01
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.16,
+    "word": "Chú",
+    "probability": 0.99
+  },
+  {
+    "start": 0.16,
+    "end": 0.421,
+    "word": "trông",
+    "probability": 0.9166837629964403
+  },
+  {
+    "start": 0.421,
+    "end": 0.681,
+    "word": "thật",
+    "probability": 0.966801354535468
+  },
+  {
+    "start": 0.681,
+    "end": 0.922,
+    "word": "nhếch",
+    "probability": 0.7952791410037569
+  },
+  {
+    "start": 0.922,
+    "end": 1.182,
+    "word": "nhác",
+    "probability": 0.9071333423282124
+  },
+  {
+    "start": 1.182,
+    "end": 1.443,
+    "word": "khi",
+    "probability": 0.978199193314741
+  },
+  {
+    "start": 1.443,
+    "end": 1.623,
+    "word": "lên",
+    "probability": 0.9314763786774741
+  },
+  {
+    "start": 1.623,
+    "end": 1.823,
+    "word": "đến",
+    "probability": 0.9782596286389504
+  },
+  {
+    "start": 1.823,
+    "end": 2.024,
+    "word": "đỉnh",
+    "probability": 0.969311274740903
+  },
+  {
+    "start": 2.024,
+    "end": 2.204,
+    "word": "bức",
+    "probability": 0.9650182298182415
+  },
+  {
+    "start": 2.204,
+    "end": 2.544,
+    "word": "tường",
+    "probability": 0.99
+  },
+  {
+    "start": 2.544,
+    "end": 3.666,
+    "word": "Moppet",
+    "probability": 0.9138557759653951
+  },
+  {
+    "start": 3.666,
+    "end": 3.827,
+    "word": "và",
+    "probability": 0.8982509471121627
+  },
+  {
+    "start": 3.827,
+    "end": 4.287,
+    "word": "Mittens",
+    "probability": 0.8168668165441654
+  },
+  {
+    "start": 4.287,
+    "end": 4.628,
+    "word": "cố",
+    "probability": 0.9170323397554421
+  },
+  {
+    "start": 4.628,
+    "end": 4.848,
+    "word": "gắng",
+    "probability": 0.99
+  },
+  {
+    "start": 4.848,
+    "end": 5.149,
+    "word": "chỉnh",
+    "probability": 0.8383838525852069
+  },
+  {
+    "start": 5.149,
+    "end": 5.329,
+    "word": "lại",
+    "probability": 0.9476263647476872
+  },
+  {
+    "start": 5.329,
+    "end": 5.53,
+    "word": "quần",
+    "probability": 0.99
+  },
+  {
+    "start": 5.53,
+    "end": 5.75,
+    "word": "áo",
+    "probability": 0.99
+  },
+  {
+    "start": 5.75,
+    "end": 5.91,
+    "word": "cho",
+    "probability": 0.9589738971633304
+  },
+  {
+    "start": 5.91,
+    "end": 6.191,
+    "word": "chú",
+    "probability": 0.9601483819157852
+  },
+  {
+    "start": 6.191,
+    "end": 6.992,
+    "word": "nhưng",
+    "probability": 0.9872341066761308
+  },
+  {
+    "start": 6.992,
+    "end": 7.253,
+    "word": "chiếc",
+    "probability": 0.9790583717104563
+  },
+  {
+    "start": 7.253,
+    "end": 7.453,
+    "word": "mũ",
+    "probability": 0.9376024937565244
+  },
+  {
+    "start": 7.453,
+    "end": 7.673,
+    "word": "của",
+    "probability": 0.99
+  },
+  {
+    "start": 7.673,
+    "end": 7.854,
+    "word": "chú",
+    "probability": 0.99
+  },
+  {
+    "start": 7.854,
+    "end": 8.034,
+    "word": "bị",
+    "probability": 0.99
+  },
+  {
+    "start": 8.034,
+    "end": 8.295,
+    "word": "rơi",
+    "probability": 0.99
+  },
+  {
+    "start": 8.295,
+    "end": 8.615,
+    "word": "ra",
+    "probability": 0.9765022570115544
+  },
+  {
+    "start": 8.615,
+    "end": 9.316,
+    "word": "và",
+    "probability": 0.99
+  },
+  {
+    "start": 9.316,
+    "end": 9.537,
+    "word": "những",
+    "probability": 0.9838100165481486
+  },
+  {
+    "start": 9.537,
+    "end": 9.717,
+    "word": "chiếc",
+    "probability": 0.99
+  },
+  {
+    "start": 9.717,
+    "end": 9.917,
+    "word": "cúc",
+    "probability": 0.99
+  },
+  {
+    "start": 9.917,
+    "end": 10.198,
+    "word": "cuối",
+    "probability": 0.9248298344536875
+  },
+  {
+    "start": 10.198,
+    "end": 10.458,
+    "word": "cùng",
+    "probability": 0.99
+  },
+  {
+    "start": 10.458,
+    "end": 10.819,
+    "word": "cũng",
+    "probability": 0.99
+  },
+  {
+    "start": 10.819,
+    "end": 10.999,
+    "word": "đứt",
+    "probability": 0.9808392553738816
+  },
+  {
+    "start": 10.999,
+    "end": 11.24,
+    "word": "tung",
+    "probability": 0.9235450661452996
+  }
+]

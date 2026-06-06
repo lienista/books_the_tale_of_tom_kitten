@@ -1,0 +1,158 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "Fru",
+    "probability": 0.99
+  },
+  {
+    "start": 0.22,
+    "end": 0.881,
+    "word": "Tabitha",
+    "probability": 0.9257709171922767
+  },
+  {
+    "start": 0.881,
+    "end": 1.362,
+    "word": "klädde",
+    "probability": 0.9814808466489181
+  },
+  {
+    "start": 1.362,
+    "end": 1.803,
+    "word": "Moppet",
+    "probability": 0.9686337896990903
+  },
+  {
+    "start": 1.803,
+    "end": 1.963,
+    "word": "och",
+    "probability": 0.9201930894583709
+  },
+  {
+    "start": 1.963,
+    "end": 2.504,
+    "word": "Mittens",
+    "probability": 0.9789246780305151
+  },
+  {
+    "start": 2.504,
+    "end": 2.644,
+    "word": "i",
+    "probability": 0.9308067692408482
+  },
+  {
+    "start": 2.644,
+    "end": 3.205,
+    "word": "rena",
+    "probability": 0.9665808540576437
+  },
+  {
+    "start": 3.205,
+    "end": 3.505,
+    "word": "små",
+    "probability": 0.99
+  },
+  {
+    "start": 3.505,
+    "end": 4.146,
+    "word": "klänningar",
+    "probability": 0.99
+  },
+  {
+    "start": 4.146,
+    "end": 4.306,
+    "word": "och",
+    "probability": 0.9786054584581526
+  },
+  {
+    "start": 4.306,
+    "end": 5.227,
+    "word": "spetskragar",
+    "probability": 0.9836921233606603
+  },
+  {
+    "start": 5.227,
+    "end": 6.549,
+    "word": "Sedan",
+    "probability": 0.99
+  },
+  {
+    "start": 6.549,
+    "end": 6.79,
+    "word": "drog",
+    "probability": 0.9899575136149322
+  },
+  {
+    "start": 6.79,
+    "end": 6.95,
+    "word": "hon",
+    "probability": 0.9325738350805707
+  },
+  {
+    "start": 6.95,
+    "end": 7.27,
+    "word": "fram",
+    "probability": 0.95122349826762
+  },
+  {
+    "start": 7.27,
+    "end": 7.551,
+    "word": "några",
+    "probability": 0.99
+  },
+  {
+    "start": 7.551,
+    "end": 8.071,
+    "word": "styva",
+    "probability": 0.9798184013666426
+  },
+  {
+    "start": 8.071,
+    "end": 8.953,
+    "word": "fina",
+    "probability": 0.99
+  },
+  {
+    "start": 8.953,
+    "end": 9.453,
+    "word": "kläder",
+    "probability": 0.99
+  },
+  {
+    "start": 9.453,
+    "end": 9.614,
+    "word": "ur",
+    "probability": 0.9893122599117941
+  },
+  {
+    "start": 9.614,
+    "end": 9.734,
+    "word": "en",
+    "probability": 0.9831943180798162
+  },
+  {
+    "start": 9.734,
+    "end": 10.114,
+    "word": "gammal",
+    "probability": 0.9747595413920057
+  },
+  {
+    "start": 10.114,
+    "end": 10.495,
+    "word": "byrå",
+    "probability": 0.99
+  },
+  {
+    "start": 10.495,
+    "end": 10.755,
+    "word": "till",
+    "probability": 0.95665214411094
+  },
+  {
+    "start": 10.755,
+    "end": 10.975,
+    "word": "Tom",
+    "probability": 0.9574755308480681
+  }
+]

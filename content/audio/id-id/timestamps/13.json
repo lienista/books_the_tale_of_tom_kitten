@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.32,
+    "word": "Saat",
+    "probability": 0.9849362123625416
+  },
+  {
+    "start": 0.32,
+    "end": 0.661,
+    "word": "mereka",
+    "probability": 0.9792159318403613
+  },
+  {
+    "start": 0.661,
+    "end": 1.041,
+    "word": "sedang",
+    "probability": 0.99
+  },
+  {
+    "start": 1.041,
+    "end": 1.562,
+    "word": "bersusah",
+    "probability": 0.9810491689343107
+  },
+  {
+    "start": 1.562,
+    "end": 2.102,
+    "word": "payah",
+    "probability": 0.9683962068037358
+  },
+  {
+    "start": 2.102,
+    "end": 2.723,
+    "word": "mereka",
+    "probability": 0.9609017248976851
+  },
+  {
+    "start": 2.723,
+    "end": 3.283,
+    "word": "mendengar",
+    "probability": 0.973928340055702
+  },
+  {
+    "start": 3.283,
+    "end": 3.744,
+    "word": "suara",
+    "probability": 0.99
+  },
+  {
+    "start": 3.744,
+    "end": 5.426,
+    "word": "pitpatpaddlepat",
+    "probability": 0.9240724792121374
+  },
+  {
+    "start": 5.426,
+    "end": 6.527,
+    "word": "Ketiga",
+    "probability": 0.980472875693146
+  },
+  {
+    "start": 6.527,
+    "end": 7.308,
+    "word": "PuddleDucks",
+    "probability": 0.8354952979692961
+  },
+  {
+    "start": 7.308,
+    "end": 7.728,
+    "word": "datang",
+    "probability": 0.99
+  },
+  {
+    "start": 7.728,
+    "end": 8.209,
+    "word": "berbaris",
+    "probability": 0.9848948183803359
+  },
+  {
+    "start": 8.209,
+    "end": 8.349,
+    "word": "di",
+    "probability": 0.99
+  },
+  {
+    "start": 8.349,
+    "end": 8.689,
+    "word": "jalan",
+    "probability": 0.9646089767593218
+  },
+  {
+    "start": 8.689,
+    "end": 9.009,
+    "word": "dalam",
+    "probability": 0.9862915372533031
+  },
+  {
+    "start": 9.009,
+    "end": 9.45,
+    "word": "satu",
+    "probability": 0.982411644443743
+  },
+  {
+    "start": 9.45,
+    "end": 10.151,
+    "word": "barisan",
+    "probability": 0.99
+  },
+  {
+    "start": 10.151,
+    "end": 11.152,
+    "word": "melakukan",
+    "probability": 0.99
+  },
+  {
+    "start": 11.152,
+    "end": 11.572,
+    "word": "jalan",
+    "probability": 0.96939338970533
+  },
+  {
+    "start": 11.572,
+    "end": 11.992,
+    "word": "goyang",
+    "probability": 0.99
+  },
+  {
+    "start": 11.992,
+    "end": 12.373,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 12.373,
+    "end": 13.114,
+    "word": "yang",
+    "probability": 0.9854303594485003
+  },
+  {
+    "start": 13.114,
+    "end": 15.917,
+    "word": "beriramapitpatpaddlepat",
+    "probability": 0.9417585645164406
+  },
+  {
+    "start": 15.917,
+    "end": 17.498,
+    "word": "pitpatwaddlepat",
+    "probability": 0.9193573905924877
+  }
+]

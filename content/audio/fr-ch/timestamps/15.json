@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.28,
+    "word": "Puis",
+    "probability": 0.6904115645179987
+  },
+  {
+    "start": 0.28,
+    "end": 0.661,
+    "word": "les",
+    "probability": 0.8776985538869314
+  },
+  {
+    "start": 0.661,
+    "end": 0.881,
+    "word": "deux",
+    "probability": 0.9509843369043138
+  },
+  {
+    "start": 0.881,
+    "end": 1.341,
+    "word": "canes",
+    "probability": 0.9407873218519802
+  },
+  {
+    "start": 1.341,
+    "end": 2.342,
+    "word": "Rebeccah",
+    "probability": 0.9212227819607747
+  },
+  {
+    "start": 2.342,
+    "end": 3.003,
+    "word": "et",
+    "probability": 0.9561312118585702
+  },
+  {
+    "start": 3.003,
+    "end": 3.723,
+    "word": "Jemima",
+    "probability": 0.9459724005863761
+  },
+  {
+    "start": 3.723,
+    "end": 4.744,
+    "word": "PuddleDuck",
+    "probability": 0.8708012911615368
+  },
+  {
+    "start": 4.744,
+    "end": 6.126,
+    "word": "ramassèrent",
+    "probability": 0.9683953914241816
+  },
+  {
+    "start": 6.126,
+    "end": 6.266,
+    "word": "le",
+    "probability": 0.9869418016173624
+  },
+  {
+    "start": 6.266,
+    "end": 6.766,
+    "word": "chapeau",
+    "probability": 0.9618705966535046
+  },
+  {
+    "start": 6.766,
+    "end": 7.447,
+    "word": "et",
+    "probability": 0.9839051270314598
+  },
+  {
+    "start": 7.447,
+    "end": 7.567,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 7.567,
+    "end": 7.887,
+    "word": "col",
+    "probability": 0.9653844913944095
+  },
+  {
+    "start": 7.887,
+    "end": 8.028,
+    "word": "en",
+    "probability": 0.7780089572663575
+  },
+  {
+    "start": 8.028,
+    "end": 8.728,
+    "word": "dentelle",
+    "probability": 0.9493432776938415
+  },
+  {
+    "start": 8.728,
+    "end": 9.109,
+    "word": "et",
+    "probability": 0.9433373858078976
+  },
+  {
+    "start": 9.109,
+    "end": 9.289,
+    "word": "les",
+    "probability": 0.8641258182760176
+  },
+  {
+    "start": 9.289,
+    "end": 9.769,
+    "word": "mirent",
+    "probability": 0.878115681717698
+  }
+]

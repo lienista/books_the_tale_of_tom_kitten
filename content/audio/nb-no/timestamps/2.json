@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.08,
+    "word": "En",
+    "probability": 0.5301249281048613
+  },
+  {
+    "start": 0.08,
+    "end": 0.361,
+    "word": "dag",
+    "probability": 0.8190596665291666
+  },
+  {
+    "start": 0.361,
+    "end": 0.762,
+    "word": "ventet",
+    "probability": 0.810597171665081
+  },
+  {
+    "start": 0.762,
+    "end": 1.102,
+    "word": "moren",
+    "probability": 0.7966710617447874
+  },
+  {
+    "start": 1.102,
+    "end": 2.085,
+    "word": "deresfru",
+    "probability": 0.940326672494814
+  },
+  {
+    "start": 2.085,
+    "end": 2.886,
+    "word": "Tabitha",
+    "probability": 0.9117142088635191
+  },
+  {
+    "start": 2.886,
+    "end": 4.53,
+    "word": "Twitchitvenner",
+    "probability": 0.8318443474823034
+  },
+  {
+    "start": 4.53,
+    "end": 4.951,
+    "word": "til",
+    "probability": 0.9491007396974561
+  },
+  {
+    "start": 4.951,
+    "end": 5.171,
+    "word": "te",
+    "probability": 0.9277257340437963
+  },
+  {
+    "start": 5.171,
+    "end": 5.873,
+    "word": "Hun",
+    "probability": 0.9621132270441917
+  },
+  {
+    "start": 5.873,
+    "end": 6.194,
+    "word": "tok",
+    "probability": 0.9278156400648613
+  },
+  {
+    "start": 6.194,
+    "end": 6.935,
+    "word": "kattungene",
+    "probability": 0.9479494744000914
+  },
+  {
+    "start": 6.935,
+    "end": 7.176,
+    "word": "inn",
+    "probability": 0.9800687872126851
+  },
+  {
+    "start": 7.176,
+    "end": 7.597,
+    "word": "for",
+    "probability": 0.99
+  },
+  {
+    "start": 7.597,
+    "end": 7.777,
+    "word": "å",
+    "probability": 0.9666050447880988
+  },
+  {
+    "start": 7.777,
+    "end": 8.258,
+    "word": "vaske",
+    "probability": 0.9094038587862688
+  },
+  {
+    "start": 8.258,
+    "end": 8.459,
+    "word": "dem",
+    "probability": 0.9443456414011437
+  },
+  {
+    "start": 8.459,
+    "end": 8.759,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 8.759,
+    "end": 9.06,
+    "word": "kle",
+    "probability": 0.99
+  },
+  {
+    "start": 9.06,
+    "end": 9.301,
+    "word": "dem",
+    "probability": 0.8606817263522858
+  },
+  {
+    "start": 9.301,
+    "end": 9.561,
+    "word": "før",
+    "probability": 0.964821254904946
+  },
+  {
+    "start": 9.561,
+    "end": 10.263,
+    "word": "gjestene",
+    "probability": 0.9696855770589387
+  },
+  {
+    "start": 10.263,
+    "end": 10.603,
+    "word": "hennes",
+    "probability": 0.9678879860600264
+  },
+  {
+    "start": 10.603,
+    "end": 10.784,
+    "word": "kom",
+    "probability": 0.99
+  }
+]

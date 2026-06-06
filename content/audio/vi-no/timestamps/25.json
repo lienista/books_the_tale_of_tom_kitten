@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.18,
+    "word": "Còn",
+    "probability": 0.99
+  },
+  {
+    "start": 0.18,
+    "end": 0.501,
+    "word": "về",
+    "probability": 0.99
+  },
+  {
+    "start": 0.501,
+    "end": 0.802,
+    "word": "những",
+    "probability": 0.9542343760183202
+  },
+  {
+    "start": 0.802,
+    "end": 1.423,
+    "word": "PuddleDuck",
+    "probability": 0.708712730892946
+  },
+  {
+    "start": 1.423,
+    "end": 2.105,
+    "word": "họ",
+    "probability": 0.9693418096635064
+  },
+  {
+    "start": 2.105,
+    "end": 2.305,
+    "word": "đã",
+    "probability": 0.99
+  },
+  {
+    "start": 2.305,
+    "end": 2.465,
+    "word": "đi",
+    "probability": 0.9843206319115869
+  },
+  {
+    "start": 2.465,
+    "end": 2.786,
+    "word": "xuống",
+    "probability": 0.99
+  },
+  {
+    "start": 2.786,
+    "end": 3.007,
+    "word": "một",
+    "probability": 0.99
+  },
+  {
+    "start": 3.007,
+    "end": 3.227,
+    "word": "cái",
+    "probability": 0.99
+  },
+  {
+    "start": 3.227,
+    "end": 3.548,
+    "word": "ao",
+    "probability": 0.9839206794798616
+  },
+  {
+    "start": 3.548,
+    "end": 4.33,
+    "word": "Quần",
+    "probability": 0.9815325579761603
+  },
+  {
+    "start": 4.33,
+    "end": 4.59,
+    "word": "áo",
+    "probability": 0.99
+  },
+  {
+    "start": 4.59,
+    "end": 4.871,
+    "word": "rơi",
+    "probability": 0.9821557358927056
+  },
+  {
+    "start": 4.871,
+    "end": 5.091,
+    "word": "ra",
+    "probability": 0.980591462417161
+  },
+  {
+    "start": 5.091,
+    "end": 5.312,
+    "word": "ngay",
+    "probability": 0.9645664699002882
+  },
+  {
+    "start": 5.312,
+    "end": 5.492,
+    "word": "lập",
+    "probability": 0.9898853513001783
+  },
+  {
+    "start": 5.492,
+    "end": 5.733,
+    "word": "tức",
+    "probability": 0.9595703831163512
+  },
+  {
+    "start": 5.733,
+    "end": 6.214,
+    "word": "vì",
+    "probability": 0.9828452003799834
+  },
+  {
+    "start": 6.214,
+    "end": 6.454,
+    "word": "không",
+    "probability": 0.99
+  },
+  {
+    "start": 6.454,
+    "end": 6.695,
+    "word": "còn",
+    "probability": 0.99
+  },
+  {
+    "start": 6.695,
+    "end": 6.935,
+    "word": "chiếc",
+    "probability": 0.7657637348690415
+  },
+  {
+    "start": 6.935,
+    "end": 7.096,
+    "word": "cúc",
+    "probability": 0.9804557745685903
+  },
+  {
+    "start": 7.096,
+    "end": 7.416,
+    "word": "nào",
+    "probability": 0.99
+  },
+  {
+    "start": 7.416,
+    "end": 7.617,
+    "word": "để",
+    "probability": 0.9709306194798311
+  },
+  {
+    "start": 7.617,
+    "end": 7.817,
+    "word": "giữ",
+    "probability": 0.9797418328253233
+  },
+  {
+    "start": 7.817,
+    "end": 8.098,
+    "word": "chúng",
+    "probability": 0.92415844813241
+  },
+  {
+    "start": 8.098,
+    "end": 8.338,
+    "word": "lại",
+    "probability": 0.99
+  },
+  {
+    "start": 8.338,
+    "end": 8.559,
+    "word": "với",
+    "probability": 0.99
+  },
+  {
+    "start": 8.559,
+    "end": 8.799,
+    "word": "nhau",
+    "probability": 0.9605827368512987
+  }
+]

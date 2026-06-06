@@ -1,0 +1,146 @@
+[
+  {
+    "start": 6.973,
+    "end": 7.173,
+    "word": "Poslala",
+    "probability": 0.3999944749002111
+  },
+  {
+    "start": 7.173,
+    "end": 7.414,
+    "word": "ih",
+    "probability": 0.7500395096190009
+  },
+  {
+    "start": 7.414,
+    "end": 7.594,
+    "word": "je",
+    "probability": 0.6666708908853006
+  },
+  {
+    "start": 7.594,
+    "end": 7.774,
+    "word": "gore",
+    "probability": 0.444415977899955
+  },
+  {
+    "start": 7.774,
+    "end": 7.894,
+    "word": "i",
+    "probability": 0.6660798746432732
+  },
+  {
+    "start": 7.894,
+    "end": 8.015,
+    "word": "žao",
+    "probability": 0.19995749493444204
+  },
+  {
+    "start": 8.015,
+    "end": 8.195,
+    "word": "mi",
+    "probability": 0.6987853728439609
+  },
+  {
+    "start": 8.195,
+    "end": 8.295,
+    "word": "je",
+    "probability": 0.39972010667591074
+  },
+  {
+    "start": 8.295,
+    "end": 8.576,
+    "word": "reći",
+    "probability": 0.6428612492104822
+  },
+  {
+    "start": 8.576,
+    "end": 8.776,
+    "word": "da",
+    "probability": 0.6991777339551417
+  },
+  {
+    "start": 8.776,
+    "end": 8.836,
+    "word": "je",
+    "probability": 0.01
+  },
+  {
+    "start": 8.836,
+    "end": 8.956,
+    "word": "rekla",
+    "probability": 0.01
+  },
+  {
+    "start": 8.956,
+    "end": 9.117,
+    "word": "svojim",
+    "probability": 0.11112657236919724
+  },
+  {
+    "start": 9.117,
+    "end": 9.377,
+    "word": "prijateljima",
+    "probability": 0.01
+  },
+  {
+    "start": 9.377,
+    "end": 9.437,
+    "word": "da",
+    "probability": 0.01
+  },
+  {
+    "start": 9.437,
+    "end": 9.497,
+    "word": "su",
+    "probability": 0.01
+  },
+  {
+    "start": 9.497,
+    "end": 9.537,
+    "word": "u",
+    "probability": 0.01
+  },
+  {
+    "start": 9.537,
+    "end": 9.698,
+    "word": "krevetu",
+    "probability": 0.01
+  },
+  {
+    "start": 9.698,
+    "end": 9.738,
+    "word": "s",
+    "probability": 0.01
+  },
+  {
+    "start": 9.738,
+    "end": 9.878,
+    "word": "prehladom",
+    "probability": 0.01
+  },
+  {
+    "start": 9.878,
+    "end": 9.898,
+    "word": "što",
+    "probability": 0.01
+  },
+  {
+    "start": 9.878,
+    "end": 9.898,
+    "word": "nije",
+    "probability": 0.01
+  },
+  {
+    "start": 9.878,
+    "end": 9.898,
+    "word": "bila",
+    "probability": 0.01
+  },
+  {
+    "start": 9.878,
+    "end": 9.898,
+    "word": "istina",
+    "probability": 0.01
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "start": 1.637,
+    "end": 2.021,
+    "word": "Mittens",
+    "probability": 0.5939174464523238
+  },
+  {
+    "start": 2.021,
+    "end": 2.251,
+    "word": "olyan",
+    "probability": 0.4424555223470498
+  },
+  {
+    "start": 2.251,
+    "end": 2.839,
+    "word": "hangosan",
+    "probability": 0.5804196577103423
+  },
+  {
+    "start": 2.839,
+    "end": 3.556,
+    "word": "nevetett",
+    "probability": 0.6708038017150296
+  },
+  {
+    "start": 3.556,
+    "end": 4.656,
+    "word": "hogy",
+    "probability": 0.8582042776275897
+  },
+  {
+    "start": 4.656,
+    "end": 5.218,
+    "word": "leesett",
+    "probability": 0.5460174837409105
+  },
+  {
+    "start": 5.218,
+    "end": 5.422,
+    "word": "a",
+    "probability": 0.8674226664813582
+  },
+  {
+    "start": 5.422,
+    "end": 6.139,
+    "word": "falról",
+    "probability": 0.7744014772282197
+  },
+  {
+    "start": 6.139,
+    "end": 7.775,
+    "word": "Moppet",
+    "probability": 0.8882935147811577
+  },
+  {
+    "start": 7.775,
+    "end": 8.185,
+    "word": "és",
+    "probability": 0.6392511636594773
+  },
+  {
+    "start": 8.185,
+    "end": 8.492,
+    "word": "Tom",
+    "probability": 0.6656153969435543
+  },
+  {
+    "start": 8.492,
+    "end": 8.952,
+    "word": "utána",
+    "probability": 0.6553839540345469
+  },
+  {
+    "start": 8.952,
+    "end": 9.771,
+    "word": "másztak",
+    "probability": 0.7300861993530652
+  },
+  {
+    "start": 9.771,
+    "end": 10.001,
+    "word": "le",
+    "probability": 0.7246264756427157
+  },
+  {
+    "start": 10.001,
+    "end": 10.18,
+    "word": "a",
+    "probability": 0.8528288882721204
+  },
+  {
+    "start": 10.18,
+    "end": 11.586,
+    "word": "ruhák",
+    "probability": 0.9076100061489626
+  },
+  {
+    "start": 11.586,
+    "end": 11.92,
+    "word": "és",
+    "probability": 0.7692276808317323
+  },
+  {
+    "start": 11.92,
+    "end": 12.354,
+    "word": "Tom",
+    "probability": 0.8198976449259752
+  },
+  {
+    "start": 12.354,
+    "end": 12.712,
+    "word": "többi",
+    "probability": 0.6406527346764628
+  },
+  {
+    "start": 12.712,
+    "end": 13.071,
+    "word": "ruhája",
+    "probability": 0.5668938275853351
+  },
+  {
+    "start": 13.071,
+    "end": 13.275,
+    "word": "is",
+    "probability": 0.7024709151283683
+  },
+  {
+    "start": 13.275,
+    "end": 13.786,
+    "word": "leesett",
+    "probability": 0.5712707567165258
+  },
+  {
+    "start": 13.786,
+    "end": 14.452,
+    "word": "útközben",
+    "probability": 0.6920662172638353
+  },
+  {
+    "start": 14.452,
+    "end": 14.554,
+    "word": "Mr",
+    "probability": 0.23881060469671092
+  },
+  {
+    "start": 14.554,
+    "end": 14.835,
+    "word": "Drake",
+    "probability": 0.4055281610792298
+  },
+  {
+    "start": 14.835,
+    "end": 15.705,
+    "word": "PuddleDuck",
+    "probability": 0.704031001538096
+  },
+  {
+    "start": 15.705,
+    "end": 17.112,
+    "word": "kiáltotta",
+    "probability": 0.8141594731566664
+  },
+  {
+    "start": 17.112,
+    "end": 17.393,
+    "word": "Moppet",
+    "probability": 0.3564719977846386
+  },
+  {
+    "start": 17.393,
+    "end": 17.904,
+    "word": "Gyere",
+    "probability": 0.6475063759440737
+  },
+  {
+    "start": 17.904,
+    "end": 18.161,
+    "word": "és",
+    "probability": 0.7728327037277202
+  },
+  {
+    "start": 18.161,
+    "end": 19.03,
+    "word": "segíts",
+    "probability": 0.7936253528613781
+  },
+  {
+    "start": 19.03,
+    "end": 20.436,
+    "word": "felöltöztetni",
+    "probability": 0.7559258328882085
+  },
+  {
+    "start": 20.436,
+    "end": 20.667,
+    "word": "őt",
+    "probability": 0.759135324721247
+  },
+  {
+    "start": 20.667,
+    "end": 21.204,
+    "word": "Gyere",
+    "probability": 0.7138104298035451
+  },
+  {
+    "start": 21.204,
+    "end": 21.306,
+    "word": "és",
+    "probability": 0.49610304112295617
+  },
+  {
+    "start": 21.306,
+    "end": 23.072,
+    "word": "gombold",
+    "probability": 0.8815333467398723
+  },
+  {
+    "start": 23.072,
+    "end": 23.43,
+    "word": "be",
+    "probability": 0.825499756542923
+  },
+  {
+    "start": 23.43,
+    "end": 23.634,
+    "word": "Tomot",
+    "probability": 0.3481247050043249
+  }
+]

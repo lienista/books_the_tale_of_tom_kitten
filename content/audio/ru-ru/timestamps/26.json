@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.12,
+    "word": "И",
+    "probability": 0.99
+  },
+  {
+    "start": 0.12,
+    "end": 0.561,
+    "word": "мистер",
+    "probability": 0.99
+  },
+  {
+    "start": 0.561,
+    "end": 0.921,
+    "word": "Дрейк",
+    "probability": 0.99
+  },
+  {
+    "start": 0.921,
+    "end": 1.722,
+    "word": "ПаддлДак",
+    "probability": 0.9199666653107451
+  },
+  {
+    "start": 1.722,
+    "end": 2.543,
+    "word": "Джемайма",
+    "probability": 0.9661939157921123
+  },
+  {
+    "start": 2.543,
+    "end": 2.803,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 2.803,
+    "end": 3.343,
+    "word": "Ребекка",
+    "probability": 0.9483152185661324
+  },
+  {
+    "start": 3.343,
+    "end": 3.744,
+    "word": "ищут",
+    "probability": 0.9833319089784526
+  },
+  {
+    "start": 3.744,
+    "end": 3.944,
+    "word": "их",
+    "probability": 0.8003149136075972
+  },
+  {
+    "start": 3.944,
+    "end": 4.104,
+    "word": "с",
+    "probability": 0.9493761259841894
+  },
+  {
+    "start": 4.104,
+    "end": 4.404,
+    "word": "тех",
+    "probability": 0.99
+  },
+  {
+    "start": 4.404,
+    "end": 4.845,
+    "word": "самых",
+    "probability": 0.99
+  },
+  {
+    "start": 4.845,
+    "end": 4.985,
+    "word": "пор",
+    "probability": 0.9544332434011195
+  }
+]

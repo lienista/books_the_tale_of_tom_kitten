@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.241,
+    "word": "Toen",
+    "probability": 0.6397848424222007
+  },
+  {
+    "start": 0.241,
+    "end": 0.661,
+    "word": "pakten",
+    "probability": 0.8732638787422881
+  },
+  {
+    "start": 0.661,
+    "end": 0.782,
+    "word": "de",
+    "probability": 0.8162653483765904
+  },
+  {
+    "start": 0.782,
+    "end": 1.122,
+    "word": "twee",
+    "probability": 0.9542069539778921
+  },
+  {
+    "start": 1.122,
+    "end": 1.844,
+    "word": "vrouwelijke",
+    "probability": 0.9792367377305133
+  },
+  {
+    "start": 1.844,
+    "end": 2.305,
+    "word": "eenden",
+    "probability": 0.9610264593224008
+  },
+  {
+    "start": 2.305,
+    "end": 3.608,
+    "word": "Rebeccah",
+    "probability": 0.9876017046922227
+  },
+  {
+    "start": 3.608,
+    "end": 3.849,
+    "word": "en",
+    "probability": 0.8864545443498112
+  },
+  {
+    "start": 3.849,
+    "end": 4.39,
+    "word": "Jemima",
+    "probability": 0.9385657449941339
+  },
+  {
+    "start": 4.39,
+    "end": 5.111,
+    "word": "PuddleDuck",
+    "probability": 0.8641085824448962
+  },
+  {
+    "start": 5.111,
+    "end": 5.993,
+    "word": "de",
+    "probability": 0.9781198251592004
+  },
+  {
+    "start": 5.993,
+    "end": 6.294,
+    "word": "hoed",
+    "probability": 0.9237963756579746
+  },
+  {
+    "start": 6.294,
+    "end": 6.555,
+    "word": "en",
+    "probability": 0.9758884533452084
+  },
+  {
+    "start": 6.555,
+    "end": 6.655,
+    "word": "de",
+    "probability": 0.9632610455178685
+  },
+  {
+    "start": 6.655,
+    "end": 7.116,
+    "word": "kanten",
+    "probability": 0.9287896282112965
+  },
+  {
+    "start": 7.116,
+    "end": 7.497,
+    "word": "kraag",
+    "probability": 0.9413858855733291
+  },
+  {
+    "start": 7.497,
+    "end": 7.737,
+    "word": "op",
+    "probability": 0.9732309503839783
+  },
+  {
+    "start": 7.737,
+    "end": 8.118,
+    "word": "en",
+    "probability": 0.9495167878031279
+  },
+  {
+    "start": 8.118,
+    "end": 8.499,
+    "word": "zetten",
+    "probability": 0.9769389004031476
+  },
+  {
+    "start": 8.499,
+    "end": 8.639,
+    "word": "ze",
+    "probability": 0.8847807628081956
+  },
+  {
+    "start": 8.639,
+    "end": 8.8,
+    "word": "op",
+    "probability": 0.9715407019681506
+  }
+]

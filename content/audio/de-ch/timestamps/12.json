@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.22,
+    "word": "Er",
+    "probability": 0.7963932059175172
+  },
+  {
+    "start": 0.22,
+    "end": 0.481,
+    "word": "war",
+    "probability": 0.7386282354402449
+  },
+  {
+    "start": 0.481,
+    "end": 0.661,
+    "word": "ein",
+    "probability": 0.7043002084004069
+  },
+  {
+    "start": 0.661,
+    "end": 1.262,
+    "word": "Chaos",
+    "probability": 0.8216641965302149
+  },
+  {
+    "start": 1.262,
+    "end": 1.903,
+    "word": "als",
+    "probability": 0.953453183477835
+  },
+  {
+    "start": 1.903,
+    "end": 2.083,
+    "word": "er",
+    "probability": 0.9411690861744295
+  },
+  {
+    "start": 2.083,
+    "end": 2.244,
+    "word": "die",
+    "probability": 0.9664248110976624
+  },
+  {
+    "start": 2.244,
+    "end": 2.785,
+    "word": "Spitze",
+    "probability": 0.9790091755101409
+  },
+  {
+    "start": 2.785,
+    "end": 3.005,
+    "word": "der",
+    "probability": 0.984488846230812
+  },
+  {
+    "start": 3.005,
+    "end": 3.446,
+    "word": "Mauer",
+    "probability": 0.971045841675042
+  },
+  {
+    "start": 3.446,
+    "end": 4.107,
+    "word": "erreichte",
+    "probability": 0.99
+  },
+  {
+    "start": 4.107,
+    "end": 5.549,
+    "word": "Moppet",
+    "probability": 0.9662389466071973
+  },
+  {
+    "start": 5.549,
+    "end": 5.709,
+    "word": "und",
+    "probability": 0.9228580433109569
+  },
+  {
+    "start": 5.709,
+    "end": 6.33,
+    "word": "Mittens",
+    "probability": 0.9380217679497694
+  },
+  {
+    "start": 6.33,
+    "end": 7.032,
+    "word": "versuchten",
+    "probability": 0.9505798448691392
+  },
+  {
+    "start": 7.032,
+    "end": 7.332,
+    "word": "seine",
+    "probability": 0.9899016271952096
+  },
+  {
+    "start": 7.332,
+    "end": 7.933,
+    "word": "Kleidung",
+    "probability": 0.99
+  },
+  {
+    "start": 7.933,
+    "end": 8.093,
+    "word": "zu",
+    "probability": 0.9832227880885651
+  },
+  {
+    "start": 8.093,
+    "end": 8.814,
+    "word": "reparieren",
+    "probability": 0.988205589224846
+  },
+  {
+    "start": 8.814,
+    "end": 9.536,
+    "word": "aber",
+    "probability": 0.99
+  },
+  {
+    "start": 9.536,
+    "end": 9.796,
+    "word": "sein",
+    "probability": 0.9599666877317603
+  },
+  {
+    "start": 9.796,
+    "end": 10.177,
+    "word": "Hut",
+    "probability": 0.9884261000296197
+  },
+  {
+    "start": 10.177,
+    "end": 10.537,
+    "word": "fiel",
+    "probability": 0.9849989231695351
+  },
+  {
+    "start": 10.537,
+    "end": 10.898,
+    "word": "ab",
+    "probability": 0.99
+  },
+  {
+    "start": 10.898,
+    "end": 11.619,
+    "word": "und",
+    "probability": 0.9889740348803586
+  },
+  {
+    "start": 11.619,
+    "end": 11.9,
+    "word": "seine",
+    "probability": 0.9851070607599921
+  },
+  {
+    "start": 11.9,
+    "end": 12.44,
+    "word": "letzten",
+    "probability": 0.9648359626480003
+  },
+  {
+    "start": 12.44,
+    "end": 13.001,
+    "word": "Knöpfe",
+    "probability": 0.99
+  },
+  {
+    "start": 13.001,
+    "end": 13.582,
+    "word": "sprangen",
+    "probability": 0.9883748360805309
+  },
+  {
+    "start": 13.582,
+    "end": 13.703,
+    "word": "ab",
+    "probability": 0.9651715934720704
+  }
+]

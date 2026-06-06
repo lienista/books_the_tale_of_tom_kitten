@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.24,
+    "word": "Tom",
+    "probability": 0.8105706783334333
+  },
+  {
+    "start": 0.24,
+    "end": 0.661,
+    "word": "Kitten",
+    "probability": 0.8235606590152681
+  },
+  {
+    "start": 0.661,
+    "end": 0.841,
+    "word": "kon",
+    "probability": 0.834540910766491
+  },
+  {
+    "start": 0.841,
+    "end": 1.481,
+    "word": "helemaal",
+    "probability": 0.9743581390767653
+  },
+  {
+    "start": 1.481,
+    "end": 1.662,
+    "word": "niet",
+    "probability": 0.9101009530219465
+  },
+  {
+    "start": 1.662,
+    "end": 2.162,
+    "word": "springen",
+    "probability": 0.9622196953397116
+  },
+  {
+    "start": 2.162,
+    "end": 3.123,
+    "word": "terwijl",
+    "probability": 0.9758437823112113
+  },
+  {
+    "start": 3.123,
+    "end": 3.303,
+    "word": "hij",
+    "probability": 0.9061801877360447
+  },
+  {
+    "start": 3.303,
+    "end": 3.844,
+    "word": "probeerde",
+    "probability": 0.9562437382641017
+  },
+  {
+    "start": 3.844,
+    "end": 4.044,
+    "word": "op",
+    "probability": 0.9069807090042715
+  },
+  {
+    "start": 4.044,
+    "end": 4.244,
+    "word": "zijn",
+    "probability": 0.938816553291683
+  },
+  {
+    "start": 4.244,
+    "end": 5.125,
+    "word": "achterpoten",
+    "probability": 0.9675176973583496
+  },
+  {
+    "start": 5.125,
+    "end": 5.405,
+    "word": "in",
+    "probability": 0.9769711292918132
+  },
+  {
+    "start": 5.405,
+    "end": 5.565,
+    "word": "een",
+    "probability": 0.9224499751170132
+  },
+  {
+    "start": 5.565,
+    "end": 5.846,
+    "word": "broek",
+    "probability": 0.9767430490585483
+  },
+  {
+    "start": 5.846,
+    "end": 5.986,
+    "word": "te",
+    "probability": 0.9737263062694347
+  },
+  {
+    "start": 5.986,
+    "end": 6.406,
+    "word": "lopen",
+    "probability": 0.97518614320963
+  },
+  {
+    "start": 6.406,
+    "end": 7.767,
+    "word": "Hij",
+    "probability": 0.9864059268789888
+  },
+  {
+    "start": 7.767,
+    "end": 8.448,
+    "word": "worstelde",
+    "probability": 0.9786862768819802
+  },
+  {
+    "start": 8.448,
+    "end": 8.949,
+    "word": "stukje",
+    "probability": 0.9676753913744532
+  },
+  {
+    "start": 8.949,
+    "end": 9.129,
+    "word": "bij",
+    "probability": 0.9188724661012346
+  },
+  {
+    "start": 9.129,
+    "end": 9.469,
+    "word": "beetje",
+    "probability": 0.9421252238698656
+  },
+  {
+    "start": 9.469,
+    "end": 9.609,
+    "word": "de",
+    "probability": 0.9421289558454676
+  },
+  {
+    "start": 9.609,
+    "end": 10.07,
+    "word": "rotsen",
+    "probability": 0.9822474532965585
+  },
+  {
+    "start": 10.07,
+    "end": 10.37,
+    "word": "op",
+    "probability": 0.980685668791569
+  },
+  {
+    "start": 10.37,
+    "end": 11.871,
+    "word": "verpletterde",
+    "probability": 0.9767082748253716
+  },
+  {
+    "start": 11.871,
+    "end": 12.052,
+    "word": "de",
+    "probability": 0.9583056502665472
+  },
+  {
+    "start": 12.052,
+    "end": 12.692,
+    "word": "varens",
+    "probability": 0.9700612103450197
+  },
+  {
+    "start": 12.692,
+    "end": 13.453,
+    "word": "en",
+    "probability": 0.9873833461076705
+  },
+  {
+    "start": 13.453,
+    "end": 13.893,
+    "word": "verloor",
+    "probability": 0.9790158199591108
+  },
+  {
+    "start": 13.893,
+    "end": 14.514,
+    "word": "knopen",
+    "probability": 0.9832882260732263
+  },
+  {
+    "start": 14.514,
+    "end": 14.914,
+    "word": "links",
+    "probability": 0.9685763364078307
+  },
+  {
+    "start": 14.914,
+    "end": 15.075,
+    "word": "en",
+    "probability": 0.946115600424303
+  },
+  {
+    "start": 15.075,
+    "end": 15.435,
+    "word": "rechts",
+    "probability": 0.9571417988271383
+  }
+]

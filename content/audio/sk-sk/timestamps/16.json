@@ -1,0 +1,224 @@
+[
+  {
+    "start": 0.881,
+    "end": 1.401,
+    "word": "Mittens",
+    "probability": 0.8871417465941924
+  },
+  {
+    "start": 1.401,
+    "end": 1.802,
+    "word": "sa",
+    "probability": 0.99
+  },
+  {
+    "start": 1.802,
+    "end": 2.162,
+    "word": "tak",
+    "probability": 0.99
+  },
+  {
+    "start": 2.162,
+    "end": 2.783,
+    "word": "smiala",
+    "probability": 0.8351735566140295
+  },
+  {
+    "start": 2.783,
+    "end": 3.644,
+    "word": "že",
+    "probability": 0.99
+  },
+  {
+    "start": 3.644,
+    "end": 4.164,
+    "word": "spadla",
+    "probability": 0.99
+  },
+  {
+    "start": 4.164,
+    "end": 4.264,
+    "word": "z",
+    "probability": 0.99
+  },
+  {
+    "start": 4.264,
+    "end": 4.685,
+    "word": "múru",
+    "probability": 0.9431021307493797
+  },
+  {
+    "start": 4.685,
+    "end": 5.906,
+    "word": "Moppet",
+    "probability": 0.9673018790619012
+  },
+  {
+    "start": 5.906,
+    "end": 5.966,
+    "word": "a",
+    "probability": 0.6453377576264993
+  },
+  {
+    "start": 5.966,
+    "end": 6.347,
+    "word": "Tom",
+    "probability": 0.9715598414801301
+  },
+  {
+    "start": 6.347,
+    "end": 7.127,
+    "word": "zliezli",
+    "probability": 0.8551687016290913
+  },
+  {
+    "start": 7.127,
+    "end": 7.348,
+    "word": "za",
+    "probability": 0.9149667200955789
+  },
+  {
+    "start": 7.348,
+    "end": 7.688,
+    "word": "ňou",
+    "probability": 0.8784007541661304
+  },
+  {
+    "start": 7.688,
+    "end": 8.629,
+    "word": "šaty",
+    "probability": 0.9097517600562778
+  },
+  {
+    "start": 8.629,
+    "end": 8.729,
+    "word": "a",
+    "probability": 0.9648962435173246
+  },
+  {
+    "start": 8.729,
+    "end": 9.39,
+    "word": "zvyšok",
+    "probability": 0.9321193829017468
+  },
+  {
+    "start": 9.39,
+    "end": 10.03,
+    "word": "Tomovho",
+    "probability": 0.9782896107265331
+  },
+  {
+    "start": 10.03,
+    "end": 10.871,
+    "word": "oblečenia",
+    "probability": 0.99
+  },
+  {
+    "start": 10.871,
+    "end": 11.912,
+    "word": "spadli",
+    "probability": 0.99
+  },
+  {
+    "start": 11.912,
+    "end": 12.513,
+    "word": "cestou",
+    "probability": 0.9815804195945983
+  },
+  {
+    "start": 12.513,
+    "end": 12.893,
+    "word": "dole",
+    "probability": 0.9078736441507257
+  },
+  {
+    "start": 12.893,
+    "end": 14.275,
+    "word": "Pán",
+    "probability": 0.9773293499599982
+  },
+  {
+    "start": 14.275,
+    "end": 14.995,
+    "word": "Drake",
+    "probability": 0.9648180709483594
+  },
+  {
+    "start": 14.995,
+    "end": 16.117,
+    "word": "PuddleDuck",
+    "probability": 0.8529388026857371
+  },
+  {
+    "start": 16.117,
+    "end": 17.438,
+    "word": "zavolala",
+    "probability": 0.9389128096830606
+  },
+  {
+    "start": 17.438,
+    "end": 18.039,
+    "word": "Moppet",
+    "probability": 0.9199171459435458
+  },
+  {
+    "start": 18.039,
+    "end": 18.98,
+    "word": "Poď",
+    "probability": 0.9790438050179818
+  },
+  {
+    "start": 18.98,
+    "end": 19.16,
+    "word": "a",
+    "probability": 0.9766086670606159
+  },
+  {
+    "start": 19.16,
+    "end": 19.74,
+    "word": "pomôž",
+    "probability": 0.99
+  },
+  {
+    "start": 19.74,
+    "end": 20.041,
+    "word": "nám",
+    "probability": 0.99
+  },
+  {
+    "start": 20.041,
+    "end": 20.221,
+    "word": "ho",
+    "probability": 0.7098778421590433
+  },
+  {
+    "start": 20.221,
+    "end": 21.002,
+    "word": "obliecť",
+    "probability": 0.9501876484785304
+  },
+  {
+    "start": 21.002,
+    "end": 21.923,
+    "word": "Poď",
+    "probability": 0.9507576765453192
+  },
+  {
+    "start": 21.923,
+    "end": 22.083,
+    "word": "a",
+    "probability": 0.9849508239494057
+  },
+  {
+    "start": 22.083,
+    "end": 22.663,
+    "word": "zapni",
+    "probability": 0.9764514026743245
+  },
+  {
+    "start": 22.663,
+    "end": 23.044,
+    "word": "Toma",
+    "probability": 0.9755358485341293
+  }
+]

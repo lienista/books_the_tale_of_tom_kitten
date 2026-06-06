@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.521,
+    "word": "Pertama",
+    "probability": 0.96647144060297
+  },
+  {
+    "start": 0.521,
+    "end": 1.304,
+    "word": "dia",
+    "probability": 0.99
+  },
+  {
+    "start": 1.304,
+    "end": 2.046,
+    "word": "menggosok",
+    "probability": 0.9811267437864701
+  },
+  {
+    "start": 2.046,
+    "end": 2.447,
+    "word": "wajah",
+    "probability": 0.9794435510683049
+  },
+  {
+    "start": 2.447,
+    "end": 2.868,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 2.868,
+    "end": 3.871,
+    "word": "yang",
+    "probability": 0.98908748902431
+  },
+  {
+    "start": 3.871,
+    "end": 4.152,
+    "word": "ini",
+    "probability": 0.99
+  },
+  {
+    "start": 4.152,
+    "end": 4.914,
+    "word": "adalah",
+    "probability": 0.99
+  },
+  {
+    "start": 4.914,
+    "end": 5.476,
+    "word": "Moppet",
+    "probability": 0.958752870371283
+  }
+]

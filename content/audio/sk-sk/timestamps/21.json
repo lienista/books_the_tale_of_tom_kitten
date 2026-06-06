@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.621,
+    "word": "Stiahla",
+    "probability": 0.9821008275109738
+  },
+  {
+    "start": 0.621,
+    "end": 0.901,
+    "word": "ich",
+    "probability": 0.99
+  },
+  {
+    "start": 0.901,
+    "end": 1.021,
+    "word": "z",
+    "probability": 0.9195804156346474
+  },
+  {
+    "start": 1.021,
+    "end": 1.542,
+    "word": "múru",
+    "probability": 0.9094953978096794
+  },
+  {
+    "start": 1.542,
+    "end": 2.963,
+    "word": "ponáhľala",
+    "probability": 0.9804593824517998
+  },
+  {
+    "start": 2.963,
+    "end": 3.203,
+    "word": "sa",
+    "probability": 0.9876386150223063
+  },
+  {
+    "start": 3.203,
+    "end": 3.303,
+    "word": "s",
+    "probability": 0.8986585095820117
+  },
+  {
+    "start": 3.303,
+    "end": 3.744,
+    "word": "nimi",
+    "probability": 0.947007833527564
+  },
+  {
+    "start": 3.744,
+    "end": 4.524,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 4.524,
+    "end": 4.985,
+    "word": "vzala",
+    "probability": 0.9747093852063959
+  },
+  {
+    "start": 4.985,
+    "end": 5.225,
+    "word": "ich",
+    "probability": 0.99
+  },
+  {
+    "start": 5.225,
+    "end": 5.646,
+    "word": "späť",
+    "probability": 0.9228924297280856
+  },
+  {
+    "start": 5.646,
+    "end": 5.886,
+    "word": "do",
+    "probability": 0.806675439621363
+  },
+  {
+    "start": 5.886,
+    "end": 6.226,
+    "word": "domu",
+    "probability": 0.9634428722384575
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.22,
+    "word": "Але",
+    "probability": 0.99
+  },
+  {
+    "start": 0.22,
+    "end": 0.521,
+    "word": "він",
+    "probability": 0.99
+  },
+  {
+    "start": 0.521,
+    "end": 1.082,
+    "word": "одягнув",
+    "probability": 0.9869278771368633
+  },
+  {
+    "start": 1.082,
+    "end": 1.302,
+    "word": "їх",
+    "probability": 0.99
+  },
+  {
+    "start": 1.302,
+    "end": 1.462,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 1.462,
+    "end": 1.963,
+    "word": "себе",
+    "probability": 0.9743439299770933
+  },
+  {
+    "start": 1.963,
+    "end": 2.624,
+    "word": "Вони",
+    "probability": 0.9862200772828281
+  },
+  {
+    "start": 2.624,
+    "end": 3.205,
+    "word": "сиділи",
+    "probability": 0.99
+  },
+  {
+    "start": 3.205,
+    "end": 3.425,
+    "word": "на",
+    "probability": 0.9773548775363158
+  },
+  {
+    "start": 3.425,
+    "end": 3.765,
+    "word": "ньому",
+    "probability": 0.9304398587916481
+  },
+  {
+    "start": 3.765,
+    "end": 4.006,
+    "word": "ще",
+    "probability": 0.9718981584081102
+  },
+  {
+    "start": 4.006,
+    "end": 4.466,
+    "word": "гірше",
+    "probability": 0.9844797880487305
+  },
+  {
+    "start": 4.466,
+    "end": 5.167,
+    "word": "ніж",
+    "probability": 0.99
+  },
+  {
+    "start": 5.167,
+    "end": 5.307,
+    "word": "на",
+    "probability": 0.9338995914464921
+  },
+  {
+    "start": 5.307,
+    "end": 5.708,
+    "word": "Томі",
+    "probability": 0.9652424843555567
+  },
+  {
+    "start": 5.708,
+    "end": 6.369,
+    "word": "Кіттені",
+    "probability": 0.9309551253193473
+  },
+  {
+    "start": 6.369,
+    "end": 7.15,
+    "word": "Який",
+    "probability": 0.99
+  },
+  {
+    "start": 7.15,
+    "end": 7.771,
+    "word": "чудовий",
+    "probability": 0.9782216721327825
+  },
+  {
+    "start": 7.771,
+    "end": 8.372,
+    "word": "ранок",
+    "probability": 0.99
+  },
+  {
+    "start": 8.372,
+    "end": 9.253,
+    "word": "сказав",
+    "probability": 0.9885719262787522
+  },
+  {
+    "start": 9.253,
+    "end": 9.754,
+    "word": "містер",
+    "probability": 0.99
+  },
+  {
+    "start": 9.754,
+    "end": 10.254,
+    "word": "Дрейк",
+    "probability": 0.9804258851594179
+  },
+  {
+    "start": 10.254,
+    "end": 11.016,
+    "word": "ПаддлДак",
+    "probability": 0.9461137136518779
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.22,
+    "word": "Drake",
+    "probability": 0.6001365214308043
+  },
+  {
+    "start": 0.22,
+    "end": 0.32,
+    "word": "Pudd",
+    "probability": 0.01
+  },
+  {
+    "start": 0.32,
+    "end": 0.761,
+    "word": "leD",
+    "probability": 0.820400299424051
+  },
+  {
+    "start": 0.761,
+    "end": 1.181,
+    "word": "uck",
+    "probability": 0.8068233856839054
+  },
+  {
+    "start": 1.181,
+    "end": 2.302,
+    "word": "先生慢吞",
+    "probability": 0.8897985673294089
+  },
+  {
+    "start": 2.302,
+    "end": 3.143,
+    "word": "吞咁打橫",
+    "probability": 0.900889055666066
+  },
+  {
+    "start": 3.143,
+    "end": 3.943,
+    "word": "行過嚟",
+    "probability": 0.8892266577999767
+  },
+  {
+    "start": 3.943,
+    "end": 5.064,
+    "word": "執起咗啲衫",
+    "probability": 0.914522753185695
+  }
+]

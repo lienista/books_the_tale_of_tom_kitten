@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.2,
+    "end": 0.4,
+    "word": "Tom",
+    "probability": 0.941721235020268
+  },
+  {
+    "start": 0.4,
+    "end": 0.961,
+    "word": "Kitten",
+    "probability": 0.9269089513040616
+  },
+  {
+    "start": 0.961,
+    "end": 1.722,
+    "word": "was",
+    "probability": 0.9769845801809404
+  },
+  {
+    "start": 1.722,
+    "end": 2.463,
+    "word": "behoorlijk",
+    "probability": 0.9669671185242397
+  },
+  {
+    "start": 2.463,
+    "end": 2.903,
+    "word": "mollig",
+    "probability": 0.9890540957086107
+  },
+  {
+    "start": 2.903,
+    "end": 3.324,
+    "word": "en",
+    "probability": 0.9733043659838098
+  },
+  {
+    "start": 3.324,
+    "end": 3.544,
+    "word": "was",
+    "probability": 0.9876300564579502
+  },
+  {
+    "start": 3.544,
+    "end": 4.144,
+    "word": "gegroeid",
+    "probability": 0.9766484408229497
+  },
+  {
+    "start": 4.144,
+    "end": 6.066,
+    "word": "verschillende",
+    "probability": 0.9851261215786374
+  },
+  {
+    "start": 6.066,
+    "end": 6.607,
+    "word": "knopen",
+    "probability": 0.9631877079223616
+  },
+  {
+    "start": 6.607,
+    "end": 7.047,
+    "word": "sprongen",
+    "probability": 0.9748292052945224
+  },
+  {
+    "start": 7.047,
+    "end": 7.468,
+    "word": "meteen",
+    "probability": 0.9695423891110923
+  },
+  {
+    "start": 7.468,
+    "end": 7.788,
+    "word": "los",
+    "probability": 0.9555793071120473
+  },
+  {
+    "start": 7.788,
+    "end": 9.11,
+    "word": "Zijn",
+    "probability": 0.973872484783405
+  },
+  {
+    "start": 9.11,
+    "end": 9.47,
+    "word": "moeder",
+    "probability": 0.958731791695566
+  },
+  {
+    "start": 9.47,
+    "end": 10.011,
+    "word": "zuchtte",
+    "probability": 0.9756887651365881
+  },
+  {
+    "start": 10.011,
+    "end": 10.551,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 10.551,
+    "end": 11.032,
+    "word": "naaide",
+    "probability": 0.9898806094046012
+  },
+  {
+    "start": 11.032,
+    "end": 11.212,
+    "word": "ze",
+    "probability": 0.9441764604577428
+  },
+  {
+    "start": 11.212,
+    "end": 11.452,
+    "word": "weer",
+    "probability": 0.9498736727421404
+  },
+  {
+    "start": 11.452,
+    "end": 11.772,
+    "word": "vast",
+    "probability": 0.9428345286062833
+  }
+]

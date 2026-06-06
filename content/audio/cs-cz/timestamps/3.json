@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.521,
+    "word": "Nejprve",
+    "probability": 0.99
+  },
+  {
+    "start": 0.521,
+    "end": 0.741,
+    "word": "jim",
+    "probability": 0.99
+  },
+  {
+    "start": 0.741,
+    "end": 1.222,
+    "word": "vydrhla",
+    "probability": 0.9813324806275562
+  },
+  {
+    "start": 1.222,
+    "end": 1.924,
+    "word": "obličeje",
+    "probability": 0.99
+  },
+  {
+    "start": 1.924,
+    "end": 2.665,
+    "word": "toto",
+    "probability": 0.99
+  },
+  {
+    "start": 2.665,
+    "end": 2.805,
+    "word": "je",
+    "probability": 0.9596658589245038
+  },
+  {
+    "start": 2.805,
+    "end": 3.266,
+    "word": "Moppet",
+    "probability": 0.9506267248825964
+  }
+]

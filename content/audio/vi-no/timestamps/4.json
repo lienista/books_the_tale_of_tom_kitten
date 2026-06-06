@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.201,
+    "word": "Sau",
+    "probability": 0.99
+  },
+  {
+    "start": 0.201,
+    "end": 0.463,
+    "word": "đó",
+    "probability": 0.9816715460309958
+  },
+  {
+    "start": 0.463,
+    "end": 0.765,
+    "word": "bà",
+    "probability": 0.9698135187454218
+  },
+  {
+    "start": 0.765,
+    "end": 1.006,
+    "word": "chải",
+    "probability": 0.8096824870426524
+  },
+  {
+    "start": 1.006,
+    "end": 1.227,
+    "word": "lông",
+    "probability": 0.9306825229834955
+  },
+  {
+    "start": 1.227,
+    "end": 1.429,
+    "word": "cho",
+    "probability": 0.99
+  },
+  {
+    "start": 1.429,
+    "end": 1.69,
+    "word": "chúng",
+    "probability": 0.99
+  },
+  {
+    "start": 1.69,
+    "end": 2.455,
+    "word": "đây",
+    "probability": 0.99
+  },
+  {
+    "start": 2.455,
+    "end": 2.616,
+    "word": "là",
+    "probability": 0.99
+  },
+  {
+    "start": 2.616,
+    "end": 3.058,
+    "word": "Mittens",
+    "probability": 0.7326964123831253
+  }
+]

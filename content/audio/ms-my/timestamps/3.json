@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.701,
+    "word": "Mulamula",
+    "probability": 0.9286568634138179
+  },
+  {
+    "start": 0.701,
+    "end": 1.622,
+    "word": "dia",
+    "probability": 0.99
+  },
+  {
+    "start": 1.622,
+    "end": 2.423,
+    "word": "menyental",
+    "probability": 0.99
+  },
+  {
+    "start": 2.423,
+    "end": 3.063,
+    "word": "muka",
+    "probability": 0.99
+  },
+  {
+    "start": 3.063,
+    "end": 3.624,
+    "word": "mereka",
+    "probability": 0.9877149762191999
+  },
+  {
+    "start": 3.624,
+    "end": 4.785,
+    "word": "yang",
+    "probability": 0.99
+  },
+  {
+    "start": 4.785,
+    "end": 5.186,
+    "word": "ini",
+    "probability": 0.99
+  },
+  {
+    "start": 5.186,
+    "end": 6.167,
+    "word": "ialah",
+    "probability": 0.99
+  },
+  {
+    "start": 6.167,
+    "end": 6.987,
+    "word": "Moppet",
+    "probability": 0.9585279895664481
+  }
+]

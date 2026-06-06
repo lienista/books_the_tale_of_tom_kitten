@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.28,
+    "word": "Ele",
+    "probability": 0.7339538599641325
+  },
+  {
+    "start": 0.28,
+    "end": 0.761,
+    "word": "estava",
+    "probability": 0.9141141836075043
+  },
+  {
+    "start": 0.761,
+    "end": 0.961,
+    "word": "uma",
+    "probability": 0.913704632317432
+  },
+  {
+    "start": 0.961,
+    "end": 1.762,
+    "word": "confusão",
+    "probability": 0.986200433440413
+  },
+  {
+    "start": 1.762,
+    "end": 2.123,
+    "word": "quando",
+    "probability": 0.9744740252126787
+  },
+  {
+    "start": 2.123,
+    "end": 2.603,
+    "word": "chegou",
+    "probability": 0.9811412054620524
+  },
+  {
+    "start": 2.603,
+    "end": 2.804,
+    "word": "ao",
+    "probability": 0.9855466406740356
+  },
+  {
+    "start": 2.804,
+    "end": 3.204,
+    "word": "topo",
+    "probability": 0.9757899329310489
+  },
+  {
+    "start": 3.204,
+    "end": 3.364,
+    "word": "do",
+    "probability": 0.9712708533809693
+  },
+  {
+    "start": 3.364,
+    "end": 3.765,
+    "word": "muro",
+    "probability": 0.99
+  },
+  {
+    "start": 3.765,
+    "end": 4.726,
+    "word": "A",
+    "probability": 0.9789461140372245
+  },
+  {
+    "start": 4.726,
+    "end": 5.307,
+    "word": "Moppet",
+    "probability": 0.9109679632779275
+  },
+  {
+    "start": 5.307,
+    "end": 5.547,
+    "word": "e",
+    "probability": 0.9527083892922796
+  },
+  {
+    "start": 5.547,
+    "end": 5.687,
+    "word": "a",
+    "probability": 0.9624766388202269
+  },
+  {
+    "start": 5.687,
+    "end": 6.348,
+    "word": "Mittens",
+    "probability": 0.9161174152855533
+  },
+  {
+    "start": 6.348,
+    "end": 7.309,
+    "word": "tentaram",
+    "probability": 0.99
+  },
+  {
+    "start": 7.309,
+    "end": 8.31,
+    "word": "arranjarlhe",
+    "probability": 0.9559041829505267
+  },
+  {
+    "start": 8.31,
+    "end": 8.611,
+    "word": "as",
+    "probability": 0.9821151520257667
+  },
+  {
+    "start": 8.611,
+    "end": 9.111,
+    "word": "roupas",
+    "probability": 0.9774883868408005
+  },
+  {
+    "start": 9.111,
+    "end": 9.993,
+    "word": "mas",
+    "probability": 0.99
+  },
+  {
+    "start": 9.993,
+    "end": 10.093,
+    "word": "o",
+    "probability": 0.9449256641021672
+  },
+  {
+    "start": 10.093,
+    "end": 10.573,
+    "word": "chapéu",
+    "probability": 0.9770617757365466
+  },
+  {
+    "start": 10.573,
+    "end": 11.134,
+    "word": "caiu",
+    "probability": 0.9728557851784859
+  },
+  {
+    "start": 11.134,
+    "end": 11.555,
+    "word": "e",
+    "probability": 0.9822241879826973
+  },
+  {
+    "start": 11.555,
+    "end": 11.735,
+    "word": "os",
+    "probability": 0.9846562998797103
+  },
+  {
+    "start": 11.735,
+    "end": 12.295,
+    "word": "últimos",
+    "probability": 0.99
+  },
+  {
+    "start": 12.295,
+    "end": 12.856,
+    "word": "botões",
+    "probability": 0.9847859096189391
+  },
+  {
+    "start": 12.856,
+    "end": 13.557,
+    "word": "saltaram",
+    "probability": 0.99
+  }
+]

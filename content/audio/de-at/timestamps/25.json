@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.14,
+    "end": 0.26,
+    "word": "Was",
+    "probability": 0.902422294472177
+  },
+  {
+    "start": 0.26,
+    "end": 0.4,
+    "word": "die",
+    "probability": 0.8026080418517693
+  },
+  {
+    "start": 0.4,
+    "end": 1.061,
+    "word": "PuddleDucks",
+    "probability": 0.7934807319365855
+  },
+  {
+    "start": 1.061,
+    "end": 2.882,
+    "word": "betrifftsie",
+    "probability": 0.9651885808188733
+  },
+  {
+    "start": 2.882,
+    "end": 3.282,
+    "word": "gingen",
+    "probability": 0.9872870937520444
+  },
+  {
+    "start": 3.282,
+    "end": 3.402,
+    "word": "in",
+    "probability": 0.8945291776314926
+  },
+  {
+    "start": 3.402,
+    "end": 3.642,
+    "word": "einen",
+    "probability": 0.9341538166739373
+  },
+  {
+    "start": 3.642,
+    "end": 4.183,
+    "word": "Teich",
+    "probability": 0.9796070170226633
+  },
+  {
+    "start": 4.183,
+    "end": 5.904,
+    "word": "Die",
+    "probability": 0.99
+  },
+  {
+    "start": 5.904,
+    "end": 6.444,
+    "word": "Kleidung",
+    "probability": 0.945616463634361
+  },
+  {
+    "start": 6.444,
+    "end": 6.724,
+    "word": "fiel",
+    "probability": 0.95495750699619
+  },
+  {
+    "start": 6.724,
+    "end": 7.364,
+    "word": "sofort",
+    "probability": 0.987938438550447
+  },
+  {
+    "start": 7.364,
+    "end": 7.665,
+    "word": "ab",
+    "probability": 0.9851530541775273
+  },
+  {
+    "start": 7.665,
+    "end": 7.965,
+    "word": "weil",
+    "probability": 0.99
+  },
+  {
+    "start": 7.965,
+    "end": 8.405,
+    "word": "keine",
+    "probability": 0.967068671939389
+  },
+  {
+    "start": 8.405,
+    "end": 8.945,
+    "word": "Knöpfe",
+    "probability": 0.99
+  },
+  {
+    "start": 8.945,
+    "end": 9.145,
+    "word": "mehr",
+    "probability": 0.984307402500377
+  },
+  {
+    "start": 9.145,
+    "end": 9.326,
+    "word": "da",
+    "probability": 0.9858335027468639
+  },
+  {
+    "start": 9.326,
+    "end": 9.746,
+    "word": "waren",
+    "probability": 0.9638955245669175
+  },
+  {
+    "start": 9.746,
+    "end": 10.246,
+    "word": "um",
+    "probability": 0.99
+  },
+  {
+    "start": 10.246,
+    "end": 10.426,
+    "word": "sie",
+    "probability": 0.952734659765775
+  },
+  {
+    "start": 10.426,
+    "end": 11.587,
+    "word": "zusammenzuhalten",
+    "probability": 0.9050199934998033
+  }
+]

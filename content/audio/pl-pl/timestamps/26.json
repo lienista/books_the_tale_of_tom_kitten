@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.1,
+    "word": "A",
+    "probability": 0.99
+  },
+  {
+    "start": 0.1,
+    "end": 0.642,
+    "word": "pan",
+    "probability": 0.9258711101252772
+  },
+  {
+    "start": 0.642,
+    "end": 1.184,
+    "word": "Drake",
+    "probability": 0.9246880388212462
+  },
+  {
+    "start": 1.184,
+    "end": 1.906,
+    "word": "PuddleDuck",
+    "probability": 0.7767711192622238
+  },
+  {
+    "start": 1.906,
+    "end": 3.029,
+    "word": "Jemima",
+    "probability": 0.9600041605278962
+  },
+  {
+    "start": 3.029,
+    "end": 3.41,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 3.41,
+    "end": 4.092,
+    "word": "Rebeccah",
+    "probability": 0.9109540591684695
+  },
+  {
+    "start": 4.092,
+    "end": 4.935,
+    "word": "szukają",
+    "probability": 0.99
+  },
+  {
+    "start": 4.935,
+    "end": 5.276,
+    "word": "ich",
+    "probability": 0.9726259875741395
+  },
+  {
+    "start": 5.276,
+    "end": 5.516,
+    "word": "od",
+    "probability": 0.99
+  },
+  {
+    "start": 5.516,
+    "end": 5.857,
+    "word": "tamtej",
+    "probability": 0.9882833849984682
+  },
+  {
+    "start": 5.857,
+    "end": 6.158,
+    "word": "pory",
+    "probability": 0.9696777129268727
+  }
+]

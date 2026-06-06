@@ -1,0 +1,134 @@
+[
+  {
+    "start": 5.125,
+    "end": 5.205,
+    "word": "टम",
+    "probability": 0.99
+  },
+  {
+    "start": 5.205,
+    "end": 5.265,
+    "word": "कटन",
+    "probability": 0.33320070574085886
+  },
+  {
+    "start": 5.265,
+    "end": 5.305,
+    "word": "खप",
+    "probability": 0.01
+  },
+  {
+    "start": 5.305,
+    "end": 5.345,
+    "word": "जड",
+    "probability": 0.01
+  },
+  {
+    "start": 5.345,
+    "end": 5.506,
+    "word": "झल",
+    "probability": 0.7499656290698808
+  },
+  {
+    "start": 5.506,
+    "end": 5.546,
+    "word": "हत",
+    "probability": 0.01
+  },
+  {
+    "start": 5.546,
+    "end": 5.586,
+    "word": "आण",
+    "probability": 0.01
+  },
+  {
+    "start": 5.586,
+    "end": 5.706,
+    "word": "वढल",
+    "probability": 0.4999852222228714
+  },
+  {
+    "start": 5.706,
+    "end": 5.746,
+    "word": "हत",
+    "probability": 0.01
+  },
+  {
+    "start": 5.746,
+    "end": 5.826,
+    "word": "तच",
+    "probability": 0.7497437206117159
+  },
+  {
+    "start": 5.826,
+    "end": 5.866,
+    "word": "कह",
+    "probability": 0.01
+  },
+  {
+    "start": 5.866,
+    "end": 6.046,
+    "word": "बटण",
+    "probability": 0.7776315042394076
+  },
+  {
+    "start": 6.046,
+    "end": 6.106,
+    "word": "लगच",
+    "probability": 0.33300979856364826
+  },
+  {
+    "start": 6.106,
+    "end": 6.947,
+    "word": "तटल",
+    "probability": 0.9038783842722745
+  },
+  {
+    "start": 6.947,
+    "end": 7.107,
+    "word": "तचय",
+    "probability": 0.7366536360210957
+  },
+  {
+    "start": 7.107,
+    "end": 7.428,
+    "word": "आईन",
+    "probability": 0.7270466450647266
+  },
+  {
+    "start": 7.428,
+    "end": 7.768,
+    "word": "ससकर",
+    "probability": 0.7761628811503555
+  },
+  {
+    "start": 7.768,
+    "end": 7.888,
+    "word": "टकल",
+    "probability": 0.646327735508088
+  },
+  {
+    "start": 7.888,
+    "end": 7.928,
+    "word": "आण",
+    "probability": 0.01
+  },
+  {
+    "start": 7.928,
+    "end": 7.948,
+    "word": "त",
+    "probability": 0.01
+  },
+  {
+    "start": 7.948,
+    "end": 8.008,
+    "word": "परत",
+    "probability": 0.33303892541515956
+  },
+  {
+    "start": 8.008,
+    "end": 8.048,
+    "word": "शवल",
+    "probability": 0.01
+  }
+]

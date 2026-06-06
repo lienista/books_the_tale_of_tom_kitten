@@ -1,0 +1,56 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.621,
+    "word": "Kemudian",
+    "probability": 0.99
+  },
+  {
+    "start": 0.621,
+    "end": 0.882,
+    "word": "dia",
+    "probability": 0.99
+  },
+  {
+    "start": 0.882,
+    "end": 1.523,
+    "word": "memberus",
+    "probability": 0.99
+  },
+  {
+    "start": 1.523,
+    "end": 1.964,
+    "word": "bulu",
+    "probability": 0.9554411384695534
+  },
+  {
+    "start": 1.964,
+    "end": 2.505,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 2.505,
+    "end": 3.327,
+    "word": "yang",
+    "probability": 0.99
+  },
+  {
+    "start": 3.327,
+    "end": 3.728,
+    "word": "ini",
+    "probability": 0.99
+  },
+  {
+    "start": 3.728,
+    "end": 4.49,
+    "word": "ialah",
+    "probability": 0.99
+  },
+  {
+    "start": 4.49,
+    "end": 5.031,
+    "word": "Mittens",
+    "probability": 0.9047384590166703
+  }
+]

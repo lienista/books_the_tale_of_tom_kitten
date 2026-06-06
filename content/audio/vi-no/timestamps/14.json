@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.201,
+    "word": "Chúng",
+    "probability": 0.99
+  },
+  {
+    "start": 0.201,
+    "end": 0.421,
+    "word": "dừng",
+    "probability": 0.99
+  },
+  {
+    "start": 0.421,
+    "end": 0.682,
+    "word": "lại",
+    "probability": 0.99
+  },
+  {
+    "start": 0.682,
+    "end": 0.943,
+    "word": "và",
+    "probability": 0.9687737524564123
+  },
+  {
+    "start": 0.943,
+    "end": 1.124,
+    "word": "đứng",
+    "probability": 0.99
+  },
+  {
+    "start": 1.124,
+    "end": 1.344,
+    "word": "thành",
+    "probability": 0.99
+  },
+  {
+    "start": 1.344,
+    "end": 1.525,
+    "word": "một",
+    "probability": 0.9768454650185977
+  },
+  {
+    "start": 1.525,
+    "end": 1.826,
+    "word": "hàng",
+    "probability": 0.99
+  },
+  {
+    "start": 1.826,
+    "end": 2.488,
+    "word": "nhìn",
+    "probability": 0.9836494995317253
+  },
+  {
+    "start": 2.488,
+    "end": 2.729,
+    "word": "chằm",
+    "probability": 0.8744279293890682
+  },
+  {
+    "start": 2.729,
+    "end": 2.99,
+    "word": "chằm",
+    "probability": 0.7356905325633427
+  },
+  {
+    "start": 2.99,
+    "end": 3.19,
+    "word": "vào",
+    "probability": 0.7980825461139457
+  },
+  {
+    "start": 3.19,
+    "end": 3.351,
+    "word": "các",
+    "probability": 0.88285843442101
+  },
+  {
+    "start": 3.351,
+    "end": 3.551,
+    "word": "chú",
+    "probability": 0.99
+  },
+  {
+    "start": 3.551,
+    "end": 3.792,
+    "word": "mèo",
+    "probability": 0.9685138454758521
+  },
+  {
+    "start": 3.792,
+    "end": 4.133,
+    "word": "con",
+    "probability": 0.99
+  },
+  {
+    "start": 4.133,
+    "end": 4.454,
+    "word": "với",
+    "probability": 0.99
+  },
+  {
+    "start": 4.454,
+    "end": 4.595,
+    "word": "đôi",
+    "probability": 0.99
+  },
+  {
+    "start": 4.595,
+    "end": 4.795,
+    "word": "mắt",
+    "probability": 0.9801855175280767
+  },
+  {
+    "start": 4.795,
+    "end": 5.116,
+    "word": "to",
+    "probability": 0.99
+  },
+  {
+    "start": 5.116,
+    "end": 5.457,
+    "word": "tròn",
+    "probability": 0.9772115017214619
+  },
+  {
+    "start": 5.457,
+    "end": 5.758,
+    "word": "ngạc",
+    "probability": 0.9884518209932146
+  },
+  {
+    "start": 5.758,
+    "end": 6.059,
+    "word": "nhiên",
+    "probability": 0.988244540785558
+  }
+]

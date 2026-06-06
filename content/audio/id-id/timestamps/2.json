@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.46,
+    "word": "Suatu",
+    "probability": 0.99
+  },
+  {
+    "start": 0.46,
+    "end": 0.86,
+    "word": "hari",
+    "probability": 0.99
+  },
+  {
+    "start": 0.86,
+    "end": 1.661,
+    "word": "ibu",
+    "probability": 0.9775104581817171
+  },
+  {
+    "start": 1.661,
+    "end": 3.161,
+    "word": "merekaMrs",
+    "probability": 0.9295371657581524
+  },
+  {
+    "start": 3.161,
+    "end": 4.062,
+    "word": "Tabitha",
+    "probability": 0.9470196634440572
+  },
+  {
+    "start": 4.062,
+    "end": 5.583,
+    "word": "Twitchitsedang",
+    "probability": 0.9343390895533223
+  },
+  {
+    "start": 5.583,
+    "end": 6.063,
+    "word": "menunggu",
+    "probability": 0.99
+  },
+  {
+    "start": 6.063,
+    "end": 6.943,
+    "word": "temantemannya",
+    "probability": 0.968173552998558
+  },
+  {
+    "start": 6.943,
+    "end": 7.664,
+    "word": "untuk",
+    "probability": 0.99
+  },
+  {
+    "start": 7.664,
+    "end": 8.064,
+    "word": "minum",
+    "probability": 0.9668916705632767
+  },
+  {
+    "start": 8.064,
+    "end": 8.424,
+    "word": "teh",
+    "probability": 0.99
+  },
+  {
+    "start": 8.424,
+    "end": 9.424,
+    "word": "Dia",
+    "probability": 0.9742711829964631
+  },
+  {
+    "start": 9.424,
+    "end": 10.485,
+    "word": "membawa",
+    "probability": 0.99
+  },
+  {
+    "start": 10.485,
+    "end": 11.385,
+    "word": "anakanak",
+    "probability": 0.940767988734417
+  },
+  {
+    "start": 11.385,
+    "end": 11.825,
+    "word": "kucing",
+    "probability": 0.99
+  },
+  {
+    "start": 11.825,
+    "end": 12.106,
+    "word": "itu",
+    "probability": 0.99
+  },
+  {
+    "start": 12.106,
+    "end": 12.726,
+    "word": "masuk",
+    "probability": 0.9789377720686036
+  },
+  {
+    "start": 12.726,
+    "end": 13.526,
+    "word": "untuk",
+    "probability": 0.99
+  },
+  {
+    "start": 13.526,
+    "end": 14.447,
+    "word": "memandikan",
+    "probability": 0.9866743081205884
+  },
+  {
+    "start": 14.447,
+    "end": 15.187,
+    "word": "dan",
+    "probability": 0.9797989262879312
+  },
+  {
+    "start": 15.187,
+    "end": 16.007,
+    "word": "mendandani",
+    "probability": 0.960647292379125
+  },
+  {
+    "start": 16.007,
+    "end": 16.488,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 16.488,
+    "end": 17.648,
+    "word": "sebelum",
+    "probability": 0.9868465190907271
+  },
+  {
+    "start": 17.648,
+    "end": 18.729,
+    "word": "tamutamunya",
+    "probability": 0.9446091852850299
+  },
+  {
+    "start": 18.729,
+    "end": 19.349,
+    "word": "datang",
+    "probability": 0.9890060982941975
+  }
+]

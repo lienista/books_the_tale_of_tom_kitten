@@ -1,0 +1,146 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.3,
+    "word": "Pani",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 1.121,
+    "word": "Tabitha",
+    "probability": 0.9022219932219588
+  },
+  {
+    "start": 1.121,
+    "end": 2.502,
+    "word": "obliekla",
+    "probability": 0.985784186194489
+  },
+  {
+    "start": 2.502,
+    "end": 3.363,
+    "word": "Moppet",
+    "probability": 0.9568595497996867
+  },
+  {
+    "start": 3.363,
+    "end": 3.583,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 3.583,
+    "end": 4.364,
+    "word": "Mittens",
+    "probability": 0.9599226774869163
+  },
+  {
+    "start": 4.364,
+    "end": 5.245,
+    "word": "do",
+    "probability": 0.99
+  },
+  {
+    "start": 5.245,
+    "end": 6.146,
+    "word": "čistých",
+    "probability": 0.9715588483004655
+  },
+  {
+    "start": 6.146,
+    "end": 6.666,
+    "word": "malých",
+    "probability": 0.9759079060934682
+  },
+  {
+    "start": 6.666,
+    "end": 7.287,
+    "word": "šiat",
+    "probability": 0.9688863213768409
+  },
+  {
+    "start": 7.287,
+    "end": 7.627,
+    "word": "a",
+    "probability": 0.987429064044324
+  },
+  {
+    "start": 7.627,
+    "end": 8.548,
+    "word": "čipkovaných",
+    "probability": 0.9830335434029573
+  },
+  {
+    "start": 8.548,
+    "end": 9.349,
+    "word": "golierov",
+    "probability": 0.9685910347826742
+  },
+  {
+    "start": 9.349,
+    "end": 10.81,
+    "word": "Potom",
+    "probability": 0.9780877967303727
+  },
+  {
+    "start": 10.81,
+    "end": 11.591,
+    "word": "vytiahla",
+    "probability": 0.8921212074915936
+  },
+  {
+    "start": 11.591,
+    "end": 12.192,
+    "word": "nejaké",
+    "probability": 0.8159785293190612
+  },
+  {
+    "start": 12.192,
+    "end": 12.772,
+    "word": "tuhé",
+    "probability": 0.9459997419415413
+  },
+  {
+    "start": 12.772,
+    "end": 14.334,
+    "word": "elegantné",
+    "probability": 0.99
+  },
+  {
+    "start": 14.334,
+    "end": 15.234,
+    "word": "oblečenie",
+    "probability": 0.9517859317901222
+  },
+  {
+    "start": 15.234,
+    "end": 15.895,
+    "word": "zo",
+    "probability": 0.99
+  },
+  {
+    "start": 15.895,
+    "end": 16.616,
+    "word": "starého",
+    "probability": 0.9629635499938591
+  },
+  {
+    "start": 16.616,
+    "end": 17.537,
+    "word": "šatníka",
+    "probability": 0.9758800557479144
+  },
+  {
+    "start": 17.537,
+    "end": 18.437,
+    "word": "pre",
+    "probability": 0.99
+  },
+  {
+    "start": 18.437,
+    "end": 18.878,
+    "word": "Toma",
+    "probability": 0.9389792564201411
+  }
+]

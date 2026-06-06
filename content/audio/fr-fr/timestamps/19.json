@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.24,
+    "word": "Puis",
+    "probability": 0.6592726107993019
+  },
+  {
+    "start": 0.24,
+    "end": 0.46,
+    "word": "lui",
+    "probability": 0.6499144140789334
+  },
+  {
+    "start": 0.46,
+    "end": 1.281,
+    "word": "Jemima",
+    "probability": 0.8439923578061862
+  },
+  {
+    "start": 1.281,
+    "end": 1.461,
+    "word": "et",
+    "probability": 0.7843570492427452
+  },
+  {
+    "start": 1.461,
+    "end": 1.982,
+    "word": "Rebeccah",
+    "probability": 0.8504370683003842
+  },
+  {
+    "start": 1.982,
+    "end": 2.723,
+    "word": "PuddleDuck",
+    "probability": 0.7936592105241422
+  },
+  {
+    "start": 2.723,
+    "end": 3.303,
+    "word": "partirent",
+    "probability": 0.9582150132592813
+  },
+  {
+    "start": 3.303,
+    "end": 3.483,
+    "word": "sur",
+    "probability": 0.99
+  },
+  {
+    "start": 3.483,
+    "end": 3.663,
+    "word": "la",
+    "probability": 0.99
+  },
+  {
+    "start": 3.663,
+    "end": 4.064,
+    "word": "route",
+    "probability": 0.99
+  },
+  {
+    "start": 4.064,
+    "end": 4.304,
+    "word": "en",
+    "probability": 0.9887906270218719
+  },
+  {
+    "start": 4.304,
+    "end": 4.765,
+    "word": "gardant",
+    "probability": 0.99
+  },
+  {
+    "start": 4.765,
+    "end": 4.905,
+    "word": "le",
+    "probability": 0.9401909907338548
+  },
+  {
+    "start": 4.905,
+    "end": 6.146,
+    "word": "paspitpat",
+    "probability": 0.951832771264413
+  },
+  {
+    "start": 6.146,
+    "end": 7.067,
+    "word": "paddlepat",
+    "probability": 0.8733020078134585
+  },
+  {
+    "start": 7.067,
+    "end": 7.787,
+    "word": "pitpat",
+    "probability": 0.9059260511304255
+  },
+  {
+    "start": 7.787,
+    "end": 8.508,
+    "word": "waddlepat",
+    "probability": 0.7707233879362635
+  }
+]

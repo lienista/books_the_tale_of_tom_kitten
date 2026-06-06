@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.2,
+    "end": 0.26,
+    "word": "Hun",
+    "probability": 0.970121128517373
+  },
+  {
+    "start": 0.26,
+    "end": 0.681,
+    "word": "sendte",
+    "probability": 0.9347835252288909
+  },
+  {
+    "start": 0.681,
+    "end": 0.881,
+    "word": "dem",
+    "probability": 0.9531059053464375
+  },
+  {
+    "start": 0.881,
+    "end": 1.582,
+    "word": "ovenpå",
+    "probability": 0.9476191954502322
+  },
+  {
+    "start": 1.582,
+    "end": 2.343,
+    "word": "og",
+    "probability": 0.99
+  },
+  {
+    "start": 2.343,
+    "end": 2.503,
+    "word": "jeg",
+    "probability": 0.985475892099895
+  },
+  {
+    "start": 2.503,
+    "end": 2.623,
+    "word": "er",
+    "probability": 0.99
+  },
+  {
+    "start": 2.623,
+    "end": 2.904,
+    "word": "ked",
+    "probability": 0.9740495921865291
+  },
+  {
+    "start": 2.904,
+    "end": 3.064,
+    "word": "af",
+    "probability": 0.99
+  },
+  {
+    "start": 3.064,
+    "end": 3.224,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 3.224,
+    "end": 3.504,
+    "word": "sige",
+    "probability": 0.943631831524874
+  },
+  {
+    "start": 3.504,
+    "end": 3.825,
+    "word": "at",
+    "probability": 0.9779506656719825
+  },
+  {
+    "start": 3.825,
+    "end": 4.045,
+    "word": "hun",
+    "probability": 0.99
+  },
+  {
+    "start": 4.045,
+    "end": 4.546,
+    "word": "fortalte",
+    "probability": 0.9891423528288301
+  },
+  {
+    "start": 4.546,
+    "end": 4.866,
+    "word": "sine",
+    "probability": 0.9484088048143628
+  },
+  {
+    "start": 4.866,
+    "end": 5.227,
+    "word": "venner",
+    "probability": 0.9652191996568751
+  },
+  {
+    "start": 5.227,
+    "end": 5.607,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 5.607,
+    "end": 5.787,
+    "word": "de",
+    "probability": 0.9872370380727049
+  },
+  {
+    "start": 5.787,
+    "end": 5.988,
+    "word": "lå",
+    "probability": 0.9456868115398395
+  },
+  {
+    "start": 5.988,
+    "end": 6.128,
+    "word": "i",
+    "probability": 0.99
+  },
+  {
+    "start": 6.128,
+    "end": 6.508,
+    "word": "sengen",
+    "probability": 0.9443613982946433
+  },
+  {
+    "start": 6.508,
+    "end": 6.809,
+    "word": "med",
+    "probability": 0.9890699043847568
+  },
+  {
+    "start": 6.809,
+    "end": 6.949,
+    "word": "en",
+    "probability": 0.9814134583142332
+  },
+  {
+    "start": 6.949,
+    "end": 7.65,
+    "word": "forkølelse",
+    "probability": 0.9847400820161821
+  },
+  {
+    "start": 7.65,
+    "end": 8.371,
+    "word": "hvilket",
+    "probability": 0.9866163608281576
+  },
+  {
+    "start": 8.371,
+    "end": 8.671,
+    "word": "ikke",
+    "probability": 0.9750359597639268
+  },
+  {
+    "start": 8.671,
+    "end": 8.891,
+    "word": "var",
+    "probability": 0.934821120565744
+  },
+  {
+    "start": 8.891,
+    "end": 9.172,
+    "word": "sandt",
+    "probability": 0.9689498217534332
+  }
+]

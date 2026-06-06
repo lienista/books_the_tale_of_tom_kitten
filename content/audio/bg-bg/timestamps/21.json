@@ -1,0 +1,80 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.201,
+    "word": "Тя",
+    "probability": 0.99
+  },
+  {
+    "start": 0.201,
+    "end": 0.361,
+    "word": "ги",
+    "probability": 0.9294359983145459
+  },
+  {
+    "start": 0.361,
+    "end": 0.702,
+    "word": "свали",
+    "probability": 0.9667392386765229
+  },
+  {
+    "start": 0.702,
+    "end": 0.822,
+    "word": "от",
+    "probability": 0.9657277622255401
+  },
+  {
+    "start": 0.822,
+    "end": 1.384,
+    "word": "стената",
+    "probability": 0.99
+  },
+  {
+    "start": 1.384,
+    "end": 2.326,
+    "word": "побърза",
+    "probability": 0.9848588313366415
+  },
+  {
+    "start": 2.326,
+    "end": 2.507,
+    "word": "ги",
+    "probability": 0.9228056823816259
+  },
+  {
+    "start": 2.507,
+    "end": 3.128,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 3.128,
+    "end": 3.269,
+    "word": "ги",
+    "probability": 0.99
+  },
+  {
+    "start": 3.269,
+    "end": 3.73,
+    "word": "заведе",
+    "probability": 0.99
+  },
+  {
+    "start": 3.73,
+    "end": 4.171,
+    "word": "обратно",
+    "probability": 0.99
+  },
+  {
+    "start": 4.171,
+    "end": 4.251,
+    "word": "в",
+    "probability": 0.9751505750014463
+  },
+  {
+    "start": 4.251,
+    "end": 4.753,
+    "word": "къщата",
+    "probability": 0.9870210605592517
+  }
+]

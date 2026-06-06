@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.201,
+    "word": "Ils",
+    "probability": 0.8493952610713484
+  },
+  {
+    "start": 0.201,
+    "end": 1.023,
+    "word": "sarrêtèrent",
+    "probability": 0.9008226489319832
+  },
+  {
+    "start": 1.023,
+    "end": 1.364,
+    "word": "et",
+    "probability": 0.9840223206763803
+  },
+  {
+    "start": 1.364,
+    "end": 1.585,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 1.585,
+    "end": 2.026,
+    "word": "tinrent",
+    "probability": 0.9682158193934
+  },
+  {
+    "start": 2.026,
+    "end": 2.167,
+    "word": "en",
+    "probability": 0.99
+  },
+  {
+    "start": 2.167,
+    "end": 2.488,
+    "word": "rang",
+    "probability": 0.9796028565578322
+  },
+  {
+    "start": 2.488,
+    "end": 3.31,
+    "word": "regardant",
+    "probability": 0.9879596718953206
+  },
+  {
+    "start": 3.31,
+    "end": 3.45,
+    "word": "les",
+    "probability": 0.9569103386577454
+  },
+  {
+    "start": 3.45,
+    "end": 3.952,
+    "word": "chatons",
+    "probability": 0.9384690098031424
+  },
+  {
+    "start": 3.952,
+    "end": 4.333,
+    "word": "avec",
+    "probability": 0.9724268765216088
+  },
+  {
+    "start": 4.333,
+    "end": 4.474,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 4.474,
+    "end": 4.774,
+    "word": "grands",
+    "probability": 0.99
+  },
+  {
+    "start": 4.774,
+    "end": 4.995,
+    "word": "yeux",
+    "probability": 0.9405616461289692
+  },
+  {
+    "start": 4.995,
+    "end": 5.517,
+    "word": "surpris",
+    "probability": 0.99
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "start": 1.849,
+    "end": 1.904,
+    "word": "व",
+    "probability": 0.99
+  },
+  {
+    "start": 1.904,
+    "end": 2.012,
+    "word": "रक",
+    "probability": 0.01
+  },
+  {
+    "start": 2.012,
+    "end": 3.427,
+    "word": "और",
+    "probability": 0.9580263540325006
+  },
+  {
+    "start": 3.427,
+    "end": 3.861,
+    "word": "एक",
+    "probability": 0.9565766437412633
+  },
+  {
+    "start": 3.861,
+    "end": 4.244,
+    "word": "पकत",
+    "probability": 0.7129603977699857
+  },
+  {
+    "start": 4.244,
+    "end": 4.515,
+    "word": "म",
+    "probability": 0.7998814749784507
+  },
+  {
+    "start": 4.515,
+    "end": 5.003,
+    "word": "खड",
+    "probability": 0.7780358455362921
+  },
+  {
+    "start": 5.003,
+    "end": 5.057,
+    "word": "ह",
+    "probability": 0.01
+  },
+  {
+    "start": 5.057,
+    "end": 5.277,
+    "word": "गई",
+    "probability": 0.49967338469781797
+  },
+  {
+    "start": 5.277,
+    "end": 5.711,
+    "word": "बलल",
+    "probability": 0.4471204115282616
+  },
+  {
+    "start": 5.711,
+    "end": 5.765,
+    "word": "क",
+    "probability": 0.481041614639694
+  },
+  {
+    "start": 5.765,
+    "end": 6.473,
+    "word": "बचच",
+    "probability": 0.7690899867121824
+  },
+  {
+    "start": 6.473,
+    "end": 6.635,
+    "word": "क",
+    "probability": 0.49989871821229825
+  },
+  {
+    "start": 6.635,
+    "end": 6.744,
+    "word": "चड",
+    "probability": 0.3274815235136458
+  },
+  {
+    "start": 6.744,
+    "end": 6.961,
+    "word": "हरन",
+    "probability": 0.4988559064923398
+  },
+  {
+    "start": 6.961,
+    "end": 7.343,
+    "word": "आख",
+    "probability": 0.6719488648261726
+  },
+  {
+    "start": 7.343,
+    "end": 7.451,
+    "word": "स",
+    "probability": 0.5002349044015175
+  },
+  {
+    "start": 7.451,
+    "end": 7.56,
+    "word": "घर",
+    "probability": 0.01
+  },
+  {
+    "start": 7.56,
+    "end": 7.777,
+    "word": "रह",
+    "probability": 0.49567103056167205
+  },
+  {
+    "start": 7.777,
+    "end": 7.831,
+    "word": "थ",
+    "probability": 0.01
+  }
+]

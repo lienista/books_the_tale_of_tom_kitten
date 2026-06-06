@@ -1,0 +1,170 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.681,
+    "word": "Pinapunta",
+    "probability": 0.9747742621646871
+  },
+  {
+    "start": 0.681,
+    "end": 0.881,
+    "word": "niya",
+    "probability": 0.8260370175814424
+  },
+  {
+    "start": 0.881,
+    "end": 1.201,
+    "word": "sila",
+    "probability": 0.947878599021271
+  },
+  {
+    "start": 1.201,
+    "end": 1.421,
+    "word": "sa",
+    "probability": 0.9882073643904369
+  },
+  {
+    "start": 1.421,
+    "end": 2.082,
+    "word": "itaas",
+    "probability": 0.9837616930220607
+  },
+  {
+    "start": 2.082,
+    "end": 2.823,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 2.823,
+    "end": 3.804,
+    "word": "ikinalulungkot",
+    "probability": 0.9678443421709132
+  },
+  {
+    "start": 3.804,
+    "end": 4.064,
+    "word": "kong",
+    "probability": 0.8830063146884297
+  },
+  {
+    "start": 4.064,
+    "end": 4.704,
+    "word": "sabihin",
+    "probability": 0.99
+  },
+  {
+    "start": 4.704,
+    "end": 4.804,
+    "word": "na",
+    "probability": 0.9750174993391939
+  },
+  {
+    "start": 4.804,
+    "end": 5.365,
+    "word": "sinabi",
+    "probability": 0.9239135303934839
+  },
+  {
+    "start": 5.365,
+    "end": 5.565,
+    "word": "niya",
+    "probability": 0.7518032185580251
+  },
+  {
+    "start": 5.565,
+    "end": 5.765,
+    "word": "sa",
+    "probability": 0.965610733838165
+  },
+  {
+    "start": 5.765,
+    "end": 6.166,
+    "word": "kanyang",
+    "probability": 0.9531936402860287
+  },
+  {
+    "start": 6.166,
+    "end": 6.346,
+    "word": "mga",
+    "probability": 0.99
+  },
+  {
+    "start": 6.346,
+    "end": 7.087,
+    "word": "kaibigan",
+    "probability": 0.9879982385017744
+  },
+  {
+    "start": 7.087,
+    "end": 7.727,
+    "word": "na",
+    "probability": 0.9887862713038484
+  },
+  {
+    "start": 7.727,
+    "end": 8.067,
+    "word": "sila",
+    "probability": 0.9656107625966069
+  },
+  {
+    "start": 8.067,
+    "end": 8.248,
+    "word": "ay",
+    "probability": 0.9043770244521523
+  },
+  {
+    "start": 8.248,
+    "end": 8.648,
+    "word": "nasa",
+    "probability": 0.9409456461850988
+  },
+  {
+    "start": 8.648,
+    "end": 9.028,
+    "word": "kama",
+    "probability": 0.8920119925606443
+  },
+  {
+    "start": 9.028,
+    "end": 9.349,
+    "word": "dahil",
+    "probability": 0.9586721527857364
+  },
+  {
+    "start": 9.349,
+    "end": 9.509,
+    "word": "may",
+    "probability": 0.9648533704806427
+  },
+  {
+    "start": 9.509,
+    "end": 10.169,
+    "word": "sipon",
+    "probability": 0.9843997604940364
+  },
+  {
+    "start": 10.169,
+    "end": 10.89,
+    "word": "na",
+    "probability": 0.99
+  },
+  {
+    "start": 10.89,
+    "end": 11.23,
+    "word": "hindi",
+    "probability": 0.9580215124660764
+  },
+  {
+    "start": 11.23,
+    "end": 11.551,
+    "word": "naman",
+    "probability": 0.9818197332004088
+  },
+  {
+    "start": 11.551,
+    "end": 11.891,
+    "word": "totoo",
+    "probability": 0.9671654309724391
+  }
+]

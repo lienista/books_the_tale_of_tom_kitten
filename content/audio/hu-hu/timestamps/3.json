@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.542,
+    "end": 0.904,
+    "word": "Először",
+    "probability": 0.6641316390191603
+  },
+  {
+    "start": 0.904,
+    "end": 1.286,
+    "word": "megmosta",
+    "probability": 0.5778278385586119
+  },
+  {
+    "start": 1.286,
+    "end": 1.487,
+    "word": "az",
+    "probability": 0.7977376095888126
+  },
+  {
+    "start": 1.487,
+    "end": 1.868,
+    "word": "arcukat",
+    "probability": 0.5788811541387745
+  },
+  {
+    "start": 1.868,
+    "end": 2.069,
+    "word": "ez",
+    "probability": 0.6992214429461324
+  },
+  {
+    "start": 2.069,
+    "end": 2.893,
+    "word": "itt",
+    "probability": 0.8986826002207864
+  },
+  {
+    "start": 2.893,
+    "end": 3.154,
+    "word": "Moppet",
+    "probability": 0.6153707273634634
+  }
+]

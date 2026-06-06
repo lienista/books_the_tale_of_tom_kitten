@@ -1,0 +1,164 @@
+[
+  {
+    "start": 0.12,
+    "end": 0.22,
+    "word": "Era",
+    "probability": 0.912656241959079
+  },
+  {
+    "start": 0.22,
+    "end": 0.341,
+    "word": "un",
+    "probability": 0.9471856562963428
+  },
+  {
+    "start": 0.341,
+    "end": 0.962,
+    "word": "dezastru",
+    "probability": 0.9863136511458447
+  },
+  {
+    "start": 0.962,
+    "end": 1.222,
+    "word": "până",
+    "probability": 0.9379070698708357
+  },
+  {
+    "start": 1.222,
+    "end": 1.443,
+    "word": "când",
+    "probability": 0.8838160215755143
+  },
+  {
+    "start": 1.443,
+    "end": 1.543,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 1.543,
+    "end": 1.943,
+    "word": "ajuns",
+    "probability": 0.9822618029575553
+  },
+  {
+    "start": 1.943,
+    "end": 2.044,
+    "word": "în",
+    "probability": 0.99
+  },
+  {
+    "start": 2.044,
+    "end": 2.444,
+    "word": "vârful",
+    "probability": 0.9427724763708163
+  },
+  {
+    "start": 2.444,
+    "end": 2.965,
+    "word": "zidului",
+    "probability": 0.9522219096457789
+  },
+  {
+    "start": 2.965,
+    "end": 3.867,
+    "word": "Moppet",
+    "probability": 0.9421860871809462
+  },
+  {
+    "start": 3.867,
+    "end": 3.987,
+    "word": "și",
+    "probability": 0.931411256705899
+  },
+  {
+    "start": 3.987,
+    "end": 4.548,
+    "word": "Mittens",
+    "probability": 0.7982001304561789
+  },
+  {
+    "start": 4.548,
+    "end": 4.728,
+    "word": "au",
+    "probability": 0.8740988540250205
+  },
+  {
+    "start": 4.728,
+    "end": 5.189,
+    "word": "încercat",
+    "probability": 0.9597756117266707
+  },
+  {
+    "start": 5.189,
+    "end": 5.309,
+    "word": "săi",
+    "probability": 0.5239097251604204
+  },
+  {
+    "start": 5.309,
+    "end": 5.69,
+    "word": "repare",
+    "probability": 0.9519358601934022
+  },
+  {
+    "start": 5.69,
+    "end": 6.191,
+    "word": "hainele",
+    "probability": 0.9410147906177495
+  },
+  {
+    "start": 6.191,
+    "end": 6.832,
+    "word": "dar",
+    "probability": 0.99
+  },
+  {
+    "start": 6.832,
+    "end": 7.393,
+    "word": "pălăria",
+    "probability": 0.9825507473741729
+  },
+  {
+    "start": 7.393,
+    "end": 7.553,
+    "word": "ia",
+    "probability": 0.99
+  },
+  {
+    "start": 7.553,
+    "end": 8.014,
+    "word": "căzut",
+    "probability": 0.99
+  },
+  {
+    "start": 8.014,
+    "end": 8.174,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 8.174,
+    "end": 8.615,
+    "word": "ultimii",
+    "probability": 0.9328169395692566
+  },
+  {
+    "start": 8.615,
+    "end": 9.096,
+    "word": "nasturi",
+    "probability": 0.949769081479455
+  },
+  {
+    "start": 9.096,
+    "end": 9.316,
+    "word": "sau",
+    "probability": 0.8191121665806501
+  },
+  {
+    "start": 9.316,
+    "end": 9.537,
+    "word": "rupt",
+    "probability": 0.9615711497989522
+  }
+]

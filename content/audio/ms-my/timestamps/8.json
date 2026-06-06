@@ -1,0 +1,296 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.52,
+    "word": "Apabila",
+    "probability": 0.99
+  },
+  {
+    "start": 0.52,
+    "end": 1.261,
+    "word": "ketigatiga",
+    "probability": 0.937893253787395
+  },
+  {
+    "start": 1.261,
+    "end": 1.501,
+    "word": "anak",
+    "probability": 0.99
+  },
+  {
+    "start": 1.501,
+    "end": 1.881,
+    "word": "kucing",
+    "probability": 0.986467270354573
+  },
+  {
+    "start": 1.881,
+    "end": 2.182,
+    "word": "itu",
+    "probability": 0.9705949448304211
+  },
+  {
+    "start": 2.182,
+    "end": 2.682,
+    "word": "sudah",
+    "probability": 0.9857314061707154
+  },
+  {
+    "start": 2.682,
+    "end": 3.283,
+    "word": "bersedia",
+    "probability": 0.979977165703407
+  },
+  {
+    "start": 3.283,
+    "end": 4.203,
+    "word": "Mrs",
+    "probability": 0.944722406017653
+  },
+  {
+    "start": 4.203,
+    "end": 4.904,
+    "word": "Tabitha",
+    "probability": 0.8902277442010003
+  },
+  {
+    "start": 4.904,
+    "end": 5.204,
+    "word": "telah",
+    "probability": 0.9659771422721487
+  },
+  {
+    "start": 5.204,
+    "end": 5.724,
+    "word": "melakukan",
+    "probability": 0.9691555190415181
+  },
+  {
+    "start": 5.724,
+    "end": 6.345,
+    "word": "kesilapan",
+    "probability": 0.9827411950355542
+  },
+  {
+    "start": 6.345,
+    "end": 7.106,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 7.106,
+    "end": 7.706,
+    "word": "menghantar",
+    "probability": 0.9764205092724827
+  },
+  {
+    "start": 7.706,
+    "end": 8.246,
+    "word": "mereka",
+    "probability": 0.99
+  },
+  {
+    "start": 8.246,
+    "end": 8.707,
+    "word": "keluar",
+    "probability": 0.9785533910946786
+  },
+  {
+    "start": 8.707,
+    "end": 8.867,
+    "word": "ke",
+    "probability": 0.99
+  },
+  {
+    "start": 8.867,
+    "end": 9.247,
+    "word": "taman",
+    "probability": 0.9630011683583561
+  },
+  {
+    "start": 9.247,
+    "end": 10.068,
+    "word": "sementara",
+    "probability": 0.9859444741968597
+  },
+  {
+    "start": 10.068,
+    "end": 10.308,
+    "word": "dia",
+    "probability": 0.9870160136962028
+  },
+  {
+    "start": 10.308,
+    "end": 10.949,
+    "word": "menyediakan",
+    "probability": 0.9819066914323682
+  },
+  {
+    "start": 10.949,
+    "end": 11.329,
+    "word": "roti",
+    "probability": 0.99
+  },
+  {
+    "start": 11.329,
+    "end": 11.709,
+    "word": "bakar",
+    "probability": 0.9871825640191669
+  },
+  {
+    "start": 11.709,
+    "end": 12.39,
+    "word": "bermentega",
+    "probability": 0.98168457862394
+  },
+  {
+    "start": 12.39,
+    "end": 12.69,
+    "word": "yang",
+    "probability": 0.9808363376118813
+  },
+  {
+    "start": 12.69,
+    "end": 13.15,
+    "word": "panas",
+    "probability": 0.9810748481434769
+  },
+  {
+    "start": 13.15,
+    "end": 14.732,
+    "word": "Sekarang",
+    "probability": 0.99
+  },
+  {
+    "start": 14.732,
+    "end": 15.952,
+    "word": "pastikan",
+    "probability": 0.99
+  },
+  {
+    "start": 15.952,
+    "end": 16.393,
+    "word": "pakaian",
+    "probability": 0.9867277342318932
+  },
+  {
+    "start": 16.393,
+    "end": 16.733,
+    "word": "kamu",
+    "probability": 0.9856924539340478
+  },
+  {
+    "start": 16.733,
+    "end": 17.173,
+    "word": "bersih",
+    "probability": 0.99
+  },
+  {
+    "start": 17.173,
+    "end": 18.214,
+    "word": "anakanak",
+    "probability": 0.9769687675360166
+  },
+  {
+    "start": 18.214,
+    "end": 19.395,
+    "word": "Berjalan",
+    "probability": 0.9852612766261305
+  },
+  {
+    "start": 19.395,
+    "end": 19.715,
+    "word": "dengan",
+    "probability": 0.9648742892081134
+  },
+  {
+    "start": 19.715,
+    "end": 20.056,
+    "word": "kaki",
+    "probability": 0.99
+  },
+  {
+    "start": 20.056,
+    "end": 20.576,
+    "word": "belakang",
+    "probability": 0.9855598339542803
+  },
+  {
+    "start": 20.576,
+    "end": 20.996,
+    "word": "kamu",
+    "probability": 0.99
+  },
+  {
+    "start": 20.996,
+    "end": 22.578,
+    "word": "Jauhi",
+    "probability": 0.99
+  },
+  {
+    "start": 22.578,
+    "end": 23.078,
+    "word": "lubang",
+    "probability": 0.9826783017492278
+  },
+  {
+    "start": 23.078,
+    "end": 23.438,
+    "word": "abu",
+    "probability": 0.99
+  },
+  {
+    "start": 23.438,
+    "end": 23.719,
+    "word": "yang",
+    "probability": 0.9670677010675034
+  },
+  {
+    "start": 23.719,
+    "end": 24.459,
+    "word": "berlumpur",
+    "probability": 0.99
+  },
+  {
+    "start": 24.459,
+    "end": 25.68,
+    "word": "Sally",
+    "probability": 0.9706927850674063
+  },
+  {
+    "start": 25.68,
+    "end": 26.561,
+    "word": "HennyPenny",
+    "probability": 0.8696318279813228
+  },
+  {
+    "start": 26.561,
+    "end": 27.642,
+    "word": "kandang",
+    "probability": 0.9630144507283498
+  },
+  {
+    "start": 27.642,
+    "end": 28.102,
+    "word": "babi",
+    "probability": 0.99
+  },
+  {
+    "start": 28.102,
+    "end": 28.642,
+    "word": "dan",
+    "probability": 0.9877177383895331
+  },
+  {
+    "start": 28.642,
+    "end": 29.563,
+    "word": "PuddleDucks",
+    "probability": 0.84027815803332
+  },
+  {
+    "start": 29.563,
+    "end": 29.983,
+    "word": "itu",
+    "probability": 0.9387511050513181
+  }
+]

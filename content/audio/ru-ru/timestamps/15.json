@@ -1,0 +1,104 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.38,
+    "word": "Затем",
+    "probability": 0.99
+  },
+  {
+    "start": 0.38,
+    "end": 0.58,
+    "word": "две",
+    "probability": 0.99
+  },
+  {
+    "start": 0.58,
+    "end": 1.241,
+    "word": "уточки",
+    "probability": 0.9897738517668356
+  },
+  {
+    "start": 1.241,
+    "end": 2.342,
+    "word": "Ребекка",
+    "probability": 0.9811199975240796
+  },
+  {
+    "start": 2.342,
+    "end": 2.442,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 2.442,
+    "end": 3.042,
+    "word": "Джемайма",
+    "probability": 0.9725073467307062
+  },
+  {
+    "start": 3.042,
+    "end": 3.823,
+    "word": "ПаддлДак",
+    "probability": 0.9120844209483006
+  },
+  {
+    "start": 3.823,
+    "end": 4.924,
+    "word": "подобрали",
+    "probability": 0.99
+  },
+  {
+    "start": 4.924,
+    "end": 5.484,
+    "word": "шляпу",
+    "probability": 0.99
+  },
+  {
+    "start": 5.484,
+    "end": 5.684,
+    "word": "и",
+    "probability": 0.99
+  },
+  {
+    "start": 5.684,
+    "end": 6.305,
+    "word": "кружевной",
+    "probability": 0.9345195396948722
+  },
+  {
+    "start": 6.305,
+    "end": 7.106,
+    "word": "воротничок",
+    "probability": 0.9890205573397285
+  },
+  {
+    "start": 7.106,
+    "end": 7.626,
+    "word": "и",
+    "probability": 0.9847598388072846
+  },
+  {
+    "start": 7.626,
+    "end": 8.166,
+    "word": "надели",
+    "probability": 0.99
+  },
+  {
+    "start": 8.166,
+    "end": 8.366,
+    "word": "их",
+    "probability": 0.99
+  },
+  {
+    "start": 8.366,
+    "end": 8.467,
+    "word": "на",
+    "probability": 0.99
+  },
+  {
+    "start": 8.467,
+    "end": 8.767,
+    "word": "себя",
+    "probability": 0.9876790314042727
+  }
+]

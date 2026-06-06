@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.34,
+    "word": "Apoi",
+    "probability": 0.99
+  },
+  {
+    "start": 0.34,
+    "end": 0.481,
+    "word": "lea",
+    "probability": 0.9458923447996215
+  },
+  {
+    "start": 0.481,
+    "end": 1.102,
+    "word": "pieptănat",
+    "probability": 0.99
+  },
+  {
+    "start": 1.102,
+    "end": 1.662,
+    "word": "cozile",
+    "probability": 0.9727558813721696
+  },
+  {
+    "start": 1.662,
+    "end": 1.803,
+    "word": "și",
+    "probability": 0.99
+  },
+  {
+    "start": 1.803,
+    "end": 2.504,
+    "word": "mustățile",
+    "probability": 0.9859860905139497
+  },
+  {
+    "start": 2.504,
+    "end": 3.084,
+    "word": "acesta",
+    "probability": 0.9619235940496755
+  },
+  {
+    "start": 3.084,
+    "end": 3.385,
+    "word": "este",
+    "probability": 0.9721170486531848
+  },
+  {
+    "start": 3.385,
+    "end": 3.645,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 3.645,
+    "end": 4.126,
+    "word": "Kitten",
+    "probability": 0.8405348937122558
+  },
+  {
+    "start": 4.126,
+    "end": 4.827,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 4.827,
+    "end": 5.167,
+    "word": "tot",
+    "probability": 0.9785458056377104
+  },
+  {
+    "start": 5.167,
+    "end": 5.648,
+    "word": "încerca",
+    "probability": 0.9711926140215349
+  },
+  {
+    "start": 5.648,
+    "end": 5.848,
+    "word": "să",
+    "probability": 0.8588548778670771
+  },
+  {
+    "start": 5.848,
+    "end": 6.309,
+    "word": "zgârie",
+    "probability": 0.9647570084956475
+  },
+  {
+    "start": 6.309,
+    "end": 6.93,
+    "word": "pieptenele",
+    "probability": 0.9764633342893667
+  }
+]

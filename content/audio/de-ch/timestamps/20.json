@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.34,
+    "word": "Dann",
+    "probability": 0.6947192580716712
+  },
+  {
+    "start": 0.34,
+    "end": 0.761,
+    "word": "kam",
+    "probability": 0.839685998401515
+  },
+  {
+    "start": 0.761,
+    "end": 1.342,
+    "word": "Tabitha",
+    "probability": 0.8035807135167649
+  },
+  {
+    "start": 1.342,
+    "end": 2.083,
+    "word": "Twitchit",
+    "probability": 0.8362591246275322
+  },
+  {
+    "start": 2.083,
+    "end": 2.303,
+    "word": "in",
+    "probability": 0.8977017309902617
+  },
+  {
+    "start": 2.303,
+    "end": 2.463,
+    "word": "den",
+    "probability": 0.9398220890430906
+  },
+  {
+    "start": 2.463,
+    "end": 3.044,
+    "word": "Garten",
+    "probability": 0.9865505317771482
+  },
+  {
+    "start": 3.044,
+    "end": 3.465,
+    "word": "und",
+    "probability": 0.9835128241156768
+  },
+  {
+    "start": 3.465,
+    "end": 3.845,
+    "word": "fand",
+    "probability": 0.9836722329013272
+  },
+  {
+    "start": 3.845,
+    "end": 4.086,
+    "word": "ihre",
+    "probability": 0.9694196668581183
+  },
+  {
+    "start": 4.086,
+    "end": 4.707,
+    "word": "Kätzchen",
+    "probability": 0.9843395360026326
+  },
+  {
+    "start": 4.707,
+    "end": 5.187,
+    "word": "ohne",
+    "probability": 0.9817939554318338
+  },
+  {
+    "start": 5.187,
+    "end": 5.868,
+    "word": "Kleidung",
+    "probability": 0.9793289041046913
+  },
+  {
+    "start": 5.868,
+    "end": 6.329,
+    "word": "auf",
+    "probability": 0.99
+  },
+  {
+    "start": 6.329,
+    "end": 6.529,
+    "word": "der",
+    "probability": 0.9612785887959443
+  },
+  {
+    "start": 6.529,
+    "end": 6.91,
+    "word": "Mauer",
+    "probability": 0.9840821438517257
+  }
+]

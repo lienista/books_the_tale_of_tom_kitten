@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.986,
+    "end": 1.126,
+    "word": "Sitten",
+    "probability": 0.28570383011770734
+  },
+  {
+    "start": 1.126,
+    "end": 1.227,
+    "word": "hän",
+    "probability": 0.39757140367251936
+  },
+  {
+    "start": 1.227,
+    "end": 1.468,
+    "word": "harjasi",
+    "probability": 0.3329872460027042
+  },
+  {
+    "start": 1.468,
+    "end": 1.67,
+    "word": "heidän",
+    "probability": 0.3893026420463722
+  },
+  {
+    "start": 1.67,
+    "end": 2.092,
+    "word": "turkkinsa",
+    "probability": 0.5460058906239212
+  },
+  {
+    "start": 2.092,
+    "end": 2.655,
+    "word": "tämä",
+    "probability": 0.7956371924201541
+  },
+  {
+    "start": 2.655,
+    "end": 2.776,
+    "word": "on",
+    "probability": 0.4600069700625172
+  },
+  {
+    "start": 2.776,
+    "end": 2.997,
+    "word": "Mittens",
+    "probability": 0.45451873696230627
+  }
+]

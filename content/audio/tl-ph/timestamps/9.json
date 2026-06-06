@@ -1,0 +1,254 @@
+[
+  {
+    "start": 0.06,
+    "end": 1.121,
+    "word": "Nagpagewanggewang",
+    "probability": 0.9211784899315703
+  },
+  {
+    "start": 1.121,
+    "end": 1.581,
+    "word": "sina",
+    "probability": 0.9736395817323263
+  },
+  {
+    "start": 1.581,
+    "end": 2.101,
+    "word": "Moppet",
+    "probability": 0.8859678710575646
+  },
+  {
+    "start": 2.101,
+    "end": 2.421,
+    "word": "at",
+    "probability": 0.9798837702409087
+  },
+  {
+    "start": 2.421,
+    "end": 3.042,
+    "word": "Mittens",
+    "probability": 0.9458052116407364
+  },
+  {
+    "start": 3.042,
+    "end": 3.222,
+    "word": "sa",
+    "probability": 0.9171121480979294
+  },
+  {
+    "start": 3.222,
+    "end": 3.742,
+    "word": "landas",
+    "probability": 0.9865764124283435
+  },
+  {
+    "start": 3.742,
+    "end": 3.942,
+    "word": "ng",
+    "probability": 0.9634291290552296
+  },
+  {
+    "start": 3.942,
+    "end": 4.523,
+    "word": "hardin",
+    "probability": 0.99
+  },
+  {
+    "start": 4.523,
+    "end": 5.743,
+    "word": "Mayamaya",
+    "probability": 0.9616472413021313
+  },
+  {
+    "start": 5.743,
+    "end": 5.924,
+    "word": "ay",
+    "probability": 0.9340227282943901
+  },
+  {
+    "start": 5.924,
+    "end": 6.524,
+    "word": "natisod",
+    "probability": 0.99
+  },
+  {
+    "start": 6.524,
+    "end": 6.844,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 6.844,
+    "end": 7.565,
+    "word": "sa",
+    "probability": 0.9860344299907049
+  },
+  {
+    "start": 7.565,
+    "end": 8.085,
+    "word": "kanilang",
+    "probability": 0.9788570149693027
+  },
+  {
+    "start": 8.085,
+    "end": 8.365,
+    "word": "mga",
+    "probability": 0.9449814527860856
+  },
+  {
+    "start": 8.365,
+    "end": 8.865,
+    "word": "damit",
+    "probability": 0.9577034700043299
+  },
+  {
+    "start": 8.865,
+    "end": 9.186,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 9.186,
+    "end": 9.666,
+    "word": "nadapa",
+    "probability": 0.9852486452631565
+  },
+  {
+    "start": 9.666,
+    "end": 10.686,
+    "word": "Nang",
+    "probability": 0.987807840686429
+  },
+  {
+    "start": 10.686,
+    "end": 11.167,
+    "word": "tumayo",
+    "probability": 0.9748451001752741
+  },
+  {
+    "start": 11.167,
+    "end": 11.627,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 11.627,
+    "end": 12.708,
+    "word": "puno",
+    "probability": 0.99
+  },
+  {
+    "start": 12.708,
+    "end": 13.088,
+    "word": "sila",
+    "probability": 0.99
+  },
+  {
+    "start": 13.088,
+    "end": 13.308,
+    "word": "ng",
+    "probability": 0.9443670959572924
+  },
+  {
+    "start": 13.308,
+    "end": 13.828,
+    "word": "mantsa",
+    "probability": 0.9198352186838264
+  },
+  {
+    "start": 13.828,
+    "end": 14.049,
+    "word": "ng",
+    "probability": 0.8556900527200291
+  },
+  {
+    "start": 14.049,
+    "end": 14.369,
+    "word": "damo",
+    "probability": 0.9433553020137735
+  },
+  {
+    "start": 14.369,
+    "end": 15.87,
+    "word": "Umakyat",
+    "probability": 0.99
+  },
+  {
+    "start": 15.87,
+    "end": 16.23,
+    "word": "tayo",
+    "probability": 0.9789919267844069
+  },
+  {
+    "start": 16.23,
+    "end": 16.41,
+    "word": "sa",
+    "probability": 0.9774736147679175
+  },
+  {
+    "start": 16.41,
+    "end": 16.67,
+    "word": "mga",
+    "probability": 0.9058812041405944
+  },
+  {
+    "start": 16.67,
+    "end": 16.99,
+    "word": "bato",
+    "probability": 0.99
+  },
+  {
+    "start": 16.99,
+    "end": 17.551,
+    "word": "at",
+    "probability": 0.99
+  },
+  {
+    "start": 17.551,
+    "end": 17.971,
+    "word": "umupo",
+    "probability": 0.99
+  },
+  {
+    "start": 17.971,
+    "end": 18.211,
+    "word": "sa",
+    "probability": 0.8563093056787112
+  },
+  {
+    "start": 18.211,
+    "end": 18.591,
+    "word": "pader",
+    "probability": 0.99
+  },
+  {
+    "start": 18.591,
+    "end": 18.771,
+    "word": "ng",
+    "probability": 0.9520509074843458
+  },
+  {
+    "start": 18.771,
+    "end": 19.312,
+    "word": "hardin",
+    "probability": 0.99
+  },
+  {
+    "start": 19.312,
+    "end": 20.612,
+    "word": "mungkahi",
+    "probability": 0.99
+  },
+  {
+    "start": 20.612,
+    "end": 20.793,
+    "word": "ni",
+    "probability": 0.8890008261812259
+  },
+  {
+    "start": 20.793,
+    "end": 21.253,
+    "word": "Moppet",
+    "probability": 0.9241977575071002
+  }
+]

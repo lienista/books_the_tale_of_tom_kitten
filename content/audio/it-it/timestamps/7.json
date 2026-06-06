@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.28,
+    "word": "Tom",
+    "probability": 0.8148640467161087
+  },
+  {
+    "start": 0.28,
+    "end": 0.801,
+    "word": "Kitten",
+    "probability": 0.7925434206154153
+  },
+  {
+    "start": 0.801,
+    "end": 1.001,
+    "word": "era",
+    "probability": 0.9496187227691172
+  },
+  {
+    "start": 1.001,
+    "end": 1.721,
+    "word": "piuttosto",
+    "probability": 0.971247344553811
+  },
+  {
+    "start": 1.721,
+    "end": 2.522,
+    "word": "paffuto",
+    "probability": 0.9890767308278399
+  },
+  {
+    "start": 2.522,
+    "end": 2.582,
+    "word": "e",
+    "probability": 0.847149891430785
+  },
+  {
+    "start": 2.582,
+    "end": 3.342,
+    "word": "cresciuto",
+    "probability": 0.9843724595448723
+  },
+  {
+    "start": 3.342,
+    "end": 4.263,
+    "word": "diversi",
+    "probability": 0.9883460006299383
+  },
+  {
+    "start": 4.263,
+    "end": 4.783,
+    "word": "bottoni",
+    "probability": 0.99
+  },
+  {
+    "start": 4.783,
+    "end": 4.983,
+    "word": "si",
+    "probability": 0.9522123127965376
+  },
+  {
+    "start": 4.983,
+    "end": 5.724,
+    "word": "staccarono",
+    "probability": 0.99
+  },
+  {
+    "start": 5.724,
+    "end": 6.744,
+    "word": "immediatamente",
+    "probability": 0.99
+  },
+  {
+    "start": 6.744,
+    "end": 7.485,
+    "word": "Sua",
+    "probability": 0.99
+  },
+  {
+    "start": 7.485,
+    "end": 7.905,
+    "word": "madre",
+    "probability": 0.9736558091169127
+  },
+  {
+    "start": 7.905,
+    "end": 8.686,
+    "word": "sospirò",
+    "probability": 0.99
+  },
+  {
+    "start": 8.686,
+    "end": 9.066,
+    "word": "e",
+    "probability": 0.9725836435961144
+  },
+  {
+    "start": 9.066,
+    "end": 9.266,
+    "word": "li",
+    "probability": 0.9443330744398226
+  },
+  {
+    "start": 9.266,
+    "end": 9.646,
+    "word": "cucì",
+    "probability": 0.9898001220111143
+  },
+  {
+    "start": 9.646,
+    "end": 9.866,
+    "word": "di",
+    "probability": 0.9485666308411816
+  },
+  {
+    "start": 9.866,
+    "end": 10.307,
+    "word": "nuovo",
+    "probability": 0.99
+  }
+]

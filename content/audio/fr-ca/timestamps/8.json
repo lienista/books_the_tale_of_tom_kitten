@@ -1,0 +1,314 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.22,
+    "word": "Quand",
+    "probability": 0.7175094530713089
+  },
+  {
+    "start": 0.22,
+    "end": 0.38,
+    "word": "les",
+    "probability": 0.8860855166466355
+  },
+  {
+    "start": 0.38,
+    "end": 0.621,
+    "word": "trois",
+    "probability": 0.9850164352478866
+  },
+  {
+    "start": 0.621,
+    "end": 1.061,
+    "word": "chatons",
+    "probability": 0.9263666045040276
+  },
+  {
+    "start": 1.061,
+    "end": 1.401,
+    "word": "furent",
+    "probability": 0.9768784007438792
+  },
+  {
+    "start": 1.401,
+    "end": 1.742,
+    "word": "prêts",
+    "probability": 0.9706042473241813
+  },
+  {
+    "start": 1.742,
+    "end": 2.422,
+    "word": "Mme",
+    "probability": 0.9056489435490613
+  },
+  {
+    "start": 2.422,
+    "end": 2.943,
+    "word": "Tabitha",
+    "probability": 0.9415000736725212
+  },
+  {
+    "start": 2.943,
+    "end": 3.243,
+    "word": "fit",
+    "probability": 0.9832776193439978
+  },
+  {
+    "start": 3.243,
+    "end": 3.423,
+    "word": "une",
+    "probability": 0.9889285613152605
+  },
+  {
+    "start": 3.423,
+    "end": 3.803,
+    "word": "erreur",
+    "probability": 0.99
+  },
+  {
+    "start": 3.803,
+    "end": 4.264,
+    "word": "et",
+    "probability": 0.97040493071936
+  },
+  {
+    "start": 4.264,
+    "end": 4.444,
+    "word": "les",
+    "probability": 0.99
+  },
+  {
+    "start": 4.444,
+    "end": 4.924,
+    "word": "envoya",
+    "probability": 0.99
+  },
+  {
+    "start": 4.924,
+    "end": 5.125,
+    "word": "dans",
+    "probability": 0.9757415731992967
+  },
+  {
+    "start": 5.125,
+    "end": 5.245,
+    "word": "le",
+    "probability": 0.99
+  },
+  {
+    "start": 5.245,
+    "end": 5.685,
+    "word": "jardin",
+    "probability": 0.99
+  },
+  {
+    "start": 5.685,
+    "end": 6.186,
+    "word": "pendant",
+    "probability": 0.99
+  },
+  {
+    "start": 6.186,
+    "end": 6.406,
+    "word": "quelle",
+    "probability": 0.9042508452143584
+  },
+  {
+    "start": 6.406,
+    "end": 6.966,
+    "word": "préparait",
+    "probability": 0.959177155528032
+  },
+  {
+    "start": 6.966,
+    "end": 7.106,
+    "word": "des",
+    "probability": 0.99
+  },
+  {
+    "start": 7.106,
+    "end": 7.647,
+    "word": "toasts",
+    "probability": 0.9165565000923299
+  },
+  {
+    "start": 7.647,
+    "end": 8.167,
+    "word": "chauds",
+    "probability": 0.9411213318405411
+  },
+  {
+    "start": 8.167,
+    "end": 8.828,
+    "word": "beurrés",
+    "probability": 0.8851331752004155
+  },
+  {
+    "start": 8.828,
+    "end": 9.669,
+    "word": "Maintenant",
+    "probability": 0.960899643460957
+  },
+  {
+    "start": 9.669,
+    "end": 10.349,
+    "word": "gardez",
+    "probability": 0.99
+  },
+  {
+    "start": 10.349,
+    "end": 10.529,
+    "word": "vos",
+    "probability": 0.99
+  },
+  {
+    "start": 10.529,
+    "end": 11.01,
+    "word": "vêtements",
+    "probability": 0.9759448128349962
+  },
+  {
+    "start": 11.01,
+    "end": 11.47,
+    "word": "propres",
+    "probability": 0.99
+  },
+  {
+    "start": 11.47,
+    "end": 11.871,
+    "word": "les",
+    "probability": 0.98981720456742
+  },
+  {
+    "start": 11.871,
+    "end": 12.371,
+    "word": "enfants",
+    "probability": 0.99
+  },
+  {
+    "start": 12.371,
+    "end": 13.172,
+    "word": "Marchez",
+    "probability": 0.9721424431472403
+  },
+  {
+    "start": 13.172,
+    "end": 13.372,
+    "word": "sur",
+    "probability": 0.9609611049511819
+  },
+  {
+    "start": 13.372,
+    "end": 13.532,
+    "word": "vos",
+    "probability": 0.9853295352202465
+  },
+  {
+    "start": 13.532,
+    "end": 13.872,
+    "word": "pattes",
+    "probability": 0.9356046719362645
+  },
+  {
+    "start": 13.872,
+    "end": 14.513,
+    "word": "arrière",
+    "probability": 0.9852620061790307
+  },
+  {
+    "start": 14.513,
+    "end": 15.594,
+    "word": "Éloignezvous",
+    "probability": 0.945921398816312
+  },
+  {
+    "start": 15.594,
+    "end": 15.874,
+    "word": "du",
+    "probability": 0.9808887026333357
+  },
+  {
+    "start": 15.874,
+    "end": 16.134,
+    "word": "tas",
+    "probability": 0.99
+  },
+  {
+    "start": 16.134,
+    "end": 16.315,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 16.315,
+    "end": 16.855,
+    "word": "cendres",
+    "probability": 0.9843907788012273
+  },
+  {
+    "start": 16.855,
+    "end": 17.736,
+    "word": "boueuses",
+    "probability": 0.9202405360333009
+  },
+  {
+    "start": 17.736,
+    "end": 18.076,
+    "word": "de",
+    "probability": 0.9502650867864302
+  },
+  {
+    "start": 18.076,
+    "end": 18.517,
+    "word": "Sally",
+    "probability": 0.9266335168011143
+  },
+  {
+    "start": 18.517,
+    "end": 19.517,
+    "word": "HennyPenny",
+    "probability": 0.9027861574695626
+  },
+  {
+    "start": 19.517,
+    "end": 19.858,
+    "word": "de",
+    "probability": 0.9433744751245722
+  },
+  {
+    "start": 19.858,
+    "end": 20.018,
+    "word": "la",
+    "probability": 0.9764300655503713
+  },
+  {
+    "start": 20.018,
+    "end": 20.779,
+    "word": "porcherie",
+    "probability": 0.9674650646195966
+  },
+  {
+    "start": 20.779,
+    "end": 21.099,
+    "word": "et",
+    "probability": 0.9603468074528723
+  },
+  {
+    "start": 21.099,
+    "end": 21.239,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 21.239,
+    "end": 21.479,
+    "word": "ces",
+    "probability": 0.9431725415174325
+  },
+  {
+    "start": 21.479,
+    "end": 22.58,
+    "word": "PuddleDucks",
+    "probability": 0.8269360894168575
+  }
+]

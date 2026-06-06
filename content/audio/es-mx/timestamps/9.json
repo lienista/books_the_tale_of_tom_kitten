@@ -1,0 +1,242 @@
+[
+  {
+    "start": 0.04,
+    "end": 0.441,
+    "word": "Moppet",
+    "probability": 0.943131658891717
+  },
+  {
+    "start": 0.441,
+    "end": 0.521,
+    "word": "y",
+    "probability": 0.8133726199106902
+  },
+  {
+    "start": 0.521,
+    "end": 1.021,
+    "word": "Mittens",
+    "probability": 0.9527677365123312
+  },
+  {
+    "start": 1.021,
+    "end": 1.742,
+    "word": "tambalearon",
+    "probability": 0.9791211395302744
+  },
+  {
+    "start": 1.742,
+    "end": 1.922,
+    "word": "por",
+    "probability": 0.98010965903454
+  },
+  {
+    "start": 1.922,
+    "end": 2.022,
+    "word": "el",
+    "probability": 0.9097866846691355
+  },
+  {
+    "start": 2.022,
+    "end": 2.443,
+    "word": "camino",
+    "probability": 0.9808208636858499
+  },
+  {
+    "start": 2.443,
+    "end": 2.603,
+    "word": "del",
+    "probability": 0.9205527062735672
+  },
+  {
+    "start": 2.603,
+    "end": 3.104,
+    "word": "jardín",
+    "probability": 0.9757204834688207
+  },
+  {
+    "start": 3.104,
+    "end": 4.125,
+    "word": "Pronto",
+    "probability": 0.99
+  },
+  {
+    "start": 4.125,
+    "end": 4.765,
+    "word": "tropezaron",
+    "probability": 0.9884572597752861
+  },
+  {
+    "start": 4.765,
+    "end": 4.946,
+    "word": "con",
+    "probability": 0.99
+  },
+  {
+    "start": 4.946,
+    "end": 5.126,
+    "word": "sus",
+    "probability": 0.97511190873263
+  },
+  {
+    "start": 5.126,
+    "end": 5.667,
+    "word": "vestidos",
+    "probability": 0.9794441375344846
+  },
+  {
+    "start": 5.667,
+    "end": 5.847,
+    "word": "y",
+    "probability": 0.9683911040749378
+  },
+  {
+    "start": 5.847,
+    "end": 6.347,
+    "word": "cayeron",
+    "probability": 0.9789463322670887
+  },
+  {
+    "start": 6.347,
+    "end": 6.467,
+    "word": "de",
+    "probability": 0.99
+  },
+  {
+    "start": 6.467,
+    "end": 6.968,
+    "word": "bruces",
+    "probability": 0.9750384609473716
+  },
+  {
+    "start": 6.968,
+    "end": 7.769,
+    "word": "Cuando",
+    "probability": 0.99
+  },
+  {
+    "start": 7.769,
+    "end": 7.909,
+    "word": "se",
+    "probability": 0.99
+  },
+  {
+    "start": 7.909,
+    "end": 8.55,
+    "word": "levantaron",
+    "probability": 0.99
+  },
+  {
+    "start": 8.55,
+    "end": 9.151,
+    "word": "estaban",
+    "probability": 0.984897512539957
+  },
+  {
+    "start": 9.151,
+    "end": 9.731,
+    "word": "cubiertos",
+    "probability": 0.99
+  },
+  {
+    "start": 9.731,
+    "end": 9.831,
+    "word": "de",
+    "probability": 0.8792087533452393
+  },
+  {
+    "start": 9.831,
+    "end": 10.252,
+    "word": "manchas",
+    "probability": 0.9835332596905859
+  },
+  {
+    "start": 10.252,
+    "end": 10.352,
+    "word": "de",
+    "probability": 0.8651461865318252
+  },
+  {
+    "start": 10.352,
+    "end": 10.812,
+    "word": "hierba",
+    "probability": 0.9695332627956372
+  },
+  {
+    "start": 10.812,
+    "end": 11.854,
+    "word": "Subamos",
+    "probability": 0.99
+  },
+  {
+    "start": 11.854,
+    "end": 11.954,
+    "word": "a",
+    "probability": 0.9653882157960492
+  },
+  {
+    "start": 11.954,
+    "end": 12.134,
+    "word": "las",
+    "probability": 0.99
+  },
+  {
+    "start": 12.134,
+    "end": 12.675,
+    "word": "rocas",
+    "probability": 0.99
+  },
+  {
+    "start": 12.675,
+    "end": 12.755,
+    "word": "y",
+    "probability": 0.9689747184421866
+  },
+  {
+    "start": 12.755,
+    "end": 13.435,
+    "word": "sentémonos",
+    "probability": 0.946491839253027
+  },
+  {
+    "start": 13.435,
+    "end": 13.576,
+    "word": "en",
+    "probability": 0.8948941515225183
+  },
+  {
+    "start": 13.576,
+    "end": 13.676,
+    "word": "la",
+    "probability": 0.9538275997660307
+  },
+  {
+    "start": 13.676,
+    "end": 14.036,
+    "word": "pared",
+    "probability": 0.9831165822130852
+  },
+  {
+    "start": 14.036,
+    "end": 14.196,
+    "word": "del",
+    "probability": 0.9571532858926679
+  },
+  {
+    "start": 14.196,
+    "end": 14.677,
+    "word": "jardín",
+    "probability": 0.9870534720110422
+  },
+  {
+    "start": 14.677,
+    "end": 15.638,
+    "word": "sugirió",
+    "probability": 0.987254858775365
+  },
+  {
+    "start": 15.638,
+    "end": 16.078,
+    "word": "Moppet",
+    "probability": 0.9540379488462625
+  }
+]

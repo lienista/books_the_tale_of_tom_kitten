@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.06,
+    "end": 0.42,
+    "word": "Bayan",
+    "probability": 0.99
+  },
+  {
+    "start": 0.42,
+    "end": 1.041,
+    "word": "Tabitha",
+    "probability": 0.9402335781934023
+  },
+  {
+    "start": 1.041,
+    "end": 1.922,
+    "word": "Moppet",
+    "probability": 0.9293836215302188
+  },
+  {
+    "start": 1.922,
+    "end": 2.102,
+    "word": "ve",
+    "probability": 0.9584752626049219
+  },
+  {
+    "start": 2.102,
+    "end": 2.882,
+    "word": "Mittensı",
+    "probability": 0.830944872889093
+  },
+  {
+    "start": 2.882,
+    "end": 3.543,
+    "word": "temiz",
+    "probability": 0.9805689695374465
+  },
+  {
+    "start": 3.543,
+    "end": 3.943,
+    "word": "küçük",
+    "probability": 0.99
+  },
+  {
+    "start": 3.943,
+    "end": 4.764,
+    "word": "elbiseler",
+    "probability": 0.966547339957276
+  },
+  {
+    "start": 4.764,
+    "end": 5.245,
+    "word": "ve",
+    "probability": 0.9777596649976777
+  },
+  {
+    "start": 5.245,
+    "end": 5.965,
+    "word": "dantel",
+    "probability": 0.9556042827662379
+  },
+  {
+    "start": 5.965,
+    "end": 6.726,
+    "word": "yakalarla",
+    "probability": 0.99
+  },
+  {
+    "start": 6.726,
+    "end": 7.406,
+    "word": "giydirdi",
+    "probability": 0.9808264181847193
+  },
+  {
+    "start": 7.406,
+    "end": 8.067,
+    "word": "Sonra",
+    "probability": 0.99
+  },
+  {
+    "start": 8.067,
+    "end": 8.387,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 8.387,
+    "end": 8.768,
+    "word": "için",
+    "probability": 0.7897508050163353
+  },
+  {
+    "start": 8.768,
+    "end": 9.408,
+    "word": "eski",
+    "probability": 0.99
+  },
+  {
+    "start": 9.408,
+    "end": 9.648,
+    "word": "bir",
+    "probability": 0.9673347551418187
+  },
+  {
+    "start": 9.648,
+    "end": 10.489,
+    "word": "dolaptan",
+    "probability": 0.9774570324831532
+  },
+  {
+    "start": 10.489,
+    "end": 11.19,
+    "word": "sert",
+    "probability": 0.9849171762019511
+  },
+  {
+    "start": 11.19,
+    "end": 11.95,
+    "word": "süslü",
+    "probability": 0.9877944063483239
+  },
+  {
+    "start": 11.95,
+    "end": 12.871,
+    "word": "kıyafetler",
+    "probability": 0.983945892514217
+  },
+  {
+    "start": 12.871,
+    "end": 13.512,
+    "word": "çıkardı",
+    "probability": 0.99
+  }
+]

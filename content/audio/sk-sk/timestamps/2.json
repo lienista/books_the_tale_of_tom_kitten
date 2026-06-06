@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.761,
+    "word": "Jedného",
+    "probability": 0.9782068799141858
+  },
+  {
+    "start": 0.761,
+    "end": 1.222,
+    "word": "dňa",
+    "probability": 0.8878954114826464
+  },
+  {
+    "start": 1.222,
+    "end": 1.942,
+    "word": "ich",
+    "probability": 0.9826163505449644
+  },
+  {
+    "start": 1.942,
+    "end": 3.945,
+    "word": "matkapani",
+    "probability": 0.96744988396667
+  },
+  {
+    "start": 3.945,
+    "end": 4.946,
+    "word": "Tabitha",
+    "probability": 0.8847549807248165
+  },
+  {
+    "start": 4.946,
+    "end": 8.631,
+    "word": "Twitchitočakávala",
+    "probability": 0.955763703139285
+  },
+  {
+    "start": 8.631,
+    "end": 9.552,
+    "word": "priateľov",
+    "probability": 0.9414235765800554
+  },
+  {
+    "start": 9.552,
+    "end": 9.712,
+    "word": "na",
+    "probability": 0.9828123459647937
+  },
+  {
+    "start": 9.712,
+    "end": 10.153,
+    "word": "čaj",
+    "probability": 0.9542752313894205
+  },
+  {
+    "start": 10.153,
+    "end": 11.494,
+    "word": "Priviedla",
+    "probability": 0.9706799237774577
+  },
+  {
+    "start": 11.494,
+    "end": 12.335,
+    "word": "mačiatka",
+    "probability": 0.9689744630071208
+  },
+  {
+    "start": 12.335,
+    "end": 13.136,
+    "word": "dovnútra",
+    "probability": 0.9782336513574066
+  },
+  {
+    "start": 13.136,
+    "end": 14.138,
+    "word": "aby",
+    "probability": 0.99
+  },
+  {
+    "start": 14.138,
+    "end": 14.398,
+    "word": "ich",
+    "probability": 0.9876930637445666
+  },
+  {
+    "start": 14.398,
+    "end": 14.999,
+    "word": "umyla",
+    "probability": 0.9820827554105692
+  },
+  {
+    "start": 14.999,
+    "end": 15.479,
+    "word": "a",
+    "probability": 0.9829213880824504
+  },
+  {
+    "start": 15.479,
+    "end": 16.26,
+    "word": "obliekla",
+    "probability": 0.9736775016822751
+  },
+  {
+    "start": 16.26,
+    "end": 16.701,
+    "word": "pred",
+    "probability": 0.9314037154817298
+  },
+  {
+    "start": 16.701,
+    "end": 17.462,
+    "word": "príchodom",
+    "probability": 0.9585201009881354
+  },
+  {
+    "start": 17.462,
+    "end": 17.942,
+    "word": "hostí",
+    "probability": 0.9888869961099739
+  }
+]

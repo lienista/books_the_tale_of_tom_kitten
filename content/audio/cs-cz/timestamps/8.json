@@ -1,0 +1,260 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.3,
+    "word": "Když",
+    "probability": 0.99
+  },
+  {
+    "start": 0.3,
+    "end": 0.56,
+    "word": "byla",
+    "probability": 0.99
+  },
+  {
+    "start": 0.56,
+    "end": 0.861,
+    "word": "tři",
+    "probability": 0.9819100798950202
+  },
+  {
+    "start": 0.861,
+    "end": 1.541,
+    "word": "koťátka",
+    "probability": 0.99
+  },
+  {
+    "start": 1.541,
+    "end": 2.282,
+    "word": "připravena",
+    "probability": 0.99
+  },
+  {
+    "start": 2.282,
+    "end": 2.862,
+    "word": "paní",
+    "probability": 0.99
+  },
+  {
+    "start": 2.862,
+    "end": 3.403,
+    "word": "Tabitha",
+    "probability": 0.9467624371918
+  },
+  {
+    "start": 3.403,
+    "end": 4.003,
+    "word": "udělala",
+    "probability": 0.99
+  },
+  {
+    "start": 4.003,
+    "end": 4.424,
+    "word": "chybu",
+    "probability": 0.9609998738838149
+  },
+  {
+    "start": 4.424,
+    "end": 4.864,
+    "word": "a",
+    "probability": 0.9764962906538207
+  },
+  {
+    "start": 4.864,
+    "end": 5.364,
+    "word": "poslala",
+    "probability": 0.9835079552982433
+  },
+  {
+    "start": 5.364,
+    "end": 5.505,
+    "word": "je",
+    "probability": 0.9051662035772114
+  },
+  {
+    "start": 5.505,
+    "end": 5.705,
+    "word": "do",
+    "probability": 0.99
+  },
+  {
+    "start": 5.705,
+    "end": 6.265,
+    "word": "zahrady",
+    "probability": 0.99
+  },
+  {
+    "start": 6.265,
+    "end": 7.266,
+    "word": "zatímco",
+    "probability": 0.98552544216247
+  },
+  {
+    "start": 7.266,
+    "end": 8.127,
+    "word": "připravovala",
+    "probability": 0.99
+  },
+  {
+    "start": 8.127,
+    "end": 8.747,
+    "word": "horký",
+    "probability": 0.99
+  },
+  {
+    "start": 8.747,
+    "end": 9.268,
+    "word": "toast",
+    "probability": 0.9340466547206944
+  },
+  {
+    "start": 9.268,
+    "end": 9.408,
+    "word": "s",
+    "probability": 0.979283317480973
+  },
+  {
+    "start": 9.408,
+    "end": 10.108,
+    "word": "máslem",
+    "probability": 0.9768587961166231
+  },
+  {
+    "start": 10.108,
+    "end": 10.989,
+    "word": "Teď",
+    "probability": 0.9857288843068237
+  },
+  {
+    "start": 10.989,
+    "end": 11.129,
+    "word": "si",
+    "probability": 0.99
+  },
+  {
+    "start": 11.129,
+    "end": 11.75,
+    "word": "udržujte",
+    "probability": 0.99
+  },
+  {
+    "start": 11.75,
+    "end": 12.41,
+    "word": "oblečení",
+    "probability": 0.989753965732461
+  },
+  {
+    "start": 12.41,
+    "end": 12.951,
+    "word": "čisté",
+    "probability": 0.99
+  },
+  {
+    "start": 12.951,
+    "end": 13.451,
+    "word": "děti",
+    "probability": 0.99
+  },
+  {
+    "start": 13.451,
+    "end": 14.132,
+    "word": "Choďte",
+    "probability": 0.959323126597435
+  },
+  {
+    "start": 14.132,
+    "end": 14.312,
+    "word": "po",
+    "probability": 0.9539976084349507
+  },
+  {
+    "start": 14.312,
+    "end": 14.812,
+    "word": "zadních",
+    "probability": 0.9562838266598612
+  },
+  {
+    "start": 14.812,
+    "end": 15.433,
+    "word": "nohách",
+    "probability": 0.9686898688239247
+  },
+  {
+    "start": 15.433,
+    "end": 16.113,
+    "word": "Držte",
+    "probability": 0.9819777378393191
+  },
+  {
+    "start": 16.113,
+    "end": 16.313,
+    "word": "se",
+    "probability": 0.9794575591382417
+  },
+  {
+    "start": 16.313,
+    "end": 16.694,
+    "word": "dál",
+    "probability": 0.99
+  },
+  {
+    "start": 16.694,
+    "end": 16.914,
+    "word": "od",
+    "probability": 0.9641624887734216
+  },
+  {
+    "start": 16.914,
+    "end": 17.595,
+    "word": "bahnitého",
+    "probability": 0.979887614819022
+  },
+  {
+    "start": 17.595,
+    "end": 18.435,
+    "word": "popelníku",
+    "probability": 0.99
+  },
+  {
+    "start": 18.435,
+    "end": 19.156,
+    "word": "Sally",
+    "probability": 0.9427273221400299
+  },
+  {
+    "start": 19.156,
+    "end": 19.876,
+    "word": "HennyPenny",
+    "probability": 0.8583711141557514
+  },
+  {
+    "start": 19.876,
+    "end": 20.917,
+    "word": "prasečího",
+    "probability": 0.9875058700030139
+  },
+  {
+    "start": 20.917,
+    "end": 21.518,
+    "word": "chlívku",
+    "probability": 0.9862671150989918
+  },
+  {
+    "start": 21.518,
+    "end": 21.898,
+    "word": "a",
+    "probability": 0.99
+  },
+  {
+    "start": 21.898,
+    "end": 22.178,
+    "word": "těch",
+    "probability": 0.9647853587999894
+  },
+  {
+    "start": 22.178,
+    "end": 22.879,
+    "word": "PuddleDucks",
+    "probability": 0.8098030824634853
+  }
+]

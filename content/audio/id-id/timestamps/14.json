@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.4,
+    "word": "Mereka",
+    "probability": 0.964909927343782
+  },
+  {
+    "start": 0.4,
+    "end": 1.021,
+    "word": "berhenti",
+    "probability": 0.99
+  },
+  {
+    "start": 1.021,
+    "end": 1.841,
+    "word": "dan",
+    "probability": 0.99
+  },
+  {
+    "start": 1.841,
+    "end": 2.442,
+    "word": "berdiri",
+    "probability": 0.9841398210452534
+  },
+  {
+    "start": 2.442,
+    "end": 3.242,
+    "word": "berjajar",
+    "probability": 0.99
+  },
+  {
+    "start": 3.242,
+    "end": 4.623,
+    "word": "menatap",
+    "probability": 0.9768518318113636
+  },
+  {
+    "start": 4.623,
+    "end": 5.363,
+    "word": "anakanak",
+    "probability": 0.9695803818270287
+  },
+  {
+    "start": 5.363,
+    "end": 5.864,
+    "word": "kucing",
+    "probability": 0.99
+  },
+  {
+    "start": 5.864,
+    "end": 6.164,
+    "word": "itu",
+    "probability": 0.9773753421600997
+  },
+  {
+    "start": 6.164,
+    "end": 7.124,
+    "word": "dengan",
+    "probability": 0.99
+  },
+  {
+    "start": 7.124,
+    "end": 7.405,
+    "word": "mata",
+    "probability": 0.99
+  },
+  {
+    "start": 7.405,
+    "end": 7.925,
+    "word": "lebar",
+    "probability": 0.9745354917504231
+  },
+  {
+    "start": 7.925,
+    "end": 8.605,
+    "word": "yang",
+    "probability": 0.9491806175030367
+  },
+  {
+    "start": 8.605,
+    "end": 9.126,
+    "word": "terkejut",
+    "probability": 0.9663562824055589
+  }
+]

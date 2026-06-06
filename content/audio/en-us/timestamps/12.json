@@ -1,0 +1,194 @@
+[
+  {
+    "start": 0.341,
+    "end": 0.401,
+    "word": "He",
+    "probability": 0.6624084168759693
+  },
+  {
+    "start": 0.401,
+    "end": 0.521,
+    "word": "was",
+    "probability": 0.23949568513994632
+  },
+  {
+    "start": 0.521,
+    "end": 0.561,
+    "word": "a",
+    "probability": 0.026913588122178266
+  },
+  {
+    "start": 0.561,
+    "end": 0.782,
+    "word": "mess",
+    "probability": 0.47215695381995104
+  },
+  {
+    "start": 0.782,
+    "end": 1.002,
+    "word": "by",
+    "probability": 0.7843528960502307
+  },
+  {
+    "start": 1.002,
+    "end": 1.163,
+    "word": "the",
+    "probability": 0.5870672550953322
+  },
+  {
+    "start": 1.163,
+    "end": 1.444,
+    "word": "time",
+    "probability": 0.6862476572103208
+  },
+  {
+    "start": 1.444,
+    "end": 1.624,
+    "word": "he",
+    "probability": 0.7420617369357524
+  },
+  {
+    "start": 1.624,
+    "end": 2.065,
+    "word": "reached",
+    "probability": 0.5009353796361377
+  },
+  {
+    "start": 2.065,
+    "end": 2.205,
+    "word": "the",
+    "probability": 0.4269649467332896
+  },
+  {
+    "start": 2.205,
+    "end": 2.446,
+    "word": "top",
+    "probability": 0.7248686304183205
+  },
+  {
+    "start": 2.446,
+    "end": 2.546,
+    "word": "of",
+    "probability": 0.5954801095062109
+  },
+  {
+    "start": 2.546,
+    "end": 2.687,
+    "word": "the",
+    "probability": 0.2999519418825412
+  },
+  {
+    "start": 2.687,
+    "end": 2.987,
+    "word": "wall",
+    "probability": 0.6400660953217895
+  },
+  {
+    "start": 2.987,
+    "end": 3.89,
+    "word": "Moppet",
+    "probability": 0.8417513921737337
+  },
+  {
+    "start": 3.89,
+    "end": 4.13,
+    "word": "and",
+    "probability": 0.40573354484648405
+  },
+  {
+    "start": 4.13,
+    "end": 4.591,
+    "word": "Mittens",
+    "probability": 0.46723695154762607
+  },
+  {
+    "start": 4.591,
+    "end": 4.932,
+    "word": "tried",
+    "probability": 0.6500445527311313
+  },
+  {
+    "start": 4.932,
+    "end": 5.052,
+    "word": "to",
+    "probability": 0.5052187267018762
+  },
+  {
+    "start": 5.052,
+    "end": 5.253,
+    "word": "fix",
+    "probability": 0.6032093266998838
+  },
+  {
+    "start": 5.253,
+    "end": 5.473,
+    "word": "his",
+    "probability": 0.6341778536838779
+  },
+  {
+    "start": 5.473,
+    "end": 6.075,
+    "word": "clothes",
+    "probability": 0.6256747990486443
+  },
+  {
+    "start": 6.075,
+    "end": 6.436,
+    "word": "but",
+    "probability": 0.8327898715560861
+  },
+  {
+    "start": 6.436,
+    "end": 6.616,
+    "word": "his",
+    "probability": 0.3512476381930972
+  },
+  {
+    "start": 6.616,
+    "end": 6.937,
+    "word": "hat",
+    "probability": 0.6711158104517814
+  },
+  {
+    "start": 6.937,
+    "end": 7.238,
+    "word": "fell",
+    "probability": 0.7188268646848145
+  },
+  {
+    "start": 7.238,
+    "end": 7.559,
+    "word": "off",
+    "probability": 0.6824661811337689
+  },
+  {
+    "start": 7.559,
+    "end": 8.0,
+    "word": "and",
+    "probability": 0.8088053983257396
+  },
+  {
+    "start": 8.0,
+    "end": 8.22,
+    "word": "his",
+    "probability": 0.5611575421361348
+  },
+  {
+    "start": 8.22,
+    "end": 8.641,
+    "word": "last",
+    "probability": 0.7022042745509639
+  },
+  {
+    "start": 8.641,
+    "end": 9.062,
+    "word": "buttons",
+    "probability": 0.5733739923815376
+  },
+  {
+    "start": 9.062,
+    "end": 9.483,
+    "word": "snapped",
+    "probability": 0.6583531314197653
+  }
+]

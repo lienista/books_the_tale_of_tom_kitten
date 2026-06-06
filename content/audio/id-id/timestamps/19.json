@@ -1,0 +1,92 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.701,
+    "word": "Kemudian",
+    "probability": 0.9762826940247673
+  },
+  {
+    "start": 0.701,
+    "end": 1.022,
+    "word": "dia",
+    "probability": 0.9760590094304497
+  },
+  {
+    "start": 1.022,
+    "end": 2.204,
+    "word": "Jemima",
+    "probability": 0.9621481461325126
+  },
+  {
+    "start": 2.204,
+    "end": 2.805,
+    "word": "dan",
+    "probability": 0.9816940510059722
+  },
+  {
+    "start": 2.805,
+    "end": 3.387,
+    "word": "Rebeccah",
+    "probability": 0.9296947097729761
+  },
+  {
+    "start": 3.387,
+    "end": 4.188,
+    "word": "PuddleDuck",
+    "probability": 0.8530804041544402
+  },
+  {
+    "start": 4.188,
+    "end": 4.91,
+    "word": "berangkat",
+    "probability": 0.9879330812342503
+  },
+  {
+    "start": 4.91,
+    "end": 5.431,
+    "word": "menyusuri",
+    "probability": 0.9805607702479618
+  },
+  {
+    "start": 5.431,
+    "end": 5.932,
+    "word": "jalan",
+    "probability": 0.9881172258198581
+  },
+  {
+    "start": 5.932,
+    "end": 6.773,
+    "word": "menjaga",
+    "probability": 0.982956285460804
+  },
+  {
+    "start": 6.773,
+    "end": 7.194,
+    "word": "langkah",
+    "probability": 0.9346919648634074
+  },
+  {
+    "start": 7.194,
+    "end": 8.637,
+    "word": "merekapitpat",
+    "probability": 0.9170868876063264
+  },
+  {
+    "start": 8.637,
+    "end": 9.579,
+    "word": "paddlepat",
+    "probability": 0.8990710752405117
+  },
+  {
+    "start": 9.579,
+    "end": 10.46,
+    "word": "pitpat",
+    "probability": 0.9537769395463248
+  },
+  {
+    "start": 10.46,
+    "end": 11.282,
+    "word": "waddlepat",
+    "probability": 0.8804306195451534
+  }
+]

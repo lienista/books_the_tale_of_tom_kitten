@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.22,
+    "end": 0.34,
+    "word": "Then",
+    "probability": 0.4921931285659899
+  },
+  {
+    "start": 0.34,
+    "end": 0.921,
+    "word": "Tabitha",
+    "probability": 0.655161470824519
+  },
+  {
+    "start": 0.921,
+    "end": 1.382,
+    "word": "Twitchit",
+    "probability": 0.6015086267117019
+  },
+  {
+    "start": 1.382,
+    "end": 1.802,
+    "word": "came",
+    "probability": 0.7393654194462806
+  },
+  {
+    "start": 1.802,
+    "end": 2.082,
+    "word": "down",
+    "probability": 0.6590172002224726
+  },
+  {
+    "start": 2.082,
+    "end": 2.222,
+    "word": "to",
+    "probability": 0.6347863733398443
+  },
+  {
+    "start": 2.222,
+    "end": 2.383,
+    "word": "the",
+    "probability": 0.6091459846379115
+  },
+  {
+    "start": 2.383,
+    "end": 2.803,
+    "word": "garden",
+    "probability": 0.505396660871066
+  },
+  {
+    "start": 2.803,
+    "end": 3.204,
+    "word": "and",
+    "probability": 0.7875739054495754
+  },
+  {
+    "start": 3.204,
+    "end": 3.584,
+    "word": "found",
+    "probability": 0.6709400664283386
+  },
+  {
+    "start": 3.584,
+    "end": 3.804,
+    "word": "her",
+    "probability": 0.4564236144735563
+  },
+  {
+    "start": 3.804,
+    "end": 4.205,
+    "word": "kittens",
+    "probability": 0.636646993666335
+  },
+  {
+    "start": 4.205,
+    "end": 4.365,
+    "word": "on",
+    "probability": 0.6285429362393576
+  },
+  {
+    "start": 4.365,
+    "end": 4.525,
+    "word": "the",
+    "probability": 0.6009716007033828
+  },
+  {
+    "start": 4.525,
+    "end": 4.825,
+    "word": "wall",
+    "probability": 0.6015183788585011
+  },
+  {
+    "start": 4.825,
+    "end": 5.086,
+    "word": "with",
+    "probability": 0.7148732443550637
+  },
+  {
+    "start": 5.086,
+    "end": 5.406,
+    "word": "no",
+    "probability": 0.6916914842434774
+  },
+  {
+    "start": 5.406,
+    "end": 5.907,
+    "word": "clothes",
+    "probability": 0.5331142643917647
+  },
+  {
+    "start": 5.907,
+    "end": 5.947,
+    "word": "on",
+    "probability": 0.07600671248269861
+  }
+]

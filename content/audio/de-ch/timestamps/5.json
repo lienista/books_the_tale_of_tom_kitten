@@ -1,0 +1,110 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.361,
+    "word": "Dann",
+    "probability": 0.8943899328635314
+  },
+  {
+    "start": 0.361,
+    "end": 0.922,
+    "word": "kämmte",
+    "probability": 0.9395252259943699
+  },
+  {
+    "start": 0.922,
+    "end": 1.143,
+    "word": "sie",
+    "probability": 0.9791185264868036
+  },
+  {
+    "start": 1.143,
+    "end": 1.463,
+    "word": "ihre",
+    "probability": 0.9524436473030705
+  },
+  {
+    "start": 1.463,
+    "end": 2.145,
+    "word": "Schwänze",
+    "probability": 0.9786956619561854
+  },
+  {
+    "start": 2.145,
+    "end": 2.445,
+    "word": "und",
+    "probability": 0.99
+  },
+  {
+    "start": 2.445,
+    "end": 3.408,
+    "word": "Schnurrhaare",
+    "probability": 0.969556917359899
+  },
+  {
+    "start": 3.408,
+    "end": 3.989,
+    "word": "dies",
+    "probability": 0.9669427972812451
+  },
+  {
+    "start": 3.989,
+    "end": 4.249,
+    "word": "ist",
+    "probability": 0.870438207627659
+  },
+  {
+    "start": 4.249,
+    "end": 4.57,
+    "word": "Tom",
+    "probability": 0.9300444360293358
+  },
+  {
+    "start": 4.57,
+    "end": 5.151,
+    "word": "Kitten",
+    "probability": 0.9727952933400378
+  },
+  {
+    "start": 5.151,
+    "end": 6.174,
+    "word": "Tom",
+    "probability": 0.99
+  },
+  {
+    "start": 6.174,
+    "end": 6.835,
+    "word": "versuchte",
+    "probability": 0.9796371170893498
+  },
+  {
+    "start": 6.835,
+    "end": 7.457,
+    "word": "ständig",
+    "probability": 0.9877167769619919
+  },
+  {
+    "start": 7.457,
+    "end": 7.697,
+    "word": "den",
+    "probability": 0.9801039329117853
+  },
+  {
+    "start": 7.697,
+    "end": 8.098,
+    "word": "Kamm",
+    "probability": 0.9271544599219563
+  },
+  {
+    "start": 8.098,
+    "end": 8.278,
+    "word": "zu",
+    "probability": 0.9411033412749445
+  },
+  {
+    "start": 8.278,
+    "end": 8.86,
+    "word": "kratzen",
+    "probability": 0.9821162597118269
+  }
+]

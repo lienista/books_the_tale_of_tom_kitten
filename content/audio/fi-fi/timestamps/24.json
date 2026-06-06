@@ -1,0 +1,164 @@
+[
+  {
+    "start": 4.885,
+    "end": 5.025,
+    "word": "Sen",
+    "probability": 0.7142720071375089
+  },
+  {
+    "start": 5.025,
+    "end": 5.346,
+    "word": "sijaan",
+    "probability": 0.6090285134881144
+  },
+  {
+    "start": 5.346,
+    "end": 5.806,
+    "word": "yläkerrasta",
+    "probability": 0.4761483354438543
+  },
+  {
+    "start": 5.806,
+    "end": 6.046,
+    "word": "kuului",
+    "probability": 0.49997365315169606
+  },
+  {
+    "start": 6.046,
+    "end": 6.207,
+    "word": "hyvin",
+    "probability": 0.24999977857117398
+  },
+  {
+    "start": 6.207,
+    "end": 6.527,
+    "word": "kummallisia",
+    "probability": 0.2498379600760448
+  },
+  {
+    "start": 6.527,
+    "end": 6.727,
+    "word": "ääniä",
+    "probability": 0.4999589372828586
+  },
+  {
+    "start": 6.727,
+    "end": 7.027,
+    "word": "jotka",
+    "probability": 0.5997048403374677
+  },
+  {
+    "start": 7.027,
+    "end": 7.908,
+    "word": "pilasivat",
+    "probability": 0.7529417939347751
+  },
+  {
+    "start": 7.908,
+    "end": 8.369,
+    "word": "teekutsujen",
+    "probability": 0.5181179446186499
+  },
+  {
+    "start": 8.369,
+    "end": 8.869,
+    "word": "rauhallisen",
+    "probability": 0.5599999047471641
+  },
+  {
+    "start": 8.869,
+    "end": 9.23,
+    "word": "tunnelman",
+    "probability": 0.4979623654911998
+  },
+  {
+    "start": 9.23,
+    "end": 9.37,
+    "word": "Ja",
+    "probability": 0.5783371572220585
+  },
+  {
+    "start": 9.37,
+    "end": 9.71,
+    "word": "luulen",
+    "probability": 0.5294081259117046
+  },
+  {
+    "start": 9.71,
+    "end": 9.951,
+    "word": "että",
+    "probability": 0.6663158936741699
+  },
+  {
+    "start": 9.951,
+    "end": 10.151,
+    "word": "jonain",
+    "probability": 0.2976888614265314
+  },
+  {
+    "start": 10.151,
+    "end": 10.591,
+    "word": "päivänä",
+    "probability": 0.6427513524001447
+  },
+  {
+    "start": 10.591,
+    "end": 10.932,
+    "word": "minun",
+    "probability": 0.6607814251568286
+  },
+  {
+    "start": 10.932,
+    "end": 11.332,
+    "word": "täytyy",
+    "probability": 0.5482496685293846
+  },
+  {
+    "start": 11.332,
+    "end": 11.813,
+    "word": "kirjoittaa",
+    "probability": 0.5831232289272296
+  },
+  {
+    "start": 11.813,
+    "end": 12.253,
+    "word": "pidempi",
+    "probability": 0.6379744431227153
+  },
+  {
+    "start": 12.253,
+    "end": 12.533,
+    "word": "kirja",
+    "probability": 0.6367779517792123
+  },
+  {
+    "start": 12.533,
+    "end": 13.154,
+    "word": "kertoakseni",
+    "probability": 0.5824039513202136
+  },
+  {
+    "start": 13.154,
+    "end": 13.514,
+    "word": "teille",
+    "probability": 0.5836688636129482
+  },
+  {
+    "start": 13.514,
+    "end": 13.815,
+    "word": "lisää",
+    "probability": 0.6630063775483708
+  },
+  {
+    "start": 13.815,
+    "end": 14.055,
+    "word": "Tom",
+    "probability": 0.61710249173861
+  },
+  {
+    "start": 14.055,
+    "end": 14.556,
+    "word": "Kittenistä",
+    "probability": 0.6399315404697041
+  }
+]
