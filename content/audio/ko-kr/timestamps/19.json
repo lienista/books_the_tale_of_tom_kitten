@@ -1,77 +1,104 @@
 [
   {
+    "start": 0.02,
+    "end": 0.68,
     "word": "그러고",
-    "start": 0.4,
-    "end": 0.74
+    "probability": 0.99
   },
   {
+    "start": 0.68,
+    "end": 1.02,
     "word": "나서",
-    "start": 0.8,
-    "end": 1.081
+    "probability": 0.8855129082198684
   },
   {
+    "start": 1.02,
+    "end": 1.501,
     "word": "그와",
-    "start": 1.301,
-    "end": 1.541
+    "probability": 0.8993969225924415
   },
   {
-    "word": "제마이마,",
-    "start": 1.641,
-    "end": 2.281
+    "start": 1.501,
+    "end": 2.201,
+    "word": "제마이마",
+    "probability": 0.9124446474042547
   },
   {
+    "start": 2.201,
+    "end": 3.262,
     "word": "그리고",
-    "start": 2.961,
-    "end": 3.322
+    "probability": 0.9468825152287179
   },
   {
+    "start": 3.262,
+    "end": 4.142,
     "word": "Rebeccah",
-    "start": 3.502,
-    "end": 4.022
+    "probability": 0.8178745141777116
   },
   {
-    "word": "Puddle-Duck은...",
-    "start": 4.082,
-    "end": 4.842
+    "start": 4.142,
+    "end": 4.682,
+    "word": "Pudd",
+    "probability": 0.8503161181147666
   },
   {
+    "start": 4.682,
+    "end": 4.842,
+    "word": "leD",
+    "probability": 0.6249984353976458
+  },
+  {
+    "start": 4.842,
+    "end": 5.503,
+    "word": "uck은",
+    "probability": 0.8787672515356221
+  },
+  {
+    "start": 5.503,
+    "end": 5.583,
     "word": "발을",
-    "start": 5.202,
-    "end": 5.523
+    "probability": 0.5000000000003381
   },
   {
-    "word": "맞춰",
     "start": 5.583,
-    "end": 5.923
+    "end": 5.823,
+    "word": "맞춰",
+    "probability": 0.9164614775243143
   },
   {
+    "start": 5.823,
+    "end": 6.203,
     "word": "길을",
-    "start": 6.043,
-    "end": 6.283
+    "probability": 0.833017348995991
   },
   {
-    "word": "떠났답니다.",
-    "start": 6.343,
-    "end": 7.043
+    "start": 6.203,
+    "end": 6.963,
+    "word": "떠났답니다",
+    "probability": 0.8933464721520017
   },
   {
-    "word": "뒤뚱뒤뚱,",
-    "start": 7.564,
-    "end": 8.744
+    "start": 6.963,
+    "end": 8.764,
+    "word": "뒤뚱뒤뚱",
+    "probability": 0.8943764991349252
   },
   {
-    "word": "첨벙첨벙!",
-    "start": 8.984,
-    "end": 9.985
+    "start": 8.764,
+    "end": 9.805,
+    "word": "첨벙첨벙",
+    "probability": 0.8734189896644216
   },
   {
-    "word": "뒤뚱뒤뚱,",
-    "start": 10.345,
-    "end": 11.325
+    "start": 9.805,
+    "end": 11.305,
+    "word": "뒤뚱뒤뚱",
+    "probability": 0.9068972849201709
   },
   {
-    "word": "첨벙첨벙!",
-    "start": 11.445,
-    "end": 12.706
+    "start": 11.305,
+    "end": 12.026,
+    "word": "첨벙첨벙",
+    "probability": 0.8821005237209515
   }
 ]

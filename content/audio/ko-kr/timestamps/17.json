@@ -1,57 +1,80 @@
 [
   {
+    "start": 0.02,
+    "end": 0.901,
     "word": "드레이크",
-    "start": 0.481,
-    "end": 0.961
+    "probability": 0.9801698109939035
   },
   {
-    "word": "Puddle-Duck",
-    "start": 1.062,
-    "end": 1.582
+    "start": 0.901,
+    "end": 1.342,
+    "word": "Pudd",
+    "probability": 0.8135370094271778
   },
   {
-    "word": "씨는...",
-    "start": 1.643,
-    "end": 2.003
+    "start": 1.342,
+    "end": 1.663,
+    "word": "leD",
+    "probability": 0.8124246372897678
   },
   {
+    "start": 1.663,
+    "end": 1.983,
+    "word": "uck",
+    "probability": 0.75010093066522
+  },
+  {
+    "start": 1.983,
+    "end": 2.163,
+    "word": "씨는",
+    "probability": 0.6667422174180212
+  },
+  {
+    "start": 2.163,
+    "end": 2.744,
     "word": "옆으로",
-    "start": 2.384,
-    "end": 2.824
+    "probability": 0.9200602251447554
   },
   {
+    "start": 2.744,
+    "end": 3.425,
     "word": "느릿느릿",
-    "start": 2.925,
-    "end": 3.505
+    "probability": 0.8239593029048123
   },
   {
+    "start": 3.425,
+    "end": 4.267,
     "word": "뒤뚱거리며",
-    "start": 3.606,
-    "end": 4.367
+    "probability": 0.8883874618248425
   },
   {
+    "start": 4.267,
+    "end": 4.807,
     "word": "다가와",
-    "start": 4.427,
-    "end": 4.888
+    "probability": 0.9283966356779255
   },
   {
+    "start": 4.807,
+    "end": 5.809,
     "word": "흩어진",
-    "start": 5.428,
-    "end": 5.949
+    "probability": 0.9108687968697544
   },
   {
+    "start": 5.809,
+    "end": 6.59,
     "word": "옷가지들을",
-    "start": 6.029,
-    "end": 6.73
+    "probability": 0.8940310653558772
   },
   {
+    "start": 6.59,
+    "end": 6.991,
     "word": "집어",
-    "start": 6.811,
-    "end": 7.071
+    "probability": 0.8914436112295536
   },
   {
-    "word": "들었답니다.",
-    "start": 7.131,
-    "end": 8.353
+    "start": 6.991,
+    "end": 7.592,
+    "word": "들었답니다",
+    "probability": 0.9665096162964566
   }
 ]

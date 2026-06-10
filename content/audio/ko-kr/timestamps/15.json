@@ -1,77 +1,116 @@
 [
   {
+    "start": 0.02,
+    "end": 0.741,
     "word": "그러자",
-    "start": 0.461,
-    "end": 0.821
+    "probability": 0.99
   },
   {
+    "start": 0.741,
+    "end": 1.122,
     "word": "두",
-    "start": 1.062,
-    "end": 1.202
+    "probability": 0.7814959153770386
   },
   {
+    "start": 1.122,
+    "end": 1.643,
     "word": "암컷",
-    "start": 1.362,
-    "end": 1.803
+    "probability": 0.8398991212664951
   },
   {
+    "start": 1.643,
+    "end": 2.104,
     "word": "오리인",
-    "start": 1.863,
-    "end": 2.224
+    "probability": 0.9344111531197392
   },
   {
-    "word": "Rebeccah와",
-    "start": 2.424,
-    "end": 3.266
+    "start": 2.104,
+    "end": 2.585,
+    "word": "Rebe",
+    "probability": 0.8742377859864194
   },
   {
+    "start": 2.585,
+    "end": 3.326,
+    "word": "ccah",
+    "probability": 0.8739881802141096
+  },
+  {
+    "start": 3.326,
+    "end": 3.346,
+    "word": "와",
+    "probability": 0.01
+  },
+  {
+    "start": 3.346,
+    "end": 4.247,
     "word": "제마이마",
-    "start": 3.706,
-    "end": 4.308
+    "probability": 0.9254257661935984
   },
   {
-    "word": "Puddle-Duck이...",
-    "start": 4.448,
-    "end": 5.129
+    "start": 4.247,
+    "end": 4.508,
+    "word": "Pudd",
+    "probability": 0.768266565336301
   },
   {
+    "start": 4.508,
+    "end": 4.869,
+    "word": "leD",
+    "probability": 0.7789130387612405
+  },
+  {
+    "start": 4.869,
+    "end": 5.209,
+    "word": "uck이",
+    "probability": 0.7140768617765956
+  },
+  {
+    "start": 5.209,
+    "end": 5.99,
     "word": "모자와",
-    "start": 5.59,
-    "end": 6.031
+    "probability": 0.9710458516553095
   },
   {
+    "start": 5.99,
+    "end": 6.451,
     "word": "레이스",
-    "start": 6.151,
-    "end": 6.511
+    "probability": 0.8157578762621939
   },
   {
+    "start": 6.451,
+    "end": 6.872,
     "word": "칼라를",
-    "start": 6.571,
-    "end": 6.972
+    "probability": 0.9475578649011929
   },
   {
+    "start": 6.872,
+    "end": 7.193,
     "word": "집어",
-    "start": 7.032,
-    "end": 7.273
+    "probability": 0.8710863725612324
   },
   {
+    "start": 7.193,
+    "end": 7.473,
     "word": "들어",
-    "start": 7.333,
-    "end": 7.553
+    "probability": 0.99
   },
   {
+    "start": 7.473,
+    "end": 8.395,
     "word": "그것들을",
-    "start": 7.954,
-    "end": 8.515
+    "probability": 0.9491686265063596
   },
   {
+    "start": 8.395,
+    "end": 8.775,
     "word": "몸에",
-    "start": 8.595,
-    "end": 8.835
+    "probability": 0.842087301770514
   },
   {
-    "word": "걸쳤답니다.",
-    "start": 8.896,
-    "end": 10.118
+    "start": 8.775,
+    "end": 9.477,
+    "word": "걸쳤답니다",
+    "probability": 0.8732281844862267
   }
 ]

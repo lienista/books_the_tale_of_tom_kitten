@@ -1,67 +1,104 @@
 [
   {
+    "start": 0.02,
+    "end": 0.802,
     "word": "그리고",
-    "start": 0.541,
-    "end": 0.882
+    "probability": 0.9876078784061664
   },
   {
+    "start": 0.802,
+    "end": 1.663,
     "word": "드레이크",
-    "start": 1.223,
-    "end": 1.724
+    "probability": 0.8954133171008967
   },
   {
-    "word": "Puddle-Duck",
-    "start": 1.824,
-    "end": 2.445
+    "start": 1.663,
+    "end": 2.064,
+    "word": "Pudd",
+    "probability": 0.8409468133481023
   },
   {
+    "start": 2.064,
+    "end": 2.185,
+    "word": "leD",
+    "probability": 0.5714285718528852
+  },
+  {
+    "start": 2.185,
+    "end": 2.305,
+    "word": "uck",
+    "probability": 0.4999999605885166
+  },
+  {
+    "start": 2.305,
+    "end": 2.706,
     "word": "씨와",
-    "start": 2.505,
-    "end": 2.766
+    "probability": 0.8999651282619023
   },
   {
-    "word": "제마이마,",
-    "start": 2.906,
-    "end": 3.507
+    "start": 2.706,
+    "end": 3.427,
+    "word": "제마이마",
+    "probability": 0.9165723731887202
   },
   {
-    "word": "Rebeccah는...",
-    "start": 4.129,
-    "end": 4.93
+    "start": 3.427,
+    "end": 4.289,
+    "word": "Rebe",
+    "probability": 0.9128640612699841
   },
   {
+    "start": 4.289,
+    "end": 4.89,
+    "word": "ccah",
+    "probability": 0.8651185438284994
+  },
+  {
+    "start": 4.89,
+    "end": 4.91,
+    "word": "는",
+    "probability": 0.01
+  },
+  {
+    "start": 4.91,
+    "end": 5.652,
     "word": "그때",
-    "start": 5.331,
-    "end": 5.712
+    "probability": 0.9472427992841082
   },
   {
+    "start": 5.652,
+    "end": 6.133,
     "word": "이후로",
-    "start": 5.852,
-    "end": 6.213
+    "probability": 0.9161247494133447
   },
   {
+    "start": 6.133,
+    "end": 6.654,
     "word": "줄곧",
-    "start": 6.373,
-    "end": 6.814
+    "probability": 0.8818616465985593
   },
   {
+    "start": 6.654,
+    "end": 6.954,
     "word": "그",
-    "start": 6.894,
-    "end": 7.015
+    "probability": 0.8673083683110206
   },
   {
+    "start": 6.954,
+    "end": 7.415,
     "word": "옷들을",
-    "start": 7.135,
-    "end": 7.516
+    "probability": 0.9285955806512076
   },
   {
+    "start": 7.415,
+    "end": 7.796,
     "word": "찾고",
-    "start": 7.576,
-    "end": 7.836
+    "probability": 0.8420926419045592
   },
   {
-    "word": "있답니다.",
-    "start": 7.896,
-    "end": 9.059
+    "start": 7.796,
+    "end": 8.197,
+    "word": "있답니다",
+    "probability": 0.8499538861747828
   }
 ]
